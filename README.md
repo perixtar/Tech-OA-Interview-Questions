@@ -22,17 +22,13 @@
 
 ---
 
-<a id="how-it-works"></a>
-
 ## ⚙️ How it works
 
-Find a company, open a question, and practice it on [FastPrep](https://www.fastprep.io).
-
-<a id="coverage"></a>
+Search companies and practice on [FastPrep](https://www.fastprep.io).
 
 ## 📊 Coverage
 
-Browse 260+ companies below.
+Browse 260+ companies.
 
 <details>
 <summary><b>🏢 Full company list (261+) — click to expand</b></summary>
@@ -46,7 +42,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 
 ## 🛰️ Spotted a fresh OA?
 
-Share a company, question, and date via the [OA template](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/issues/new?template=oa-submission.yml) or [Discord](https://discord.gg/kSbWpSGUTH). Keep it source-safe; see [CONTRIBUTING.md](CONTRIBUTING.md).
+Share questions through the [OA template](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/issues/new?template=oa-submission.yml) or [Discord](https://discord.gg/kSbWpSGUTH). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
@@ -60,10 +56,10 @@ Share a company, question, and date via the [OA template](https://github.com/per
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,790)](formats/coding.md) · [SQL (14)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,790)](formats/coding.md) · [SQL (15)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
-<sub>Design and AI-coding rows sync from FastPrep's candidate-safe catalogs. <b>Updated</b> uses the latest sighting when available; <b>Unattributed</b> means no source-backed employer.</sub>
+<sub><b>Updated</b> is the latest sighting; <b>Unattributed</b> means no source-backed employer.</sub>
 
 [p]: assets/practice-button.svg
 
@@ -372,6 +368,7 @@ Share a company, question, and date via the [OA template](https://github.com/per
 | **Harvey / Nike, Inc.** | [Grounded Document-Vault Question Answering](https://www.fastprep.io/system-design/grounded-document-vault-question-answering) | System design | [![Practice][p]](https://www.fastprep.io/system-design/grounded-document-vault-question-answering) | 🆕 Aug 17, 2026 |
 | **Axon** | [Design a Nearest-Timestamp Device Status Service](https://www.fastprep.io/system-design/nearest-timestamp-device-status) | System design | [![Practice][p]](https://www.fastprep.io/system-design/nearest-timestamp-device-status) | 🆕 Aug 17, 2026 |
 | **Uber Freight** | [Design a Rolling Restaurant Analytics Dashboard](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard) | System design | [![Practice][p]](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard) | 🆕 Aug 17, 2026 |
+| **Capital One** | [Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week) | SQL | [![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week) | 🆕 Aug 17, 2026 |
 | **Airtable / Meta** | [Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine) | System design | [![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine) | 🆕 Aug 16, 2026 |
 | **Zoox / Uber** | [Design a Nearby Autonomous Vehicle Search Service](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search) | System design | [![Practice][p]](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search) | 🆕 Aug 16, 2026 |
 | **Amazon** | [Design a Multi-Branch Library Management System](https://www.fastprep.io/system-design/multi-branch-library-management) | System design | [![Practice][p]](https://www.fastprep.io/system-design/multi-branch-library-management) | 🆕 Aug 16, 2026 |
