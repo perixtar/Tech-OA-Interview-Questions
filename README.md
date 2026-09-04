@@ -24,11 +24,11 @@
 
 ## ⚙️ How it works
 
-Search companies and practice on [FastPrep](https://www.fastprep.io).
+Practice on [FastPrep](https://www.fastprep.io).
+
+<a id="coverage"></a>
 
 ## 📊 Coverage
-
-Browse 260+ companies.
 
 <details>
 <summary><b>🏢 Full company list (261+) — click to expand</b></summary>
@@ -59,7 +59,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 <sub><b>Formats:</b> [Coding (1,790)](formats/coding.md) · [SQL (15)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
-<sub><b>Updated</b> is the latest sighting; <b>Unattributed</b> means no source-backed employer.</sub>
+<sub><b>Updated</b>: latest sighting, else first public sync; <b>Unattributed</b>: no source-backed employer.</sub>
 
 [p]: assets/practice-button.svg
 
