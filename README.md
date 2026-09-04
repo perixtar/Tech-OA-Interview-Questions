@@ -8,7 +8,7 @@
 
 # 2026 & 2027 Tech OA & Interview Questions
 
-**A community-maintained question bank for 2026 & 2027 software engineering online assessments and technical interviews, covering coding, SQL, system design, object-oriented design (OOD), and AI coding.**
+**Community-maintained 2026–2027 software engineering OA and interview questions.**
 
 <br/>
 
@@ -18,8 +18,6 @@
 [![Companies](https://img.shields.io/badge/COMPANIES-160%2B-2962FF?style=for-the-badge)](#coverage)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN%20US-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSbWpSGUTH)
 
-<samp><a href="#how-it-works">how it works</a> · <a href="#coverage">coverage</a> · <a href="#question-bank">question bank</a> · <a href="#contribute">contribute</a></samp>
-
 </div>
 
 ---
@@ -28,13 +26,13 @@
 
 ## ⚙️ How it works
 
-Search the [question bank](#question-bank) by company, open a reconstructed question, and use `Practice` to solve it on [FastPrep](https://www.fastprep.io) with an editor and test cases. Watch the repository for new OA drops.
+Find a company, open a question, and practice it on [FastPrep](https://www.fastprep.io).
 
 <a id="coverage"></a>
 
 ## 📊 Coverage
 
-Browse 260+ represented companies in the expandable list and question bank below.
+Browse 260+ companies below.
 
 <details>
 <summary><b>🏢 Full company list (261+) — click to expand</b></summary>
@@ -48,7 +46,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 
 ## 🛰️ Spotted a fresh OA?
 
-Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/issues/new?template=oa-submission.yml) or [Discord](https://discord.gg/kSbWpSGUTH) to share the company, question, and date seen. Keep submissions source-safe: a short summary is enough; do not post confidential screenshots or full proprietary statements. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Share a company, question, and date via the [OA template](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/issues/new?template=oa-submission.yml) or [Discord](https://discord.gg/kSbWpSGUTH). Keep it source-safe; see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
@@ -62,10 +60,10 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,787)](formats/coding.md) · [SQL (14)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,790)](formats/coding.md) · [SQL (14)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
-<sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
+<sub>Design and AI-coding rows sync from FastPrep's candidate-safe catalogs. <b>Updated</b> uses the latest sighting when available; <b>Unattributed</b> means no source-backed employer.</sub>
 
 [p]: assets/practice-button.svg
 
@@ -692,6 +690,8 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 | **Amazon** | [Basic Calculator](https://www.fastprep.io/problems/amazon-basic-calculator) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-basic-calculator) | Jul 20, 2026 |
 | **Amazon** | [Distance Between Two Tree Nodes](https://www.fastprep.io/problems/amazon-distance-between-tree-nodes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-distance-between-tree-nodes) | Jul 20, 2026 |
 | **Capital One** | [Format a Newspaper Page](https://www.fastprep.io/problems/capital-one-format-newspaper-page) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-format-newspaper-page) | Jul 20, 2026 |
+| **Capital One** | [Compare Counts Around Pivot](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot) | Jul 20, 2026 |
+| **Capital One** | [Reconstruct Landmark Journey](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey) | Jul 20, 2026 |
 | **Akuna** | [Maximum K-Star Sum](https://www.fastprep.io/problems/akuna-maximum-k-star-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-k-star-sum) | Jul 20, 2026 |
 | **Microsoft** | [Maximum Pipeline Throughput](https://www.fastprep.io/problems/microsoft-maximum-pipeline-throughput) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-pipeline-throughput) | Jul 20, 2026 |
 | **Microsoft** | [Maximum Strong Team Subarray](https://www.fastprep.io/problems/microsoft-maximum-strong-team-subarray) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-strong-team-subarray) | Jul 20, 2026 |
@@ -915,6 +915,7 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 | **Goldman Sachs** | [Valid Binary Prefix](https://www.fastprep.io/problems/goldman-valid-binary-prefix) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-valid-binary-prefix) | Jun 29, 2026 |
 | **Expedia** | [Maximum Team Size](https://www.fastprep.io/problems/expedia-maximum-team-size) | Coding | [![Practice][p]](https://www.fastprep.io/problems/expedia-maximum-team-size) | Jun 29, 2026 |
 | **SeekOut** | [Merge Intervals](https://www.fastprep.io/problems/seekout-merge-intervals) | Coding | [![Practice][p]](https://www.fastprep.io/problems/seekout-merge-intervals) | Jun 27, 2026 |
+| **Capital One** | [Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery) | Jun 26, 2026 |
 | **Amazon** | [Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams) | Jun 25, 2026 |
 | **ByteDance** | [Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments) | Jun 25, 2026 |
 | **Amazon** | [Find Minimum Groups](https://www.fastprep.io/problems/amazon-find-minimum-groups) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-groups) | Jun 24, 2026 |
