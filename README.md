@@ -62,7 +62,7 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,785)](formats/coding.md) · [SQL (14)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,787)](formats/coding.md) · [SQL (14)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -189,6 +189,10 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 | **Wolverine Trading** | [Hedges Outperforming Their Trades](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades) | SQL | [![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades) | 🔥 Aug 30, 2026 |
 | **Rippling** | [Stateful Log Transform and Search](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search) | Coding | [![Practice][p]](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search) | 🔥 Aug 30, 2026 |
 | **Hadrian** | [Process Graph Rule Validation](https://www.fastprep.io/problems/hadrian-process-graph-rule-validation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hadrian-process-graph-rule-validation) | 🔥 Aug 30, 2026 |
+| **Capital One** | [Count Key Changes](https://www.fastprep.io/problems/capital-one-count-key-changes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-count-key-changes) | 🔥 Aug 30, 2026 |
+| **Capital One** | [Longest Common Prefix of Number Pairs](https://www.fastprep.io/problems/capital-one-longest-common-prefix-of-number-pairs) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-longest-common-prefix-of-number-pairs) | 🔥 Aug 30, 2026 |
+| **Capital One** | [Queue Check-in Simulation with Capacity Limit](https://www.fastprep.io/problems/capital-one-queue-check-in-simulation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-queue-check-in-simulation) | 🔥 Aug 30, 2026 |
+| **Capital One** | [Dynamic Wall Building and Range Query](https://www.fastprep.io/problems/capital-one-dynamic-wall-range-query) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-dynamic-wall-range-query) | 🔥 Aug 30, 2026 |
 | **Microsoft** | [Maximum String Operations](https://www.fastprep.io/problems/microsoft-maximum-string-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-string-operations) | 🔥 Aug 29, 2026 |
 | **Microsoft** | [Authentication System](https://www.fastprep.io/problems/microsoft-authentication-system) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-authentication-system) | 🔥 Aug 29, 2026 |
 | **Microsoft** | [K Most Recent Unique Request IDs](https://www.fastprep.io/problems/microsoft-k-most-recent-unique-request-ids) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-k-most-recent-unique-request-ids) | 🔥 Aug 29, 2026 |
@@ -993,8 +997,6 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 | **Upstart** | [Filter by Threshold and Return Name with Max Score](https://www.fastprep.io/problems/upstart-filter-threshold-max-score) | Coding | [![Practice][p]](https://www.fastprep.io/problems/upstart-filter-threshold-max-score) | May 11, 2026 |
 | **Whatnot** | [User Journey Paths](https://www.fastprep.io/problems/whatnot-user-journey-paths) | Coding | [![Practice][p]](https://www.fastprep.io/problems/whatnot-user-journey-paths) | May 11, 2026 |
 | **Anthropic** | [In-Memory Database with Backup and Restore](https://www.fastprep.io/problems/anthropic-in-memory-database-backup-restore) | Coding | [![Practice][p]](https://www.fastprep.io/problems/anthropic-in-memory-database-backup-restore) | May 10, 2026 |
-| **Capital One** | [Queue Check-in Simulation with Capacity Limit](https://www.fastprep.io/problems/capital-one-queue-check-in-simulation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-queue-check-in-simulation) | May 10, 2026 |
-| **Capital One** | [Dynamic Wall Building and Range Query](https://www.fastprep.io/problems/capital-one-dynamic-wall-range-query) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-dynamic-wall-range-query) | May 10, 2026 |
 | **Capital One** | [Cyclic Shift to Strictly Descending Array](https://www.fastprep.io/problems/capital-one-cyclic-shift-strictly-descending) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-cyclic-shift-strictly-descending) | May 10, 2026 |
 | **Stripe** | [Email Log Processing, Grouping, and Sorting](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting) | Coding | [![Practice][p]](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting) | May 10, 2026 |
 | **Circle** | [Task Management System](https://www.fastprep.io/problems/circle-task-management-system) | Coding | [![Practice][p]](https://www.fastprep.io/problems/circle-task-management-system) | May 10, 2026 |
