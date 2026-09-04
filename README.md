@@ -73,6 +73,8 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 | :-- | :-- | :-- | :-: | :-- |
 | **Microsoft** | [Maximum Decrypted Score](https://www.fastprep.io/problems/microsoft-maximum-decrypted-score) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-decrypted-score) | 🔥 Sep 04, 2026 |
 | **Microsoft** | [Minimum Team Size From Every Start](https://www.fastprep.io/problems/microsoft-minimum-team-size-from-every-start) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-team-size-from-every-start) | 🔥 Sep 04, 2026 |
+| **Google** | [Min Absolute Sum](https://www.fastprep.io/problems/google-min-absolute-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-min-absolute-sum) | 🔥 Sep 04, 2026 |
+| **Google** | [Split and Sort](https://www.fastprep.io/problems/google-split-and-sort) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-split-and-sort) | 🔥 Sep 04, 2026 |
 | **OnePay / Razorpay / infosys** | [Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system) | 🔥 Sep 03, 2026 |
 | **Cursor / Amazon** | [Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | System design | [![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | 🔥 Sep 03, 2026 |
 | **Roblox** | [Rate Limiter Sliding Window With Per-Entity Limits](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity) | Coding | [![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity) | 🔥 Sep 02, 2026 |
@@ -1442,7 +1444,6 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 | **Amazon** | [Find Min Time Required](https://www.fastprep.io/problems/amazon-find-minimum-time-required) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-required) | Oct 30, 2024 |
 | **Amazon** | [Cleanup Dataset](https://www.fastprep.io/problems/amazon-cleanup-dataset) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-cleanup-dataset) | Oct 30, 2024 |
 | **Salesforce** | [Max Sum of Processed Time](https://www.fastprep.io/problems/salesforce-maximize-sum-of-processed-times) | Coding | [![Practice][p]](https://www.fastprep.io/problems/salesforce-maximize-sum-of-processed-times) | Oct 30, 2024 |
-| **Google** | [Min Absolute Sum](https://www.fastprep.io/problems/google-min-absolute-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-min-absolute-sum) | Oct 30, 2024 |
 | **Google** | [Num of Ways to Split Array](https://www.fastprep.io/problems/google-find-number-of-ways-to-split-array) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-find-number-of-ways-to-split-array) | Oct 30, 2024 |
 | **DoorDash** | [Team Formation](https://www.fastprep.io/problems/doordash-team-formation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/doordash-team-formation) | Oct 30, 2024 |
 | **DoorDash** | [Get Final Price](https://www.fastprep.io/problems/doordash-get-final-price) | Coding | [![Practice][p]](https://www.fastprep.io/problems/doordash-get-final-price) | Oct 30, 2024 |
@@ -1893,7 +1894,6 @@ Use the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-Fas
 | **MathWorks** | [Find Min Possible Size](https://www.fastprep.io/problems/mathwork-find-minimum-possible-size) | Coding | [![Practice][p]](https://www.fastprep.io/problems/mathwork-find-minimum-possible-size) | Apr 10, 2024 |
 | **Amazon** | [Channel Max Quality](https://www.fastprep.io/problems/amazon-calculate-median-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-median-sum) | Apr 09, 2024 |
 | **Amazon** | [Num of Idle Robots 🐳](https://www.fastprep.io/problems/1.amazon-num-idle-drives) | Coding | [![Practice][p]](https://www.fastprep.io/problems/1.amazon-num-idle-drives) | Apr 08, 2024 |
-| **Google** | [Split and Sort](https://www.fastprep.io/problems/google-split-and-sort) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-split-and-sort) | Apr 08, 2024 |
 | **Barclays** | [Mim Steps Required](https://www.fastprep.io/problems/barclay-minimum-steps-required) | Coding | [![Practice][p]](https://www.fastprep.io/problems/barclay-minimum-steps-required) | Apr 08, 2024 |
 | **Confluent** | [Get Best Price](https://www.fastprep.io/problems/confluent-get-best-price) | Coding | [![Practice][p]](https://www.fastprep.io/problems/confluent-get-best-price) | Apr 08, 2024 |
 | **Amazon** | [Find Earliest Month](https://www.fastprep.io/problems/1.amazon-find-earliest-month) | Coding | [![Practice][p]](https://www.fastprep.io/problems/1.amazon-find-earliest-month) | Apr 07, 2024 |
