@@ -1,27 +1,6 @@
-<a id="readme-top"></a>
-
-<div align="center">
-
-<a href="https://www.fastprep.io">
-<img src="assets/fastprep-logo.png" width="88" alt="FastPrep" />
-</a>
-
 # 2026 & 2027 Tech OA & Interview Questions
 
 **Community-maintained 2026–2027 software engineering OA and interview questions.**
-
-<br/>
-
-[![Last update](https://img.shields.io/github/last-commit/perixtar/2026-Tech-OA-by-FastPrep/master?style=for-the-badge&label=LAST%20UPDATE&color=00C853)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/commits/master)
-[![GitHub stars](https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep?style=for-the-badge&logo=github&color=FFB300&label=STARS)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers)
-
-</div>
-
----
-
-## ⚙️ How it works
-
-Practice on [FastPrep](https://www.fastprep.io).
 
 <a id="coverage"></a>
 
@@ -53,7 +32,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,790)](formats/coding.md) · [SQL (16)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,790)](formats/coding.md) · [SQL (20)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting, else first public sync; <b>Unattributed</b>: no source-backed employer.</sub>
@@ -836,6 +815,10 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Omnissa** | [Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/omnissa-longest-substring-without-repeating-characters) | Coding | [![Practice][p]](https://www.fastprep.io/problems/omnissa-longest-substring-without-repeating-characters) | Jul 09, 2026 |
 | **Omnissa** | [Rotate Array Right](https://www.fastprep.io/problems/omnissa-rotate-array-right) | Coding | [![Practice][p]](https://www.fastprep.io/problems/omnissa-rotate-array-right) | Jul 09, 2026 |
 | **Spotnana** | [All OOne Operations](https://www.fastprep.io/problems/spotnana-all-oone-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/spotnana-all-oone-operations) | Jul 09, 2026 |
+| **Capital One** | [Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary) | SQL | [![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary) | Jul 09, 2026 |
+| **Capital One** | [Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features) | SQL | [![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features) | Jul 09, 2026 |
+| **Capital One** | [Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data) | SQL | [![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data) | Jul 09, 2026 |
+| **Capital One** | [Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes) | SQL | [![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes) | Jul 09, 2026 |
 | **Rupeek** | [Trapping Rain Water](https://www.fastprep.io/problems/rupeek-trapping-rain-water) | Coding | [![Practice][p]](https://www.fastprep.io/problems/rupeek-trapping-rain-water) | Jul 08, 2026 |
 | **OpenAI** | [DSA Round: Maximum Score Grid Path](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path) | Coding | [![Practice][p]](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path) | Jul 08, 2026 |
 | **Amazon** | [Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-closest-version-date) | Jul 08, 2026 |
@@ -2219,17 +2202,3 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Postman** | [Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces) | Coding | [![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces) | Sep 26, 2019 |
 | **Postman** | [Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating) | Coding | [![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating) | Aug 30, 2019 |
 <a id="bottom"></a>
-
----
-
-<div align="center">
-
-### 🧡 Aloha~ thank you for walking this path with us.
-
-<samp><a href="#readme-top">⬆ back to top</a> · <a href="#contribute">contribute</a> · <a href="https://discord.gg/kSbWpSGUTH">discord</a></samp>
-
-<br/>
-
-Maintained with 🍊 by <a href="https://www.fastprep.io"><b>FastPrep</b></a> — powered by candidates like you.
-
-</div>
