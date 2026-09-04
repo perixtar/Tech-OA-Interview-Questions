@@ -14,9 +14,6 @@
 
 [![Last update](https://img.shields.io/github/last-commit/perixtar/2026-Tech-OA-by-FastPrep/master?style=for-the-badge&label=LAST%20UPDATE&color=00C853)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep?style=for-the-badge&logo=github&color=FFB300&label=STARS)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers)
-[![Question bank](https://img.shields.io/badge/QUESTION%20BANK-1%2C600%2B-FF6D00?style=for-the-badge)](https://www.fastprep.io)
-[![Companies](https://img.shields.io/badge/COMPANIES-160%2B-2962FF?style=for-the-badge)](#coverage)
-[![Discord](https://img.shields.io/badge/DISCORD-JOIN%20US-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSbWpSGUTH)
 
 </div>
 
@@ -56,7 +53,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,790)](formats/coding.md) · [SQL (15)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,790)](formats/coding.md) · [SQL (16)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting, else first public sync; <b>Unattributed</b>: no source-backed employer.</sub>
@@ -418,6 +415,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Databricks** | [Design an LLM Content Safety Service](https://www.fastprep.io/system-design/llm-content-safety-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/llm-content-safety-service) | 🆕 Aug 11, 2026 |
 | **Postman / Uber Freight** | [Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | 🆕 Aug 11, 2026 |
 | **Microsoft** | [Design a Library Circulation System](https://www.fastprep.io/low-level-design/library-circulation-management) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/library-circulation-management) | 🆕 Aug 11, 2026 |
+| **Capital One** | [Highest-Spend Advertisement](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement) | SQL | [![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement) | 🆕 Aug 11, 2026 |
 | **Amazon / Oracle** | [Design a Netflix-Style Streaming Platform](https://www.fastprep.io/system-design/netflix-streaming-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/netflix-streaming-platform) | 🆕 Aug 10, 2026 |
 | **Uber** | [Design a Driver Review Leaderboard](https://www.fastprep.io/system-design/driver-review-leaderboard) | System design | [![Practice][p]](https://www.fastprep.io/system-design/driver-review-leaderboard) | 🆕 Aug 10, 2026 |
 | **Oracle** | [Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service) | 🆕 Aug 10, 2026 |
