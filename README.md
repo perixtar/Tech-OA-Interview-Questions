@@ -32,7 +32,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,796)](formats/coding.md) · [SQL (20)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,799)](formats/coding.md) · [SQL (20)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting, else first public sync; <b>Unattributed</b>: no source-backed employer.</sub>
@@ -1234,6 +1234,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **PayPay** |[Calculate Change](https://www.fastprep.io/problems/paypay-calculate-change)| Coding |[![Practice][p]](https://www.fastprep.io/problems/paypay-calculate-change)| Jun 18, 2025 |
 | **PayPay** |[Find Maximum Two-Digit Fragment](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment)| Coding |[![Practice][p]](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment)| Jun 18, 2025 |
 | **Amazon** |[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)| Jun 12, 2025 |
+| **Fivetran** | [Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet) | Coding | [![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet) | Jun 12, 2025 |
 | **Postman** | [Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | Jun 07, 2025 |
 | **Postman** | [Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | Jun 07, 2025 |
 | **Amazon** |[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)| May 31, 2025 |
@@ -1835,6 +1836,8 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Microsoft** |[Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper)| Coding |[![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper)| Jun 15, 2024 |
 | **Microsoft** |[Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters)| Coding |[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters)| Jun 15, 2024 |
 | **Microsoft** |[Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells)| Coding |[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells)| Jun 15, 2024 |
+| **Fivetran** | [Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs) | Coding | [![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs) | Jun 13, 2024 |
+| **Fivetran** | [Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups) | Coding | [![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups) | Jun 13, 2024 |
 | **Anduril** | [Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline) | System design | [![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline) | Jun 11, 2024 |
 | **Amazon** |[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)| Jun 10, 2024 |
 | **Amazon** |[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)| Jun 10, 2024 |

@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**60 questions**
+**61 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **The Walt Disney Company** | [Design an Authentication Session Lifecycle](https://www.fastprep.io/low-level-design/authentication-session-lifecycle) | [![Practice][p]](https://www.fastprep.io/low-level-design/authentication-session-lifecycle) | 🔥 Sep 04, 2026 |
 | **SentinelOne** | [Design a Thread-Safe Queryable Logger Library](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library) | [![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library) | 🔥 Sep 03, 2026 |
 | **SentinelOne** | [Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library) | [![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library) | 🔥 Sep 03, 2026 |
 | **Amazon** | [Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator) | [![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator) | 🔥 Sep 03, 2026 |
