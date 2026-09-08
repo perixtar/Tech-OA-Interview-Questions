@@ -42,6 +42,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 | **Stripe** | [Asynchronous Payment Event Processing](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing) | Coding | [![Practice][p]](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing) | 🔥 Sep 08, 2026 |
+| **Stripe** | [Financial Account Ledger](https://www.fastprep.io/problems/stripe-financial-account-ledger) | Coding | [![Practice][p]](https://www.fastprep.io/problems/stripe-financial-account-ledger) | 🔥 Sep 08, 2026 |
 | **Stripe** | [Subscription and Usage-Based Billing Calculator](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator) | Coding | [![Practice][p]](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator) | 🔥 Sep 06, 2026 |
 | **Capital One** | [Count Good Tuples](https://www.fastprep.io/problems/capital-one-count-good-tuples) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-count-good-tuples) | 🔥 Sep 06, 2026 |
 | **Capital One** | [Diagonal Robot Path Sum](https://www.fastprep.io/problems/capital-one-diagonal-robot-path-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-diagonal-robot-path-sum) | 🔥 Sep 06, 2026 |
