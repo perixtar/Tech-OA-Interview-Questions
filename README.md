@@ -32,7 +32,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,808)](formats/coding.md) · [SQL (20)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,808)](formats/coding.md) · [SQL (23)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting, else first public sync; <b>Unattributed</b>: no source-backed employer.</sub>
@@ -44,6 +44,19 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Two Sigma** |[Online No-Intercept Linear Regression](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)| Coding |[![Practice][p]](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)| 🔥 Sep 09, 2026 |
 | **Two Sigma** |[Linear Interpolator](https://www.fastprep.io/problems/two-sigma-linear-interpolator)| Coding |[![Practice][p]](https://www.fastprep.io/problems/two-sigma-linear-interpolator)| 🔥 Sep 09, 2026 |
 | **Two Sigma** |[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)| SQL |[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Debug the Tape Cleaner](https://www.fastprep.io/problems/millennium-debug-tape-cleaner)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-tape-cleaner)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Regression Hedge](https://www.fastprep.io/problems/millennium-regression-hedge)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-regression-hedge)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Client Markout Analysis](https://www.fastprep.io/problems/millennium-client-markout-analysis)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-client-markout-analysis)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Clean the Tape](https://www.fastprep.io/problems/millennium-clean-the-tape)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-clean-the-tape)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Measure Liquidity](https://www.fastprep.io/problems/millennium-measure-liquidity)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-measure-liquidity)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Debug Fair-Value Lookup](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Calculate the Half Spread](https://www.fastprep.io/problems/millennium-calculate-half-spread)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-calculate-half-spread)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Quote One Request](https://www.fastprep.io/problems/millennium-quote-one-request)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-quote-one-request)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Debug the Impact Model](https://www.fastprep.io/problems/millennium-debug-impact-model)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-impact-model)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Track the Book and Mark Final PnL](https://www.fastprep.io/problems/millennium-track-the-book)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-track-the-book)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Risk Limits and Inventory Skew](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Debug the Risk-Limit Quoter](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)| 🔥 Sep 09, 2026 |
+| **Millennium** |[Hedge Inventory with Return Covariance](https://www.fastprep.io/problems/millennium-hedge-inventory)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-hedge-inventory)| 🔥 Sep 09, 2026 |
 | **Stripe** |[Asynchronous Payment Event Processing](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)| Coding |[![Practice][p]](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)| 🔥 Sep 08, 2026 |
 | **Stripe** |[Financial Account Ledger](https://www.fastprep.io/problems/stripe-financial-account-ledger)| Coding |[![Practice][p]](https://www.fastprep.io/problems/stripe-financial-account-ledger)| 🔥 Sep 08, 2026 |
 | **Capital One** |[Count Good Tuples](https://www.fastprep.io/problems/capital-one-count-good-tuples)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-good-tuples)| 🔥 Sep 08, 2026 |
@@ -85,16 +98,6 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Amazon** |[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)| Low-level design |[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)| 🔥 Sep 03, 2026 |
 | **Amazon** |[Design a Return Drop-Store Booking System](https://www.fastprep.io/low-level-design/return-drop-store-booking)| Low-level design |[![Practice][p]](https://www.fastprep.io/low-level-design/return-drop-store-booking)| 🔥 Sep 03, 2026 |
 | **Roblox** |[Rate Limiter Sliding Window With Per-Entity Limits](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity)| Coding |[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Clean the Tape](https://www.fastprep.io/problems/millennium-clean-the-tape)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-clean-the-tape)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Measure Liquidity](https://www.fastprep.io/problems/millennium-measure-liquidity)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-measure-liquidity)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Debug Fair-Value Lookup](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Calculate the Half Spread](https://www.fastprep.io/problems/millennium-calculate-half-spread)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-calculate-half-spread)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Quote One Request](https://www.fastprep.io/problems/millennium-quote-one-request)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-quote-one-request)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Debug the Impact Model](https://www.fastprep.io/problems/millennium-debug-impact-model)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-impact-model)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Track the Book and Mark Final PnL](https://www.fastprep.io/problems/millennium-track-the-book)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-track-the-book)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Risk Limits and Inventory Skew](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Debug the Risk-Limit Quoter](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)| 🔥 Sep 02, 2026 |
-| **Millennium** |[Hedge Inventory with Return Covariance](https://www.fastprep.io/problems/millennium-hedge-inventory)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-hedge-inventory)| 🔥 Sep 02, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox / Salesforce** |[Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system)| System design |[![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system)| 🔥 Sep 02, 2026 |
 | **DoorDash** |[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)| AI coding |[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)| 🔥 Sep 02, 2026 |
 | **Amazon** |[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)| AI coding |[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)| 🔥 Sep 02, 2026 |
