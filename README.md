@@ -32,7 +32,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,806)](formats/coding.md) · [SQL (20)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,808)](formats/coding.md) · [SQL (20)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting, else first public sync; <b>Unattributed</b>: no source-backed employer.</sub>
@@ -41,6 +41,8 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Stripe** |[Asynchronous Payment Event Processing](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)| Coding |[![Practice][p]](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)| 🔥 Sep 08, 2026 |
+| **Stripe** |[Financial Account Ledger](https://www.fastprep.io/problems/stripe-financial-account-ledger)| Coding |[![Practice][p]](https://www.fastprep.io/problems/stripe-financial-account-ledger)| 🔥 Sep 08, 2026 |
 | **Stripe** |[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)| Coding |[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)| 🔥 Sep 07, 2026 |
 | **Stripe** |[Subscription and Usage-Based Billing Calculator](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)| Coding |[![Practice][p]](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)| 🔥 Sep 06, 2026 |
 | **Capital One** |[Count Good Tuples](https://www.fastprep.io/problems/capital-one-count-good-tuples)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-good-tuples)| 🔥 Sep 06, 2026 |
