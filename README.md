@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,849)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,850)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting or first sync · <b>Unattributed</b>: no employer evidence</sub>
@@ -74,6 +74,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Millennium**|[Debug the Risk-Limit Quoter](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)|🔥 Sep 09, 2026|
 |**Millennium**|[Hedge Inventory with Return Covariance](https://www.fastprep.io/problems/millennium-hedge-inventory)|SQL|[![Practice][p]](https://www.fastprep.io/problems/millennium-hedge-inventory)|🔥 Sep 09, 2026|
 |**Stripe**|[Deployment Window Scheduler](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|🔥 Sep 09, 2026|
+|**Walmart**|[Distinct Bitwise-OR Scores of Increasing Subsequences](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|🔥 Sep 09, 2026|
 |**Amazon**|[Meeting Rooms II](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|🔥 Sep 08, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 08, 2026|
 |**Nvidia**|[Check Endianness Of A Byte Array](https://www.fastprep.io/problems/nvidia-check-endianness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-check-endianness)|🔥 Sep 08, 2026|
