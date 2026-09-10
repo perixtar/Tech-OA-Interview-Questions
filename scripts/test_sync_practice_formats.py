@@ -2,6 +2,10 @@
 """Focused regression tests for practice-format synchronization."""
 
 import importlib.util
+import shutil
+import subprocess
+import sys
+import tempfile
 import unittest
 from collections import Counter
 from datetime import date
@@ -9,6 +13,7 @@ from pathlib import Path
 
 
 SCRIPT = Path(__file__).with_name("sync-practice-formats.py")
+FRESHNESS_SCRIPT = Path(__file__).with_name("refresh-freshness.py")
 SPEC = importlib.util.spec_from_file_location("sync_practice_formats", SCRIPT)
 assert SPEC and SPEC.loader
 sync = importlib.util.module_from_spec(SPEC)
@@ -309,6 +314,60 @@ class SyncPracticeFormatsTest(unittest.TestCase):
         self.assertIn("Amazon, Infosys, Nike&#44; Inc.", updated)
         self.assertNotIn("infosys", updated)
         self.assertEqual(sync.sync_company_list(updated, managed_rows), updated)
+
+    def test_refresh_freshness_accepts_spaced_and_compact_date_cells(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            scripts = root / "scripts"
+            scripts.mkdir()
+            copied_script = scripts / FRESHNESS_SCRIPT.name
+            shutil.copy2(FRESHNESS_SCRIPT, copied_script)
+            readme = root / "README.md"
+            readme.write_text(
+                "\n".join(
+                    [
+                        sync.TABLE_HEADER,
+                        sync.TABLE_DIVIDER,
+                        (
+                            "| **Example** | [Question](https://www.fastprep.io/problems/example) "
+                            "| Coding | [![Practice][p]](https://www.fastprep.io/problems/example) "
+                            "| Jan 02, 2020 |"
+                        ),
+                        (
+                            "|**Example**|[Older](https://www.fastprep.io/problems/older)|"
+                            "Coding|[![Practice][p]](https://www.fastprep.io/problems/older)|Jan 01, 2020|"
+                        ),
+                        sync.BOTTOM_ANCHOR,
+                        "",
+                    ]
+                ),
+                encoding="utf-8",
+            )
+
+            first = subprocess.run(
+                [sys.executable, str(copied_script)],
+                check=True,
+                capture_output=True,
+                text=True,
+            )
+            first_content = readme.read_text(encoding="utf-8")
+            second = subprocess.run(
+                [sys.executable, str(copied_script)],
+                check=True,
+                capture_output=True,
+                text=True,
+            )
+
+            self.assertIn(
+                "| **Example** | [Question](https://www.fastprep.io/problems/example) "
+                "| Coding | [![Practice][p]](https://www.fastprep.io/problems/example) "
+                "|Jan 02, 2020|",
+                first_content,
+            )
+            self.assertEqual(readme.read_text(encoding="utf-8"), first_content)
+            self.assertIn("refreshed markers on 1 row(s)", first.stdout)
+            self.assertIn("refreshed markers on 0 row(s)", second.stdout)
+            self.assertIn("reordered 0 row position(s)", second.stdout)
 
 
 if __name__ == "__main__":
