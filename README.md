@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,853)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,855)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting or first sync · <b>Unattributed</b>: no employer evidence</sub>
@@ -117,6 +117,8 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|🔥 Sep 08, 2026|
 |**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|🔥 Sep 08, 2026|
 |**TikTok**|[Build Blocks from a Starting Position](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|🔥 Sep 08, 2026|
+|**HSBC**|[Distinct Products After Removing One Element](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|🔥 Sep 08, 2026|
+|**HSBC**|[Minimum Cleaning Robot Runs](https://www.fastprep.io/problems/hsbc-minimum-cleaning-robot-runs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-cleaning-robot-runs)|🔥 Sep 08, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 07, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|🔥 Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|🔥 Sep 07, 2026|
