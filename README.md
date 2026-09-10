@@ -41,6 +41,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Amazon** |[Find Minimum Cost](https://www.fastprep.io/problems/amazon-find-minimum-cost)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-cost)| 🔥 Sep 09, 2026 |
 | **Two Sigma** |[Online No-Intercept Linear Regression](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)| Coding |[![Practice][p]](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)| 🔥 Sep 09, 2026 |
 | **Two Sigma** |[Linear Interpolator](https://www.fastprep.io/problems/two-sigma-linear-interpolator)| Coding |[![Practice][p]](https://www.fastprep.io/problems/two-sigma-linear-interpolator)| 🔥 Sep 09, 2026 |
 | **Two Sigma** |[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)| SQL |[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)| 🔥 Sep 09, 2026 |
@@ -57,6 +58,8 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Millennium** |[Risk Limits and Inventory Skew](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)| 🔥 Sep 09, 2026 |
 | **Millennium** |[Debug the Risk-Limit Quoter](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)| Coding |[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)| 🔥 Sep 09, 2026 |
 | **Millennium** |[Hedge Inventory with Return Covariance](https://www.fastprep.io/problems/millennium-hedge-inventory)| SQL |[![Practice][p]](https://www.fastprep.io/problems/millennium-hedge-inventory)| 🔥 Sep 09, 2026 |
+| **Amazon** |[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)| 🔥 Sep 08, 2026 |
+| **Amazon** |[Maximum System Memory Capacity](https://www.fastprep.io/problems/amazon-maximum-capacity)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-capacity)| 🔥 Sep 08, 2026 |
 | **Stripe** |[Asynchronous Payment Event Processing](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)| Coding |[![Practice][p]](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)| 🔥 Sep 08, 2026 |
 | **Stripe** |[Financial Account Ledger](https://www.fastprep.io/problems/stripe-financial-account-ledger)| Coding |[![Practice][p]](https://www.fastprep.io/problems/stripe-financial-account-ledger)| 🔥 Sep 08, 2026 |
 | **Capital One** |[Count Good Tuples](https://www.fastprep.io/problems/capital-one-count-good-tuples)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-good-tuples)| 🔥 Sep 08, 2026 |
@@ -69,7 +72,6 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Oracle** |[Top-K URLs Overall and in the Last 24 Hours](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)| Coding |[![Practice][p]](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)| 🔥 Sep 05, 2026 |
 | **Oracle** |[Maximum Subarray Sum with Length at Most K](https://www.fastprep.io/problems/oracle-maximum-subarray-sum-length-at-most-k)| Coding |[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-subarray-sum-length-at-most-k)| 🔥 Sep 05, 2026 |
 | **ByteDance** |[Least Recently Used Cache](https://www.fastprep.io/problems/bytedance-lru-cache)| Coding |[![Practice][p]](https://www.fastprep.io/problems/bytedance-lru-cache)| 🔥 Sep 05, 2026 |
-| **Amazon** |[Maximum System Memory Capacity](https://www.fastprep.io/problems/amazon-maximum-capacity)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-capacity)| 🔥 Sep 05, 2026 |
 | **Capital One** |[Count Digits 0, 2, and 4](https://www.fastprep.io/problems/capital-one-count-digits-0-2-4)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-digits-0-2-4)| 🔥 Sep 05, 2026 |
 | **Capital One** |[Inventory Discount Tracker](https://www.fastprep.io/problems/capital-one-inventory-discount-tracker)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-inventory-discount-tracker)| 🔥 Sep 05, 2026 |
 | **Capital One** |[Count Alternating Tile Groups](https://www.fastprep.io/problems/capital-one-count-alternating-tile-groups)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-alternating-tile-groups)| 🔥 Sep 05, 2026 |
@@ -231,7 +233,6 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Indeed** |[Redesign a Production Spam Classifier](https://www.fastprep.io/system-design/production-spam-classifier-redesign)| System design |[![Practice][p]](https://www.fastprep.io/system-design/production-spam-classifier-redesign)| 🔥 Aug 28, 2026 |
 | **IMC** |[Grid Paths with Override Passes](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)| Coding |[![Practice][p]](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)| 🔥 Aug 28, 2026 |
 | **Walmart** |[Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path)| Coding |[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path)| 🔥 Aug 27, 2026 |
-| **Amazon** |[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)| 🔥 Aug 27, 2026 |
 | **Amazon** |[Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values)| 🔥 Aug 27, 2026 |
 | **Microsoft** |[Roll the String](https://www.fastprep.io/problems/microsoft-roll-the-string)| Coding |[![Practice][p]](https://www.fastprep.io/problems/microsoft-roll-the-string)| 🔥 Aug 27, 2026 |
 | **Microsoft** |[Minimum Length Good Subarray](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)| Coding |[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)| 🔥 Aug 27, 2026 |
@@ -957,7 +958,6 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Amazon** |[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)| Jun 09, 2026 |
 | **Agoda** |[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)| Coding |[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)| Jun 08, 2026 |
 | **Amazon** |[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)| System design |[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)| Jun 05, 2026 |
-| **Amazon** |[Find Minimum Cost](https://www.fastprep.io/problems/amazon-find-minimum-cost)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-cost)| Jun 04, 2026 |
 | **JP Morgan** |[About Shipping](https://www.fastprep.io/problems/jpmorgan-about-shipping)| Coding |[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-about-shipping)| Jun 04, 2026 |
 | **Netflix** |[Topological Sort for Ads Tasks](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)| Coding |[![Practice][p]](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)| Jun 04, 2026 |
 | **Google** |[Consolidate On-Call Rotations](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)| Coding |[![Practice][p]](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)| Jun 02, 2026 |
