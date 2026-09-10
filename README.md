@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,849)](formats/coding.md) · [SQL (27)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,849)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting or first sync · <b>Unattributed</b>: no employer evidence</sub>
@@ -107,6 +107,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Capital One**|[Round-Robin WDL Order](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order)|🔥 Sep 08, 2026|
 |**IBM**|[Plus Mult Array](https://www.fastprep.io/problems/ibm-plus-mult-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-plus-mult-array)|🔥 Sep 08, 2026|
 |**IBM**|[Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount)|🔥 Sep 08, 2026|
+|**TikTok**|[Analyze Taxi Driver and Ride Metrics](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|SQL|[![Practice][p]](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|🔥 Sep 08, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 07, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|🔥 Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|🔥 Sep 07, 2026|
