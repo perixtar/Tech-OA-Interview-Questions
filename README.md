@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,814)](formats/coding.md) · [SQL (23)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,815)](formats/coding.md) · [SQL (23)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting or first sync · <b>Unattributed</b>: no employer evidence</sub>
@@ -32,6 +32,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Capital One** |[Sorted Extended Matrix Diagonals](https://www.fastprep.io/problems/capital-one-sorted-extended-matrix-diagonals)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-sorted-extended-matrix-diagonals)| 🔥 Sep 09, 2026 |
 | **Hudson River Trading** |[Product Minus Sum of Digits](https://www.fastprep.io/problems/hrt-product-minus-sum-of-digits)| Coding |[![Practice][p]](https://www.fastprep.io/problems/hrt-product-minus-sum-of-digits)| 🔥 Sep 09, 2026 |
 | **Hudson River Trading** |[Rightmost Longest Character Run](https://www.fastprep.io/problems/hrt-rightmost-longest-character-run)| Coding |[![Practice][p]](https://www.fastprep.io/problems/hrt-rightmost-longest-character-run)| 🔥 Sep 09, 2026 |
 | **Hudson River Trading** |[Sort Matrix Borders](https://www.fastprep.io/problems/hrt-sort-matrix-borders)| Coding |[![Practice][p]](https://www.fastprep.io/problems/hrt-sort-matrix-borders)| 🔥 Sep 09, 2026 |
