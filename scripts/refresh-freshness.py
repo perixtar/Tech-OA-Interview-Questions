@@ -48,7 +48,8 @@ MONTHS = {
     )
 }
 CELL = re.compile(
-    r"^(?P<head>\|.*\| )(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) (?P<day>\d{2}), (?P<year>\d{4}) \|$"
+    r"^(?P<head>\|.*\|)[ \t]*(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) "
+    r"(?P<day>\d{2}), (?P<year>\d{4})[ \t]*\|$"
 )
 
 today = date.today()
@@ -88,7 +89,7 @@ for i in range(header_index + 2, bottom_index):
         sys.exit(f"row {i + 1} has a future update date: {updated.isoformat()}")
     age = (today - updated).days
     mark = "🔥 " if age <= FIRE_DAYS else ("🆕 " if age <= NEW_DAYS else "")
-    new = f"{m['head']}{mark}{m['mon']} {m['day']}, {m['year']} |"
+    new = f"{m['head']}{mark}{m['mon']} {m['day']}, {m['year']}|"
     if new != line:
         lines[i] = new
         changed += 1
