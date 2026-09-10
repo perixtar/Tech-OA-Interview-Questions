@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,850)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,852)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub><b>Updated</b>: latest sighting or first sync · <b>Unattributed</b>: no employer evidence</sub>
@@ -111,6 +111,10 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**TikTok**|[Analyze Taxi Driver and Ride Metrics](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|SQL|[![Practice][p]](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|🔥 Sep 08, 2026|
 |**DRW**|[Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|🔥 Sep 08, 2026|
 |**DRW**|[Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|🔥 Sep 08, 2026|
+|**TikTok**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|🔥 Sep 08, 2026|
+|**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|🔥 Sep 08, 2026|
+|**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|🔥 Sep 08, 2026|
+|**TikTok**|[Build Blocks from a Starting Position](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|🔥 Sep 08, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 07, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|🔥 Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|🔥 Sep 07, 2026|
@@ -289,9 +293,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Maven Securities**|[Prime Factor Visitation](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation)|🆕 Aug 26, 2026|
 |**Maven Securities**|[Resource Allocation](https://www.fastprep.io/problems/maven-securities-resource-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-securities-resource-allocation)|🆕 Aug 26, 2026|
 |**TikTok**|[Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|🆕 Aug 26, 2026|
-|**TikTok**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|🆕 Aug 26, 2026|
 |**TikTok**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|🆕 Aug 26, 2026|
-|**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|🆕 Aug 26, 2026|
 |**Superhuman / Grammarly**|[Design an Ephemeral Messaging Service](https://www.fastprep.io/system-design/ephemeral-message-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ephemeral-message-delivery)|🆕 Aug 26, 2026|
 |**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|🆕 Aug 26, 2026|
 |**ByteDance**|[Match Consecutive Word Boundaries (for mle also :)](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|🆕 Aug 25, 2026|
