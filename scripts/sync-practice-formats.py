@@ -12,6 +12,8 @@ The coding application applies a backward-compatible default: a coding problem
 without ``practiceFormat`` is an algorithm problem. Legacy ``/problems/``
 routes that predate the public catalog use the same coding-route fallback;
 explicit catalog metadata always wins, including for SQL problems.
+Positive numeric aliases are login-protected and omitted from every public
+question-bank projection.
 
 Run after adding or updating question-bank rows:
 
@@ -64,6 +66,7 @@ FAVICON = re.compile(r"<img\s+[^>]*>\s*")
 UPDATED_CELL = re.compile(
     r"^(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) (?P<day>\d{2}), (?P<year>\d{4})$"
 )
+POSITIVE_NUMERIC_ALIAS = re.compile(r"^[1-9][0-9]*\.")
 
 FORMAT_LABELS = {
     "algorithm": "Coding",
@@ -328,8 +331,8 @@ def render_managed_row(
     title = markdown_text(row.title)
     updated_cell = format_updated_cell(updated, sync_date)
     return (
-        f"| {company_cell} | [{title}]({row.route_url}) | {row.label} | "
-        f"[![Practice][p]]({row.route_url}) | {updated_cell} |"
+        f"|{company_cell}|[{title}]({row.route_url})|{row.label}|"
+        f"[![Practice][p]]({row.route_url})|{updated_cell}|"
     )
 
 
@@ -378,8 +381,11 @@ def sync_readme(
         expected_parts = 7 if has_format_column else 6
         if len(parts) != expected_parts or parts[0] or parts[-1]:
             raise ValueError(f"row {line_index + 1} is malformed")
+        parts = [part.strip() for part in parts]
 
         route_url, route, namespace_label = row_route_and_namespace(parts[2])
+        if namespace_label == "Coding" and POSITIVE_NUMERIC_ALIAS.match(route):
+            continue
         existing_label = parts[3].strip() if has_format_column else None
         if existing_label is not None and existing_label not in KNOWN_LABELS:
             raise ValueError(
@@ -403,11 +409,11 @@ def sync_readme(
             if catalog_label is None and namespace_label == "Coding":
                 catalog_missing.append(route)
             label = catalog_label or namespace_label
-            parts[1] = f" {compact_company_cell(parts[1])} "
+            parts[1] = compact_company_cell(parts[1])
             if has_format_column:
-                parts[3] = f" {label} "
+                parts[3] = label
             else:
-                parts.insert(3, f" {label} ")
+                parts.insert(3, label)
             rendered = "|".join(parts)
 
         output_rows.append((parse_updated_cell(rendered.split("|")[-2]), rendered))
