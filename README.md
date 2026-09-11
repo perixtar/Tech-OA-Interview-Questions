@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,864)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,866)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,9 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🔥 Sep 10, 2026|
 |**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Sep 10, 2026|
 |**IBM**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|🔥 Sep 10, 2026|
+|**Akuna Capital**|[Items Sort](https://www.fastprep.io/problems/akuna-items-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|🔥 Sep 10, 2026|
+|**Akuna Capital**|[Two Sum](https://www.fastprep.io/problems/akuna-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-two-sum)|🔥 Sep 10, 2026|
+|**Akuna Capital**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/akuna-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-longest-substring-without-repeating-characters)|🔥 Sep 10, 2026|
 |**Get My Parking**|[Remove Duplicates From Sorted Array In Place](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|🔥 Sep 09, 2026|
 |**Infosys**|[Assign Cookies With Matching Parity](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|🔥 Sep 09, 2026|
 |**Infosys**|[Count Equal Code Pairs Within Distance K](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|🔥 Sep 09, 2026|
@@ -729,7 +732,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Akuna**|[Calculate Portfolio Rebalancing Deltas](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Jul 22, 2026|
 |**Akuna**|[Maximum Label Difference in a Connected Component](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Jul 22, 2026|
 |**Akuna**|[Minimize Malware Spread by Removing a Node](https://www.fastprep.io/problems/akuna-minimize-malware-spread)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimize-malware-spread)|Jul 22, 2026|
-|**Akuna**|[Sort Array by Frequency](https://www.fastprep.io/problems/akuna-items-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|Jul 22, 2026|
 |**TikTok**|[Count Access Code Pairs](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Jul 22, 2026|
 |**TikTok**|[Count Key Changes](https://www.fastprep.io/problems/tiktok-count-key-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-key-changes)|Jul 22, 2026|
 |**TikTok**|[Travel Distance on Scooters](https://www.fastprep.io/problems/tiktok-travel-distance-on-scooters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-travel-distance-on-scooters)|Jul 22, 2026|
