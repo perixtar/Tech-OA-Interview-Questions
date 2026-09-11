@@ -3,7 +3,7 @@
 <a id="coverage"></a>
 
 <details>
-<summary><b>🏢 Full company list (271+) — click to expand</b></summary>
+<summary><b>🏢 Full company list (272+) — click to expand</b></summary>
 
 Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Airwallex, Akuna, Akuna Capital, Alarm.com, Amazon, American Express, Amperity, Anduril, Anthropic, Apple, Applied Intuition, Arista Networks, Asana, Assort Health, Astrotalk, Atlassian, Attentive, Autodesk, Axon, Barclays, Baseten, Bilt Rewards, BitGo, Blackrock, Blinkit, Bloomberg, BNP, BNY Mellon, Boston Consulting Group, Box, Braze, Brex, ByteDance, Canva, Capillary Technologies, Capital One, Careem, Chicago Trading, Circle, Cisco, Citadel, ClearTax, Cloudflare, Codeium, Cognitiv, Cohere, Coinbase, Commvault, Confluent, Cresta, CrowdStrike, Crusoe, Cursor, Cvent, Databricks, Datadog, DE Shaw, Decagon, Deloitte, Deutsche Bank, DigitalOcean, Discord, Distyl AI, DoorDash, Dropbox, DRW, DTCC, Eat Club, eBay, Elastic, Epam, Epify, Ericsson, Expedia, FactSet, Figma, Fivetran, Flexport, Flipkart, FluidStack, Fortinet, Freshworks, GE Vernova, Geico, General Motors, Geneva Trading, GEP, Get My Parking, Giga, GitHub, Globalization Partners, Gojek, Goldman Sachs, Google, Grab, Grammarly, Grubhub, Guidewire, Gusto, HackerRank, Hadrian, Harness, Harvey, Headlands, Headway, HSBC, Hudson River Trading, Hyper Verge, IBM, IDFC, Illumio, IMC, Indeed, Infosys, Instacart, Intuit, IXL Learning, Jane Street, JP Morgan, JPMorgan Chase, Juspay, LinkedIn, Lyft, MathWorks, Matroid, Maven Securities, McKinsey, Meesho, Mercor, Mercury Insurance, Meta, Micro1, Microsoft, Millennium, Mintlify, MongoDB, Morgan Stanley, Moveworks, NatWest, Netflix, New Relic, Nextdoor, Nike&#44; Inc., Nubank, Nuro, Nutanix, Nvidia, Observer.AI, Odoo, Okta, Omnissa, OnePay, Onix, OpenAI, Opendoor, Optiver, Oracle, Oscar Health, Otter.ai, Oura, Palantir, Patreon, Paypal, PayPay, Perplexity AI, PhonePe, Pinterest, Plaid, Point72, Postman, Publicis Sapients, QRT, Quince, Quora, Ramp, Razorpay, Reddit, RedNote, Remitly, Replit, Retell AI, Revolut, Rippling, Rivian, Robinhood, Roblox, Roku, Rubrik, Rupeek, Rurik, Safe Security, Salesforce, Samsara, Samsung, Sarvam AI, SavantLabs, Scale AI, SeekOut, SentinelOne, ServiceNow, Shopify, Sierra, Sig, Skyscanner, Slack, Snap Inc., Snowflake, Sofi, SpaceX, Splunk, Spotify, Spotnana, Squarepoint, StackAdapt, Stripe, Superhuman, Susquehanna International Group, Swiggy, Target, TCS, Tekion, Temu, Tesla, The D. E. Shaw Group, The Walt Disney Company, ThoughtSpot, TikTok, Toast, Toshiba, Trade Desk, Trend Micro, Twilio, Twitch, Two Sigma, Uber, Uber Freight, Upstart, Vanta, Verkada, Visa, Walleye Capital, Walmart, Wayfair, Waymo, Wells Fargo, WeRide, Wex, Whatnot, Wolverine Trading, Workday, World Wide Technology, Xperi, YahoO, Yelp, ZipRecruiter, Zolando, ZoloStays, Zomato / Eternal, Zoom, Zoox, Zopsmart, Zorvyn, ZS, Zscaler.
 
@@ -18,15 +18,13 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 
 ## 🗂️ Question Bank
 
-<div align="right"><samp><a href="#bottom">⬇ jump to bottom</a></samp></div>
+[⬇ bottom](#bottom)
 
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,863)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,864)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (274)](formats/system-design.md) · [Low-level design (61)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
-
-<sub><b>Updated</b>: latest sighting or first sync · <b>Unattributed</b>: no employer evidence</sub>
 
 [p]: assets/practice-button.svg
 
@@ -34,6 +32,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 | :-- | :-- | :-- | :-: | :-- |
 |**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🔥 Sep 10, 2026|
 |**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Sep 10, 2026|
+|**IBM**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|🔥 Sep 10, 2026|
 |**Get My Parking**|[Remove Duplicates From Sorted Array In Place](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|🔥 Sep 09, 2026|
 |**Infosys**|[Assign Cookies With Matching Parity](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|🔥 Sep 09, 2026|
 |**Infosys**|[Count Equal Code Pairs Within Distance K](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|🔥 Sep 09, 2026|
