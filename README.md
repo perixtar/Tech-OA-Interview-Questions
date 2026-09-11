@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,805)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (294)](formats/system-design.md) · [Low-level design (76)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,805)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (296)](formats/system-design.md) · [Low-level design (76)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -156,6 +156,8 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Wex**|[Design a Threshold Logging and Alerting Model](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|🔥 Sep 08, 2026|
 |**Salesforce**|[Ludo Game Object Model](https://www.fastprep.io/low-level-design/ludo-game-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ludo-game-object-model)|🔥 Sep 08, 2026|
 |**Waymo**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🔥 Sep 08, 2026|
+|**OpenAI**|[Design an Offline-Capable IoT Log Platform](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|🔥 Sep 08, 2026|
+|**ByteDance**|[Design Observability for AI Agent Tool Calls](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|🔥 Sep 08, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 07, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|🔥 Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|🔥 Sep 07, 2026|

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**294 questions**
+**296 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -28,6 +28,8 @@
 |**Goldman Sachs**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|🔥 Sep 08, 2026|
 |**Uber**|[Design a Persistent Multi-Thread AI Chat](https://www.fastprep.io/system-design/persistent-multi-thread-ai-chat)|[![Practice][p]](https://www.fastprep.io/system-design/persistent-multi-thread-ai-chat)|🔥 Sep 08, 2026|
 |**Waymo**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🔥 Sep 08, 2026|
+|**OpenAI**|[Design an Offline-Capable IoT Log Platform](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|[![Practice][p]](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|🔥 Sep 08, 2026|
+|**ByteDance**|[Design Observability for AI Agent Tool Calls](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|[![Practice][p]](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|🔥 Sep 08, 2026|
 |**Nubank**|[Design Chargeback Ingestion and Eligible-Record Export](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|[![Practice][p]](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|🔥 Sep 07, 2026|
 |**OpenAI / Sprinter Health**|[Digital Game Distribution Platform](https://www.fastprep.io/system-design/digital-game-distribution-platform)|[![Practice][p]](https://www.fastprep.io/system-design/digital-game-distribution-platform)|🔥 Sep 06, 2026|
 |**Medallion**|[Design an Automated Achievement Certificate System](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|[![Practice][p]](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|🔥 Sep 06, 2026|
