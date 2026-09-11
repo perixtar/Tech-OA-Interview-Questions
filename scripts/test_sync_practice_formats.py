@@ -85,17 +85,27 @@ class SyncPracticeFormatsTest(unittest.TestCase):
             readme_row("legacy-coding-problem"), {}
         )
 
-        self.assertIn("| Coding |", updated)
-        self.assertNotIn("| Unknown |", updated)
+        self.assertIn("|Coding|", updated)
+        self.assertNotIn("|Unknown|", updated)
+        self.assertIn(
+            "|Example|[Question](https://www.fastprep.io/problems/legacy-coding-problem)|"
+            "Coding|[Practice](https://www.fastprep.io/problems/legacy-coding-problem)|"
+            "Jan 01, 2026|",
+            updated,
+        )
         self.assertEqual(counts, {"Coding": 1})
         self.assertEqual(catalog_missing, ["legacy-coding-problem"])
+        self.assertEqual(
+            sync.sync_readme(updated, {})[0],
+            updated,
+        )
 
     def test_catalog_format_overrides_coding_route_fallback(self) -> None:
         updated, counts, catalog_missing = sync.sync_readme(
             readme_row("sql-problem", "Coding"), {"sql-problem": "SQL"}
         )
 
-        self.assertIn("| SQL |", updated)
+        self.assertIn("|SQL|", updated)
         self.assertEqual(counts, {"SQL": 1})
         self.assertEqual(catalog_missing, [])
 
@@ -204,8 +214,8 @@ class SyncPracticeFormatsTest(unittest.TestCase):
             sync_date=date(2026, 7, 31),
         )
 
-        self.assertIn("| **Unattributed** |", updated)
-        self.assertIn("| 🔥 Jul 31, 2026 |", updated)
+        self.assertIn("|**Unattributed**|", updated)
+        self.assertIn("|🔥 Jul 31, 2026|", updated)
 
     def test_missing_sighting_date_preserves_the_first_sync_date(self) -> None:
         content = readme_row("general-design", "System design").replace(
@@ -233,7 +243,7 @@ class SyncPracticeFormatsTest(unittest.TestCase):
         )
 
         self.assertEqual(updated.count("/system-design/general-design"), 2)
-        self.assertIn("| Jan 01, 2026 |", updated)
+        self.assertIn("|Jan 01, 2026|", updated)
         self.assertEqual(counts["System design"], 1)
 
     def test_sync_compacts_favicons_to_keep_the_readme_renderable(self) -> None:
@@ -247,8 +257,70 @@ class SyncPracticeFormatsTest(unittest.TestCase):
 
         updated, _, _ = sync.sync_readme(content, {"coding-one": "Coding"})
 
-        self.assertIn("| **Example** |", updated)
+        self.assertIn("|**Example**|", updated)
         self.assertNotIn("<img", updated)
+
+    def test_sync_omits_protected_numeric_alias_rows(self) -> None:
+        content = "\n".join(
+            [
+                sync.TABLE_HEADER,
+                sync.TABLE_DIVIDER,
+                (
+                    "| **Example** | "
+                    "[Protected](https://www.fastprep.io/problems/1.protected) | "
+                    "Coding | "
+                    "[Practice](https://www.fastprep.io/problems/1.protected) | "
+                    "Jan 02, 2026 |"
+                ),
+                (
+                    "| **Example** | "
+                    "[Public](https://www.fastprep.io/problems/public.slug) | "
+                    "Coding | "
+                    "[Practice](https://www.fastprep.io/problems/public.slug) | "
+                    "Jan 01, 2026 |"
+                ),
+                sync.BOTTOM_ANCHOR,
+                "",
+            ]
+        )
+
+        updated, counts, catalog_missing = sync.sync_readme(
+            content,
+            {"1.protected": "Coding", "public.slug": "Coding"},
+        )
+
+        self.assertNotIn("1.protected", updated)
+        self.assertIn("/problems/public.slug", updated)
+        self.assertEqual(counts, {"Coding": 1})
+        self.assertEqual(catalog_missing, [])
+
+    def test_managed_rows_use_compact_rendering(self) -> None:
+        row = sync.build_managed_rows(
+            {
+                "system_design": [
+                    managed_item(
+                        "system_design",
+                        "design-feed",
+                        "Design a Feed",
+                        ["Meta"],
+                        ["2026-07-28"],
+                    )
+                ]
+            }
+        )["https://www.fastprep.io/system-design/design-feed"]
+
+        rendered = sync.render_managed_row(
+            row,
+            existing_date=None,
+            sync_date=date(2026, 7, 31),
+        )
+
+        self.assertEqual(
+            rendered,
+            "|**Meta**|[Design a Feed](https://www.fastprep.io/system-design/design-feed)|"
+            "System design|[![Practice][p]](https://www.fastprep.io/system-design/design-feed)|"
+            "🔥 Jul 28, 2026|",
+        )
 
     def test_managed_catalog_companies_are_added_to_company_list(self) -> None:
         content = "\n".join(
