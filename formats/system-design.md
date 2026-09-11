@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**296 questions**
+**299 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -27,6 +27,11 @@
 |**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🔥 Sep 09, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|🔥 Sep 09, 2026|
+|**Mercor / Salesforce / Nuro**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Sep 09, 2026|
+|**Netflix / FluidStack / DigitalOcean / Nuro**|[Design a Machine-Learning Job Scheduler](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|🔥 Sep 09, 2026|
+|**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|🔥 Sep 09, 2026|
+|**Nuro**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|🔥 Sep 09, 2026|
+|**Nuro**|[Design Petabyte-Scale Range Search for Large Rows](https://www.fastprep.io/system-design/large-row-range-query-search)|[![Practice][p]](https://www.fastprep.io/system-design/large-row-range-query-search)|🔥 Sep 09, 2026|
 |**Amazon / Airwallex / Apple / Wex**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🔥 Sep 08, 2026|
 |**Goldman Sachs**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|🔥 Sep 08, 2026|
 |**Uber**|[Design a Persistent Multi-Thread AI Chat](https://www.fastprep.io/system-design/persistent-multi-thread-ai-chat)|[![Practice][p]](https://www.fastprep.io/system-design/persistent-multi-thread-ai-chat)|🔥 Sep 08, 2026|
@@ -115,7 +120,6 @@
 |**LinkedIn**|[Design an Ads Bidding, Pacing, and Forecast Platform](https://www.fastprep.io/system-design/ads-bidding-pacing-forecast-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ads-bidding-pacing-forecast-platform)|🆕 Aug 24, 2026|
 |**Visa**|[Design an E-Commerce Top-Spender Query](https://www.fastprep.io/system-design/ecommerce-top-spender-query-design)|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-top-spender-query-design)|🆕 Aug 24, 2026|
 |**Amazon**|[Design an Online Coding Practice Platform](https://www.fastprep.io/system-design/online-coding-practice-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-coding-practice-platform)|🆕 Aug 24, 2026|
-|**Mercor / Salesforce**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🆕 Aug 23, 2026|
 |**Microsoft**|[Design a Multi-Tenant One-Time Password Service](https://www.fastprep.io/system-design/multitenant-one-time-password-service)|[![Practice][p]](https://www.fastprep.io/system-design/multitenant-one-time-password-service)|🆕 Aug 23, 2026|
 |**Salesforce**|[Design a Real-Time Direct Messaging System](https://www.fastprep.io/system-design/real-time-direct-messaging-system)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-direct-messaging-system)|🆕 Aug 23, 2026|
 |**Oracle**|[Design a Scheduled Fan-Out Delivery Platform](https://www.fastprep.io/system-design/scheduled-fanout-message-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-fanout-message-delivery)|🆕 Aug 23, 2026|
@@ -213,7 +217,6 @@
 |**Apple**|[Design an Online Voting Service](https://www.fastprep.io/system-design/online-voting-service)|[![Practice][p]](https://www.fastprep.io/system-design/online-voting-service)|🆕 Aug 01, 2026|
 |**Chicago Trading**|[Design a Pre-Trade Risk Checking System](https://www.fastprep.io/system-design/pre-trade-risk-checking-system)|[![Practice][p]](https://www.fastprep.io/system-design/pre-trade-risk-checking-system)|🆕 Jul 31, 2026|
 |**Plaid**|[Design an Embedded Pay-by-Bank Checkout](https://www.fastprep.io/system-design/embedded-pay-by-bank-checkout)|[![Practice][p]](https://www.fastprep.io/system-design/embedded-pay-by-bank-checkout)|🆕 Jul 31, 2026|
-|**Netflix / FluidStack / DigitalOcean**|[Design a Machine-Learning Job Scheduler](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|🆕 Jul 30, 2026|
 |**Pinterest / Amazon / Zoom / Goldman Sachs**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🆕 Jul 30, 2026|
 |**Databricks**|[Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system)|[![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system)|🆕 Jul 30, 2026|
 |**Opendoor**|[Map-Based Home Search Backend](https://www.fastprep.io/system-design/map-home-search-backend)|[![Practice][p]](https://www.fastprep.io/system-design/map-home-search-backend)|🆕 Jul 30, 2026|

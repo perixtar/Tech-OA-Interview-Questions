@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,805)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (296)](formats/system-design.md) · [Low-level design (76)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,805)](formats/coding.md) · [SQL (28)](formats/sql.md) · [System design (299)](formats/system-design.md) · [Low-level design (76)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -104,6 +104,11 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🔥 Sep 09, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|🔥 Sep 09, 2026|
+|**Mercor / Salesforce / Nuro**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Sep 09, 2026|
+|**Netflix / FluidStack / DigitalOcean / Nuro**|[Design a Machine-Learning Job Scheduler](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|🔥 Sep 09, 2026|
+|**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|🔥 Sep 09, 2026|
+|**Nuro**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|🔥 Sep 09, 2026|
+|**Nuro**|[Design Petabyte-Scale Range Search for Large Rows](https://www.fastprep.io/system-design/large-row-range-query-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-row-range-query-search)|🔥 Sep 09, 2026|
 |**Amazon**|[Meeting Rooms II](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|🔥 Sep 08, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 08, 2026|
 |**Nvidia**|[Check Endianness Of A Byte Array](https://www.fastprep.io/problems/nvidia-check-endianness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-check-endianness)|🔥 Sep 08, 2026|
@@ -392,7 +397,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Google**|[Assign Locker](https://www.fastprep.io/problems/google-assign-locker)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-assign-locker)|🆕 Aug 23, 2026|
 |**Microsoft**|[Minimum Fuel Cost Between Cities](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost)|🆕 Aug 23, 2026|
 |**Amazon / Goldman Sachs / Salesforce**|[Design an In-Memory Job Scheduler](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|🆕 Aug 23, 2026|
-|**Mercor / Salesforce**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🆕 Aug 23, 2026|
 |**Microsoft**|[Design a Multi-Tenant One-Time Password Service](https://www.fastprep.io/system-design/multitenant-one-time-password-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multitenant-one-time-password-service)|🆕 Aug 23, 2026|
 |**Salesforce**|[Design a Real-Time Direct Messaging System](https://www.fastprep.io/system-design/real-time-direct-messaging-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-direct-messaging-system)|🆕 Aug 23, 2026|
 |**Oracle**|[Design a Scheduled Fan-Out Delivery Platform](https://www.fastprep.io/system-design/scheduled-fanout-message-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-fanout-message-delivery)|🆕 Aug 23, 2026|
@@ -616,7 +620,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Databricks**|[Key-Value Store with Hit Counter](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter)|🆕 Jul 30, 2026|
 |**Oracle**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock)|🆕 Jul 30, 2026|
 |**IBM**|[String-Pair Frequency Similarity](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity)|🆕 Jul 30, 2026|
-|**Netflix / FluidStack / DigitalOcean**|[Design a Machine-Learning Job Scheduler](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|🆕 Jul 30, 2026|
 |**Pinterest / Amazon / Zoom / Goldman Sachs**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🆕 Jul 30, 2026|
 |**Databricks**|[Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system)|🆕 Jul 30, 2026|
 |**Opendoor**|[Map-Based Home Search Backend](https://www.fastprep.io/system-design/map-home-search-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/map-home-search-backend)|🆕 Jul 30, 2026|
