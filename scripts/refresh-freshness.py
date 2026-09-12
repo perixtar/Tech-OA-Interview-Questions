@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
-"""Sort and refresh the README question table.
+"""Refresh markers and stable newest-first ordering across question-bank pages.
 
 Rows updated within the last 14 days get a fire marker, within 45 days a new
-marker, older rows get none. Rows are kept newest-first by their Updated date.
-Run this whenever the table is regenerated or on a schedule so ordering and
-markers stay current:
-
-    python3 scripts/refresh-freshness.py
-    python3 scripts/sync-practice-formats.py
+marker, and older rows get none. The shared paginator keeps README.md and every
+continuation page below the repository's byte limits.
 """
 
 import re
@@ -15,22 +11,29 @@ import sys
 from datetime import date
 from pathlib import Path
 
-README = Path(__file__).resolve().parent.parent / "README.md"
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from question_bank_pages import (
+    BOTTOM_ANCHOR,
+    ROOT,
+    TABLE_HEADER,
+    load_question_bank,
+    render_question_bank_pages,
+    stale_generated_paths,
+    write_generated_pages,
+)
+
 FIRE_DAYS, NEW_DAYS = 14, 45
-TABLE_HEADER = "| Company | OA / Interview Question | Format | Practice | Updated |"
-TABLE_DIVIDER = "| :-- | :-- | :-- | :-: | :-- |"
-BOTTOM_ANCHOR = '<a id="bottom"></a>'
 PRACTICE_BUTTON = "[![Practice][p]]"
 PRACTICE_URL = re.compile(
     r"https://www\.fastprep\.io/"
     r"(?:problems|system-design|low-level-design|project-coding)/[^)\s]+"
 )
-# GitHub truncates rendered README input at 512,000 bytes. Keep enough margin
-# for routine table additions between maintenance passes.
-README_MAX_BYTES = 500_000
 MONTHS = {
-    m: i + 1
-    for i, m in enumerate(
+    month: index + 1
+    for index, month in enumerate(
         [
             "Jan",
             "Feb",
@@ -52,69 +55,104 @@ CELL = re.compile(
     r"(?P<day>\d{2}), (?P<year>\d{4})[ \t]*\|$"
 )
 
-today = date.today()
-changed = 0
-question_rows = []
-lines = README.read_text(encoding="utf-8").splitlines()
-try:
-    header_index = lines.index(TABLE_HEADER)
-except ValueError:
-    sys.exit("question table header not found")
-if header_index + 1 >= len(lines) or lines[header_index + 1] != TABLE_DIVIDER:
-    sys.exit("question table divider is missing or malformed")
-try:
-    bottom_index = lines.index(BOTTOM_ANCHOR, header_index + 2)
-except ValueError:
-    sys.exit("question table bottom anchor not found")
-if bottom_index == header_index + 2:
-    sys.exit("question table has no rows")
 
-for i in range(header_index + 2, bottom_index):
-    line = lines[i]
-    practice_urls = PRACTICE_URL.findall(line)
-    if (
-        line.count("|") != 6
-        or len(practice_urls) != 2
-        or line.count(PRACTICE_BUTTON) != 1
-    ):
-        sys.exit(f"row {i + 1} is malformed: {line[:120]}")
-    m = CELL.match(line)
-    if not m:
-        sys.exit(f"row {i + 1} does not match the expected format: {line[:120]}")
+def main() -> int:
     try:
-        updated = date(int(m["year"]), MONTHS[m["mon"]], int(m["day"]))
-    except ValueError as error:
-        sys.exit(f"row {i + 1} has an invalid update date: {error}")
-    if updated > today:
-        sys.exit(f"row {i + 1} has a future update date: {updated.isoformat()}")
-    age = (today - updated).days
-    mark = "🔥 " if age <= FIRE_DAYS else ("🆕 " if age <= NEW_DAYS else "")
-    new = f"{m['head']}{mark}{m['mon']} {m['day']}, {m['year']}|"
-    if new != line:
-        lines[i] = new
-        changed += 1
-    question_rows.append((i, updated, new))
+        source = load_question_bank(ROOT)
+        lines = source.logical_content().splitlines()
+        header_index = lines.index(TABLE_HEADER)
+        bottom_index = lines.index(BOTTOM_ANCHOR, header_index + 2)
+    except (OSError, ValueError) as error:
+        print(f"freshness refresh failed: {error}", file=sys.stderr)
+        return 2
 
-sorted_rows = sorted(question_rows, key=lambda row: row[1], reverse=True)
-target_indexes = [index for index, _, _ in question_rows]
-sorted_lines = [row for _, _, row in sorted_rows]
-moved = sum(
-    lines[target_index] != row
-    for target_index, row in zip(target_indexes, sorted_lines)
-)
-for target_index, row in zip(target_indexes, sorted_lines):
-    lines[target_index] = row
+    today = date.today()
+    changed = 0
+    question_rows: list[tuple[int, date, str]] = []
+    for ordinal, line_index in enumerate(
+        range(header_index + 2, bottom_index)
+    ):
+        line = lines[line_index]
+        practice_urls = PRACTICE_URL.findall(line)
+        if (
+            line.count("|") != 6
+            or len(practice_urls) != 2
+            or practice_urls[0] != practice_urls[1]
+            or line.count(PRACTICE_BUTTON) != 1
+        ):
+            print(
+                f"freshness refresh failed: row {line_index + 1} is malformed: "
+                f"{line[:120]}",
+                file=sys.stderr,
+            )
+            return 2
+        match = CELL.match(line)
+        if not match:
+            print(
+                f"freshness refresh failed: row {line_index + 1} does not match "
+                f"the expected format: {line[:120]}",
+                file=sys.stderr,
+            )
+            return 2
+        try:
+            updated = date(
+                int(match["year"]), MONTHS[match["mon"]], int(match["day"])
+            )
+        except ValueError as error:
+            print(
+                f"freshness refresh failed: row {line_index + 1} has an invalid "
+                f"update date: {error}",
+                file=sys.stderr,
+            )
+            return 2
+        if updated > today:
+            print(
+                f"freshness refresh failed: row {line_index + 1} has a future "
+                f"update date: {updated.isoformat()}",
+                file=sys.stderr,
+            )
+            return 2
+        age = (today - updated).days
+        marker = "🔥 " if age <= FIRE_DAYS else ("🆕 " if age <= NEW_DAYS else "")
+        refreshed = (
+            f"{match['head']}{marker}{match['mon']} {match['day']}, "
+            f"{match['year']}|"
+        )
+        if refreshed != line:
+            changed += 1
+        question_rows.append((ordinal, updated, refreshed))
 
-content = "\n".join(lines) + "\n"
-readme_bytes = len(content.encode("utf-8"))
-if readme_bytes > README_MAX_BYTES:
-    sys.exit(
-        f"README is {readme_bytes:,} bytes; keep it at or below "
-        f"{README_MAX_BYTES:,} bytes to avoid GitHub's rendered README cutoff"
+    sorted_rows = sorted(
+        question_rows,
+        key=lambda row: (-row[1].toordinal(), row[0]),
     )
+    moved = sum(
+        original_ordinal != sorted_ordinal
+        for sorted_ordinal, (original_ordinal, _, _) in enumerate(sorted_rows)
+    )
+    lines[header_index + 2 : bottom_index] = [row for _, _, row in sorted_rows]
+    logical_content = "\n".join(lines) + "\n"
 
-README.write_text(content, encoding="utf-8")
-print(
-    f"refreshed markers on {changed} row(s); reordered {moved} row position(s); "
-    f"README is {readme_bytes:,} bytes"
-)
+    try:
+        expected_pages = render_question_bank_pages(logical_content, root=ROOT)
+        stale_pages = stale_generated_paths(expected_pages, source.paths)
+        write_generated_pages(expected_pages, source.paths)
+    except (OSError, ValueError) as error:
+        print(f"freshness refresh failed: {error}", file=sys.stderr)
+        return 2
+
+    sizes = [len(content.encode("utf-8")) for content in expected_pages.values()]
+    print(
+        f"refreshed markers on {changed} row(s); reordered {moved} row "
+        f"position(s); pages={len(expected_pages)}; largest={max(sizes):,} bytes"
+    )
+    if stale_pages:
+        print(
+            "updated question-bank pages: "
+            + ", ".join(str(path.relative_to(ROOT)) for path in stale_pages)
+        )
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
