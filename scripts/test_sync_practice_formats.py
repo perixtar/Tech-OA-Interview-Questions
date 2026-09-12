@@ -17,6 +17,7 @@ FRESHNESS_SCRIPT = Path(__file__).with_name("refresh-freshness.py")
 SPEC = importlib.util.spec_from_file_location("sync_practice_formats", SCRIPT)
 assert SPEC and SPEC.loader
 sync = importlib.util.module_from_spec(SPEC)
+sys.modules[SPEC.name] = sync
 SPEC.loader.exec_module(sync)
 
 
@@ -143,6 +144,47 @@ class SyncPracticeFormatsTest(unittest.TestCase):
             "| Company | OA / Interview Question | Practice | Updated |", coding
         )
         self.assertNotIn("| Format |", coding)
+
+    def test_format_pages_use_the_same_byte_bounded_pagination(self) -> None:
+        rows = []
+        for index in range(8):
+            route = f"coding-{index}"
+            url = f"https://www.fastprep.io/problems/{route}"
+            rows.append(
+                f"|**Example**|[{route}{'x' * 80}]({url})|Coding|"
+                f"[![Practice][p]]({url})|Jan 01, 2026|"
+            )
+        content = "\n".join(
+            [
+                sync.TABLE_HEADER,
+                sync.TABLE_DIVIDER,
+                *rows,
+                sync.BOTTOM_ANCHOR,
+                "",
+            ]
+        )
+
+        rendered = sync.render_format_pages(
+            content,
+            Counter({"Coding": len(rows)}),
+            target_bytes=700,
+            hard_limit_bytes=1_500,
+        )
+
+        self.assertGreater(len(rendered), 1)
+        self.assertEqual(
+            list(rendered),
+            [
+                sync.FORMATS_DIR / "coding.md",
+                *[
+                    sync.FORMATS_DIR / f"coding-page-{number}.md"
+                    for number in range(2, len(rendered) + 1)
+                ],
+            ],
+        )
+        combined = "\n".join(rendered.values())
+        for route in [f"coding-{index}" for index in range(8)]:
+            self.assertEqual(combined.count(f"/problems/{route})"), 2)
 
     def test_managed_catalogs_add_design_and_ai_coding_rows(self) -> None:
         catalogs = {
@@ -394,6 +436,10 @@ class SyncPracticeFormatsTest(unittest.TestCase):
             scripts.mkdir()
             copied_script = scripts / FRESHNESS_SCRIPT.name
             shutil.copy2(FRESHNESS_SCRIPT, copied_script)
+            shutil.copy2(
+                FRESHNESS_SCRIPT.with_name("question_bank_pages.py"),
+                scripts / "question_bank_pages.py",
+            )
             readme = root / "README.md"
             readme.write_text(
                 "\n".join(
@@ -404,6 +450,10 @@ class SyncPracticeFormatsTest(unittest.TestCase):
                             "| **Example** | [Question](https://www.fastprep.io/problems/example) "
                             "| Coding | [![Practice][p]](https://www.fastprep.io/problems/example) "
                             "| Jan 02, 2020 |"
+                        ),
+                        (
+                            "|**Example**|[Same Date](https://www.fastprep.io/problems/same-date)|"
+                            "Coding|[![Practice][p]](https://www.fastprep.io/problems/same-date)|Jan 02, 2020|"
                         ),
                         (
                             "|**Example**|[Older](https://www.fastprep.io/problems/older)|"
@@ -435,6 +485,10 @@ class SyncPracticeFormatsTest(unittest.TestCase):
                 "| Coding | [![Practice][p]](https://www.fastprep.io/problems/example) "
                 "|Jan 02, 2020|",
                 first_content,
+            )
+            self.assertLess(
+                first_content.index("/problems/example)"),
+                first_content.index("/problems/same-date)"),
             )
             self.assertEqual(readme.read_text(encoding="utf-8"), first_content)
             self.assertIn("refreshed markers on 1 row(s)", first.stdout)

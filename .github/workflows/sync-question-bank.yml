@@ -19,6 +19,11 @@ jobs:
       - name: Check out the repository
         uses: actions/checkout@v6
 
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
       - name: Refresh dates and public catalogs
         run: |
           python3 scripts/refresh-freshness.py
@@ -26,19 +31,19 @@ jobs:
 
       - name: Verify generated output
         run: |
-          PYTHONDONTWRITEBYTECODE=1 python3 -m unittest scripts/test_sync_practice_formats.py
+          PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s scripts -p 'test_*.py'
           python3 scripts/sync-practice-formats.py --check
           git diff --check
 
       - name: Commit catalog changes
         shell: bash
         run: |
-          if git diff --quiet -- README.md formats; then
+          if git diff --quiet -- README.md question-bank formats; then
             echo "Question bank is already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md formats
+          git add README.md question-bank formats
           git commit -m "Sync FastPrep question bank"
           git push origin HEAD:master
