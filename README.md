@@ -119,6 +119,8 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Nuro**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|🔥 Sep 09, 2026|
 |**Nuro**|[Design Petabyte-Scale Range Search for Large Rows](https://www.fastprep.io/system-design/large-row-range-query-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-row-range-query-search)|🔥 Sep 09, 2026|
 |**Verkada**|[Build SQLite-Backed GET and POST Endpoints](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|🔥 Sep 09, 2026|
+|**Google**|[Min Ab Difference of Server Loads](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|🔥 Sep 09, 2026|
+|**Google**|[Decreasing Subsequences](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|🔥 Sep 09, 2026|
 |**Amazon**|[Meeting Rooms II](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|🔥 Sep 08, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 08, 2026|
 |**Nvidia**|[Check Endianness Of A Byte Array](https://www.fastprep.io/problems/nvidia-check-endianness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-check-endianness)|🔥 Sep 08, 2026|
@@ -1782,6 +1784,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Rubrik**|[Maximize Happiness](https://www.fastprep.io/problems/rubrik-maximize-happiness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-maximize-happiness)|Aug 23, 2024|
 |**MathWorks**|[Make Arrays Equal](https://www.fastprep.io/problems/mathwork-make-arrays-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-make-arrays-equal)|Aug 23, 2024|
 |**Trend Micro**|[Counting Game](https://www.fastprep.io/problems/trendmicro-counting-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-counting-game)|Aug 23, 2024|
-|**Trend Micro**|[Find Sequences](https://www.fastprep.io/problems/trendmicro-find-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-find-sequences)|Aug 23, 2024|
-|**Cvent**|[Maximize Score](https://www.fastprep.io/problems/cvent-maximize-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cvent-maximize-score)|Aug 23, 2024|
 <a id="bottom"></a>

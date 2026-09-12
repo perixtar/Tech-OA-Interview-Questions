@@ -46,6 +46,8 @@
 |**Walmart**|[Distinct Bitwise-OR Scores of Increasing Subsequences](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|[![Practice][p]](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|🔥 Sep 09, 2026|
 |**Google**|[Maximum Coins With Moving Tokens](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|🔥 Sep 09, 2026|
 |**Google**|[Maximum Elements With a Common Digit](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|🔥 Sep 09, 2026|
+|**Google**|[Min Ab Difference of Server Loads](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|🔥 Sep 09, 2026|
+|**Google**|[Decreasing Subsequences](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|🔥 Sep 09, 2026|
 |**Amazon**|[Meeting Rooms II](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|🔥 Sep 08, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 08, 2026|
 |**Nvidia**|[Check Endianness Of A Byte Array](https://www.fastprep.io/problems/nvidia-check-endianness)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-check-endianness)|🔥 Sep 08, 2026|
@@ -1688,13 +1690,11 @@
 |**Google**|[Min Amplitude](https://www.fastprep.io/problems/google-min-amplitude)|[![Practice][p]](https://www.fastprep.io/problems/google-min-amplitude)|Feb 16, 2024|
 |**Google**|[Ways to Split a String](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Feb 16, 2024|
 |**Google**|[Maximum Time](https://www.fastprep.io/problems/google-maximum-time)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-time)|Feb 16, 2024|
-|**Google**|[Min Ab Difference of Server Loads](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|Feb 16, 2024|
 |**Google**|[Most Booked Hotel Room](https://www.fastprep.io/problems/google-most-booked-hotel-room)|[![Practice][p]](https://www.fastprep.io/problems/google-most-booked-hotel-room)|Feb 16, 2024|
 |**Google**|[Min Number of Chairs](https://www.fastprep.io/problems/google-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Feb 16, 2024|
 |**Google**|[Min Days to Bloom](https://www.fastprep.io/problems/google-min-days-bouquets)|[![Practice][p]](https://www.fastprep.io/problems/google-min-days-bouquets)|Feb 16, 2024|
 |**Google**|[Fill Matrix](https://www.fastprep.io/problems/google-fill-matrix)|[![Practice][p]](https://www.fastprep.io/problems/google-fill-matrix)|Feb 16, 2024|
 |**Google**|[Time to Type a String](https://www.fastprep.io/problems/google-single-row-keyboard)|[![Practice][p]](https://www.fastprep.io/problems/google-single-row-keyboard)|Feb 16, 2024|
-|**Google**|[Decreasing Subsequences](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|Feb 16, 2024|
 |**Google**|[Max Distance](https://www.fastprep.io/problems/google-pick-max-distance-pair)|[![Practice][p]](https://www.fastprep.io/problems/google-pick-max-distance-pair)|Feb 16, 2024|
 |**Google**|[Stores and Houses](https://www.fastprep.io/problems/google-find-closest-store)|[![Practice][p]](https://www.fastprep.io/problems/google-find-closest-store)|Feb 16, 2024|
 |**Google**|[Find Min Distance to Furthest Node (Google Tokyo)](https://www.fastprep.io/problems/google-find-min-distance-to-farthest-node)|[![Practice][p]](https://www.fastprep.io/problems/google-find-min-distance-to-farthest-node)|Feb 16, 2024|

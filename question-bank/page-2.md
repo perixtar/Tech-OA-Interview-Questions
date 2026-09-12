@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Trend Micro**|[Find Sequences](https://www.fastprep.io/problems/trendmicro-find-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-find-sequences)|Aug 23, 2024|
+|**Cvent**|[Maximize Score](https://www.fastprep.io/problems/cvent-maximize-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cvent-maximize-score)|Aug 23, 2024|
 |**Pinterest**|[Join Sources with Lagged Destination Timestamps](https://www.fastprep.io/problems/pinterest-timestamp-lag-source-join)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-timestamp-lag-source-join)|Aug 21, 2024|
 |**Pinterest**|[Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|Aug 21, 2024|
 |**Snowflake**|[Closest Squared Distance](https://www.fastprep.io/problems/snowflake-closest-squared-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-squared-distance)|Aug 20, 2024|
@@ -363,13 +365,11 @@
 |**Google**|[Min Amplitude](https://www.fastprep.io/problems/google-min-amplitude)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-min-amplitude)|Feb 16, 2024|
 |**Google**|[Ways to Split a String](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Feb 16, 2024|
 |**Google**|[Maximum Time](https://www.fastprep.io/problems/google-maximum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-time)|Feb 16, 2024|
-|**Google**|[Min Ab Difference of Server Loads](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|Feb 16, 2024|
 |**Google**|[Most Booked Hotel Room](https://www.fastprep.io/problems/google-most-booked-hotel-room)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-most-booked-hotel-room)|Feb 16, 2024|
 |**Google**|[Min Number of Chairs](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Feb 16, 2024|
 |**Google**|[Min Days to Bloom](https://www.fastprep.io/problems/google-min-days-bouquets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-min-days-bouquets)|Feb 16, 2024|
 |**Google**|[Fill Matrix](https://www.fastprep.io/problems/google-fill-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fill-matrix)|Feb 16, 2024|
 |**Google**|[Time to Type a String](https://www.fastprep.io/problems/google-single-row-keyboard)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-single-row-keyboard)|Feb 16, 2024|
-|**Google**|[Decreasing Subsequences](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|Feb 16, 2024|
 |**Google**|[Max Distance](https://www.fastprep.io/problems/google-pick-max-distance-pair)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-pick-max-distance-pair)|Feb 16, 2024|
 |**Google**|[Stores and Houses](https://www.fastprep.io/problems/google-find-closest-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-closest-store)|Feb 16, 2024|
 |**Google**|[Find Min Distance to Furthest Node (Google Tokyo)](https://www.fastprep.io/problems/google-find-min-distance-to-farthest-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-min-distance-to-farthest-node)|Feb 16, 2024|
