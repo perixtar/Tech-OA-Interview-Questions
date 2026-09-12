@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Rubrik**|[Doing Smart Work](https://www.fastprep.io/problems/rubrik-doing-smart-work)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-doing-smart-work)|Aug 23, 2024|
 |**Rubrik**|[Battle with Upper Moon 6](https://www.fastprep.io/problems/rubrik-battle-with-upper-moon-6)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-battle-with-upper-moon-6)|Aug 23, 2024|
 |**Rubrik**|[Maximize Happiness](https://www.fastprep.io/problems/rubrik-maximize-happiness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-maximize-happiness)|Aug 23, 2024|
 |**MathWorks**|[Make Arrays Equal](https://www.fastprep.io/problems/mathwork-make-arrays-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-make-arrays-equal)|Aug 23, 2024|
