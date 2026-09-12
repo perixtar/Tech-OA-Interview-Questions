@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,805 questions**
+**1,809 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -14,6 +14,10 @@
 |**Akuna Capital**|[Items Sort](https://www.fastprep.io/problems/akuna-items-sort)|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|🔥 Sep 10, 2026|
 |**Akuna Capital**|[Two Sum](https://www.fastprep.io/problems/akuna-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/akuna-two-sum)|🔥 Sep 10, 2026|
 |**Akuna Capital**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/akuna-longest-substring-without-repeating-characters)|[![Practice][p]](https://www.fastprep.io/problems/akuna-longest-substring-without-repeating-characters)|🔥 Sep 10, 2026|
+|**TikTok**|[Lowest Number in an Open Range](https://www.fastprep.io/problems/tiktok-lowest-number-in-open-range)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-lowest-number-in-open-range)|🔥 Sep 10, 2026|
+|**TikTok**|[Catch Fish with Reusable Baits](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|🔥 Sep 10, 2026|
+|**TikTok**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|🔥 Sep 10, 2026|
+|**TikTok**|[Count One-Swap Number Pairs](https://www.fastprep.io/problems/tiktok-count-one-swap-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-one-swap-number-pairs)|🔥 Sep 10, 2026|
 |**Get My Parking**|[Remove Duplicates From Sorted Array In Place](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|🔥 Sep 09, 2026|
 |**Infosys**|[Assign Cookies With Matching Parity](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|[![Practice][p]](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|🔥 Sep 09, 2026|
 |**Infosys**|[Count Equal Code Pairs Within Distance K](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|[![Practice][p]](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|🔥 Sep 09, 2026|
