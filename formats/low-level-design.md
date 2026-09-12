@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**76 questions**
+**77 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**The D. E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🔥 Sep 11, 2026|
+|**The D. E. Shaw Group**|[Design a Ride-Hailing Class Model](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|🔥 Sep 11, 2026|
 |**Amazon**|[Design and Implement a Shopping Cart Price Calculator](https://www.fastprep.io/low-level-design/shopping-cart-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shopping-cart-domain)|🔥 Sep 10, 2026|
 |**Amazon**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|🔥 Sep 10, 2026|
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|🔥 Sep 09, 2026|
@@ -55,7 +57,6 @@
 |**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|🆕 Jul 30, 2026|
 |**Databricks**|[Design a Locking Key-Value Store with Batch Writes](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|[![Practice][p]](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|🆕 Jul 29, 2026|
 |**Databricks**|[Design a WAL-Backed Batch Log Writer](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|[![Practice][p]](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|🆕 Jul 29, 2026|
-|**Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|Jul 28, 2026|
 |**Bloomberg**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|Jul 25, 2026|
 |**Tekion**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|Jul 24, 2026|
