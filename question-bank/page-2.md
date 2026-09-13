@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**MathWorks**|[Get Min Operations](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Sep 17, 2024|
+|**Odoo**|[Compare Character Arrays with Backspaces](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Sep 17, 2024|
+|**Odoo**|[Build a Room Booking Single-Page Application](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|Sep 17, 2024|
+|**Blackrock**|[Calculate Distance](https://www.fastprep.io/problems/blackrock-calculate-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-calculate-distance)|Sep 16, 2024|
+|**Blackrock**|[Efficient Matching](https://www.fastprep.io/problems/blackrock-efficient-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-efficient-matching)|Sep 16, 2024|
+|**Bloomberg**|[Consecutive](https://www.fastprep.io/problems/bloomberg-consecutive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive)|Sep 16, 2024|
+|**Bloomberg**|[Count Numbers](https://www.fastprep.io/problems/bloomberg-count-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-numbers)|Sep 16, 2024|
 |**Bloomberg**|[Find Longest Chain](https://www.fastprep.io/problems/bloomberg-find-longest-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-longest-chain)|Sep 16, 2024|
 |**Bloomberg**|[Shuffle All the Decks](https://www.fastprep.io/problems/bloomberg-shuffle-all-decks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shuffle-all-decks)|Sep 16, 2024|
 |**JP Morgan**|[Get Final String](https://www.fastprep.io/problems/jpmorgan-get-final-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-final-string)|Sep 05, 2024|
