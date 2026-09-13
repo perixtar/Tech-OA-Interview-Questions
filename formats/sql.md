@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**29 questions**
+**30 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Kickdrum**|[Students and Instructors for Database Systems](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|🔥 Sep 11, 2026|
 |**Oracle**|[Classify Tree Nodes with SQL](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|[![Practice][p]](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|🔥 Sep 10, 2026|
 |**Infosys**|[Daily Successful Transactions Per Department](https://www.fastprep.io/problems/infosys-daily-department-successful-transactions)|[![Practice][p]](https://www.fastprep.io/problems/infosys-daily-department-successful-transactions)|🔥 Sep 09, 2026|
 |**ZS**|[Top Salaries By Department](https://www.fastprep.io/problems/zs-top-salaries-by-department)|[![Practice][p]](https://www.fastprep.io/problems/zs-top-salaries-by-department)|🔥 Sep 09, 2026|
