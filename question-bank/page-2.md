@@ -121,6 +121,7 @@
 |**IBM**|[Get Maximum Occurances](https://www.fastprep.io/problems/ibm-get-max-occurrences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-max-occurrences)|Aug 18, 2024|
 |**IBM**|[Get Min Difference](https://www.fastprep.io/problems/ibm-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-difference)|Aug 18, 2024|
 |**IBM**|[Max Traffic Time](https://www.fastprep.io/problems/ibm-get-max-traffic-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-max-traffic-time)|Aug 18, 2024|
+|**Confluent**|[Diagnose and Scale a Multi-Region Cloud Service](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|Aug 14, 2024|
 |**Databricks**|[Array Manipulation](https://www.fastprep.io/problems/databricks-array-manipulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-array-manipulation)|Aug 13, 2024|
 |**Capital One**|[Rotate Matrix Over Diagonals](https://www.fastprep.io/problems/capitalone-rotate-matrix-over-diagonals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-rotate-matrix-over-diagonals)|Aug 12, 2024|
 |**Databricks**|[Advanture to Count Moves](https://www.fastprep.io/problems/databricks-advanture-to-count-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-advanture-to-count-moves)|Aug 12, 2024|
