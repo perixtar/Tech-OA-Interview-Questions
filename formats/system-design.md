@@ -8,8 +8,8 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Tekion / JPMorgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|🔥 Sep 13, 2026|
 |**JPMorgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|🔥 Sep 13, 2026|
+|**Tekion / JPMorgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|🔥 Sep 13, 2026|
 |**Agoda**|[Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|🔥 Sep 11, 2026|
 |**Blinkit**|[Design a Food Delivery Order Tracking System](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|🔥 Sep 11, 2026|
 |**FlexTrade**|[Design Fault Localization for a Large Function Graph](https://www.fastprep.io/system-design/fault-localization-for-large-function-graph)|[![Practice][p]](https://www.fastprep.io/system-design/fault-localization-for-large-function-graph)|🔥 Sep 11, 2026|

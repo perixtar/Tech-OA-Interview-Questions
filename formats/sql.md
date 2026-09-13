@@ -2,12 +2,19 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**29 questions**
+**36 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**JPMorgan Chase**|[Employees Above Average Salary](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|🔥 Sep 13, 2026|
+|**JPMorgan Chase**|[Highest-Earning Employees By Department](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|🔥 Sep 13, 2026|
+|**Lenskart**|[Most Recent Active User Per Department](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|🔥 Sep 13, 2026|
+|**Lenskart**|[Test Execution Success Rate](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|🔥 Sep 13, 2026|
+|**Lenskart**|[First Duplicate Transaction Within Ten Minutes](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|🔥 Sep 13, 2026|
+|**SquadStack.ai**|[Find the Dominant Seller](https://www.fastprep.io/problems/squadstack-dominant-seller)|[![Practice][p]](https://www.fastprep.io/problems/squadstack-dominant-seller)|🔥 Sep 12, 2026|
+|**Kickdrum**|[Students and Instructors for Database Systems](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|🔥 Sep 11, 2026|
 |**Oracle**|[Classify Tree Nodes with SQL](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|[![Practice][p]](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|🔥 Sep 10, 2026|
 |**Infosys**|[Daily Successful Transactions Per Department](https://www.fastprep.io/problems/infosys-daily-department-successful-transactions)|[![Practice][p]](https://www.fastprep.io/problems/infosys-daily-department-successful-transactions)|🔥 Sep 09, 2026|
 |**ZS**|[Top Salaries By Department](https://www.fastprep.io/problems/zs-top-salaries-by-department)|[![Practice][p]](https://www.fastprep.io/problems/zs-top-salaries-by-department)|🔥 Sep 09, 2026|
