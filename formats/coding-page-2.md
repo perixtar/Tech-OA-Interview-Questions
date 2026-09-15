@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,036 questions**
+**2,038 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Meta**|[Closest Landmark](https://www.fastprep.io/problems/mt-closest-land-mark)|[![Practice][p]](https://www.fastprep.io/problems/mt-closest-land-mark)|Feb 17, 2024|
+|**Google**|[Min Amplitude](https://www.fastprep.io/problems/google-min-amplitude)|[![Practice][p]](https://www.fastprep.io/problems/google-min-amplitude)|Feb 16, 2024|
+|**Google**|[Ways to Split a String](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Feb 16, 2024|
 |**Google**|[Maximum Time](https://www.fastprep.io/problems/google-maximum-time)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-time)|Feb 16, 2024|
 |**Google**|[Most Booked Hotel Room](https://www.fastprep.io/problems/google-most-booked-hotel-room)|[![Practice][p]](https://www.fastprep.io/problems/google-most-booked-hotel-room)|Feb 16, 2024|
 |**Google**|[Min Days to Bloom](https://www.fastprep.io/problems/google-min-days-bouquets)|[![Practice][p]](https://www.fastprep.io/problems/google-min-days-bouquets)|Feb 16, 2024|

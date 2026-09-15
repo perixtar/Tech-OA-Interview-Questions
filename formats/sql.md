@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|🔥 Sep 14, 2026|
 |**JPMorgan Chase**|[Employees Above Average Salary](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|🔥 Sep 13, 2026|
 |**JPMorgan Chase**|[Highest-Earning Employees By Department](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|🔥 Sep 13, 2026|
 |**Lenskart**|[Most Recent Active User Per Department](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|🔥 Sep 13, 2026|
@@ -20,7 +21,6 @@
 |**ZS**|[Top Salaries By Department](https://www.fastprep.io/problems/zs-top-salaries-by-department)|[![Practice][p]](https://www.fastprep.io/problems/zs-top-salaries-by-department)|🔥 Sep 09, 2026|
 |**ZS**|[Fifth Highest Salary In A Department](https://www.fastprep.io/problems/zs-fifth-highest-salary-in-department)|[![Practice][p]](https://www.fastprep.io/problems/zs-fifth-highest-salary-in-department)|🔥 Sep 09, 2026|
 |**ZS**|[Find Duplicate Email Addresses](https://www.fastprep.io/problems/zs-duplicate-email-addresses)|[![Practice][p]](https://www.fastprep.io/problems/zs-duplicate-email-addresses)|🔥 Sep 09, 2026|
-|**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|🔥 Sep 09, 2026|
 |**Millennium**|[Debug the Tape Cleaner](https://www.fastprep.io/problems/millennium-debug-tape-cleaner)|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-tape-cleaner)|🔥 Sep 09, 2026|
 |**Millennium**|[Regression Hedge](https://www.fastprep.io/problems/millennium-regression-hedge)|[![Practice][p]](https://www.fastprep.io/problems/millennium-regression-hedge)|🔥 Sep 09, 2026|
 |**Millennium**|[Client Markout Analysis](https://www.fastprep.io/problems/millennium-client-markout-analysis)|[![Practice][p]](https://www.fastprep.io/problems/millennium-client-markout-analysis)|🔥 Sep 09, 2026|
