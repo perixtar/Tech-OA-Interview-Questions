@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**37 questions**
+**38 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,7 @@
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Sep 16, 2026|
 |**DoorDash**|[Debug Two Routing Strategies](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Sep 16, 2026|
 |**DoorDash**|[Integrate Three Profile Services](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🔥 Sep 16, 2026|
+|**Amazon**|[Repair Django Ticket Creation and Replies](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|🔥 Sep 15, 2026|
 |**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|🔥 Sep 13, 2026|
 |**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|🔥 Sep 12, 2026|
 |**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🔥 Sep 11, 2026|

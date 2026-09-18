@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Number of Distinct Islands](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Dec 31, 2024|
 |**Snowflake**|[Remove Stones to Minimize the Total](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|Dec 28, 2024|
 |**Snowflake**|[Find the Max Len of A Good Subsequence I](https://www.fastprep.io/problems/snowflake-find-the-maximum-length-of-a-good-subsequence-i)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-find-the-maximum-length-of-a-good-subsequence-i)|Dec 28, 2024|
 |**Microsoft**|[Sum with Tiles](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Dec 24, 2024|
