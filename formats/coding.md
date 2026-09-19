@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,130 questions**
+**2,134 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🔥 Sep 19, 2026|
+|**Tata Consultancy Services**|[Maximum Gap After Sorting](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|🔥 Sep 18, 2026|
+|**Tata Consultancy Services**|[EV Charging Cost Optimization](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|🔥 Sep 18, 2026|
+|**Amazon**|[Inventory Allocation](https://www.fastprep.io/problems/amazon-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-allocation)|🔥 Sep 18, 2026|
 |**Waymo**|[Obstacle-Aware Return to Origin](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|[![Practice][p]](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|🔥 Sep 18, 2026|
 |**Waymo**|[Dictionary Matches from Repeated Letters](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|[![Practice][p]](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|🔥 Sep 18, 2026|
 |**Amazon**|[LRU Cache for Query Results](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|🔥 Sep 18, 2026|
@@ -34,6 +38,7 @@
 |**Instacart**|[Product Total With the Cheapest Promotion](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion)|[![Practice][p]](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion)|🔥 Sep 18, 2026|
 |**Amazon**|[Course Order and Cycle](https://www.fastprep.io/problems/amazon-course-order-and-cycle)|[![Practice][p]](https://www.fastprep.io/problems/amazon-course-order-and-cycle)|🔥 Sep 18, 2026|
 |**Rippling**|[Corporate Card Expense Rules](https://www.fastprep.io/problems/rippling-corporate-card-rules-engine)|[![Practice][p]](https://www.fastprep.io/problems/rippling-corporate-card-rules-engine)|🔥 Sep 18, 2026|
+|**Amazon**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|🔥 Sep 18, 2026|
 |**Citadel**|[Top Ten Trades by Notional Value](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|[![Practice][p]](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|🔥 Sep 17, 2026|
 |**Citadel**|[Reconcile Unmatched Trades with Timestamp Tolerance](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|[![Practice][p]](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|🔥 Sep 17, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 17, 2026|
@@ -1030,7 +1035,6 @@
 |**Amazon**|[Dynamic Kth Largest Queries](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|[![Practice][p]](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|Apr 09, 2026|
 |**Amazon**|[Longest Zero Sum Subarray](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Apr 09, 2026|
 |**Amazon**|[Maximize Minimum Machine Power](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Apr 09, 2026|
-|**Amazon**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|Apr 09, 2026|
 |**Uber**|[Balanced Permutation Subarrays](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Apr 09, 2026|
 |**Uber**|[Maximum Comfortable Riders](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Apr 09, 2026|
 |**Uber**|[Palindrome Path Queries in a Tree](https://www.fastprep.io/problems/uber-palindrome-path-queries)|[![Practice][p]](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Apr 09, 2026|
@@ -1897,9 +1901,4 @@
 |**Amazon**|[Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-num)|Mar 19, 2024|
 |**Wolverine Trading**|[Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-count-operations)|Mar 19, 2024|
 |**Wolverine Trading**|[Encode](https://www.fastprep.io/problems/wolverine-trading-decode)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-decode)|Mar 19, 2024|
-|**Wolverine Trading**|[Max Shared](https://www.fastprep.io/problems/wolverine-trading-max-shared)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-max-shared)|Mar 19, 2024|
-|**Amazon**|[Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Mar 18, 2024|
-|**DoorDash**|[Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices)|[![Practice][p]](https://www.fastprep.io/problems/doordash-adjust-prices)|Mar 18, 2024|
-|**Two Sigma**|[Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|[![Practice][p]](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Mar 18, 2024|
-|**Two Sigma**|[Replacing Val](https://www.fastprep.io/problems/ts-replacing-num)|[![Practice][p]](https://www.fastprep.io/problems/ts-replacing-num)|Mar 18, 2024|
 <a id="bottom"></a>
