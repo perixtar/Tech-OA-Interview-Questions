@@ -34,6 +34,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**GoodScore**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🔥 Sep 19, 2026|
+|**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
 |**Waymo**|[Design Fleet Map Data Collection](https://www.fastprep.io/system-design/fleet-map-data-collection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-map-data-collection)|🔥 Sep 18, 2026|
 |**New Relic**|[Design Long-Running Trace Event Grouping](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|🔥 Sep 18, 2026|
 |**Waymo**|[Obstacle-Aware Return to Origin](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|🔥 Sep 18, 2026|
@@ -588,7 +589,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**IBM**|[Flight Delay Propagation](https://www.fastprep.io/problems/ibm-flight-delay-propagation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-flight-delay-propagation)|🔥 Sep 08, 2026|
 |**ByteDance**|[Enumerate Directed Paths and Cycles](https://www.fastprep.io/problems/bytedance-directed-graph-paths-and-cycles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-directed-graph-paths-and-cycles)|🔥 Sep 08, 2026|
 |**Airbnb**|[In-Memory File System](https://www.fastprep.io/problems/airbnb-in-memory-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-in-memory-file-system)|🔥 Sep 08, 2026|
-|**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 07, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|🔥 Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|🔥 Sep 07, 2026|
 |**Nubank**|[Design Chargeback Ingestion and Eligible-Record Export](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|🔥 Sep 07, 2026|

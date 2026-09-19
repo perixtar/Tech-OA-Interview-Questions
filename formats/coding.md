@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
 |**Waymo**|[Obstacle-Aware Return to Origin](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|[![Practice][p]](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|🔥 Sep 18, 2026|
 |**Waymo**|[Dictionary Matches from Repeated Letters](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|[![Practice][p]](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|🔥 Sep 18, 2026|
 |**Amazon**|[LRU Cache for Query Results](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|🔥 Sep 18, 2026|
@@ -393,7 +394,6 @@
 |**IBM**|[Flight Delay Propagation](https://www.fastprep.io/problems/ibm-flight-delay-propagation)|[![Practice][p]](https://www.fastprep.io/problems/ibm-flight-delay-propagation)|🔥 Sep 08, 2026|
 |**ByteDance**|[Enumerate Directed Paths and Cycles](https://www.fastprep.io/problems/bytedance-directed-graph-paths-and-cycles)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-directed-graph-paths-and-cycles)|🔥 Sep 08, 2026|
 |**Airbnb**|[In-Memory File System](https://www.fastprep.io/problems/airbnb-in-memory-file-system)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-in-memory-file-system)|🔥 Sep 08, 2026|
-|**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 07, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|🔥 Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|🔥 Sep 07, 2026|
 |**Stripe**|[Subscription and Usage-Based Billing Calculator](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)|[![Practice][p]](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)|🔥 Sep 06, 2026|
