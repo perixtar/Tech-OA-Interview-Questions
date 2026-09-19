@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,130 questions**
+**2,133 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Mar 18, 2024|
+|**DoorDash**|[Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices)|[![Practice][p]](https://www.fastprep.io/problems/doordash-adjust-prices)|Mar 18, 2024|
+|**Two Sigma**|[Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|[![Practice][p]](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Mar 18, 2024|
+|**Two Sigma**|[Replacing Val](https://www.fastprep.io/problems/ts-replacing-num)|[![Practice][p]](https://www.fastprep.io/problems/ts-replacing-num)|Mar 18, 2024|
 |**Microsoft**|[Prepare Notification](https://www.fastprep.io/problems/microsoft-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-prepare-notification)|Mar 18, 2024|
 |**Microsoft**|[Side Largest Square](https://www.fastprep.io/problems/microsoft-side-largest-square)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-side-largest-square)|Mar 18, 2024|
 |**Microsoft**|[Str with Longgest Len](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Mar 18, 2024|

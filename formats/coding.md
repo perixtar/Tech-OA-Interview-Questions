@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,130 questions**
+**2,133 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1099,6 +1099,9 @@
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
 |**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
+|**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Jan 12, 2026|
+|**Adobe**|[Maximum Reachable Value Within a Step Budget](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|[![Practice][p]](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Jan 12, 2026|
+|**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Jan 12, 2026|
 |**Amazon**|[Longest Arithmetic Subarray After One Change](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Jan 06, 2026|
 |**Amazon**|[Replace Values and Return Sums](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|[![Practice][p]](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|Jan 06, 2026|
 |**Google**|[Count Divisible Coin Selections](https://www.fastprep.io/problems/google-count-divisible-coin-selections)|[![Practice][p]](https://www.fastprep.io/problems/google-count-divisible-coin-selections)|Dec 24, 2025|
@@ -1898,8 +1901,4 @@
 |**Wolverine Trading**|[Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-count-operations)|Mar 19, 2024|
 |**Wolverine Trading**|[Encode](https://www.fastprep.io/problems/wolverine-trading-decode)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-decode)|Mar 19, 2024|
 |**Wolverine Trading**|[Max Shared](https://www.fastprep.io/problems/wolverine-trading-max-shared)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-max-shared)|Mar 19, 2024|
-|**Amazon**|[Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Mar 18, 2024|
-|**DoorDash**|[Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices)|[![Practice][p]](https://www.fastprep.io/problems/doordash-adjust-prices)|Mar 18, 2024|
-|**Two Sigma**|[Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|[![Practice][p]](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Mar 18, 2024|
-|**Two Sigma**|[Replacing Val](https://www.fastprep.io/problems/ts-replacing-num)|[![Practice][p]](https://www.fastprep.io/problems/ts-replacing-num)|Mar 18, 2024|
 <a id="bottom"></a>

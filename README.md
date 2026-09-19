@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,130)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,133)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1593,6 +1593,9 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
 |**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
+|**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Jan 12, 2026|
+|**Adobe**|[Maximum Reachable Value Within a Step Budget](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Jan 12, 2026|
+|**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Jan 12, 2026|
 |**Amazon**|[Longest Arithmetic Subarray After One Change](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Jan 06, 2026|
 |**Amazon**|[Replace Values and Return Sums](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|Jan 06, 2026|
 |**Datadog**|[Design a Real-Time Collaborative Pixel Canvas](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas)|Jan 06, 2026|
@@ -1720,7 +1723,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
 |**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
 |**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
-|**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
-|**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
-|**JP Morgan**|[Find Total Weight](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Jun 18, 2025|
 <a id="bottom"></a>
