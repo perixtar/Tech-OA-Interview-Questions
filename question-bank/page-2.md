@@ -202,6 +202,7 @@
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
 |**Postman**|[Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model)|May 15, 2025|
 |**Postman**|[Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application)|May 15, 2025|
+|**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
 |**Amazon**|[Min Dock Bays](https://www.fastprep.io/problems/amazon-get-minimum-dock-bays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-dock-bays)|Apr 27, 2025|
 |**Amazon**|[Find Idle Skill Query](https://www.fastprep.io/problems/amazon-find-idle-skills-query)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-idle-skills-query)|Apr 27, 2025|
 |**Amazon**|[Compute Beauty of Array Products](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Apr 27, 2025|
@@ -897,6 +898,7 @@
 |**Morgan Stanley**|[Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Mar 16, 2024|
 |**Amazon**|[Match Strings](https://www.fastprep.io/problems/amazon-match-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-match-strings)|Mar 14, 2024|
 |**DoorDash**|[Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Mar 14, 2024|
+|**Old Mission**|[Merging Palindromes](https://www.fastprep.io/problems/old-mission-merging-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-merging-palindromes)|Mar 14, 2024|
 |**TikTok**|[Minimum Buckets](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Mar 13, 2024|
 |**TikTok**|[URL Hashing](https://www.fastprep.io/problems/tiktok-url-hashing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-url-hashing)|Mar 13, 2024|
 |**TikTok**|[Three Knights](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|Mar 13, 2024|
@@ -1103,6 +1105,7 @@
 |**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
+|**Old Mission**|[Implement an Unordered Map](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Dec 13, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
 |**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
