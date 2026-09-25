@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Longest Balanced Binary Subarray](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Feb 03, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Google**|[Minimum Dictionary Segments](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Feb 02, 2026|
 |**Google**|[Minimum Servers for Cyclic Daily Tasks](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Feb 01, 2026|
@@ -693,6 +694,7 @@
 |**Hyper Verge**|[Get String to Remove](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Aug 05, 2024|
 |**Onix**|[Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onix-get-string-to-remove)|Aug 05, 2024|
 |**SIG**|[Count Triples](https://www.fastprep.io/problems/counting-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/counting-triples)|Aug 05, 2024|
+|**Ramp**|[Correct Apartment Bedroom Counts](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Aug 01, 2024|
 |**Amazon**|[Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Jul 25, 2024|
 |**IBM**|[Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Jul 25, 2024|
 |**Samsara**|[Design a Fleet Fuel Payment Monitoring Platform](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|Jul 22, 2024|
