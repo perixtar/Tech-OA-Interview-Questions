@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Top K Frequent Closest Points](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Feb 06, 2026|
 |**Amazon**|[Lexicographically Smallest After One Substring Rotation](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Feb 05, 2026|
 |**Google**|[Validate a Tree From Its Parent Array](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Feb 04, 2026|
 |**Uber**|[Binary Tree: Subtree Sum, Maximum Path Sum, and Path Nodes](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Feb 04, 2026|
@@ -31,6 +32,7 @@
 |**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
+|**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
@@ -65,6 +67,7 @@
 |**HSBC**|[Minimum Markers to Clear Line Segments](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Nov 19, 2025|
 |**MathWorks**|[Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams)|Nov 16, 2025|
 |**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
+|**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
 |**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|

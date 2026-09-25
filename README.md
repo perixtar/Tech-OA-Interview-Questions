@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,258)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (367)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (48)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,258)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (367)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1703,6 +1703,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Uber**|[Kth Largest Subarray Bitwise OR](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-kth-largest-subarray-bitwise-or)|Feb 24, 2026|
 |**Uber**|[Minimum Spanning Tree Weight in a Complete Binary Graph](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-spanning-tree-weight-in-complete-binary-graph)|Feb 24, 2026|
 |**Datadog**|[Latency Bucket Counter](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-latency-bucket-counter)|Feb 20, 2026|
+|**Stripe**|[Repair Template Lookup Edge Cases](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Feb 20, 2026|
 |**Uber**|[Balanced Prefix Permutation](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-prefix-permutation)|Feb 19, 2026|
 |**Uber**|[Minimum Euclidean Plate Collection Time](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-euclidean-plate-collection-time)|Feb 19, 2026|
 |**Infosys**|[Maximum Subarray Sum After Swaps](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-subarray-sum-after-swaps)|Feb 19, 2026|
@@ -1715,5 +1716,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
 |**Salesforce**|[Strings With No k Consecutive Identical Characters](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Feb 06, 2026|
 |**Google**|[Closest-Timestamp Key-Value Queries](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Feb 06, 2026|
-|**Google**|[Top K Frequent Closest Points](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Feb 06, 2026|
 <a id="bottom"></a>
