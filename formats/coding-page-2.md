@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,257 questions**
+**2,258 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Adobe**|[Determine the Edit Distance in a Word Ladder](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Jun 24, 2024|
 |**Flexport**|[Distinct Moves](https://www.fastprep.io/problems/flexport-distinct-moves)|[![Practice][p]](https://www.fastprep.io/problems/flexport-distinct-moves)|Jun 24, 2024|
 |**Flexport**|[Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges)|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Jun 24, 2024|
 |**WeWork**|[Meeting Room](https://www.fastprep.io/problems/wework-meeting-room)|[![Practice][p]](https://www.fastprep.io/problems/wework-meeting-room)|Jun 24, 2024|

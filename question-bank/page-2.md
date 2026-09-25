@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Count Unstable Processes](https://www.fastprep.io/problems/ibm-count-unstable-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-unstable-processes)|Feb 03, 2026|
 |**IBM**|[Longest Balanced Binary Subarray](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Feb 03, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Google**|[Minimum Dictionary Segments](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Feb 02, 2026|

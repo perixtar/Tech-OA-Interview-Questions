@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,257 questions**
+**2,258 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1051,6 +1051,7 @@
 |**JP Morgan**|[About Shipping](https://www.fastprep.io/problems/jpmorgan-about-shipping)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Jun 04, 2026|
 |**Netflix**|[Topological Sort for Ads Tasks](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|[![Practice][p]](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|Jun 04, 2026|
 |**Google**|[Consolidate On-Call Rotations](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|[![Practice][p]](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|Jun 02, 2026|
+|**Character.AI**|[Minimum Window Substring](https://www.fastprep.io/problems/character-ai-minimum-window-substring)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-minimum-window-substring)|Jun 02, 2026|
 |**Uber**|[Jump Game with Prime-3 Steps](https://www.fastprep.io/problems/uber-jump-game-prime-3-steps)|[![Practice][p]](https://www.fastprep.io/problems/uber-jump-game-prime-3-steps)|Jun 01, 2026|
 |**Uber**|[Total Palindrome Substring Cost](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|[![Practice][p]](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|Jun 01, 2026|
 |**Capital One**|[Count Numbers with Even Number of Digits](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|May 31, 2026|
@@ -1883,5 +1884,4 @@
 |**Snowflake**|[Minimum Segment](https://www.fastprep.io/problems/snowflake-minimum-division)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-division)|Jun 27, 2024|
 |**Cisco**|[Find Critical Nodes](https://www.fastprep.io/problems/cisco-find-critical-nodes)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Jun 27, 2024|
 |**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|
-|**Adobe**|[Determine the Edit Distance in a Word Ladder](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Jun 24, 2024|
 <a id="bottom"></a>
