@@ -2,12 +2,31 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,233 questions**
+**2,249 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Zscaler**|[Sum of Divisors of the Array GCD](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|Jun 22, 2024|
+|**Salesforce**|[Count Substrings](https://www.fastprep.io/problems/salesforce-count-substrings)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-substrings)|Jun 20, 2024|
+|**Salesforce**|[Count Min Operations to Reduce Dimensions](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions)|Jun 20, 2024|
+|**IBM**|[Min Chairs](https://www.fastprep.io/problems/ibm-min-chairs)|[![Practice][p]](https://www.fastprep.io/problems/ibm-min-chairs)|Jun 20, 2024|
+|**Microsoft**|[Get Alphabetically Smallest String](https://www.fastprep.io/problems/microsoft-get-alphabetically-smallest-string)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-alphabetically-smallest-string)|Jun 20, 2024|
+|**Paypal**|[Modify Array](https://www.fastprep.io/problems/paypal-modify-array)|[![Practice][p]](https://www.fastprep.io/problems/paypal-modify-array)|Jun 20, 2024|
+|**Xperi**|[Make Numbers Equal](https://www.fastprep.io/problems/xperi-make-numbers-equal)|[![Practice][p]](https://www.fastprep.io/problems/xperi-make-numbers-equal)|Jun 20, 2024|
+|**Xperi**|[Count Integer Sequences](https://www.fastprep.io/problems/xperi-count-integer-sequences)|[![Practice][p]](https://www.fastprep.io/problems/xperi-count-integer-sequences)|Jun 20, 2024|
+|**Amazon**|[Maximum Stability](https://www.fastprep.io/problems/amazon-maximum-stability)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-stability)|Jun 15, 2024|
+|**Amazon**|[Is Regex Matching](https://www.fastprep.io/problems/amazon-is-regex-matching)|[![Practice][p]](https://www.fastprep.io/problems/amazon-is-regex-matching)|Jun 15, 2024|
+|**Uber**|[Word Pairs](https://www.fastprep.io/problems/uber-word-pairs)|[![Practice][p]](https://www.fastprep.io/problems/uber-word-pairs)|Jun 15, 2024|
+|**Uber**|[Bus Time](https://www.fastprep.io/problems/uber-bus-time)|[![Practice][p]](https://www.fastprep.io/problems/uber-bus-time)|Jun 15, 2024|
+|**IBM**|[Find Arrangement](https://www.fastprep.io/problems/ibm-find-arrangements)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-arrangements)|Jun 15, 2024|
+|**Microsoft**|[Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper)|Jun 15, 2024|
+|**Microsoft**|[Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters)|Jun 15, 2024|
+|**Microsoft**|[Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells)|Jun 15, 2024|
+|**Fivetran**|[Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Jun 13, 2024|
+|**Fivetran**|[Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups)|Jun 13, 2024|
+|**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
 |**Amazon**|[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)|[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)|Jun 10, 2024|
 |**Snowflake**|[Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Jun 10, 2024|
 |**Amazon**|[Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Jun 02, 2024|
