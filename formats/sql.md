@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**40 questions**
+**41 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -46,6 +46,7 @@
 |**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|Jul 09, 2026|
 |**Point72**|[Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|[![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|Jul 02, 2026|
 |**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
+|**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
 |**IMC**|[Account Balance Over Threshold](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|[![Practice][p]](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|Sep 12, 2020|
 |**IMC**|[Transaction Balance Over Threshold](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|[![Practice][p]](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|Sep 12, 2020|
 <a id="bottom"></a>
