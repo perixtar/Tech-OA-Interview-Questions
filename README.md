@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,232)](formats/coding.md) · [SQL (39)](formats/sql.md) · [System design (364)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (48)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,233)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (364)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (48)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -226,6 +226,8 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Intuit**|[Longest Uninterrupted Work Block](https://www.fastprep.io/problems/intuit-longest-uninterrupted-work-block)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-uninterrupted-work-block)|🔥 Sep 18, 2026|
 |**Uber**|[Shortest Increasing Path to a Target](https://www.fastprep.io/problems/uber-shortest-increasing-target-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-shortest-increasing-target-path)|🔥 Sep 18, 2026|
 |**Uber**|[Zigzag Board Adjacent Swaps](https://www.fastprep.io/problems/uber-zigzag-board-adjacent-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-zigzag-board-adjacent-swaps)|🔥 Sep 18, 2026|
+|**IBM**|[Customer Resource Usage Analysis](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|SQL|[![Practice][p]](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|🔥 Sep 18, 2026|
+|**IBM**|[Tool Changer](https://www.fastprep.io/problems/ibm-tool-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-tool-changer)|🔥 Sep 18, 2026|
 |**Unattributed**|[Filter and Batch Concurrent Logs](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|🔥 Sep 17, 2026|
 |**Citadel**|[Top Ten Trades by Notional Value](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|🔥 Sep 17, 2026|
 |**Citadel**|[Reconcile Unmatched Trades with Timestamp Tolerance](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|🔥 Sep 17, 2026|
@@ -1715,5 +1717,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
 |**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
-|**Amazon**|[Longest Arithmetic Subarray After One Change](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Jan 06, 2026|
 <a id="bottom"></a>

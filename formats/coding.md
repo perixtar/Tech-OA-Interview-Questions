@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,232 questions**
+**2,233 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -136,6 +136,7 @@
 |**Intuit**|[Longest Uninterrupted Work Block](https://www.fastprep.io/problems/intuit-longest-uninterrupted-work-block)|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-uninterrupted-work-block)|🔥 Sep 18, 2026|
 |**Uber**|[Shortest Increasing Path to a Target](https://www.fastprep.io/problems/uber-shortest-increasing-target-path)|[![Practice][p]](https://www.fastprep.io/problems/uber-shortest-increasing-target-path)|🔥 Sep 18, 2026|
 |**Uber**|[Zigzag Board Adjacent Swaps](https://www.fastprep.io/problems/uber-zigzag-board-adjacent-swaps)|[![Practice][p]](https://www.fastprep.io/problems/uber-zigzag-board-adjacent-swaps)|🔥 Sep 18, 2026|
+|**IBM**|[Tool Changer](https://www.fastprep.io/problems/ibm-tool-changer)|[![Practice][p]](https://www.fastprep.io/problems/ibm-tool-changer)|🔥 Sep 18, 2026|
 |**Citadel**|[Top Ten Trades by Notional Value](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|[![Practice][p]](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|🔥 Sep 17, 2026|
 |**Citadel**|[Reconcile Unmatched Trades with Timestamp Tolerance](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|[![Practice][p]](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|🔥 Sep 17, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 17, 2026|
@@ -1887,5 +1888,4 @@
 |**Fivetran**|[Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Jun 13, 2024|
 |**Fivetran**|[Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups)|Jun 13, 2024|
 |**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
-|**Amazon**|[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)|[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)|Jun 10, 2024|
 <a id="bottom"></a>
