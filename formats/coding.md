@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,250 questions**
+**2,254 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1205,6 +1205,10 @@
 |**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
 |**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
 |**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
+|**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
+|**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
+|**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
+|**Ramp**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/ramp-worker-management-level-4)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Jan 21, 2026|
 |**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
@@ -1881,8 +1885,4 @@
 |**Flexport**|[Distinct Moves](https://www.fastprep.io/problems/flexport-distinct-moves)|[![Practice][p]](https://www.fastprep.io/problems/flexport-distinct-moves)|Jun 24, 2024|
 |**Flexport**|[Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges)|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Jun 24, 2024|
 |**WeWork**|[Meeting Room](https://www.fastprep.io/problems/wework-meeting-room)|[![Practice][p]](https://www.fastprep.io/problems/wework-meeting-room)|Jun 24, 2024|
-|**WeWork**|[Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing)|[![Practice][p]](https://www.fastprep.io/problems/wework-shopping-and-billing)|Jun 24, 2024|
-|**Zscaler**|[Find the Element With Odd Frequency](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|Jun 22, 2024|
-|**Zscaler**|[Longest Common Subsequence Length](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|Jun 22, 2024|
-|**Zscaler**|[Merge Intervals](https://www.fastprep.io/problems/zscaler-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merge-intervals)|Jun 22, 2024|
 <a id="bottom"></a>
