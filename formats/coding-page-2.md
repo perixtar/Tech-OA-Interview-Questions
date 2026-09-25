@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,221 questions**
+**2,223 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Encode or Decode Message](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|[![Practice][p]](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|May 25, 2024|
+|**Cisco**|[Flight Path Package Drop](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|May 25, 2024|
 |**Postman**|[Encode and Decode a String Stream](https://www.fastprep.io/problems/postman-transform-string-stream)|[![Practice][p]](https://www.fastprep.io/problems/postman-transform-string-stream)|May 17, 2024|
 |**Amazon**|[Get Experience](https://www.fastprep.io/problems/amazon-get-exp)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-exp)|May 13, 2024|
 |**Uber**|[Maximize XOR for Each Query](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query)|May 13, 2024|

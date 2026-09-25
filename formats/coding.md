@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,221 questions**
+**2,223 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Intuit**|[Pressure-Isolation Shutdown Order](https://www.fastprep.io/problems/intuit-pressure-isolation-shutdown-order)|[![Practice][p]](https://www.fastprep.io/problems/intuit-pressure-isolation-shutdown-order)|🔥 Sep 22, 2026|
+|**Intuit**|[Submask Sum Queries](https://www.fastprep.io/problems/intuit-submask-sum-queries)|[![Practice][p]](https://www.fastprep.io/problems/intuit-submask-sum-queries)|🔥 Sep 22, 2026|
 |**Amazon**|[Edit Distance](https://www.fastprep.io/problems/amazon-edit-distance)|[![Practice][p]](https://www.fastprep.io/problems/amazon-edit-distance)|🔥 Sep 21, 2026|
 |**Amazon**|[Word Ladder](https://www.fastprep.io/problems/amazon-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-ladder)|🔥 Sep 21, 2026|
 |**Amazon**|[Trapping Rain Water](https://www.fastprep.io/problems/amazon-trapping-rain-water)|[![Practice][p]](https://www.fastprep.io/problems/amazon-trapping-rain-water)|🔥 Sep 21, 2026|
@@ -1887,6 +1889,4 @@
 |**Google**|[Find Min Possible Diameter](https://www.fastprep.io/problems/google-find-minimum-possible-diameter)|[![Practice][p]](https://www.fastprep.io/problems/google-find-minimum-possible-diameter)|May 31, 2024|
 |**Google**|[Generate Pattern Matching Strings](https://www.fastprep.io/problems/google-generate-pattern-matching-strings)|[![Practice][p]](https://www.fastprep.io/problems/google-generate-pattern-matching-strings)|May 25, 2024|
 |**Goldman Sachs**|[Find the Damaged Toy](https://www.fastprep.io/problems/goldman-find-the-damaged-toy)|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-the-damaged-toy)|May 25, 2024|
-|**Goldman Sachs**|[Encode or Decode Message](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|[![Practice][p]](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|May 25, 2024|
-|**Cisco**|[Flight Path Package Drop](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|May 25, 2024|
 <a id="bottom"></a>

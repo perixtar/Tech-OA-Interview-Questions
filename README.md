@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,221)](formats/coding.md) · [SQL (38)](formats/sql.md) · [System design (364)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (48)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,223)](formats/coding.md) · [SQL (39)](formats/sql.md) · [System design (364)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (48)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -61,6 +61,9 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**PayPay**|[Design a Pluggable Random Value Library](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|🔥 Sep 22, 2026|
 |**Verkada**|[Build a Camera Communication API](https://www.fastprep.io/project-coding/verkada-camera-log-api-server)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-camera-log-api-server)|🔥 Sep 22, 2026|
 |**Cresta**|[Build a Conversational Flight Booking Agent](https://www.fastprep.io/project-coding/cresta-conversational-flight-booking-agent)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/cresta-conversational-flight-booking-agent)|🔥 Sep 22, 2026|
+|**Intuit**|[Oldest and Youngest Employees](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|SQL|[![Practice][p]](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|🔥 Sep 22, 2026|
+|**Intuit**|[Pressure-Isolation Shutdown Order](https://www.fastprep.io/problems/intuit-pressure-isolation-shutdown-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-pressure-isolation-shutdown-order)|🔥 Sep 22, 2026|
+|**Intuit**|[Submask Sum Queries](https://www.fastprep.io/problems/intuit-submask-sum-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-submask-sum-queries)|🔥 Sep 22, 2026|
 |**DoorDash**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Sep 21, 2026|
 |**Pinterest / OpenAI / Axon / Tesla**|[Design a Blob Storage Service](https://www.fastprep.io/system-design/blob-storage-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/blob-storage-service)|🔥 Sep 21, 2026|
 |**Pinterest / Slack**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Sep 21, 2026|
@@ -1713,7 +1716,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Google**|[Maximum Tea Deliveries with Minimum Distance](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Dec 20, 2025|
 |**Workday**|[Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Dec 18, 2025|
 |**HackerRank**|[Ball Passing at Time K](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Dec 17, 2025|
-|**HackerRank**|[Longest Equal Binary Subarray](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Dec 17, 2025|
-|**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|
-|**Visa**|[Previous Bus Departure](https://www.fastprep.io/problems/visa-previous-bus-departure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-previous-bus-departure)|Dec 16, 2025|
 <a id="bottom"></a>
