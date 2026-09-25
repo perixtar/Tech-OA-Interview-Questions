@@ -146,6 +146,7 @@
 |**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 |**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
 |**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
+|**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Jun 24, 2025|
 |**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
 |**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
 |**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
@@ -238,7 +239,6 @@
 |**Pure Storage**|[Find Repetition](https://www.fastprep.io/problems/purestorage-find-repetitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-repetitions)|Mar 22, 2025|
 |**Pure Storage**|[Count Different Palindrome Substrings](https://www.fastprep.io/problems/purestorage-count-different-palindrome-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-count-different-palindrome-substrings)|Mar 22, 2025|
 |**Pure Storage**|[Racing Results](https://www.fastprep.io/problems/purestorage-racing-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-racing-results)|Mar 22, 2025|
-|**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Mar 22, 2025|
 |**Amazon**|[Trader Joe Trades](https://www.fastprep.io/problems/amazon-trader-joe-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-trader-joe-trades)|Mar 21, 2025|
 |**Amazon**|[Optimal Level](https://www.fastprep.io/problems/amazon-find-optimal-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-optimal-level)|Mar 21, 2025|
 |**Amazon**|[Min Operation](https://www.fastprep.io/problems/amazon-min-operation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-min-operation)|Mar 21, 2025|
