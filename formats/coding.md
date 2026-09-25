@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,258 questions**
+**2,266 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1072,6 +1072,10 @@
 |**Infosys**|[Minimum Path Sum With Grid Switches](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|[![Practice][p]](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|May 19, 2026|
 |**Snowflake**|[Effective Role Privileges](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|May 19, 2026|
 |**Pinterest**|[Assign Pins to the Shortest Column](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|May 18, 2026|
+|**Ramp**|[Cloud Storage System, Part 1: File Operations](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|May 18, 2026|
+|**Ramp**|[Cloud Storage System, Part 2: Largest Files](https://www.fastprep.io/problems/ramp-cloud-storage-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-2)|May 18, 2026|
+|**Ramp**|[Cloud Storage System, Part 3: Users and Capacity](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|May 18, 2026|
+|**Ramp**|[Cloud Storage System, Part 4: Backup and Restore](https://www.fastprep.io/problems/ramp-cloud-storage-system)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-system)|May 18, 2026|
 |**OpenAI**|[Grid Infection Spread Until Stable](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|May 16, 2026|
 |**OpenAI**|[Grid Infection with Immune Cells Until Stable](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|May 16, 2026|
 |**OpenAI**|[Chat Event Counts](https://www.fastprep.io/problems/openai-chat-event-counts)|[![Practice][p]](https://www.fastprep.io/problems/openai-chat-event-counts)|May 13, 2026|
@@ -1880,8 +1884,4 @@
 |**Goldman Sachs**|[Alphanumeric Combinations](https://www.fastprep.io/problems/goldman-alphanumeric-combinations)|[![Practice][p]](https://www.fastprep.io/problems/goldman-alphanumeric-combinations)|Jul 10, 2024|
 |**Amazon**|[Max Consecutive ON Servers](https://www.fastprep.io/problems/amazon-get-max-consecutive-on)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-consecutive-on)|Jul 09, 2024|
 |**Amazon**|[Get Total Requests](https://www.fastprep.io/problems/amazon-get-total-requests)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-total-requests)|Jun 27, 2024|
-|**Uber**|[Find Length of Longest Common Prefix](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|Jun 27, 2024|
-|**Snowflake**|[Minimum Segment](https://www.fastprep.io/problems/snowflake-minimum-division)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-division)|Jun 27, 2024|
-|**Cisco**|[Find Critical Nodes](https://www.fastprep.io/problems/cisco-find-critical-nodes)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Jun 27, 2024|
-|**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|
 <a id="bottom"></a>
