@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,258)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (368)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,279)](formats/coding.md) · [SQL (41)](formats/sql.md) · [System design (368)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -40,6 +40,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Sep 24, 2026|
 |**Citadel / ByteDance / Microsoft / Walmart**|[Design an Authenticated Shopping Platform](https://www.fastprep.io/system-design/authenticated-shopping-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-shopping-platform)|🔥 Sep 24, 2026|
 |**Amazon / Goldman Sachs / Wayfair / Walmart**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Sep 24, 2026|
+|**Airbnb**|[Progressive Banking System](https://www.fastprep.io/problems/airbnb-progressive-banking-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-progressive-banking-system)|🔥 Sep 24, 2026|
 |**Pinterest / Instacart / Amazon / Coupa Software**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Sep 23, 2026|
 |**Amazon / Postman**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Sep 23, 2026|
 |**Amazon / Groww**|[Design and Implement a Shopping Cart Price Calculator](https://www.fastprep.io/low-level-design/shopping-cart-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shopping-cart-domain)|🔥 Sep 23, 2026|
@@ -88,7 +89,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Cursor**|[Filesystem Hash Tree](https://www.fastprep.io/problems/cursor-filesystem-hash-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cursor-filesystem-hash-tree)|🔥 Sep 22, 2026|
 |**OpenAI**|[Sparse Plant Infection Simulation](https://www.fastprep.io/problems/openai-plant-infection-simulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-plant-infection-simulation)|🔥 Sep 22, 2026|
 |**Amazon**|[Path Through an O/X Grid Using Only Right and Down](https://www.fastprep.io/problems/amazon-right-down-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-right-down-grid-path)|🔥 Sep 22, 2026|
-|**Airbnb**|[Progressive Banking System](https://www.fastprep.io/problems/airbnb-progressive-banking-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-progressive-banking-system)|🔥 Sep 22, 2026|
 |**Capital One**|[Count One-Swap Number Pairs](https://www.fastprep.io/problems/capital-one-count-one-swap-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-one-swap-number-pairs)|🔥 Sep 22, 2026|
 |**Cursor**|[Diff Two Filesystem Hash Trees](https://www.fastprep.io/problems/cursor-filesystem-merkle-diff)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cursor-filesystem-merkle-diff)|🔥 Sep 22, 2026|
 |**Ease**|[Linear-Probing Key-Value Store](https://www.fastprep.io/problems/ease-linear-probing-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ease-linear-probing-key-value-store)|🔥 Sep 22, 2026|
@@ -812,6 +812,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**ByteDance**|[Alien Dictionary](https://www.fastprep.io/problems/bytedance-alien-dictionary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-alien-dictionary)|🆕 Sep 02, 2026|
 |**ByteDance**|[Minimum Removals for Non-Overlapping Intervals](https://www.fastprep.io/problems/bytedance-minimum-interval-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-minimum-interval-removals)|🆕 Sep 02, 2026|
 |**Google**|[Equal Sum Split After One Removal](https://www.fastprep.io/problems/google-equal-sum-split-after-one-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-equal-sum-split-after-one-removal)|🆕 Sep 02, 2026|
+|**Airbnb**|[Progressive Banking System with Cashback](https://www.fastprep.io/problems/airbnb-progressive-banking-system-with-cashback)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-progressive-banking-system-with-cashback)|🆕 Sep 01, 2026|
 |**Goldman Sachs**|[Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency)|🆕 Sep 01, 2026|
 |**Goldman Sachs**|[Notification Deduplication Window](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication)|🆕 Sep 01, 2026|
 |**Stripe**|[Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system)|🆕 Sep 01, 2026|
@@ -893,6 +894,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**WeRide**|[Drawing Edge](https://www.fastprep.io/problems/weride-drawing-edge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-drawing-edge)|🆕 Aug 29, 2026|
 |**WeRide**|[Paint the Ceiling](https://www.fastprep.io/problems/weride-paint-the-ceiling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-paint-the-ceiling)|🆕 Aug 29, 2026|
 |**WeRide**|[Unequal Block Structure](https://www.fastprep.io/problems/weride-unequal-block-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-unequal-block-structure)|🆕 Aug 29, 2026|
+|**Airbnb**|[In-Memory Database](https://www.fastprep.io/problems/airbnb-in-memory-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-in-memory-database)|🆕 Aug 28, 2026|
 |**Snowflake / Amperity / Fivetran**|[Design a Unified SaaS Analytics Platform](https://www.fastprep.io/system-design/unified-saas-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/unified-saas-analytics-platform)|🆕 Aug 28, 2026|
 |**NVIDIA**|[Autonomous-Driving Camera Perception Pipeline](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline)|🆕 Aug 28, 2026|
 |**Oracle**|[Design a Software Load Balancer](https://www.fastprep.io/system-design/software-load-balancer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/software-load-balancer)|🆕 Aug 28, 2026|
@@ -1714,6 +1716,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Wells Fargo**|[Minimum Remaining Length](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|Feb 08, 2026|
 |**Salesforce**|[Collect Opportunity Data in a Tree](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Feb 06, 2026|
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
-|**Salesforce**|[Strings With No k Consecutive Identical Characters](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Feb 06, 2026|
-|**Google**|[Closest-Timestamp Key-Value Queries](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Feb 06, 2026|
 <a id="bottom"></a>
