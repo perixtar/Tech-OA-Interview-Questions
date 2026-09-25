@@ -841,6 +841,7 @@
 |**Microsoft**|[Handmade Items](https://www.fastprep.io/problems/microsoft-handmade-item)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-handmade-item)|Mar 31, 2024|
 |**Microsoft**|[Cover Hotels](https://www.fastprep.io/problems/microsoft-cover-holes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cover-holes)|Mar 31, 2024|
 |**Google**|[Nearest Value Replacement](https://www.fastprep.io/problems/google-nearest-value-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-nearest-value-replacement)|Mar 29, 2024|
+|**Airbnb**|[Design a Rental Pricing Analytics Dashboard](https://www.fastprep.io/system-design/rental-pricing-analytics-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rental-pricing-analytics-dashboard)|Mar 29, 2024|
 |**Google**|[Min Operations](https://www.fastprep.io/problems/google-minimum-number-of-split-operations-to-make-array-sorted)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-number-of-split-operations-to-make-array-sorted)|Mar 28, 2024|
 |**SpaceX**|[Monster Registry](https://www.fastprep.io/problems/spacex-monster-registry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-monster-registry)|Mar 28, 2024|
 |**Google**|[Can Fit Word](https://www.fastprep.io/problems/google-can-fit-the-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-can-fit-the-word)|Mar 27, 2024|
