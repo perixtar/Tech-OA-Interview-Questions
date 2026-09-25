@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,250 questions**
+**2,254 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**WeWork**|[Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing)|[![Practice][p]](https://www.fastprep.io/problems/wework-shopping-and-billing)|Jun 24, 2024|
+|**Zscaler**|[Find the Element With Odd Frequency](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|Jun 22, 2024|
+|**Zscaler**|[Longest Common Subsequence Length](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|Jun 22, 2024|
+|**Zscaler**|[Merge Intervals](https://www.fastprep.io/problems/zscaler-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merge-intervals)|Jun 22, 2024|
 |**Zscaler**|[Run-Length Encoding](https://www.fastprep.io/problems/zscaler-run-length-encoding)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-run-length-encoding)|Jun 22, 2024|
 |**Zscaler**|[Sum of Divisors of the Array GCD](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|Jun 22, 2024|
 |**Salesforce**|[Count Substrings](https://www.fastprep.io/problems/salesforce-count-substrings)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-substrings)|Jun 20, 2024|
