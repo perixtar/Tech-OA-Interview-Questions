@@ -10,6 +10,8 @@
 | :-- | :-- | :-: | :-- |
 |**Intuit**|[Pressure-Isolation Shutdown Order](https://www.fastprep.io/problems/intuit-pressure-isolation-shutdown-order)|[![Practice][p]](https://www.fastprep.io/problems/intuit-pressure-isolation-shutdown-order)|🔥 Sep 22, 2026|
 |**Intuit**|[Submask Sum Queries](https://www.fastprep.io/problems/intuit-submask-sum-queries)|[![Practice][p]](https://www.fastprep.io/problems/intuit-submask-sum-queries)|🔥 Sep 22, 2026|
+|**Google**|[Minimize Absolute Difference of Server Loads](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|🔥 Sep 22, 2026|
+|**Google**|[Decreasing Subsequences](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|🔥 Sep 22, 2026|
 |**Amazon**|[Edit Distance](https://www.fastprep.io/problems/amazon-edit-distance)|[![Practice][p]](https://www.fastprep.io/problems/amazon-edit-distance)|🔥 Sep 21, 2026|
 |**Amazon**|[Word Ladder](https://www.fastprep.io/problems/amazon-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-ladder)|🔥 Sep 21, 2026|
 |**Amazon**|[Trapping Rain Water](https://www.fastprep.io/problems/amazon-trapping-rain-water)|[![Practice][p]](https://www.fastprep.io/problems/amazon-trapping-rain-water)|🔥 Sep 21, 2026|
@@ -398,8 +400,6 @@
 |**Walmart**|[Distinct Bitwise-OR Scores of Increasing Subsequences](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|[![Practice][p]](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|🆕 Sep 09, 2026|
 |**Google**|[Maximum Coins With Moving Tokens](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|🆕 Sep 09, 2026|
 |**Google**|[Maximum Elements With a Common Digit](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|🆕 Sep 09, 2026|
-|**Google**|[Min Ab Difference of Server Loads](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|🆕 Sep 09, 2026|
-|**Google**|[Decreasing Subsequences](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/google-split-array-into-consecutive-subsequences)|🆕 Sep 09, 2026|
 |**Tekion**|[Open Lockers After Toggle Passes](https://www.fastprep.io/problems/tekion-100-lockers)|[![Practice][p]](https://www.fastprep.io/problems/tekion-100-lockers)|🆕 Sep 09, 2026|
 |**Tekion**|[Coin Game From The Ends](https://www.fastprep.io/problems/tekion-coin-game-from-ends)|[![Practice][p]](https://www.fastprep.io/problems/tekion-coin-game-from-ends)|🆕 Sep 09, 2026|
 |**Perplexity AI**|[In-Memory Filesystem Commands](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|[![Practice][p]](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|🆕 Sep 09, 2026|
