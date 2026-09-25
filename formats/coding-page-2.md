@@ -2,12 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,223 questions**
+**2,232 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Jun 10, 2024|
+|**Amazon**|[Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Jun 02, 2024|
+|**Amazon**|[Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Jun 02, 2024|
+|**Salesforce**|[Winning Square](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Jun 02, 2024|
+|**Google**|[Max Subarray Filled with Zeros](https://www.fastprep.io/problems/google-max-subarray-filled-with-zeros)|[![Practice][p]](https://www.fastprep.io/problems/google-max-subarray-filled-with-zeros)|Jun 02, 2024|
+|**Google**|[Find Last Characters](https://www.fastprep.io/problems/google-find-last-character)|[![Practice][p]](https://www.fastprep.io/problems/google-find-last-character)|Jun 02, 2024|
+|**Microsoft**|[Longest Spike](https://www.fastprep.io/problems/microsoft-the-longest-spike)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-the-longest-spike)|Jun 02, 2024|
+|**Google**|[Find Min Possible Diameter](https://www.fastprep.io/problems/google-find-minimum-possible-diameter)|[![Practice][p]](https://www.fastprep.io/problems/google-find-minimum-possible-diameter)|May 31, 2024|
+|**Google**|[Generate Pattern Matching Strings](https://www.fastprep.io/problems/google-generate-pattern-matching-strings)|[![Practice][p]](https://www.fastprep.io/problems/google-generate-pattern-matching-strings)|May 25, 2024|
+|**Goldman Sachs**|[Find the Damaged Toy](https://www.fastprep.io/problems/goldman-find-the-damaged-toy)|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-the-damaged-toy)|May 25, 2024|
 |**Goldman Sachs**|[Encode or Decode Message](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|[![Practice][p]](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|May 25, 2024|
 |**Cisco**|[Flight Path Package Drop](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|May 25, 2024|
 |**Postman**|[Encode and Decode a String Stream](https://www.fastprep.io/problems/postman-transform-string-stream)|[![Practice][p]](https://www.fastprep.io/problems/postman-transform-string-stream)|May 17, 2024|
