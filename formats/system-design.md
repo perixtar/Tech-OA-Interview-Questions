@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**364 questions**
+**367 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**LiveKit**|[AI Support Agent with Guarded Refunds](https://www.fastprep.io/system-design/ai-support-agent-with-guarded-refunds)|[![Practice][p]](https://www.fastprep.io/system-design/ai-support-agent-with-guarded-refunds)|🔥 Sep 25, 2026|
 |**Infosys / Waymo / Goldman Sachs / Onehouse / Amazon / Meta / Flipkart**|[Design Ride-Hailing Dispatch and Trip Lifecycle](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system)|[![Practice][p]](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system)|🔥 Sep 24, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Sep 24, 2026|
 |**Citadel / ByteDance / Microsoft / Walmart**|[Design an Authenticated Shopping Platform](https://www.fastprep.io/system-design/authenticated-shopping-platform)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-shopping-platform)|🔥 Sep 24, 2026|
@@ -178,6 +179,7 @@
 |**LinkedIn**|[Design a Job Listing Freshness Platform](https://www.fastprep.io/system-design/job-listing-freshness-platform)|[![Practice][p]](https://www.fastprep.io/system-design/job-listing-freshness-platform)|🆕 Aug 27, 2026|
 |**Superhuman / Grammarly**|[Design an Ephemeral Messaging Service](https://www.fastprep.io/system-design/ephemeral-message-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/ephemeral-message-delivery)|🆕 Aug 26, 2026|
 |**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|🆕 Aug 26, 2026|
+|**ElevenLabs**|[AI-Assisted Commerce Platform](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|🆕 Aug 26, 2026|
 |**Netflix / Google**|[Design a Grounded Recommendation Chatbot](https://www.fastprep.io/system-design/grounded-recommendation-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/grounded-recommendation-chatbot)|🆕 Aug 25, 2026|
 |**Rippling / Apple / Oracle / Confluent**|[Design a Centralized Log Ingestion and Search Platform](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|[![Practice][p]](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|🆕 Aug 25, 2026|
 |**Tekion**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🆕 Aug 25, 2026|
@@ -255,6 +257,7 @@
 |**Spotify**|[Design a Weekly User Activity Prediction System](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|[![Practice][p]](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|Aug 10, 2026|
 |**Anthropic**|[Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability)|[![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability)|Aug 10, 2026|
 |**Amazon**|[Design Group Purchase Contributions and Settlement](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|[![Practice][p]](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|Aug 10, 2026|
+|**Abridge**|[Streaming Transcription Service](https://www.fastprep.io/system-design/streaming-transcription-service)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-transcription-service)|Aug 10, 2026|
 |**Apple**|[Design an On-Prem Media Transfer for Cloud GPU Training](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training)|[![Practice][p]](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training)|Aug 09, 2026|
 |**Zoox**|[Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display)|Aug 07, 2026|
 |**Figma**|[Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files)|[![Practice][p]](https://www.fastprep.io/system-design/trending-design-files)|Aug 07, 2026|
