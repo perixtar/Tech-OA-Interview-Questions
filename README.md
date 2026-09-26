@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,258)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (399)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,274)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (399)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1656,6 +1656,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Oscar Health**|[Members Lacking Provider Network Access](https://www.fastprep.io/problems/oscar-health-members-lacking-provider-network-access)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oscar-health-members-lacking-provider-network-access)|Apr 30, 2026|
 |**Tesla**|[KV Store with Rollback](https://www.fastprep.io/problems/tesla-kv-store-with-rollback)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-kv-store-with-rollback)|Apr 30, 2026|
 |**Datadog**|[Find a Target Photo in a Stream](https://www.fastprep.io/system-design/photo-stream-exact-match-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-stream-exact-match-search)|Apr 30, 2026|
+|**Duolingo**|[Return Every Matching Decryption](https://www.fastprep.io/problems/duolingo-decrypt-all-matching-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-decrypt-all-matching-strings)|Apr 29, 2026|
 |**Oura**|[Assign Server Numbers by Type](https://www.fastprep.io/problems/oura-assign-server-numbers-by-type)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oura-assign-server-numbers-by-type)|Apr 28, 2026|
 |**Verkada**|[Find Valid IP Addresses](https://www.fastprep.io/problems/verkada-find-valid-ip-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/verkada-find-valid-ip-addresses)|Apr 28, 2026|
 |**Visa**|[Maximize Capped Contribution Sum](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|Apr 27, 2026|
@@ -1671,7 +1672,9 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Uber**|[Minimum Edge Reversals to Root a Tree](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|Apr 25, 2026|
 |**Amazon**|[Design a Fastag Toll Payment System](https://www.fastprep.io/system-design/fastag-toll-payment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fastag-toll-payment-system)|Apr 25, 2026|
 |**Amazon**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
+|**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
+|**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
 |**Amazon**|[Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-errors)|Apr 16, 2026|
 |**Mistral AI**|[PDF-to-Markdown Inference API](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|Apr 16, 2026|
 |**Google / Datadog**|[Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|Apr 15, 2026|
@@ -1711,7 +1714,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Swiggy**|[First and Last Occurrence](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Mar 20, 2026|
 |**TCS**|[Gym Fees Calculator](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Mar 20, 2026|
 |**Autodesk**|[Design a Rapid Grocery Ordering Platform](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|Mar 18, 2026|
-|**Salesforce**|[Key Teams in Tree](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Mar 15, 2026|
-|**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
-|**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
 <a id="bottom"></a>
