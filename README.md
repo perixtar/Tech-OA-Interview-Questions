@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,258)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (404)](formats/system-design.md) · [Low-level design (99)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,259)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (404)](formats/system-design.md) · [Low-level design (99)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -643,6 +643,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Salesforce**|[LRU Cache](https://www.fastprep.io/problems/salesforce-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-lru-cache)|🆕 Sep 10, 2026|
 |**Salesforce**|[Rotting Oranges](https://www.fastprep.io/problems/salesforce-rotting-oranges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-rotting-oranges)|🆕 Sep 10, 2026|
 |**Salesforce**|[Maximum Stock Profit with Unlimited Transactions](https://www.fastprep.io/problems/salesforce-stock-dp-variant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-stock-dp-variant)|🆕 Sep 10, 2026|
+|**Amazon**|[Page Referrer Reachability](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|🆕 Sep 10, 2026|
 |**Get My Parking**|[Remove Duplicates From Sorted Array In Place](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|🆕 Sep 09, 2026|
 |**Infosys**|[Assign Cookies With Matching Parity](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|🆕 Sep 09, 2026|
 |**Infosys**|[Count Equal Code Pairs Within Distance K](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|🆕 Sep 09, 2026|
@@ -1712,5 +1713,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Microsoft**|[Visible Profiles Count](https://www.fastprep.io/problems/microsoft-visible-profiles-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-visible-profiles-count)|Mar 21, 2026|
 |**Swiggy**|[First and Last Occurrence](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Mar 20, 2026|
 |**TCS**|[Gym Fees Calculator](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Mar 20, 2026|
-|**Autodesk**|[Design a Rapid Grocery Ordering Platform](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|Mar 18, 2026|
 <a id="bottom"></a>

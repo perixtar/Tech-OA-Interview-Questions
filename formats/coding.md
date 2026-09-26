@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,258 questions**
+**2,259 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -410,6 +410,7 @@
 |**Salesforce**|[LRU Cache](https://www.fastprep.io/problems/salesforce-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-lru-cache)|🆕 Sep 10, 2026|
 |**Salesforce**|[Rotting Oranges](https://www.fastprep.io/problems/salesforce-rotting-oranges)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-rotting-oranges)|🆕 Sep 10, 2026|
 |**Salesforce**|[Maximum Stock Profit with Unlimited Transactions](https://www.fastprep.io/problems/salesforce-stock-dp-variant)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-stock-dp-variant)|🆕 Sep 10, 2026|
+|**Amazon**|[Page Referrer Reachability](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|[![Practice][p]](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|🆕 Sep 10, 2026|
 |**Get My Parking**|[Remove Duplicates From Sorted Array In Place](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/getmyparking-remove-duplicates-sorted-array)|🆕 Sep 09, 2026|
 |**Infosys**|[Assign Cookies With Matching Parity](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|[![Practice][p]](https://www.fastprep.io/problems/infosys-assign-cookies-same-parity)|🆕 Sep 09, 2026|
 |**Infosys**|[Count Equal Code Pairs Within Distance K](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|[![Practice][p]](https://www.fastprep.io/problems/infosys-equal-code-pairs-within-k)|🆕 Sep 09, 2026|
@@ -1883,5 +1884,4 @@
 |**Uber**|[Find Length of Longest Common Prefix](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|Jun 27, 2024|
 |**Snowflake**|[Minimum Segment](https://www.fastprep.io/problems/snowflake-minimum-division)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-division)|Jun 27, 2024|
 |**Cisco**|[Find Critical Nodes](https://www.fastprep.io/problems/cisco-find-critical-nodes)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Jun 27, 2024|
-|**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|
 <a id="bottom"></a>
