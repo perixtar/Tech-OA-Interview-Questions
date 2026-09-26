@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,258 questions**
+**2,266 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -352,6 +352,8 @@
 |**Onehouse**|[Least Recently Used Cache](https://www.fastprep.io/problems/onehouse-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lru-cache)|Nov 07, 2023|
 |**Onehouse**|[Least Frequently Used Cache](https://www.fastprep.io/problems/onehouse-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lfu-cache)|Nov 07, 2023|
 |**SpaceX**|[Simplified Time-Based Key-Value Store](https://www.fastprep.io/problems/spacex-simplified-time-map)|[![Practice][p]](https://www.fastprep.io/problems/spacex-simplified-time-map)|Nov 02, 2023|
+|**Deloitte**|[Install Carbon Filters](https://www.fastprep.io/problems/deloitte-install-carbon-filters)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-install-carbon-filters)|Oct 21, 2023|
+|**Deloitte**|[Longest Substring with Even Occurrences](https://www.fastprep.io/problems/deloitte-lonest-substring-with-even-occurrences)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-lonest-substring-with-even-occurrences)|Oct 21, 2023|
 |**Amazon**|[Get Average Standing](https://www.fastprep.io/problems/get-average-standing)|[![Practice][p]](https://www.fastprep.io/problems/get-average-standing)|Sep 24, 2023|
 |**Amazon**|[Minimum Time Spent](https://www.fastprep.io/problems/minimum-time-spent)|[![Practice][p]](https://www.fastprep.io/problems/minimum-time-spent)|Sep 24, 2023|
 |**Amazon**|[Count Max Num Teams](https://www.fastprep.io/problems/count-max-num-teams)|[![Practice][p]](https://www.fastprep.io/problems/count-max-num-teams)|Sep 24, 2023|
@@ -373,6 +375,9 @@
 |**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
 |**Deloitte**|[Equal-Length Character Blocks](https://www.fastprep.io/problems/deloitte-equal-length-blocks)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-equal-length-blocks)|Jan 28, 2022|
+|**Deloitte**|[Annual Bank Balance with Monthly Card Fees](https://www.fastprep.io/problems/deloitte-annual-bank-balance)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-annual-bank-balance)|Jan 28, 2022|
+|**Deloitte**|[Count Battleships by Size](https://www.fastprep.io/problems/deloitte-count-battleship-types)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-count-battleship-types)|Jan 28, 2022|
+|**Deloitte**|[Number of Steps to Reduce a Binary Number to One](https://www.fastprep.io/problems/deloitte-reduce-binary-number-to-one)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-reduce-binary-number-to-one)|Jan 28, 2022|
 |**Rippling**|[Layered Rectangle Canvas](https://www.fastprep.io/problems/rippling-matrix-rectangle-canvas)|[![Practice][p]](https://www.fastprep.io/problems/rippling-matrix-rectangle-canvas)|Jan 15, 2022|
 |**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 |**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
@@ -390,4 +395,7 @@
 |**Tesla**|[Batched Strided Convolution](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|[![Practice][p]](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|Nov 13, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
+|**Deloitte**|[Parameterized Divisibility Labels](https://www.fastprep.io/problems/deloitte-parameterized-divisibility-labels)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-parameterized-divisibility-labels)|Feb 12, 2019|
+|**Deloitte**|[Sorted Character Frequencies](https://www.fastprep.io/problems/deloitte-sorted-character-frequencies)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-sorted-character-frequencies)|Feb 12, 2019|
+|**Deloitte**|[Top N Longest Sentences](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|Feb 12, 2019|
 <a id="bottom"></a>
