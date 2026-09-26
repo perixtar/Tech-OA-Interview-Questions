@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Key Teams in Tree](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Mar 15, 2026|
+|**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
 |**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
 |**FlexTrade**|[Reverse a String](https://www.fastprep.io/problems/flextrade-reverse-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-reverse-string)|Mar 14, 2026|
 |**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Mar 12, 2026|
@@ -106,6 +108,7 @@
 |**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
 |**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
 |**Google**|[Transform and Prune a Mode-Valued Binary Tree](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|Oct 29, 2025|
+|**Temporal**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|Oct 19, 2025|
 |**Google**|[Minimize the Maximum Pages Allocated](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|Oct 16, 2025|
 |**Microsoft**|[Distinct Number Line Moves](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|Oct 16, 2025|
 |**Google**|[Maximum Currency Conversion with Arbitrage](https://www.fastprep.io/problems/google-maximum-currency-conversion-with-arbitrage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-currency-conversion-with-arbitrage)|Oct 16, 2025|
@@ -812,6 +815,7 @@
 |**Goldman Sachs**|[Find the Damaged Toy](https://www.fastprep.io/problems/goldman-find-the-damaged-toy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-the-damaged-toy)|May 25, 2024|
 |**Goldman Sachs**|[Encode or Decode Message](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|May 25, 2024|
 |**Cisco**|[Flight Path Package Drop](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|May 25, 2024|
+|**Retool**|[Design a Station-Based Bike Sharing Platform](https://www.fastprep.io/system-design/station-based-bike-sharing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/station-based-bike-sharing-platform)|May 20, 2024|
 |**Postman**|[Encode and Decode a String Stream](https://www.fastprep.io/problems/postman-transform-string-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-transform-string-stream)|May 17, 2024|
 |**Amazon**|[Get Experience](https://www.fastprep.io/problems/amazon-get-exp)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-exp)|May 13, 2024|
 |**Uber**|[Maximize XOR for Each Query](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query)|May 13, 2024|
@@ -945,6 +949,8 @@
 |**Atlassian**|[Romanizer](https://www.fastprep.io/problems/atlanssian-romanizer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/atlanssian-romanizer)|Mar 09, 2024|
 |**Braze**|[Find Lowest Price](https://www.fastprep.io/problems/braze-find-lowest-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/braze-find-lowest-price)|Mar 09, 2024|
 |**Zscaler**|[Count Sentences](https://www.fastprep.io/problems/zscaler-count-sentences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-sentences)|Mar 09, 2024|
+|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
+|**Sentry**|[Design and Implement a Multi-Entrance Parking Lot](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Mar 08, 2024|
 |**Google**|[Largest Lexicographical Substring](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Mar 05, 2024|
 |**Google**|[Maximize Power Values Sum](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Mar 05, 2024|
 |**Amazon**|[Ways to Group Parcels](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Mar 04, 2024|
@@ -1154,6 +1160,7 @@
 |**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 |**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
 |**Tesla**|[Maximum Even-Sum Adjacent Pairs in a Circular Array](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|Oct 17, 2021|
+|**Carta**|[Design a Mobile and Server Shopping Cart](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|Oct 11, 2021|
 |**IMC**|[Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Sep 24, 2021|
 |**IMC**|[Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Sep 24, 2021|
 |**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|

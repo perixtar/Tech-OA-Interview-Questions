@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**97 questions**
+**99 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -102,6 +102,8 @@
 |**Confluent**|[Design and Implement a Thread-Safe Delayed Task Runner](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Jan 16, 2025|
 |**Postman**|[Design Undo Delete for Shared Collections](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|[![Practice][p]](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|Jul 19, 2024|
 |**Postman**|[Design Undoable Deletion for API Collections](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|[![Practice][p]](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Jul 19, 2024|
+|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
+|**Sentry**|[Design and Implement a Multi-Entrance Parking Lot](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Mar 08, 2024|
 |**Onehouse**|[Design a Kafka-Like Distributed Queue](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Nov 07, 2023|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Twitch**|[Design and Implement a Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|Dec 12, 2020|
