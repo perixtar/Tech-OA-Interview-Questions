@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,258 questions**
+**2,267 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1250,6 +1250,9 @@
 |**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
 |**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
 |**Google**|[Transform and Prune a Mode-Valued Binary Tree](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|Oct 29, 2025|
+|**Duolingo**|[Collect Sticks for a Bird's Nest](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Oct 29, 2025|
+|**Duolingo**|[Dynamic Pair Sum Queries](https://www.fastprep.io/problems/duolingo-dynamic-pair-sum-queries)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-dynamic-pair-sum-queries)|Oct 29, 2025|
+|**Duolingo**|[Longest Border-Ending Diagonal Pattern](https://www.fastprep.io/problems/duolingo-longest-border-ending-diagonal-pattern)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-border-ending-diagonal-pattern)|Oct 29, 2025|
 |**Google**|[Minimize the Maximum Pages Allocated](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|Oct 16, 2025|
 |**Microsoft**|[Distinct Number Line Moves](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|Oct 16, 2025|
 |**Google**|[Maximum Currency Conversion with Arbitrage](https://www.fastprep.io/problems/google-maximum-currency-conversion-with-arbitrage)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-currency-conversion-with-arbitrage)|Oct 16, 2025|
@@ -1478,6 +1481,7 @@
 |**Quora**|[Count Powers Of K](https://www.fastprep.io/problems/quora-count-powers-of-k)|[![Practice][p]](https://www.fastprep.io/problems/quora-count-powers-of-k)|Dec 06, 2024|
 |**Quora**|[Determine the Elimination Order](https://www.fastprep.io/problems/quora-determine-the-elimination-order)|[![Practice][p]](https://www.fastprep.io/problems/quora-determine-the-elimination-order)|Dec 06, 2024|
 |**Wells Fargo**|[Get Min Length](https://www.fastprep.io/problems/wellsfargo-get-min-length)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-min-length)|Dec 06, 2024|
+|**Duolingo**|[Bouncing Square Reaches a Screen Corner](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|Dec 05, 2024|
 |**Amazon**|[Data Dependence Sum](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|Dec 03, 2024|
 |**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-get-min-operations2)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-operations2)|Dec 03, 2024|
 |**TikTok**|[Interesting Watch Sequence](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Dec 03, 2024|
@@ -1879,9 +1883,4 @@
 |**Citadel**|[Get Recommended Friends](https://www.fastprep.io/problems/citadel-get-recommended-friends)|[![Practice][p]](https://www.fastprep.io/problems/citadel-get-recommended-friends)|Jul 10, 2024|
 |**Goldman Sachs**|[Alphanumeric Combinations](https://www.fastprep.io/problems/goldman-alphanumeric-combinations)|[![Practice][p]](https://www.fastprep.io/problems/goldman-alphanumeric-combinations)|Jul 10, 2024|
 |**Amazon**|[Max Consecutive ON Servers](https://www.fastprep.io/problems/amazon-get-max-consecutive-on)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-consecutive-on)|Jul 09, 2024|
-|**Amazon**|[Get Total Requests](https://www.fastprep.io/problems/amazon-get-total-requests)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-total-requests)|Jun 27, 2024|
-|**Uber**|[Find Length of Longest Common Prefix](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|Jun 27, 2024|
-|**Snowflake**|[Minimum Segment](https://www.fastprep.io/problems/snowflake-minimum-division)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-division)|Jun 27, 2024|
-|**Cisco**|[Find Critical Nodes](https://www.fastprep.io/problems/cisco-find-critical-nodes)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Jun 27, 2024|
-|**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|
 <a id="bottom"></a>

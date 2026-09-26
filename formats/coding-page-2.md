@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,258 questions**
+**2,267 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Total Requests](https://www.fastprep.io/problems/amazon-get-total-requests)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-total-requests)|Jun 27, 2024|
+|**Uber**|[Find Length of Longest Common Prefix](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|Jun 27, 2024|
+|**Snowflake**|[Minimum Segment](https://www.fastprep.io/problems/snowflake-minimum-division)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-division)|Jun 27, 2024|
+|**Cisco**|[Find Critical Nodes](https://www.fastprep.io/problems/cisco-find-critical-nodes)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Jun 27, 2024|
+|**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|
 |**Adobe**|[Determine the Edit Distance in a Word Ladder](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Jun 24, 2024|
 |**Flexport**|[Distinct Moves](https://www.fastprep.io/problems/flexport-distinct-moves)|[![Practice][p]](https://www.fastprep.io/problems/flexport-distinct-moves)|Jun 24, 2024|
 |**Flexport**|[Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges)|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Jun 24, 2024|
@@ -371,6 +376,9 @@
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
+|**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
+|**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Sep 21, 2022|
+|**Duolingo**|[Rank Common Translation Mistakes](https://www.fastprep.io/problems/duolingo-counting-mistakes)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Sep 19, 2022|
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
 |**Deloitte**|[Equal-Length Character Blocks](https://www.fastprep.io/problems/deloitte-equal-length-blocks)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-equal-length-blocks)|Jan 28, 2022|
 |**Rippling**|[Layered Rectangle Canvas](https://www.fastprep.io/problems/rippling-matrix-rectangle-canvas)|[![Practice][p]](https://www.fastprep.io/problems/rippling-matrix-rectangle-canvas)|Jan 15, 2022|
@@ -379,6 +387,8 @@
 |**Tesla**|[Maximum Even-Sum Adjacent Pairs in a Circular Array](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|Oct 17, 2021|
 |**IMC**|[Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0)|[![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Sep 24, 2021|
 |**IMC**|[Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|[![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Sep 24, 2021|
+|**Duolingo**|[Count Distinct Word Meanings](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Sep 02, 2021|
+|**Duolingo**|[Count Legal Outfit Combinations](https://www.fastprep.io/problems/duolingo-count-legal-outfit-combinations)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-legal-outfit-combinations)|Sep 02, 2021|
 |**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|
 |**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
 |**IMC**|[Hidden Artifacts](https://www.fastprep.io/problems/imc-hidden-artifacts)|[![Practice][p]](https://www.fastprep.io/problems/imc-hidden-artifacts)|Oct 20, 2020|
