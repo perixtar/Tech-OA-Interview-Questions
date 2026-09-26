@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,258)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (399)](formats/system-design.md) · [Low-level design (96)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,258)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (399)](formats/system-design.md) · [Low-level design (97)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -97,6 +97,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Pinterest**|[Design a Feedback-Aware Cluster Workload Scheduler](https://www.fastprep.io/system-design/feedback-aware-kubernetes-workload-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/feedback-aware-kubernetes-workload-scheduler)|🔥 Sep 23, 2026|
 |**Amazon**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Sep 23, 2026|
 |**Atlassian**|[Design a Searchable Emoji Picker](https://www.fastprep.io/system-design/searchable-emoji-picker-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/searchable-emoji-picker-service)|🔥 Sep 23, 2026|
+|**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Sep 23, 2026|
 |**Harvey**|[Design Human-Governed File Review Agents](https://www.fastprep.io/system-design/human-governed-file-review-agents)|System design|[![Practice][p]](https://www.fastprep.io/system-design/human-governed-file-review-agents)|🔥 Sep 22, 2026|
 |**Anthropic / Snap Inc. / Lyft / Fivetran**|[One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service)|🔥 Sep 22, 2026|
 |**OpenAI / Commvault**|[Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform)|🔥 Sep 22, 2026|
@@ -1713,5 +1714,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airt
 |**Autodesk**|[Design a Rapid Grocery Ordering Platform](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|Mar 18, 2026|
 |**Salesforce**|[Key Teams in Tree](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Mar 15, 2026|
 |**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
-|**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
 <a id="bottom"></a>

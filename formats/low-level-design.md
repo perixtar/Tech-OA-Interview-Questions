@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**96 questions**
+**97 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -16,6 +16,7 @@
 |**Globalization Partners / Coupa Software**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Sep 23, 2026|
 |**Micro1 / Amazon**|[Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|🔥 Sep 23, 2026|
 |**Coupa Software**|[Design and Implement an Immutable Customer Profile](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|[![Practice][p]](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|🔥 Sep 23, 2026|
+|**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Sep 23, 2026|
 |**PayPay**|[Design a Pluggable Random Value Library](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|🔥 Sep 22, 2026|
 |**Tekion**|[Design and Implement a TTL Cache Library](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|🔥 Sep 21, 2026|
 |**Kotak Mahindra Bank**|[Design a Movie Ticket Booking Platform](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|🔥 Sep 20, 2026|
