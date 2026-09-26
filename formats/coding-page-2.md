@@ -2,12 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,283 questions**
+**2,294 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Ramp**|[Correct Apartment Bedroom Counts](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|[![Practice][p]](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Aug 01, 2024|
+|**Character.AI**|[Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/character-ai-guess-the-word)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-guess-the-word)|Jul 31, 2024|
+|**Amazon**|[Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Jul 25, 2024|
+|**IBM**|[Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Jul 25, 2024|
+|**Uber**|[Count L Shapes](https://www.fastprep.io/problems/uber-count-l-shapes)|[![Practice][p]](https://www.fastprep.io/problems/uber-count-l-shapes)|Jul 20, 2024|
+|**Uber**|[Count Elements With At Least One Smaller And One Greater Value](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|[![Practice][p]](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Jul 20, 2024|
+|**Uber**|[Min Operations To Make Harmonious](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Jul 20, 2024|
+|**Snowflake**|[Get Maximum Sum](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Jul 20, 2024|
+|**Jane Street**|[Transform String](https://www.fastprep.io/problems/janestreet-transform-string)|[![Practice][p]](https://www.fastprep.io/problems/janestreet-transform-string)|Jul 20, 2024|
+|**Hudson River Trading**|[Buy and Sell Stock](https://www.fastprep.io/problems/hudsonriver-buy-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-buy-sell-stock)|Jul 17, 2024|
 |**DE Shaw**|[Make Array Bitonic](https://www.fastprep.io/problems/make-array-bitonic-deshaw)|[![Practice][p]](https://www.fastprep.io/problems/make-array-bitonic-deshaw)|Jul 17, 2024|
 |**Moveworks**|[Number of Balanced Strings](https://www.fastprep.io/problems/moveworks-number-of-balanced-strings)|[![Practice][p]](https://www.fastprep.io/problems/moveworks-number-of-balanced-strings)|Jul 17, 2024|
 |**Moveworks**|[Min Moves to Sort Array](https://www.fastprep.io/problems/moveworks-minimum-moves-to-sort-array)|[![Practice][p]](https://www.fastprep.io/problems/moveworks-minimum-moves-to-sort-array)|Jul 17, 2024|

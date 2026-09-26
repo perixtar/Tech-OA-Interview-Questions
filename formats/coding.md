@@ -2,12 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,283 questions**
+**2,294 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Suno**|[Longest Path in a Directed Acyclic Graph](https://www.fastprep.io/problems/suno-longest-dag-path)|[![Practice][p]](https://www.fastprep.io/problems/suno-longest-dag-path)|🔥 Sep 26, 2026|
+|**Suno**|[Referral Credits After a First Song](https://www.fastprep.io/problems/suno-referral-song-credits)|[![Practice][p]](https://www.fastprep.io/problems/suno-referral-song-credits)|🔥 Sep 26, 2026|
+|**Wayve**|[Factorial Without Multiplication](https://www.fastprep.io/problems/wayve-factorial-without-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/wayve-factorial-without-multiplication)|🔥 Sep 26, 2026|
+|**Wayve**|[Non-Maximum Suppression](https://www.fastprep.io/problems/wayve-non-maximum-suppression)|[![Practice][p]](https://www.fastprep.io/problems/wayve-non-maximum-suppression)|🔥 Sep 26, 2026|
+|**Wayve**|[Longest Stationary Sensor Interval](https://www.fastprep.io/problems/wayve-longest-stationary-interval)|[![Practice][p]](https://www.fastprep.io/problems/wayve-longest-stationary-interval)|🔥 Sep 26, 2026|
+|**Waabi**|[Root Mean Square Error](https://www.fastprep.io/problems/waabi-root-mean-square-error)|[![Practice][p]](https://www.fastprep.io/problems/waabi-root-mean-square-error)|🔥 Sep 26, 2026|
+|**Rogo**|[Password From Ordering Hints](https://www.fastprep.io/problems/rogo-password-from-ordering-hints)|[![Practice][p]](https://www.fastprep.io/problems/rogo-password-from-ordering-hints)|🔥 Sep 26, 2026|
+|**Etched**|[Periodic Event Loop](https://www.fastprep.io/problems/etched-periodic-event-loop)|[![Practice][p]](https://www.fastprep.io/problems/etched-periodic-event-loop)|🔥 Sep 26, 2026|
+|**Etched**|[DMA Stream Distribution](https://www.fastprep.io/problems/etched-dma-stream-distribution)|[![Practice][p]](https://www.fastprep.io/problems/etched-dma-stream-distribution)|🔥 Sep 26, 2026|
+|**Modal**|[Single-Flight Chunk Cache](https://www.fastprep.io/problems/modal-single-flight-chunk-cache)|[![Practice][p]](https://www.fastprep.io/problems/modal-single-flight-chunk-cache)|🔥 Sep 26, 2026|
 |**Character.AI**|[Spreadsheet With Dependent Cells](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|🔥 Sep 25, 2026|
 |**Clay**|[Hierarchical In-Memory File System](https://www.fastprep.io/problems/clay-hierarchical-file-system)|[![Practice][p]](https://www.fastprep.io/problems/clay-hierarchical-file-system)|🔥 Sep 25, 2026|
 |**Clay**|[Workspace File System With Folders and Tables](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|[![Practice][p]](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|🔥 Sep 25, 2026|
@@ -1145,6 +1155,7 @@
 |**Uber**|[Minimum Edge Reversals to Root a Tree](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|Apr 25, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Amazon**|[Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-errors)|Apr 16, 2026|
+|**Mistral AI**|[GPU Capacity With Limited Cluster Switching](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|[![Practice][p]](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|Apr 16, 2026|
 |**Amazon**|[Maximum Score With Non-Adjacent Values](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Apr 14, 2026|
 |**Amazon**|[Make Value Groups Contiguous](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Apr 13, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
@@ -1873,14 +1884,4 @@
 |**Hyper Verge**|[Get String to Remove](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|[![Practice][p]](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Aug 05, 2024|
 |**Onix**|[Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove)|[![Practice][p]](https://www.fastprep.io/problems/onix-get-string-to-remove)|Aug 05, 2024|
 |**SIG**|[Count Triples](https://www.fastprep.io/problems/counting-triples)|[![Practice][p]](https://www.fastprep.io/problems/counting-triples)|Aug 05, 2024|
-|**Ramp**|[Correct Apartment Bedroom Counts](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|[![Practice][p]](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Aug 01, 2024|
-|**Character.AI**|[Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/character-ai-guess-the-word)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-guess-the-word)|Jul 31, 2024|
-|**Amazon**|[Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Jul 25, 2024|
-|**IBM**|[Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Jul 25, 2024|
-|**Uber**|[Count L Shapes](https://www.fastprep.io/problems/uber-count-l-shapes)|[![Practice][p]](https://www.fastprep.io/problems/uber-count-l-shapes)|Jul 20, 2024|
-|**Uber**|[Count Elements With At Least One Smaller And One Greater Value](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|[![Practice][p]](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Jul 20, 2024|
-|**Uber**|[Min Operations To Make Harmonious](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Jul 20, 2024|
-|**Snowflake**|[Get Maximum Sum](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Jul 20, 2024|
-|**Jane Street**|[Transform String](https://www.fastprep.io/problems/janestreet-transform-string)|[![Practice][p]](https://www.fastprep.io/problems/janestreet-transform-string)|Jul 20, 2024|
-|**Hudson River Trading**|[Buy and Sell Stock](https://www.fastprep.io/problems/hudsonriver-buy-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-buy-sell-stock)|Jul 17, 2024|
 <a id="bottom"></a>
