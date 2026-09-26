@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**FlexTrade**|[Reverse a String](https://www.fastprep.io/problems/flextrade-reverse-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-reverse-string)|Mar 14, 2026|
+|**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Mar 12, 2026|
+|**Adobe**|[Maximum Reachable Value Within a Step Budget](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Mar 12, 2026|
+|**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Mar 12, 2026|
+|**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
+|**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|
 |**Google**|[Select First or Last K Stream Words](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|Feb 28, 2026|
