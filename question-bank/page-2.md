@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Capital One**|[Longest Same-Character Substring](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|May 31, 2026|
+|**Capital One**|[Count House Segments After Destruction](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|May 31, 2026|
+|**Capital One**|[Laser Robot Safe Path](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|May 31, 2026|
+|**Hebbia**|[Ultimate Tic-Tac-Toe Move Simulator](https://www.fastprep.io/problems/hebbia-ultimate-tic-tac-toe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-ultimate-tic-tac-toe)|May 30, 2026|
 |**Amazon**|[Lowest Common Ancestor Implemented with Stack](https://www.fastprep.io/problems/amazon-lowest-common-ancestor-implemented-with-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lowest-common-ancestor-implemented-with-stack)|May 30, 2026|
 |**Akuna**|[Maximum Difference](https://www.fastprep.io/problems/akuna-maximum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-difference)|May 25, 2026|
 |**Amazon**|[Product Category Group Sizes](https://www.fastprep.io/problems/amazon-product-category-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-category-groups)|May 23, 2026|

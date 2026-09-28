@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,748 questions**
+**2,752 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**TikTok**|[Optimize TikTok Reels Viewing](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|Sep 21, 2024|
+|**Salesforce**|[Min Difference](https://www.fastprep.io/problems/salesforce-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-difference)|Sep 20, 2024|
+|**Salesforce**|[Get Node to Remove](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|Sep 20, 2024|
+|**Salesforce**|[Min Dev Time](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|Sep 20, 2024|
 |**Google**|[Transformation Steps](https://www.fastprep.io/problems/google-array-transformation-steps)|[![Practice][p]](https://www.fastprep.io/problems/google-array-transformation-steps)|Sep 20, 2024|
 |**Google**|[Find Largest Number](https://www.fastprep.io/problems/google-find-largest-number)|[![Practice][p]](https://www.fastprep.io/problems/google-find-largest-number)|Sep 20, 2024|
 |**Hudson River Trading**|[Count Fancy Numbers](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|Sep 20, 2024|

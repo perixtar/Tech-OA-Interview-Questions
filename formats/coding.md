@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,748 questions**
+**2,752 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -10,6 +10,10 @@
 | :-- | :-- | :-: | :-- |
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 28, 2026|
 |**Microsoft**|[Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|🔥 Sep 28, 2026|
+|**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Sep 28, 2026|
+|**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🔥 Sep 28, 2026|
+|**OpenAI**|[Largest Microorganism After Consumption](https://www.fastprep.io/problems/openai-largest-microorganism)|[![Practice][p]](https://www.fastprep.io/problems/openai-largest-microorganism)|🔥 Sep 28, 2026|
+|**OpenAI**|[Repair One Movement Instruction](https://www.fastprep.io/problems/openai-repair-one-movement-instruction)|[![Practice][p]](https://www.fastprep.io/problems/openai-repair-one-movement-instruction)|🔥 Sep 28, 2026|
 |**Affirm**|[Count Distinct Underwriting PII Values](https://www.fastprep.io/problems/affirm-count-distinct-underwriting-pii)|[![Practice][p]](https://www.fastprep.io/problems/affirm-count-distinct-underwriting-pii)|🔥 Sep 27, 2026|
 |**Affirm**|[Cross-Day User Trust Scores](https://www.fastprep.io/problems/affirm-cross-day-user-trust-scores)|[![Practice][p]](https://www.fastprep.io/problems/affirm-cross-day-user-trust-scores)|🔥 Sep 27, 2026|
 |**Affirm**|[Propagating Fraud Detector](https://www.fastprep.io/problems/affirm-propagating-fraud-detector)|[![Practice][p]](https://www.fastprep.io/problems/affirm-propagating-fraud-detector)|🔥 Sep 27, 2026|
@@ -1853,8 +1857,4 @@
 |**DE Shaw**|[Count Incremovable Subarrays](https://www.fastprep.io/problems/deshaw-count-the-number-of-incremovable-subarrays-ii)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-count-the-number-of-incremovable-subarrays-ii)|Sep 23, 2024|
 |**TikTok**|[TikTok Server Optimization](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes)|Sep 21, 2024|
 |**TikTok**|[Tiktok Viral Challenge](https://www.fastprep.io/problems/tiktok-count-viral-combinations)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-viral-combinations)|Sep 21, 2024|
-|**TikTok**|[Optimize TikTok Reels Viewing](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|Sep 21, 2024|
-|**Salesforce**|[Min Difference](https://www.fastprep.io/problems/salesforce-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-difference)|Sep 20, 2024|
-|**Salesforce**|[Get Node to Remove](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|Sep 20, 2024|
-|**Salesforce**|[Min Dev Time](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|Sep 20, 2024|
 <a id="bottom"></a>
