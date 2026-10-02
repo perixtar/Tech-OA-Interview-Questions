@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Maximum Sum of Heights](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|Jul 12, 2026|
 |**Amazon**|[Longest Palindromic Subsequence](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Jul 12, 2026|
 |**Amazon**|[Group Anagrams](https://www.fastprep.io/problems/amazon-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-anagrams)|Jul 12, 2026|
 |**Amazon**|[Maximal Square](https://www.fastprep.io/problems/amazon-maximal-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximal-square)|Jul 12, 2026|
@@ -417,6 +418,7 @@
 |**Google**|[Design a Chatbot over Tables and Documents](https://www.fastprep.io/system-design/grounded-chatbot-over-tables-and-documents)|System design|[![Practice][p]](https://www.fastprep.io/system-design/grounded-chatbot-over-tables-and-documents)|Feb 08, 2026|
 |**ZipRecruiter**|[Restaurant Vote Leaders](https://www.fastprep.io/problems/ziprecruiter-restaurant-vote-leaders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-restaurant-vote-leaders)|Feb 08, 2026|
 |**Bloomberg LP**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Feb 07, 2026|
+|**Figma**|[Symmetric Binary Tree](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Feb 07, 2026|
 |**Hebbia**|[LRU Cache Snapshot Printer](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Feb 06, 2026|
 |**Salesforce**|[Collect Opportunity Data in a Tree](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Feb 06, 2026|
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
@@ -800,6 +802,7 @@
 |**Amazon**|[Maximize Sum of Array Multiplication](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Feb 05, 2025|
 |**Amazon**|[Sum of Max Subarrys](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Feb 02, 2025|
 |**Amazon**|[Get Maximum](https://www.fastprep.io/problems/amazon-get-maximum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum)|Feb 02, 2025|
+|**Figma**|[Topmost Accessible Nodes](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Jan 28, 2025|
 |**Postman**|[Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|Jan 17, 2025|
 |**Confluent**|[Design an Idempotent URL Shortening Service](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|Jan 16, 2025|
 |**Confluent**|[Design Crash Recovery for a Single-Node Key-Value Store](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|Jan 16, 2025|
@@ -1199,6 +1202,7 @@
 |**Sofi**|[Get Maximum Jobs](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sofi-get-maximum-jobs)|Aug 28, 2024|
 |**Zalando**|[Longest String](https://www.fastprep.io/problems/zolando-longest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-longest-string)|Aug 28, 2024|
 |**Zalando**|[String Manipulation](https://www.fastprep.io/problems/zolando-string-manipulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zolando-string-manipulation)|Aug 28, 2024|
+|**Figma**|[Intersection of Two Rectangles](https://www.fastprep.io/problems/figma-rectangle-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-rectangle-intersection)|Aug 26, 2024|
 |**Amazon**|[Choose Warehouse Location](https://www.fastprep.io/problems/amazon-choose-warehouses-location)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-choose-warehouses-location)|Aug 25, 2024|
 |**Akuna**|[Movie Ratings](https://www.fastprep.io/problems/akuna-maximize-ratings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximize-ratings)|Aug 25, 2024|
 |**TikTok**|[Min Days to Target Engagement](https://www.fastprep.io/problems/tiktok-min-days-to-target-engagement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-min-days-to-target-engagement)|Aug 25, 2024|
@@ -1366,6 +1370,8 @@
 |**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
 |**Amazon**|[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)|Jun 10, 2024|
 |**Snowflake**|[Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Jun 10, 2024|
+|**Figma**|[Nested Template Variable Expansion](https://www.fastprep.io/problems/figma-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-template-variable-expansion)|Jun 08, 2024|
+|**Figma**|[Parse, Validate, and Repair Markdown Formatting](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Jun 08, 2024|
 |**Motive**|[Resolve Variable Equations with Dependency Errors](https://www.fastprep.io/problems/motive-variable-equation-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-variable-equation-evaluator)|Jun 05, 2024|
 |**Amazon**|[Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Jun 02, 2024|
 |**Amazon**|[Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Jun 02, 2024|
@@ -1768,6 +1774,7 @@
 |**Persona**|[File Download Coverage Percentage](https://www.fastprep.io/problems/persona-download-coverage-percent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-download-coverage-percent)|Sep 20, 2023|
 |**NVIDIA**|[Neural-Network Graph Tracing and Autograd](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|Sep 19, 2023|
 |**Odoo**|[HTML Elements Single-Tag Correction](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Sep 18, 2023|
+|**Figma**|[Sparse Canvas Paint History](https://www.fastprep.io/problems/figma-canvas-paint-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-canvas-paint-history)|Sep 13, 2023|
 |**Amazon**|[Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-mean-rank-count)|Aug 31, 2023|
 |**Amazon**|[Count Spikes](https://www.fastprep.io/problems/count-spikes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-spikes)|Aug 31, 2023|
 |**Amazon**|[Get Minimum Costs](https://www.fastprep.io/problems/get-minimum-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-cost)|Aug 31, 2023|
@@ -1855,10 +1862,4 @@
 |**ZipRecruiter**|[Advance or Jump to the Next Special Line](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Oct 02, 2022|
 |**ZipRecruiter**|[Occupy and Clean Memory by Allocation ID](https://www.fastprep.io/problems/ziprecruiter-memory-allocation-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-memory-allocation-ids)|Oct 02, 2022|
 |**ZipRecruiter**|[Count Circular Alternating Binary Windows](https://www.fastprep.io/problems/ziprecruiter-circular-alternating-windows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-circular-alternating-windows)|Sep 30, 2022|
-|**ZipRecruiter**|[Center of the Largest Diagonal X](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Sep 30, 2022|
-|**ZipRecruiter**|[Rightmost Longest Character Run](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Sep 30, 2022|
-|**Bloomberg LP**|[Merge Multiple Sorted Streams](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Sep 26, 2022|
-|**Bloomberg LP**|[Populate Next Right Pointers](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Sep 26, 2022|
-|**ZipRecruiter**|[Longest Common File-System Path Prefix](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Sep 26, 2022|
-|**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
 <a id="bottom"></a>

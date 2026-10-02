@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,070 questions**
+**3,078 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -381,6 +381,7 @@
 |**Kotak Mahindra Bank**|[House Robber II](https://www.fastprep.io/problems/kotak-mahindra-bank-house-robber-ii)|[![Practice][p]](https://www.fastprep.io/problems/kotak-mahindra-bank-house-robber-ii)|🔥 Sep 20, 2026|
 |**Kotak Mahindra Bank**|[Trapping Rain Water](https://www.fastprep.io/problems/kotak-mahindra-bank-trapping-rain-water)|[![Practice][p]](https://www.fastprep.io/problems/kotak-mahindra-bank-trapping-rain-water)|🔥 Sep 20, 2026|
 |**LinkedIn**|[Inverse-Depth Nested List Sum](https://www.fastprep.io/problems/linkedin-nested-list-weight-sum-ii)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-nested-list-weight-sum-ii)|🔥 Sep 20, 2026|
+|**Figma**|[Layer History with Batch Undo and Redo](https://www.fastprep.io/problems/figma-layer-history)|[![Practice][p]](https://www.fastprep.io/problems/figma-layer-history)|🔥 Sep 20, 2026|
 |**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🔥 Sep 19, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
 |**Hudson River Trading**|[Sorted Absolute-Difference Sums Across Cyclic Shifts](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|[![Practice][p]](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|🔥 Sep 19, 2026|
@@ -1493,6 +1494,7 @@
 |**Wells Fargo**|[Minimum Remaining Length](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|Feb 08, 2026|
 |**ZipRecruiter**|[Restaurant Vote Leaders](https://www.fastprep.io/problems/ziprecruiter-restaurant-vote-leaders)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-restaurant-vote-leaders)|Feb 08, 2026|
 |**Bloomberg LP**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Feb 07, 2026|
+|**Figma**|[Symmetric Binary Tree](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Feb 07, 2026|
 |**Hebbia**|[LRU Cache Snapshot Printer](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|[![Practice][p]](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Feb 06, 2026|
 |**Salesforce**|[Collect Opportunity Data in a Tree](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Feb 06, 2026|
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
@@ -1819,6 +1821,7 @@
 |**Amazon**|[Maximize Sum of Array Multiplication](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Feb 05, 2025|
 |**Amazon**|[Sum of Max Subarrys](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Feb 02, 2025|
 |**Amazon**|[Get Maximum](https://www.fastprep.io/problems/amazon-get-maximum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum)|Feb 02, 2025|
+|**Figma**|[Topmost Accessible Nodes](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|[![Practice][p]](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Jan 28, 2025|
 |**Amazon**|[Maximize Product of Sizes of Subtrees](https://www.fastprep.io/problems/amazon-maximize-product-of-sizes-of-subtrees)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-product-of-sizes-of-subtrees)|Jan 09, 2025|
 |**Amazon**|[Min Energy Cost](https://www.fastprep.io/problems/amazon-minimum-energy-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-energy-cost)|Jan 09, 2025|
 |**Amazon**|[Calculate Max Salary](https://www.fastprep.io/problems/amazon-calculate-max-salary)|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-salary)|Jan 09, 2025|
@@ -1838,7 +1841,4 @@
 |**IBM**|[Min Cost](https://www.fastprep.io/problems/ibm-get-minimum-cost)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Dec 23, 2024|
 |**IBM**|[Min Difference](https://www.fastprep.io/problems/ibm-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-difference)|Dec 23, 2024|
 |**IBM**|[Max Profit](https://www.fastprep.io/problems/ibm-max-profit)|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-profit)|Dec 23, 2024|
-|**Amazon**|[Max Transfer Rate](https://www.fastprep.io/problems/amazon-max-transfer-rate)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Dec 22, 2024|
-|**Amazon**|[Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-final-locations)|Dec 22, 2024|
-|**Amazon**|[Get Stable Periods Count](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Dec 22, 2024|
 <a id="bottom"></a>

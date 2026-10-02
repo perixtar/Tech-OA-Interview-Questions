@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Center of the Largest Diagonal X](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Sep 30, 2022|
+|**ZipRecruiter**|[Rightmost Longest Character Run](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Sep 30, 2022|
+|**Bloomberg LP**|[Merge Multiple Sorted Streams](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Sep 26, 2022|
+|**Bloomberg LP**|[Populate Next Right Pointers](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Sep 26, 2022|
+|**ZipRecruiter**|[Longest Common File-System Path Prefix](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Sep 26, 2022|
+|**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
 |**ZipRecruiter**|[Sum All Ordered Decimal Concatenations](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Sep 24, 2022|
 |**Airbnb**|[Count Palindromic Substrings](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Sep 23, 2022|
 |**Duolingo**|[Rank Common Translation Mistakes](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Sep 19, 2022|
@@ -53,6 +59,7 @@
 |**Persona**|[Treasure Hunter](https://www.fastprep.io/problems/persona-treasure-hunter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-treasure-hunter)|May 21, 2022|
 |**Alchemy**|[Equal-Sum Digit Partitions](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|May 18, 2022|
 |**Bloomberg LP**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|May 13, 2022|
+|**Figma**|[Shell Path Autocomplete](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
 |**Google / Microsoft**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|Apr 28, 2022|
