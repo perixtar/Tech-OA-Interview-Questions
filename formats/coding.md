@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,143 questions**
+**3,144 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -893,6 +893,7 @@
 |**Google**|[Maximize Two Endpoint Values](https://www.fastprep.io/problems/google-maximize-two-endpoint-values)|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-two-endpoint-values)|🆕 Aug 31, 2026|
 |**Pinterest**|[Expression Add Operators](https://www.fastprep.io/problems/pinterest-expression-add-operators)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-expression-add-operators)|🆕 Aug 31, 2026|
 |**Pinterest**|[Nested JSON Schema Validator](https://www.fastprep.io/problems/pinterest-nested-json-schema-validator)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-nested-json-schema-validator)|🆕 Aug 31, 2026|
+|**Google**|[Sliding Window Median of Response Times](https://www.fastprep.io/problems/google-sliding-window-median)|[![Practice][p]](https://www.fastprep.io/problems/google-sliding-window-median)|🆕 Aug 31, 2026|
 |**Matroid**|[Count Good Tuples](https://www.fastprep.io/problems/matroid-count-good-tuples)|[![Practice][p]](https://www.fastprep.io/problems/matroid-count-good-tuples)|🆕 Aug 30, 2026|
 |**Matroid**|[Validate 3x3 Digit Windows](https://www.fastprep.io/problems/matroid-validate-3x3-digit-windows)|[![Practice][p]](https://www.fastprep.io/problems/matroid-validate-3x3-digit-windows)|🆕 Aug 30, 2026|
 |**Matroid**|[Diagonal Robot Path Sum](https://www.fastprep.io/problems/matroid-diagonal-robot-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/matroid-diagonal-robot-path-sum)|🆕 Aug 30, 2026|
@@ -1834,5 +1835,4 @@
 |**Tesla**|[Shoe Factory](https://www.fastprep.io/problems/tesla-shoe-factory)|[![Practice][p]](https://www.fastprep.io/problems/tesla-shoe-factory)|Mar 24, 2025|
 |**Tesla**|[Encrypt](https://www.fastprep.io/problems/tesla-encrypt)|[![Practice][p]](https://www.fastprep.io/problems/tesla-encrypt)|Mar 24, 2025|
 |**Fortinet**|[Beautiful Strings](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|Mar 24, 2025|
-|**Amazon**|[Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Mar 23, 2025|
 <a id="bottom"></a>
