@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,141 questions**
+**3,142 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -654,6 +654,7 @@
 |**Amazon**|[Dynamic Prefix Search Collection](https://www.fastprep.io/problems/amazon-prefix-search-collection)|[![Practice][p]](https://www.fastprep.io/problems/amazon-prefix-search-collection)|🆕 Sep 12, 2026|
 |**Google**|[Read-Optimized Duplicate Windows](https://www.fastprep.io/problems/google-read-optimized-window-duplicates)|[![Practice][p]](https://www.fastprep.io/problems/google-read-optimized-window-duplicates)|🆕 Sep 12, 2026|
 |**LinkedIn**|[Max Stack](https://www.fastprep.io/problems/linkedin-max-stack)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-max-stack)|🆕 Sep 12, 2026|
+|**Google**|[Shortest Subarray With a Target Remainder](https://www.fastprep.io/problems/google-shortest-subarray-target-remainder)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-subarray-target-remainder)|🆕 Sep 11, 2026|
 |**FlexTrade**|[Extract Error Log Context](https://www.fastprep.io/problems/flextrade-extract-error-log-context)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-extract-error-log-context)|🆕 Sep 11, 2026|
 |**Blinkit**|[LRU Cache](https://www.fastprep.io/problems/blinkit-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/blinkit-lru-cache)|🆕 Sep 11, 2026|
 |**Blinkit**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/blinkit-search-in-rotated-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/blinkit-search-in-rotated-sorted-array)|🆕 Sep 11, 2026|
@@ -1834,5 +1835,4 @@
 |**Fortinet**|[Beautiful Strings](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|Mar 24, 2025|
 |**Amazon**|[Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Mar 23, 2025|
 |**Amazon**|[Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|Mar 23, 2025|
-|**TikTok**|[Min Adjustment](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|Mar 23, 2025|
 <a id="bottom"></a>
