@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Motive**|[Design a Restaurant Catalog Management Service](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Jun 07, 2023|
+|**Motive**|[Basic Calculator](https://www.fastprep.io/problems/motive-basic-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-basic-calculator)|Jun 01, 2023|
+|**Motive**|[All Anagram Start Indices](https://www.fastprep.io/problems/motive-find-all-anagram-start-indices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-find-all-anagram-start-indices)|Jun 01, 2023|
+|**Motive**|[Palindrome Permutation](https://www.fastprep.io/problems/motive-palindrome-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-palindrome-permutation)|Jun 01, 2023|
 |**Motive**|[Valid Anagram](https://www.fastprep.io/problems/motive-valid-anagram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-anagram)|Jun 01, 2023|
 |**Motive**|[Valid Palindrome](https://www.fastprep.io/problems/motive-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-palindrome)|Jun 01, 2023|
 |**Airbnb**|[Validate BST Node Descriptions](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|May 17, 2023|
