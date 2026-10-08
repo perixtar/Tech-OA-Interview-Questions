@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**551 questions**
+**555 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -42,7 +42,7 @@
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Oct 02, 2026|
 |**Moveworks / Coupang**|[Design Read-Only Review Keyword Search](https://www.fastprep.io/system-design/read-only-review-keyword-search-platform)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-review-keyword-search-platform)|🔥 Oct 02, 2026|
 |**Pinterest / Instacart / Amazon / Coupa Software / Visa**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Oct 02, 2026|
-|**Amazon / Postman / Mintlify / Walmart / Vercel / Figma / Otter.ai**|[Design a Collaborative Document Editor](https://www.fastprep.io/system-design/collaborative-document-editor)|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-document-editor)|🔥 Oct 02, 2026|
+|**Amazon / Postman / Mintlify / Walmart / Vercel / Figma / Otter.ai / Atlassian**|[Design a Collaborative Document Editor](https://www.fastprep.io/system-design/collaborative-document-editor)|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-document-editor)|🔥 Oct 02, 2026|
 |**Coinbase / Goldman Sachs / Robinhood**|[Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system)|[![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system)|🔥 Oct 02, 2026|
 |**Stripe**|[Design a Feature Flag Platform](https://www.fastprep.io/system-design/feature-flag-platform)|[![Practice][p]](https://www.fastprep.io/system-design/feature-flag-platform)|🔥 Oct 02, 2026|
 |**Roblox**|[Design a Notification Center](https://www.fastprep.io/system-design/notification-center-system)|[![Practice][p]](https://www.fastprep.io/system-design/notification-center-system)|🔥 Oct 02, 2026|
@@ -438,6 +438,7 @@
 |**Microsoft**|[Design SFT and RL for Consistent LLM Answers](https://www.fastprep.io/system-design/llm-response-consistency-sft-and-rl)|[![Practice][p]](https://www.fastprep.io/system-design/llm-response-consistency-sft-and-rl)|Mar 20, 2026|
 |**Figma**|[Design a Browser-Based Graphics Editor](https://www.fastprep.io/system-design/browser-graphics-editor)|[![Practice][p]](https://www.fastprep.io/system-design/browser-graphics-editor)|Feb 12, 2026|
 |**Google**|[Design a Chatbot over Tables and Documents](https://www.fastprep.io/system-design/grounded-chatbot-over-tables-and-documents)|[![Practice][p]](https://www.fastprep.io/system-design/grounded-chatbot-over-tables-and-documents)|Feb 08, 2026|
+|**Atlassian**|[Delivery Status Architecture Audit](https://www.fastprep.io/system-design/delivery-status-architecture-audit)|[![Practice][p]](https://www.fastprep.io/system-design/delivery-status-architecture-audit)|Feb 04, 2026|
 |**Microsoft**|[Design an Initial Video-Language Model](https://www.fastprep.io/system-design/video-language-model-training-and-evaluation)|[![Practice][p]](https://www.fastprep.io/system-design/video-language-model-training-and-evaluation)|Feb 01, 2026|
 |**Google**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|Jan 13, 2026|
 |**Datadog**|[Design a Real-Time Collaborative Pixel Canvas](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas)|Jan 06, 2026|
@@ -460,12 +461,15 @@
 |**Microsoft**|[Optimize LLM Inference Across Model and Infrastructure](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|Oct 08, 2025|
 |**Cerebras**|[Multi-Channel Message Routing Queue](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|[![Practice][p]](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|Sep 06, 2025|
 |**Lambda**|[Cloud AI Inference Platform](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|Sep 06, 2025|
+|**Atlassian**|[Post Author Friend Count Serving](https://www.fastprep.io/system-design/post-author-friend-count-serving)|[![Practice][p]](https://www.fastprep.io/system-design/post-author-friend-count-serving)|Aug 23, 2025|
+|**Atlassian**|[Signing Notification Loss Recovery](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|[![Practice][p]](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|Aug 23, 2025|
 |**Splunk**|[Activity Playlist Streaming Service](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|[![Practice][p]](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|Aug 13, 2025|
-|**Splunk**|[Cost-Aware Interactive Content Delivery](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|Aug 13, 2025|
+|**Splunk / Atlassian**|[Cost-Aware Interactive Content Delivery](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|Aug 13, 2025|
 |**Splunk**|[Prepaid Game-Card Payment Network](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|[![Practice][p]](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|Aug 13, 2025|
-|**Splunk**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
+|**Splunk / Atlassian**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
 |**Splunk**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
 |**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
+|**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|
 |**Google**|[Design Personalized Private Email Search](https://www.fastprep.io/system-design/personalized-private-email-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-private-email-search)|May 23, 2025|
 |**Scale AI**|[Design a Third-Party LLM Batch Job Orchestrator](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|[![Practice][p]](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|May 12, 2025|
 |**Scale AI**|[Design an LLM-Assisted Contributor Work Evaluation System](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|[![Practice][p]](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|May 09, 2025|

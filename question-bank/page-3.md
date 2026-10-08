@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Hudson River Trading**|[Harvest Crops](https://www.fastprep.io/problems/hudsonriver-harvest-crops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-harvest-crops)|Feb 28, 2024|
+|**TikTok**|[Find min Inversions](https://www.fastprep.io/problems/tiktok-find-min-inversions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-min-inversions)|Feb 28, 2024|
+|**TikTok**|[Max Len](https://www.fastprep.io/problems/tiktok-max-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-max-length)|Feb 28, 2024|
+|**TikTok**|[Find Min Sum](https://www.fastprep.io/problems/tiktok-find-minimum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-minimum-sum)|Feb 28, 2024|
+|**Citadel**|[Min Equal Sum](https://www.fastprep.io/problems/citadel-find-minimum-equal-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-find-minimum-equal-sum)|Feb 28, 2024|
+|**IBM**|[Total Execution Time](https://www.fastprep.io/problems/ibm-get-total-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-total-execution-time)|Feb 28, 2024|
 |**Goldman Sachs**|[Min Start Value](https://www.fastprep.io/problems/goldman-min-start)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-min-start)|Feb 28, 2024|
 |**Flexport**|[Get Expression Sums](https://www.fastprep.io/problems/flexport-get-expression-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-expression-sums)|Feb 28, 2024|
 |**Flexport**|[Max Energy](https://www.fastprep.io/problems/flexport-max-energy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-max-energy)|Feb 28, 2024|
