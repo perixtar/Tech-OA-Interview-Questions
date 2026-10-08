@@ -2,12 +2,32 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,264 questions**
+**3,283 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
+|**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
+|**Salesforce**|[Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Jul 08, 2025|
+|**Salesforce**|[Integrity Score](https://www.fastprep.io/problems/salesforce-integrity-score)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-integrity-score)|Jul 08, 2025|
+|**Fortinet**|[Compute Checksum Aggregation](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation)|Jul 08, 2025|
+|**Google**|[Minimum Swaps to Sort a Ternary Array After Updates](https://www.fastprep.io/problems/google-minimum-swaps-to-sort-ternary-array-after-updates)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-swaps-to-sort-ternary-array-after-updates)|Jul 05, 2025|
+|**Google**|[Count Subsequences Without Three Equal-Parity Elements in a Row](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|Jul 05, 2025|
+|**Notion**|[JSON Block Tree Operations](https://www.fastprep.io/problems/notion-json-block-tree-operations)|[![Practice][p]](https://www.fastprep.io/problems/notion-json-block-tree-operations)|Jul 05, 2025|
+|**EvenUp**|[Wordle Feedback](https://www.fastprep.io/problems/evenup-wordle-feedback)|[![Practice][p]](https://www.fastprep.io/problems/evenup-wordle-feedback)|Jul 04, 2025|
+|**SpaceX**|[Pressure Chamber Linear Interpolation](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|[![Practice][p]](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Jun 26, 2025|
+|**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
+|**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
+|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
+|**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
+|**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
+|**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
+|**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
+|**Motive**|[Restore IP Addresses](https://www.fastprep.io/problems/motive-restore-ip-addresses)|[![Practice][p]](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Jun 21, 2025|
+|**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
+|**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
 |**Amazon**|[Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-variation)|Jun 18, 2025|
 |**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
 |**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|

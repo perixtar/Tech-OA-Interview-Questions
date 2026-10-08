@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**148 questions**
+**149 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -24,6 +24,7 @@
 |**OpenAI**|[Design and Implement an Extensible Three-Card Hand Evaluator](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|🔥 Oct 02, 2026|
 |**Dell Technologies**|[Design and Implement a Hash Map](https://www.fastprep.io/low-level-design/test-driven-hash-map)|[![Practice][p]](https://www.fastprep.io/low-level-design/test-driven-hash-map)|🔥 Oct 02, 2026|
 |**Microsoft**|[Design and Implement an Attack-Path Graph Domain](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|🔥 Oct 02, 2026|
+|**Uber**|[Design and Implement a Social News Feed Domain](https://www.fastprep.io/low-level-design/social-news-feed-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/social-news-feed-domain)|🔥 Oct 01, 2026|
 |**Google**|[Design and Implement a Concurrent Priority Task Scheduler](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|🔥 Sep 30, 2026|
 |**Nykaa / Navi**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Sep 30, 2026|
 |**GoodScore / amo**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🔥 Sep 30, 2026|

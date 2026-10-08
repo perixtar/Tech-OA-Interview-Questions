@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**64 questions**
+**65 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🔥 Oct 07, 2026|
 |**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🔥 Oct 06, 2026|
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 06, 2026|
 |**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|🔥 Oct 01, 2026|
