@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,263 questions**
+**3,264 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -270,6 +270,7 @@
 |**Mygate**|[Maximum Subarray Sum](https://www.fastprep.io/problems/mygate-maximum-subarray-sum)|[![Practice][p]](https://www.fastprep.io/problems/mygate-maximum-subarray-sum)|🔥 Sep 26, 2026|
 |**Mygate**|[Remove Invalid Parentheses](https://www.fastprep.io/problems/mygate-remove-invalid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/mygate-remove-invalid-parentheses)|🔥 Sep 26, 2026|
 |**Mygate**|[Reverse a Linked List](https://www.fastprep.io/problems/mygate-reverse-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/mygate-reverse-linked-list)|🔥 Sep 26, 2026|
+|**Hartford Financial Services**|[Maximum Product Subarray](https://www.fastprep.io/problems/hartford-maximum-product-subarray)|[![Practice][p]](https://www.fastprep.io/problems/hartford-maximum-product-subarray)|🔥 Sep 26, 2026|
 |**TikTok**|[Count Subarrays Matching a Comparison Pattern](https://www.fastprep.io/problems/tiktok-count-subarrays-matching-comparison-pattern)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-matching-comparison-pattern)|🔥 Sep 25, 2026|
 |**TikTok**|[Partition Matrix by Nonnegative Averages](https://www.fastprep.io/problems/tiktok-partition-matrix-by-nonnegative-averages)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-partition-matrix-by-nonnegative-averages)|🔥 Sep 25, 2026|
 |**TikTok**|[Count Subarrays with at Least K Equal-Fruit Pairs](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|🔥 Sep 25, 2026|
@@ -1826,6 +1827,4 @@
 |**Motive**|[Restore IP Addresses](https://www.fastprep.io/problems/motive-restore-ip-addresses)|[![Practice][p]](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Jun 21, 2025|
 |**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
 |**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
-|**Amazon**|[Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-variation)|Jun 18, 2025|
-|**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
 <a id="bottom"></a>
