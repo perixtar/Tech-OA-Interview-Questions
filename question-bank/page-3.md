@@ -9,6 +9,31 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Oracle**|[Is Power](https://www.fastprep.io/problems/oracle-is-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-is-power)|Feb 21, 2024|
+|**MathWorks**|[Load Balancing](https://www.fastprep.io/problems/mathwork-load-balancing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-load-balancing)|Feb 21, 2024|
+|**ZipRecruiter**|[Count Triple](https://www.fastprep.io/problems/ziprecruiter-count-triple)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-triple)|Feb 21, 2024|
+|**ZipRecruiter**|[Cycle Shift](https://www.fastprep.io/problems/ziprecruiter-cycle-shift)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-cycle-shift)|Feb 21, 2024|
+|**Pure Storage**|[Find Doubles](https://www.fastprep.io/problems/purestorage-find-doubles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-doubles)|Feb 21, 2024|
+|**Palantir**|[Get Phone Numbers](https://www.fastprep.io/problems/palantir-get-phone-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-get-phone-numbers)|Feb 21, 2024|
+|**Palantir**|[Get Largest Number](https://www.fastprep.io/problems/palantir-get-largest-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-get-largest-number)|Feb 21, 2024|
+|**Amazon**|[Get Max Racers](https://www.fastprep.io/problems/amazon-get-max-racers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-racers)|Feb 20, 2024|
+|**IBM**|[Get Min Time](https://www.fastprep.io/problems/ibm-get-min-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-time)|Feb 20, 2024|
+|**Oracle**|[Add Numbers](https://www.fastprep.io/problems/oracle-add-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-add-numbers)|Feb 20, 2024|
+|**Walleye Capital**|[Get Min Time](https://www.fastprep.io/problems/walleye-get-min-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walleye-get-min-time)|Feb 20, 2024|
+|**Amazon**|[Get Min Num Moves](https://www.fastprep.io/problems/amazon-get-min-num-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-num-moves)|Feb 19, 2024|
+|**Amazon**|[Count Distinct Passwords](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|Feb 19, 2024|
+|**Citadel**|[Max the Lottery ID](https://www.fastprep.io/problems/citadel-maximize-the-lottery-id)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-the-lottery-id)|Feb 19, 2024|
+|**Meta**|[Search Mysterious Grid](https://www.fastprep.io/problems/mt-search-myterious-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-search-myterious-grid)|Feb 18, 2024|
+|**Meta**|[Enumerating Narrative Sections](https://www.fastprep.io/problems/mt-enumerating-narrative-sections)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-enumerating-narrative-sections)|Feb 18, 2024|
+|**Snowflake**|[Efficient Deployments](https://www.fastprep.io/problems/snowflake-efficient-deployments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-deployments)|Feb 18, 2024|
+|**Amazon**|[Fortune Telling](https://www.fastprep.io/problems/amazon-minimize-the-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-the-range)|Feb 17, 2024|
+|**Amazon**|[Max User Traffic](https://www.fastprep.io/problems/amazon-maximum-user-traffic)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-user-traffic)|Feb 17, 2024|
+|**Amazon**|[Find Min Trips](https://www.fastprep.io/problems/amazon-find-min-trips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-trips)|Feb 17, 2024|
+|**Meta**|[Closest Landmark](https://www.fastprep.io/problems/mt-closest-land-mark)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-closest-land-mark)|Feb 17, 2024|
+|**Google**|[Min Amplitude](https://www.fastprep.io/problems/google-min-amplitude)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-min-amplitude)|Feb 16, 2024|
+|**Google**|[Ways to Split a String](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Feb 16, 2024|
+|**Google**|[Maximum Time](https://www.fastprep.io/problems/google-maximum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-time)|Feb 16, 2024|
+|**Google**|[Most Booked Hotel Room](https://www.fastprep.io/problems/google-most-booked-hotel-room)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-most-booked-hotel-room)|Feb 16, 2024|
 |**Google**|[Min Days to Bloom](https://www.fastprep.io/problems/google-min-days-bouquets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-min-days-bouquets)|Feb 16, 2024|
 |**Google**|[Fill Matrix](https://www.fastprep.io/problems/google-fill-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fill-matrix)|Feb 16, 2024|
 |**Google**|[Time to Type a String](https://www.fastprep.io/problems/google-single-row-keyboard)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-single-row-keyboard)|Feb 16, 2024|
