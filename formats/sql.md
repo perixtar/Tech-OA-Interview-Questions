@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**67 questions**
+**70 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -10,6 +10,9 @@
 | :-- | :-- | :-: | :-- |
 |**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🔥 Oct 08, 2026|
 |**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🔥 Oct 08, 2026|
+|**Apple**|[Customer Order Count Distribution by Country](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|[![Practice][p]](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|🔥 Oct 08, 2026|
+|**Apple**|[iPhone Model Sales Share by Country](https://www.fastprep.io/problems/apple-iphone-model-sales-share)|[![Practice][p]](https://www.fastprep.io/problems/apple-iphone-model-sales-share)|🔥 Oct 08, 2026|
+|**Apple**|[Top Five Countries by Product Revenue](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|[![Practice][p]](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|🔥 Oct 08, 2026|
 |**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🔥 Oct 07, 2026|
 |**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🔥 Oct 06, 2026|
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 06, 2026|
