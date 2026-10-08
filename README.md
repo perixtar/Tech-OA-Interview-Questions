@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,290)](formats/coding.md) · [SQL (67)](formats/sql.md) · [System design (558)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,290)](formats/coding.md) · [SQL (70)](formats/sql.md) · [System design (558)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -39,6 +39,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Sierra**|[Paginate Retained Conversation History](https://www.fastprep.io/problems/sierra-paginate-retained-conversation-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sierra-paginate-retained-conversation-history)|🔥 Oct 08, 2026|
 |**Sierra**|[Compact Conversation History by Token Budget](https://www.fastprep.io/problems/sierra-compact-conversation-history-by-token-budget)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sierra-compact-conversation-history-by-token-budget)|🔥 Oct 08, 2026|
 |**Sierra**|[Compact Conversations by Unique Listings](https://www.fastprep.io/problems/sierra-compact-conversations-by-unique-listings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sierra-compact-conversations-by-unique-listings)|🔥 Oct 08, 2026|
+|**Apple**|[Customer Order Count Distribution by Country](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|SQL|[![Practice][p]](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|🔥 Oct 08, 2026|
+|**Apple**|[iPhone Model Sales Share by Country](https://www.fastprep.io/problems/apple-iphone-model-sales-share)|SQL|[![Practice][p]](https://www.fastprep.io/problems/apple-iphone-model-sales-share)|🔥 Oct 08, 2026|
+|**Apple**|[Top Five Countries by Product Revenue](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|SQL|[![Practice][p]](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|🔥 Oct 08, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 07, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 07, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Oct 07, 2026|
@@ -1682,7 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
 |**Walmart**|[Design a Marketplace Product Catalog Platform](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|Jul 30, 2026|
 |**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|Jul 30, 2026|
-|**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|Jul 30, 2026|
-|**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
-|**Google**|[Linked List Cycle Entry Node](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Jul 29, 2026|
 <a id="bottom"></a>

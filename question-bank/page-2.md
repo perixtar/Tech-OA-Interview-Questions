@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|Jul 30, 2026|
+|**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
+|**Google**|[Linked List Cycle Entry Node](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Jul 29, 2026|
 |**Cognitiv**|[Word Search](https://www.fastprep.io/problems/cognitiv-word-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cognitiv-word-search)|Jul 29, 2026|
 |**Reddit**|[Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window)|Jul 29, 2026|
 |**Amazon**|[Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components)|Jul 29, 2026|
@@ -1834,6 +1837,4 @@
 |**IMC**|[Asteroid Game](https://www.fastprep.io/problems/imc-asteroid-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-asteroid-game)|Mar 02, 2024|
 |**Barclays**|[Find Maximum Possible GCD](https://www.fastprep.io/problems/barclay-find-maximum-possible-gcd)|Coding|[![Practice][p]](https://www.fastprep.io/problems/barclay-find-maximum-possible-gcd)|Mar 02, 2024|
 |**Weride**|[Checking Your Route](https://www.fastprep.io/problems/weride-checking-your-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-checking-your-route)|Mar 02, 2024|
-|**Infosys**|[Obtain Max Score Using Min Swaps](https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps)|Feb 29, 2024|
-|**Intuit**|[Smart Gardener (Intuit India)](https://www.fastprep.io/problems/intuit-optimize-watering-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-optimize-watering-cost)|Feb 29, 2024|
 <a id="bottom"></a>

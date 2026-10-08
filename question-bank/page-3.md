@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Infosys**|[Obtain Max Score Using Min Swaps](https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps)|Feb 29, 2024|
+|**Intuit**|[Smart Gardener (Intuit India)](https://www.fastprep.io/problems/intuit-optimize-watering-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-optimize-watering-cost)|Feb 29, 2024|
 |**Microsoft**|[Find Array Uniqueness Median](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median)|Feb 29, 2024|
 |**Microsoft**|[Count Similar Substrings](https://www.fastprep.io/problems/microsoft-count-similar-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-similar-substrings)|Feb 29, 2024|
 |**Observer.AI**|[Choose Best Flask](https://www.fastprep.io/problems/observerai-choose-the-best-flask)|Coding|[![Practice][p]](https://www.fastprep.io/problems/observerai-choose-the-best-flask)|Feb 29, 2024|
