@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**65 questions**
+**67 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🔥 Oct 08, 2026|
+|**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🔥 Oct 08, 2026|
 |**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🔥 Oct 07, 2026|
 |**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🔥 Oct 06, 2026|
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 06, 2026|

@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Oracle**|[Balancing Parentheses](https://www.fastprep.io/problems/oracle-balance-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-balance-parentheses)|Feb 21, 2024|
+|**Oracle**|[Last Letters](https://www.fastprep.io/problems/oracle-last-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-last-letters)|Feb 21, 2024|
+|**Oracle**|[Reduction Cost](https://www.fastprep.io/problems/oracle-reduction-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-reduction-cost)|Feb 21, 2024|
+|**Oracle**|[Merge Arrays](https://www.fastprep.io/problems/oracle-merge-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-arrays)|Feb 21, 2024|
 |**Oracle**|[Is Power](https://www.fastprep.io/problems/oracle-is-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-is-power)|Feb 21, 2024|
 |**MathWorks**|[Load Balancing](https://www.fastprep.io/problems/mathwork-load-balancing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-load-balancing)|Feb 21, 2024|
 |**ZipRecruiter**|[Count Triple](https://www.fastprep.io/problems/ziprecruiter-count-triple)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-triple)|Feb 21, 2024|
@@ -611,6 +615,8 @@
 |**Bloomberg LP**|[Random Removal from a Set](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|Jul 12, 2019|
 |**Airbnb**|[Paginate Search Results by Unique Host](https://www.fastprep.io/problems/airbnb-paginate-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-paginate-search-results)|May 12, 2019|
 |**Airbnb**|[Round Prices to Match Target](https://www.fastprep.io/problems/airbnb-round-prices-to-match-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-round-prices-to-match-target)|Apr 01, 2019|
+|**Hartford Financial Services**|[Bubble Sort](https://www.fastprep.io/problems/hartford-bubble-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-bubble-sort)|Mar 27, 2019|
+|**Hartford Financial Services**|[Swap Adjacent Character Pairs](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|Mar 27, 2019|
 |**Airbnb**|[Minimum Wizard Referral Cost](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Mar 11, 2019|
 |**Airbnb**|[Count Decreasing Triplets](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Mar 05, 2019|
 |**Airbnb**|[Missing Words](https://www.fastprep.io/problems/airbnb-missing-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-missing-words)|Mar 05, 2019|

@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,283 questions**
+**3,286 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
 |**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
 |**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
 |**Salesforce**|[Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Jul 08, 2025|
@@ -1454,6 +1455,8 @@
 |**Bloomberg LP**|[Random Removal from a Set](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|Jul 12, 2019|
 |**Airbnb**|[Paginate Search Results by Unique Host](https://www.fastprep.io/problems/airbnb-paginate-search-results)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-paginate-search-results)|May 12, 2019|
 |**Airbnb**|[Round Prices to Match Target](https://www.fastprep.io/problems/airbnb-round-prices-to-match-target)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-round-prices-to-match-target)|Apr 01, 2019|
+|**Hartford Financial Services**|[Bubble Sort](https://www.fastprep.io/problems/hartford-bubble-sort)|[![Practice][p]](https://www.fastprep.io/problems/hartford-bubble-sort)|Mar 27, 2019|
+|**Hartford Financial Services**|[Swap Adjacent Character Pairs](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|[![Practice][p]](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|Mar 27, 2019|
 |**Airbnb**|[Minimum Wizard Referral Cost](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Mar 11, 2019|
 |**Airbnb**|[Count Decreasing Triplets](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Mar 05, 2019|
 |**Airbnb**|[Missing Words](https://www.fastprep.io/problems/airbnb-missing-words)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-missing-words)|Mar 05, 2019|

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,283)](formats/coding.md) · [SQL (65)](formats/sql.md) · [System design (541)](formats/system-design.md) · [Low-level design (149)](formats/low-level-design.md) · [AI coding (73)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,286)](formats/coding.md) · [SQL (67)](formats/sql.md) · [System design (541)](formats/system-design.md) · [Low-level design (149)](formats/low-level-design.md) · [AI coding (73)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🔥 Oct 08, 2026|
+|**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|SQL|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🔥 Oct 08, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 07, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 07, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Oct 07, 2026|
@@ -1629,6 +1631,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Baseten**|[Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|Aug 02, 2026|
 |**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
 |**Asana**|[Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Aug 02, 2026|
+|**Hartford Financial Services**|[Average Grades per Student](https://www.fastprep.io/problems/hartford-student-grade-averages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-student-grade-averages)|Aug 02, 2026|
 |**Decagon**|[Design a Multi-Tenant AI Gateway](https://www.fastprep.io/system-design/multi-tenant-ai-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-ai-gateway)|Aug 01, 2026|
 |**Scale AI**|[Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api)|Aug 01, 2026|
 |**Apple**|[Design an Online Voting Service](https://www.fastprep.io/system-design/online-voting-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-voting-service)|Aug 01, 2026|
@@ -1684,7 +1687,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Design Offline Reading-Progress Synchronization](https://www.fastprep.io/system-design/offline-reading-progress-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-reading-progress-sync)|Jul 29, 2026|
 |**Databricks**|[WAL-Backed Batched Log-Writing System](https://www.fastprep.io/system-design/wal-backed-batched-log-writing-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/wal-backed-batched-log-writing-system)|Jul 29, 2026|
 |**Databricks / ZipRecruiter**|[Design a Locking Key-Value Store with Batch Writes](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|Jul 29, 2026|
-|**Databricks**|[Design a WAL-Backed Batch Log Writer](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|Jul 29, 2026|
-|**Bilt Rewards**|[Configurable Reward Points Service](https://www.fastprep.io/system-design/configurable-reward-points-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/configurable-reward-points-service)|Jul 29, 2026|
-|**Remitly**|[IP Address Filtering Service](https://www.fastprep.io/system-design/ip-address-filtering-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ip-address-filtering-service)|Jul 29, 2026|
 <a id="bottom"></a>
