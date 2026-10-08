@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Find Array Uniqueness Median](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median)|Feb 29, 2024|
+|**Microsoft**|[Count Similar Substrings](https://www.fastprep.io/problems/microsoft-count-similar-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-similar-substrings)|Feb 29, 2024|
+|**Observer.AI**|[Choose Best Flask](https://www.fastprep.io/problems/observerai-choose-the-best-flask)|Coding|[![Practice][p]](https://www.fastprep.io/problems/observerai-choose-the-best-flask)|Feb 29, 2024|
+|**Walmart**|[Longest Good Sequence](https://www.fastprep.io/problems/walmart-find-length-of-longest-good-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-find-length-of-longest-good-subsequence)|Feb 28, 2024|
+|**Meta**|[ Combine Vectors(MLE)](https://www.fastprep.io/problems/mt-combine-two-vectors-of-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-combine-two-vectors-of-intervals)|Feb 28, 2024|
 |**Hudson River Trading**|[Harvest Crops](https://www.fastprep.io/problems/hudsonriver-harvest-crops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-harvest-crops)|Feb 28, 2024|
 |**TikTok**|[Find min Inversions](https://www.fastprep.io/problems/tiktok-find-min-inversions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-min-inversions)|Feb 28, 2024|
 |**TikTok**|[Max Len](https://www.fastprep.io/problems/tiktok-max-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-max-length)|Feb 28, 2024|

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,287)](formats/coding.md) · [SQL (67)](formats/sql.md) · [System design (557)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,290)](formats/coding.md) · [SQL (67)](formats/sql.md) · [System design (558)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -36,6 +36,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🔥 Oct 08, 2026|
 |**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|SQL|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🔥 Oct 08, 2026|
 |**NxtPe**|[Implement Mandate Details and Provider Authentication](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|🔥 Oct 08, 2026|
+|**Sierra**|[Paginate Retained Conversation History](https://www.fastprep.io/problems/sierra-paginate-retained-conversation-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sierra-paginate-retained-conversation-history)|🔥 Oct 08, 2026|
+|**Sierra**|[Compact Conversation History by Token Budget](https://www.fastprep.io/problems/sierra-compact-conversation-history-by-token-budget)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sierra-compact-conversation-history-by-token-budget)|🔥 Oct 08, 2026|
+|**Sierra**|[Compact Conversations by Unique Listings](https://www.fastprep.io/problems/sierra-compact-conversations-by-unique-listings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sierra-compact-conversations-by-unique-listings)|🔥 Oct 08, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 07, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 07, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Oct 07, 2026|
@@ -1682,8 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|Jul 30, 2026|
 |**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
 |**Google**|[Linked List Cycle Entry Node](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Jul 29, 2026|
-|**Cognitiv**|[Word Search](https://www.fastprep.io/problems/cognitiv-word-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cognitiv-word-search)|Jul 29, 2026|
-|**Reddit**|[Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window)|Jul 29, 2026|
-|**Amazon**|[Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components)|Jul 29, 2026|
-|**Amazon**|[Cousins in Binary Tree II](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii)|Jul 29, 2026|
 <a id="bottom"></a>

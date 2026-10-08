@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,287 questions**
+**3,290 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Sierra**|[Paginate Retained Conversation History](https://www.fastprep.io/problems/sierra-paginate-retained-conversation-history)|[![Practice][p]](https://www.fastprep.io/problems/sierra-paginate-retained-conversation-history)|🔥 Oct 08, 2026|
+|**Sierra**|[Compact Conversation History by Token Budget](https://www.fastprep.io/problems/sierra-compact-conversation-history-by-token-budget)|[![Practice][p]](https://www.fastprep.io/problems/sierra-compact-conversation-history-by-token-budget)|🔥 Oct 08, 2026|
+|**Sierra**|[Compact Conversations by Unique Listings](https://www.fastprep.io/problems/sierra-compact-conversations-by-unique-listings)|[![Practice][p]](https://www.fastprep.io/problems/sierra-compact-conversations-by-unique-listings)|🔥 Oct 08, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Oct 07, 2026|
 |**OpenAI**|[Largest Microorganism After Consumption](https://www.fastprep.io/problems/openai-largest-microorganism)|[![Practice][p]](https://www.fastprep.io/problems/openai-largest-microorganism)|🔥 Oct 07, 2026|
 |**JP Morgan Chase**|[Maximize Minimum Deployment Difficulty](https://www.fastprep.io/problems/jpmorgan-maximize-minimum-deployment-difficulty)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-maximize-minimum-deployment-difficulty)|🔥 Oct 07, 2026|
@@ -1823,7 +1826,4 @@
 |**Zoox**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|Jul 26, 2025|
 |**Arcesium**|[City Infection Number](https://www.fastprep.io/problems/arcesium-city-infection-number)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-city-infection-number)|Jul 23, 2025|
 |**Arcesium**|[Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Jul 23, 2025|
-|**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
-|**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
-|**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
 <a id="bottom"></a>

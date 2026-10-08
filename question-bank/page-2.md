@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Cognitiv**|[Word Search](https://www.fastprep.io/problems/cognitiv-word-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cognitiv-word-search)|Jul 29, 2026|
+|**Reddit**|[Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window)|Jul 29, 2026|
+|**Amazon**|[Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components)|Jul 29, 2026|
+|**Amazon**|[Cousins in Binary Tree II](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii)|Jul 29, 2026|
 |**Squarepoint**|[Evaluating Circuit Expressions](https://www.fastprep.io/problems/squarepoint-evaluating-circuit-expressions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-evaluating-circuit-expressions)|Jul 29, 2026|
 |**Rippling**|[Filter and Sort Scheduled Tasks](https://www.fastprep.io/problems/rippling-filter-and-sort-scheduled-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-filter-and-sort-scheduled-tasks)|Jul 29, 2026|
 |**Google**|[Longest Subarray with Sum at Most K](https://www.fastprep.io/problems/google-longest-subarray-sum-at-most-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-subarray-sum-at-most-k)|Jul 29, 2026|
@@ -1030,6 +1034,7 @@
 |**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
 |**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
 |**SpaceX**|[Speed to Pressure Lookup](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Mar 13, 2025|
+|**Atlassian**|[Crossword Hint Delivery](https://www.fastprep.io/system-design/crossword-hint-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crossword-hint-delivery)|Mar 12, 2025|
 |**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
 |**Chainalysis**|[Filter Team A Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Mar 06, 2025|
 |**Chainalysis**|[Filter Team A Transfer Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Mar 06, 2025|
@@ -1831,9 +1836,4 @@
 |**Weride**|[Checking Your Route](https://www.fastprep.io/problems/weride-checking-your-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-checking-your-route)|Mar 02, 2024|
 |**Infosys**|[Obtain Max Score Using Min Swaps](https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps)|Feb 29, 2024|
 |**Intuit**|[Smart Gardener (Intuit India)](https://www.fastprep.io/problems/intuit-optimize-watering-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-optimize-watering-cost)|Feb 29, 2024|
-|**Microsoft**|[Find Array Uniqueness Median](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median)|Feb 29, 2024|
-|**Microsoft**|[Count Similar Substrings](https://www.fastprep.io/problems/microsoft-count-similar-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-similar-substrings)|Feb 29, 2024|
-|**Observer.AI**|[Choose Best Flask](https://www.fastprep.io/problems/observerai-choose-the-best-flask)|Coding|[![Practice][p]](https://www.fastprep.io/problems/observerai-choose-the-best-flask)|Feb 29, 2024|
-|**Walmart**|[Longest Good Sequence](https://www.fastprep.io/problems/walmart-find-length-of-longest-good-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-find-length-of-longest-good-subsequence)|Feb 28, 2024|
-|**Meta**|[ Combine Vectors(MLE)](https://www.fastprep.io/problems/mt-combine-two-vectors-of-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-combine-two-vectors-of-intervals)|Feb 28, 2024|
 <a id="bottom"></a>

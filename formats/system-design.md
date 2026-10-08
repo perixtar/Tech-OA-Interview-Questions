@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**557 questions**
+**558 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -482,6 +482,7 @@
 |**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Mar 31, 2025|
 |**Mastercard**|[Design a Grounded Bank Portal Information Assistant](https://www.fastprep.io/system-design/bank-portal-information-extraction)|[![Practice][p]](https://www.fastprep.io/system-design/bank-portal-information-extraction)|Mar 28, 2025|
 |**Mastercard**|[Design an Account Health Scoring Platform](https://www.fastprep.io/system-design/account-health-scoring-platform)|[![Practice][p]](https://www.fastprep.io/system-design/account-health-scoring-platform)|Mar 28, 2025|
+|**Atlassian**|[Crossword Hint Delivery](https://www.fastprep.io/system-design/crossword-hint-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/crossword-hint-delivery)|Mar 12, 2025|
 |**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
 |**SpaceX**|[Design a Hardware Component Test Orchestration Platform](https://www.fastprep.io/system-design/hardware-component-test-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/hardware-component-test-orchestration)|Feb 27, 2025|
 |**Zipline**|[Design a Drone Route Planning Geospatial Platform](https://www.fastprep.io/system-design/drone-route-planning-geospatial-platform)|[![Practice][p]](https://www.fastprep.io/system-design/drone-route-planning-geospatial-platform)|Feb 22, 2025|
