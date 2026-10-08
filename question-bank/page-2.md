@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Databricks**|[Design a WAL-Backed Batch Log Writer](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer)|Jul 29, 2026|
+|**Bilt Rewards**|[Configurable Reward Points Service](https://www.fastprep.io/system-design/configurable-reward-points-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/configurable-reward-points-service)|Jul 29, 2026|
+|**Remitly**|[IP Address Filtering Service](https://www.fastprep.io/system-design/ip-address-filtering-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ip-address-filtering-service)|Jul 29, 2026|
 |**Harness**|[Streaming Ingredient Dishes](https://www.fastprep.io/problems/harness-streaming-ingredient-dishes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harness-streaming-ingredient-dishes)|Jul 28, 2026|
 |**Oracle**|[Add One to a Number Represented as Digits](https://www.fastprep.io/problems/oracle-plus-one-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-plus-one-digits)|Jul 28, 2026|
 |**Oracle**|[Top K Frequent Elements with Larger-Value Tie Break](https://www.fastprep.io/problems/oracle-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-top-k-frequent-elements)|Jul 28, 2026|
@@ -1840,8 +1843,4 @@
 |**JP Morgan**|[How Many Flips?](https://www.fastprep.io/problems/jpmorgan-minimum-flips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-flips)|Feb 21, 2024|
 |**Roblox**|[Largest Value of Usage in Minutes](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes)|Feb 21, 2024|
 |**Oracle**|[Min Diff](https://www.fastprep.io/problems/oracle-min-diff)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-min-diff)|Feb 21, 2024|
-|**Oracle**|[Balancing Parentheses](https://www.fastprep.io/problems/oracle-balance-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-balance-parentheses)|Feb 21, 2024|
-|**Oracle**|[Last Letters](https://www.fastprep.io/problems/oracle-last-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-last-letters)|Feb 21, 2024|
-|**Oracle**|[Reduction Cost](https://www.fastprep.io/problems/oracle-reduction-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-reduction-cost)|Feb 21, 2024|
-|**Oracle**|[Merge Arrays](https://www.fastprep.io/problems/oracle-merge-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-arrays)|Feb 21, 2024|
 <a id="bottom"></a>

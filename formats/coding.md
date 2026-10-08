@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,283 questions**
+**3,286 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1090,6 +1090,7 @@
 |**Infosys**|[Count Valid A-B-C Sequences Under a Modulo-Four Rule](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|[![Practice][p]](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Aug 02, 2026|
 |**Infosys**|[Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Aug 02, 2026|
 |**Infosys**|[Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|[![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Aug 02, 2026|
+|**Hartford Financial Services**|[Average Grades per Student](https://www.fastprep.io/problems/hartford-student-grade-averages)|[![Practice][p]](https://www.fastprep.io/problems/hartford-student-grade-averages)|Aug 02, 2026|
 |**Adobe**|[Minimum Snapshots for a Version Tree](https://www.fastprep.io/problems/adobe-snapshot-budget)|[![Practice][p]](https://www.fastprep.io/problems/adobe-snapshot-budget)|Jul 31, 2026|
 |**Superhuman**|[Reverse a Singly Linked List](https://www.fastprep.io/problems/superhuman-reverse-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-reverse-linked-list)|Jul 31, 2026|
 |**Superhuman**|[Recover a Tree from Preorder Depth Encoding](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth)|Jul 31, 2026|
@@ -1825,5 +1826,4 @@
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
-|**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
 <a id="bottom"></a>
