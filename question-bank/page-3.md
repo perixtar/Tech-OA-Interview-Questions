@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Min Days to Bloom](https://www.fastprep.io/problems/google-min-days-bouquets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-min-days-bouquets)|Feb 16, 2024|
+|**Google**|[Fill Matrix](https://www.fastprep.io/problems/google-fill-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fill-matrix)|Feb 16, 2024|
+|**Google**|[Time to Type a String](https://www.fastprep.io/problems/google-single-row-keyboard)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-single-row-keyboard)|Feb 16, 2024|
+|**Google**|[Max Distance](https://www.fastprep.io/problems/google-pick-max-distance-pair)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-pick-max-distance-pair)|Feb 16, 2024|
+|**Google**|[Stores and Houses](https://www.fastprep.io/problems/google-find-closest-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-closest-store)|Feb 16, 2024|
+|**Google**|[Find Min Distance to Furthest Node (Google Tokyo)](https://www.fastprep.io/problems/google-find-min-distance-to-farthest-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-min-distance-to-farthest-node)|Feb 16, 2024|
+|**Google**|[Pizza Shop (Google Tokyo)](https://www.fastprep.io/problems/google-closest-pizza-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-closest-pizza-price)|Feb 16, 2024|
+|**Google**|[Relative Sort (Google Singapore)](https://www.fastprep.io/problems/google-minimum-swaps-to-make-sequences-increasing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-swaps-to-make-sequences-increasing)|Feb 16, 2024|
+|**Snowflake**|[Radio waves](https://www.fastprep.io/problems/snowflake-radio-waves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-radio-waves)|Feb 15, 2024|
 |**MathWorks**|[Count Valid Passwords](https://www.fastprep.io/problems/mathwork-count-valid-passwords)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-count-valid-passwords)|Feb 15, 2024|
 |**MathWorks**|[Get Maximum Reward Points](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points)|Feb 15, 2024|
 |**ZipRecruiter**|[Count Distinct Swappable Digit Pairs](https://www.fastprep.io/problems/ziprecruiter-count-distinct-swappable-digit-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-distinct-swappable-digit-pairs)|Feb 15, 2024|
