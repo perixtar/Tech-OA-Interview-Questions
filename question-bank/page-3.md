@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Intuit**|[Virus Spread (Intuit India)](https://www.fastprep.io/problems/intuit-virus-spread)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-virus-spread)|Feb 24, 2024|
 |**Intuit**|[Spreading Fire (Intuit India)](https://www.fastprep.io/problems/intuit-spreading-fire)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-spreading-fire)|Feb 24, 2024|
 |**Intuit**|[Jumping Kaday (Intuit India)](https://www.fastprep.io/problems/intuit-jumping-kady)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-jumping-kady)|Feb 24, 2024|
 |**Intuit**|[Max Reward (Intuit India)](https://www.fastprep.io/problems/intuit-maximum-reward)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-reward)|Feb 24, 2024|
