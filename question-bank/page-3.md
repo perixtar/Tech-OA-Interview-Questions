@@ -9,6 +9,16 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Flexport**|[Get Expression Sums](https://www.fastprep.io/problems/flexport-get-expression-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-expression-sums)|Feb 28, 2024|
+|**Flexport**|[Max Energy](https://www.fastprep.io/problems/flexport-max-energy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-max-energy)|Feb 28, 2024|
+|**Flexport**|[Get Min Time](https://www.fastprep.io/problems/flexport-get-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-minimum-time)|Feb 28, 2024|
+|**Flexport**|[Get Node to Remove](https://www.fastprep.io/problems/flexport-get-node-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-node-to-remove)|Feb 28, 2024|
+|**Google**|[Design Personalized Video-Rating Prediction](https://www.fastprep.io/system-design/personalized-video-rating-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-video-rating-prediction)|Feb 28, 2024|
+|**Walmart**|[Min Possible Value](https://www.fastprep.io/problems/walmart-minimum-possible-value-function)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-possible-value-function)|Feb 24, 2024|
+|**Infosys**|[Extract Cards](https://www.fastprep.io/problems/infosys-extract-cards)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-extract-cards)|Feb 24, 2024|
+|**Snowflake**|[Meeting Time](https://www.fastprep.io/problems/snowflake-get-earliest-meet-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-earliest-meet-time)|Feb 24, 2024|
+|**Snowflake**|[Max Beautiful Substrings](https://www.fastprep.io/problems/snowflake-get-max-beautiful-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-beautiful-substrings)|Feb 24, 2024|
+|**Intuit**|[Longest Cipher (Intuit India)](https://www.fastprep.io/problems/intuit-longest-cipher)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-cipher)|Feb 24, 2024|
 |**Intuit**|[Virus Spread (Intuit India)](https://www.fastprep.io/problems/intuit-virus-spread)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-virus-spread)|Feb 24, 2024|
 |**Intuit**|[Spreading Fire (Intuit India)](https://www.fastprep.io/problems/intuit-spreading-fire)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-spreading-fire)|Feb 24, 2024|
 |**Intuit**|[Jumping Kaday (Intuit India)](https://www.fastprep.io/problems/intuit-jumping-kady)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-jumping-kady)|Feb 24, 2024|
@@ -117,6 +127,7 @@
 |**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
 |**Navan**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Jan 24, 2024|
 |**Navan**|[Shortest Substring with at Least K Distinct Characters](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Jan 24, 2024|
+|**Google**|[Design Near-Duplicate Image Detection](https://www.fastprep.io/system-design/near-duplicate-image-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/near-duplicate-image-detection)|Jan 16, 2024|
 |**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
 |**Snowflake**|[Smallest Set Covering Intervals](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Jan 13, 2024|
 |**Snowflake**|[Maximum Order Volume](https://www.fastprep.io/problems/phone-calls)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phone-calls)|Jan 13, 2024|

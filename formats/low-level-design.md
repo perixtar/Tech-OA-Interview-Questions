@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**155 questions**
+**159 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -139,10 +139,14 @@
 |**Postman**|[Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application)|[![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application)|May 15, 2025|
 |**Roku**|[Design a Recurring Grocery Subscription Domain](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|Apr 08, 2025|
 |**Confluent**|[Design and Implement a Thread-Safe Delayed Task Runner](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Jan 16, 2025|
+|**Google**|[Design and Implement a Meeting-Room Scheduler](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|Jan 06, 2025|
+|**Google**|[Design and Implement a Trie Search Index](https://www.fastprep.io/low-level-design/trie-search-index)|[![Practice][p]](https://www.fastprep.io/low-level-design/trie-search-index)|Dec 24, 2024|
 |**Navan**|[Design a Property Listing Service](https://www.fastprep.io/low-level-design/property-listing-service-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/property-listing-service-domain)|Dec 17, 2024|
+|**Google**|[Design a Ticket Resale Marketplace](https://www.fastprep.io/low-level-design/ticket-resale-marketplace-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticket-resale-marketplace-domain)|Dec 08, 2024|
 |**Clipboard Health**|[Design a Dimmer and Connected Bulbs System](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|[![Practice][p]](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Oct 31, 2024|
 |**Postman**|[Design Undo Delete for Shared Collections](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|[![Practice][p]](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|Jul 19, 2024|
 |**Postman**|[Design Undoable Deletion for API Collections](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|[![Practice][p]](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Jul 19, 2024|
+|**Google**|[Design and Implement a Path-Value File System](https://www.fastprep.io/low-level-design/path-value-file-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/path-value-file-system)|May 01, 2024|
 |**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
 |**Sentry**|[Design and Implement a Multi-Entrance Parking Lot](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Mar 08, 2024|
 |**Navan**|[Design a Calendar Availability Scheduler](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Jan 24, 2024|
