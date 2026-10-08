@@ -9,6 +9,21 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Intuit**|[Spreading Fire (Intuit India)](https://www.fastprep.io/problems/intuit-spreading-fire)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-spreading-fire)|Feb 24, 2024|
+|**Intuit**|[Jumping Kaday (Intuit India)](https://www.fastprep.io/problems/intuit-jumping-kady)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-jumping-kady)|Feb 24, 2024|
+|**Intuit**|[Max Reward (Intuit India)](https://www.fastprep.io/problems/intuit-maximum-reward)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-reward)|Feb 24, 2024|
+|**DE Shaw**|[Max Beauty](https://www.fastprep.io/problems/deshaw-find-maximum-beauty)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-find-maximum-beauty)|Feb 24, 2024|
+|**Weride**|[Long Break](https://www.fastprep.io/problems/weride-long-break)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-long-break)|Feb 24, 2024|
+|**Weride**|[Meetup Schedule](https://www.fastprep.io/problems/weride-meetup-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-meetup-schedule)|Feb 24, 2024|
+|**Samsung**|[Find Hidden Benchmark Value](https://www.fastprep.io/problems/samsung-find-hidden-benchmark-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/samsung-find-hidden-benchmark-value)|Feb 24, 2024|
+|**Intuit**|[Rearranging String](https://www.fastprep.io/problems/intuit-rearrange-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-rearrange-string)|Feb 22, 2024|
+|**Intuit**|[Letter Candles](https://www.fastprep.io/problems/intuit-letter-candles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-letter-candles)|Feb 22, 2024|
+|**Intuit**|[Get Min Difference](https://www.fastprep.io/problems/intuit-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-get-minimum-difference)|Feb 22, 2024|
+|**Microsoft**|[Maximize Difference](https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves)|Feb 22, 2024|
+|**JP Morgan**|[Min Operations](https://www.fastprep.io/problems/jpmorgan-get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-minimum-operations)|Feb 21, 2024|
+|**JP Morgan**|[How Many Flips?](https://www.fastprep.io/problems/jpmorgan-minimum-flips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-flips)|Feb 21, 2024|
+|**Roblox**|[Largest Value of Usage in Minutes](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes)|Feb 21, 2024|
+|**Oracle**|[Min Diff](https://www.fastprep.io/problems/oracle-min-diff)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-min-diff)|Feb 21, 2024|
 |**Oracle**|[Balancing Parentheses](https://www.fastprep.io/problems/oracle-balance-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-balance-parentheses)|Feb 21, 2024|
 |**Oracle**|[Last Letters](https://www.fastprep.io/problems/oracle-last-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-last-letters)|Feb 21, 2024|
 |**Oracle**|[Reduction Cost](https://www.fastprep.io/problems/oracle-reduction-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-reduction-cost)|Feb 21, 2024|
