@@ -925,6 +925,7 @@
 |**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
 |**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
 |**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
+|**Juniper Square**|[Reverse Odd-Position Words](https://www.fastprep.io/problems/juniper-square-reverse-odd-position-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juniper-square-reverse-odd-position-words)|May 26, 2025|
 |**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
 |**Meesho**|[Distinct Moves](https://www.fastprep.io/problems/meesho-distinct-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meesho-distinct-moves)|May 25, 2025|
 |**Agoda**|[Unique Digits in Range](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|May 25, 2025|
@@ -1839,5 +1840,4 @@
 |**Snowflake**|[Meeting Time](https://www.fastprep.io/problems/snowflake-get-earliest-meet-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-earliest-meet-time)|Feb 24, 2024|
 |**Snowflake**|[Max Beautiful Substrings](https://www.fastprep.io/problems/snowflake-get-max-beautiful-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-beautiful-substrings)|Feb 24, 2024|
 |**Intuit**|[Longest Cipher (Intuit India)](https://www.fastprep.io/problems/intuit-longest-cipher)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-cipher)|Feb 24, 2024|
-|**Intuit**|[Virus Spread (Intuit India)](https://www.fastprep.io/problems/intuit-virus-spread)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-virus-spread)|Feb 24, 2024|
 <a id="bottom"></a>
