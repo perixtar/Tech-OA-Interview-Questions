@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Find Max Distinct Items](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Mar 04, 2024|
+|**Amazon**|[Maxmimum Times Word Removed](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Mar 03, 2024|
+|**Amazon**|[Reverse Binary String](https://www.fastprep.io/problems/amazon-reverse-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-reverse-binary-string)|Mar 02, 2024|
+|**Amazon**|[Return Records](https://www.fastprep.io/problems/amazon-return-records)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-return-records)|Mar 02, 2024|
+|**Snowflake**|[Max Freq Substr](https://www.fastprep.io/problems/snowflake-max-freq-substr)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-max-freq-substr)|Mar 02, 2024|
+|**DE Shaw**|[Min Operations to Make Array Equal](https://www.fastprep.io/problems/deshaw-minimum-operations-to-make-array-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-minimum-operations-to-make-array-equal)|Mar 02, 2024|
+|**IMC**|[Find Best Path](https://www.fastprep.io/problems/imc-find-best-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-find-best-path)|Mar 02, 2024|
 |**IMC**|[Asteroid Game](https://www.fastprep.io/problems/imc-asteroid-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-asteroid-game)|Mar 02, 2024|
 |**Barclays**|[Find Maximum Possible GCD](https://www.fastprep.io/problems/barclay-find-maximum-possible-gcd)|Coding|[![Practice][p]](https://www.fastprep.io/problems/barclay-find-maximum-possible-gcd)|Mar 02, 2024|
 |**Weride**|[Checking Your Route](https://www.fastprep.io/problems/weride-checking-your-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-checking-your-route)|Mar 02, 2024|
