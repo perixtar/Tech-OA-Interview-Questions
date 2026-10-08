@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**73 questions**
+**74 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**NxtPe**|[Implement Mandate Details and Provider Authentication](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|[![Practice][p]](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|🔥 Oct 08, 2026|
 |**Persona**|[Build an Internal Go-Link Service](https://www.fastprep.io/project-coding/persona-internal-go-links)|[![Practice][p]](https://www.fastprep.io/project-coding/persona-internal-go-links)|🔥 Oct 06, 2026|
 |**NVIDIA**|[Build a System Metrics Reporter](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|🔥 Oct 06, 2026|
 |**Netflix**|[Review and Repair an ML Feature Pipeline PR](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|[![Practice][p]](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|🔥 Oct 05, 2026|

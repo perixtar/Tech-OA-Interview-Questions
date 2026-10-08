@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Squarepoint**|[Evaluating Circuit Expressions](https://www.fastprep.io/problems/squarepoint-evaluating-circuit-expressions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-evaluating-circuit-expressions)|Jul 29, 2026|
 |**Rippling**|[Filter and Sort Scheduled Tasks](https://www.fastprep.io/problems/rippling-filter-and-sort-scheduled-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-filter-and-sort-scheduled-tasks)|Jul 29, 2026|
 |**Google**|[Longest Subarray with Sum at Most K](https://www.fastprep.io/problems/google-longest-subarray-sum-at-most-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-subarray-sum-at-most-k)|Jul 29, 2026|
 |**Google**|[Maximum Sum Path Between Two Leaf Nodes](https://www.fastprep.io/problems/google-maximum-leaf-to-leaf-path-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-leaf-to-leaf-path-sum)|Jul 29, 2026|
@@ -1837,5 +1838,4 @@
 |**TikTok**|[Find Min Sum](https://www.fastprep.io/problems/tiktok-find-minimum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-minimum-sum)|Feb 28, 2024|
 |**Citadel**|[Min Equal Sum](https://www.fastprep.io/problems/citadel-find-minimum-equal-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-find-minimum-equal-sum)|Feb 28, 2024|
 |**IBM**|[Total Execution Time](https://www.fastprep.io/problems/ibm-get-total-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-total-execution-time)|Feb 28, 2024|
-|**Goldman Sachs**|[Min Start Value](https://www.fastprep.io/problems/goldman-min-start)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-min-start)|Feb 28, 2024|
 <a id="bottom"></a>

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Min Start Value](https://www.fastprep.io/problems/goldman-min-start)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-min-start)|Feb 28, 2024|
 |**Flexport**|[Get Expression Sums](https://www.fastprep.io/problems/flexport-get-expression-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-expression-sums)|Feb 28, 2024|
 |**Flexport**|[Max Energy](https://www.fastprep.io/problems/flexport-max-energy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-max-energy)|Feb 28, 2024|
 |**Flexport**|[Get Min Time](https://www.fastprep.io/problems/flexport-get-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-minimum-time)|Feb 28, 2024|
