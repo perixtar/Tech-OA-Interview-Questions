@@ -9,6 +9,27 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Morgan Stanley**|[Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Mar 16, 2024|
+|**Old Mission**|[Merging Palindromes](https://www.fastprep.io/problems/old-mission-merging-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-merging-palindromes)|Mar 14, 2024|
+|**Amazon**|[Match Strings](https://www.fastprep.io/problems/amazon-match-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-match-strings)|Mar 14, 2024|
+|**DoorDash**|[Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Mar 14, 2024|
+|**TikTok**|[Minimum Buckets](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Mar 13, 2024|
+|**TikTok**|[URL Hashing](https://www.fastprep.io/problems/tiktok-url-hashing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-url-hashing)|Mar 13, 2024|
+|**TikTok**|[Three Knights](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-the-number-of-possible-placements-for-the-three-knights)|Mar 13, 2024|
+|**IBM**|[Arr Subsets](https://www.fastprep.io/problems/ibm-subset-a)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-subset-a)|Mar 13, 2024|
+|**IBM**|[Table of Contents](https://www.fastprep.io/problems/ibm-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-table-of-contents)|Mar 13, 2024|
+|**Amazon**|[Num of Possible Unique Strings](https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings)|Mar 12, 2024|
+|**Amazon**|[Find Encrypted Password](https://www.fastprep.io/problems/amazon-find-encrypted-password)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-encrypted-password)|Mar 12, 2024|
+|**Amazon**|[Lexicographically Smallest Palindrome Possible](https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible)|Mar 09, 2024|
+|**IBM**|[Get Potential of Winners](https://www.fastprep.io/problems/ibm-get-potential-of-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-potential-of-winner)|Mar 09, 2024|
+|**DE Shaw**|[Cop](https://www.fastprep.io/problems/deshaw-min-acquire-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-min-acquire-cost)|Mar 09, 2024|
+|**Atlassian**|[Flower Bouquets](https://www.fastprep.io/problems/atlanssian-flower-bouquets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/atlanssian-flower-bouquets)|Mar 09, 2024|
+|**Atlassian**|[Better Compression](https://www.fastprep.io/problems/atlanssian-better-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/atlanssian-better-compression)|Mar 09, 2024|
+|**Atlassian**|[Romanizer](https://www.fastprep.io/problems/atlanssian-romanizer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/atlanssian-romanizer)|Mar 09, 2024|
+|**Braze**|[Find Lowest Price](https://www.fastprep.io/problems/braze-find-lowest-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/braze-find-lowest-price)|Mar 09, 2024|
+|**Zscaler**|[Count Sentences](https://www.fastprep.io/problems/zscaler-count-sentences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-sentences)|Mar 09, 2024|
+|**Sentry**|[Five-Minute Hit Counter](https://www.fastprep.io/problems/sentry-five-minute-hit-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-five-minute-hit-counter)|Mar 08, 2024|
+|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
 |**Sentry**|[Design and Implement a Multi-Entrance Parking Lot](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Mar 08, 2024|
 |**Optiver**|[Get Biggest Lions](https://www.fastprep.io/problems/get-biggest-lions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-biggest-lions)|Mar 06, 2024|
 |**Airbnb**|[Minimum Eating Speed](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Mar 06, 2024|
