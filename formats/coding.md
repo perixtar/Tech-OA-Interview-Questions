@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,314 questions**
+**3,315 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1270,6 +1270,7 @@
 |**Google**|[Count Good Numbers](https://www.fastprep.io/problems/google-count-good-numbers)|[![Practice][p]](https://www.fastprep.io/problems/google-count-good-numbers)|Jul 15, 2026|
 |**Google**|[Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|[![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Jul 15, 2026|
 |**Google**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|[![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Jul 15, 2026|
+|**Google**|[Fixed-K Kth Largest Stream](https://www.fastprep.io/problems/google-fixed-k-kth-largest-stream)|[![Practice][p]](https://www.fastprep.io/problems/google-fixed-k-kth-largest-stream)|Jul 15, 2026|
 |**Uber**|[Last Truck to Leave the Lane](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane)|[![Practice][p]](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane)|Jul 15, 2026|
 |**Citadel**|[Minimum Image Processing Cost](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost)|[![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost)|Jul 15, 2026|
 |**IBM**|[Count Strictly Increasing Subsequences of Length 3](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three)|Jul 15, 2026|
@@ -1823,5 +1824,4 @@
 |**Google**|[Priority Job Scheduler with Cooldowns](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|[![Practice][p]](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Jul 26, 2025|
 |**Illumio**|[Time-Based Key-Value Database](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|[![Practice][p]](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Jul 26, 2025|
 |**Meta**|[Count Fully Used Batteries](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|[![Practice][p]](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Jul 26, 2025|
-|**Meta**|[Count Key Changes](https://www.fastprep.io/problems/meta-count-key-changes)|[![Practice][p]](https://www.fastprep.io/problems/meta-count-key-changes)|Jul 26, 2025|
 <a id="bottom"></a>

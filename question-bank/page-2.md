@@ -218,6 +218,7 @@
 |**Google**|[Count Good Numbers](https://www.fastprep.io/problems/google-count-good-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-good-numbers)|Jul 15, 2026|
 |**Google**|[Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Jul 15, 2026|
 |**Google**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Jul 15, 2026|
+|**Google**|[Fixed-K Kth Largest Stream](https://www.fastprep.io/problems/google-fixed-k-kth-largest-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fixed-k-kth-largest-stream)|Jul 15, 2026|
 |**Uber**|[Last Truck to Leave the Lane](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane)|Jul 15, 2026|
 |**Citadel**|[Minimum Image Processing Cost](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost)|Jul 15, 2026|
 |**IBM**|[Count Strictly Increasing Subsequences of Length 3](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three)|Jul 15, 2026|
@@ -1830,5 +1831,4 @@
 |**Microsoft**|[Side Largest Square](https://www.fastprep.io/problems/microsoft-side-largest-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-side-largest-square)|Mar 18, 2024|
 |**Microsoft**|[Str with Longgest Len](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Mar 18, 2024|
 |**Geneva Trading**|[Min Num of Permutation Operations](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|Mar 18, 2024|
-|**ServiceNow**|[Max Sum of Balanced Sequence](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Mar 18, 2024|
 <a id="bottom"></a>
