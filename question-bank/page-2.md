@@ -158,7 +158,7 @@
 |**MathWorks**|[Group Shifted Strings](https://www.fastprep.io/problems/mathworks-group-shifted-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-group-shifted-strings)|Jul 24, 2026|
 |**MathWorks**|[Longest Valid Parentheses](https://www.fastprep.io/problems/mathworks-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-longest-valid-parentheses)|Jul 24, 2026|
 |**Tekion**|[Design a Car Service-Center Booking System](https://www.fastprep.io/system-design/car-service-center-booking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/car-service-center-booking)|Jul 24, 2026|
-|**MathWorks**|[Design a Product Authentication Platform](https://www.fastprep.io/system-design/product-authentication-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/product-authentication-platform)|Jul 24, 2026|
+|**MathWorks / Atlassian**|[Design a Product Authentication Platform](https://www.fastprep.io/system-design/product-authentication-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/product-authentication-platform)|Jul 24, 2026|
 |**Shopify**|[Design a Production-Ready URL Cache Service](https://www.fastprep.io/system-design/production-ready-url-cache-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/production-ready-url-cache-service)|Jul 24, 2026|
 |**Google**|[Ranked Deals Discovery and Claim Service](https://www.fastprep.io/system-design/ranked-deals-discovery-and-claim-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ranked-deals-discovery-and-claim-service)|Jul 24, 2026|
 |**Capillary Technologies**|[Design a Loyalty-Data Insight Platform](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|Jul 24, 2026|
@@ -972,6 +972,7 @@
 |**Amazon**|[Get Maximum Count](https://www.fastprep.io/problems/amazon-get-maximum-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-count)|May 31, 2025|
 |**Cloudflare**|[Determine Min Partitions Required](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|May 31, 2025|
 |**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
+|**Atlassian**|[Migrate an Ethernet Appliance to a Microcontroller](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|May 31, 2025|
 |**Wells Fargo**|[Canonical Euler Trail](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|May 26, 2025|
 |**Wells Fargo**|[Compare Calendar Dates](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|May 26, 2025|
 |**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
@@ -1829,5 +1830,4 @@
 |**Amazon**|[Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Mar 18, 2024|
 |**DoorDash**|[Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-adjust-prices)|Mar 18, 2024|
 |**Two Sigma**|[Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Mar 18, 2024|
-|**Two Sigma**|[Replacing Val](https://www.fastprep.io/problems/ts-replacing-num)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ts-replacing-num)|Mar 18, 2024|
 <a id="bottom"></a>

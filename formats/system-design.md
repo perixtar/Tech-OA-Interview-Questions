@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**567 questions**
+**568 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -387,7 +387,7 @@
 |**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|Jul 26, 2026|
 |**Databricks**|[Design a Chat Application Cache Architecture](https://www.fastprep.io/system-design/chat-application-cache-architecture)|[![Practice][p]](https://www.fastprep.io/system-design/chat-application-cache-architecture)|Jul 25, 2026|
 |**Tekion**|[Design a Car Service-Center Booking System](https://www.fastprep.io/system-design/car-service-center-booking)|[![Practice][p]](https://www.fastprep.io/system-design/car-service-center-booking)|Jul 24, 2026|
-|**MathWorks**|[Design a Product Authentication Platform](https://www.fastprep.io/system-design/product-authentication-platform)|[![Practice][p]](https://www.fastprep.io/system-design/product-authentication-platform)|Jul 24, 2026|
+|**MathWorks / Atlassian**|[Design a Product Authentication Platform](https://www.fastprep.io/system-design/product-authentication-platform)|[![Practice][p]](https://www.fastprep.io/system-design/product-authentication-platform)|Jul 24, 2026|
 |**Shopify**|[Design a Production-Ready URL Cache Service](https://www.fastprep.io/system-design/production-ready-url-cache-service)|[![Practice][p]](https://www.fastprep.io/system-design/production-ready-url-cache-service)|Jul 24, 2026|
 |**Google**|[Ranked Deals Discovery and Claim Service](https://www.fastprep.io/system-design/ranked-deals-discovery-and-claim-service)|[![Practice][p]](https://www.fastprep.io/system-design/ranked-deals-discovery-and-claim-service)|Jul 24, 2026|
 |**Capillary Technologies**|[Design a Loyalty-Data Insight Platform](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|[![Practice][p]](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|Jul 24, 2026|
@@ -479,6 +479,7 @@
 |**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
 |**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|
 |**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
+|**Atlassian**|[Migrate an Ethernet Appliance to a Microcontroller](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|[![Practice][p]](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|May 31, 2025|
 |**Google**|[Design Personalized Private Email Search](https://www.fastprep.io/system-design/personalized-private-email-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-private-email-search)|May 23, 2025|
 |**Scale AI**|[Design a Third-Party LLM Batch Job Orchestrator](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|[![Practice][p]](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|May 12, 2025|
 |**Scale AI**|[Design an LLM-Assisted Contributor Work Evaluation System](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|[![Practice][p]](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|May 09, 2025|
