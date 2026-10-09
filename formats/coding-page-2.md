@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,290 questions**
+**3,294 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Virtu Financial**|[Maximum Apples That Fit in a Box](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|[![Practice][p]](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|Jul 26, 2025|
+|**Virtu Financial**|[Minimum Steps to a Fibonacci Number](https://www.fastprep.io/problems/virtu-minimum-steps-to-fibonacci)|[![Practice][p]](https://www.fastprep.io/problems/virtu-minimum-steps-to-fibonacci)|Jul 26, 2025|
+|**Zoox**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|Jul 26, 2025|
+|**Arcesium**|[City Infection Number](https://www.fastprep.io/problems/arcesium-city-infection-number)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-city-infection-number)|Jul 23, 2025|
+|**Arcesium**|[Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Jul 23, 2025|
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|

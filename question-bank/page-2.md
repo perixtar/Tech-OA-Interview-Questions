@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Susquehanna International Group (SIG)**|[Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Jul 30, 2026|
+|**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
+|**Walmart**|[Design a Marketplace Product Catalog Platform](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|Jul 30, 2026|
+|**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|Jul 30, 2026|
 |**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|Jul 30, 2026|
 |**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
 |**Google**|[Linked List Cycle Entry Node](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Jul 29, 2026|
@@ -827,6 +831,7 @@
 |**Splunk**|[Prepaid Game-Card Payment Network](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|Aug 13, 2025|
 |**Splunk / Atlassian**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
 |**Splunk**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
+|**Atlassian**|[Design Video Metadata Reads Under a Deadline](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|Aug 12, 2025|
 |**Amazon**|[Fair Prize Distribution](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Aug 10, 2025|
 |**Amazon**|[Count Picked Items Less Than Queries](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Aug 10, 2025|
 |**EvenUp**|[War Card Game Winner](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Aug 09, 2025|
@@ -1829,11 +1834,4 @@
 |**Google**|[Maximize Power Values Sum](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Mar 05, 2024|
 |**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
 |**Amazon**|[Ways to Group Parcels](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Mar 04, 2024|
-|**IBM**|[Find Max Distinct Items](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Mar 04, 2024|
-|**Amazon**|[Maxmimum Times Word Removed](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Mar 03, 2024|
-|**Amazon**|[Reverse Binary String](https://www.fastprep.io/problems/amazon-reverse-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-reverse-binary-string)|Mar 02, 2024|
-|**Amazon**|[Return Records](https://www.fastprep.io/problems/amazon-return-records)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-return-records)|Mar 02, 2024|
-|**Snowflake**|[Max Freq Substr](https://www.fastprep.io/problems/snowflake-max-freq-substr)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-max-freq-substr)|Mar 02, 2024|
-|**DE Shaw**|[Min Operations to Make Array Equal](https://www.fastprep.io/problems/deshaw-minimum-operations-to-make-array-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-minimum-operations-to-make-array-equal)|Mar 02, 2024|
-|**IMC**|[Find Best Path](https://www.fastprep.io/problems/imc-find-best-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-find-best-path)|Mar 02, 2024|
 <a id="bottom"></a>
