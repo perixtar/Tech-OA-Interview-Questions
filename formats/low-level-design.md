@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**159 questions**
+**160 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,7 @@
 |**Kotak Mahindra Bank**|[Design a Restaurant Ordering Domain](https://www.fastprep.io/low-level-design/restaurant-ordering-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-ordering-domain)|🔥 Oct 07, 2026|
 |**ClearTax / Motive / Meesho / Navan / ServiceNow**|[Design a Movie Ticket Booking System](https://www.fastprep.io/low-level-design/movie-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-system)|🔥 Oct 06, 2026|
 |**Kotak Mahindra Bank / ServiceNow**|[Design a Movie Ticket Booking Platform](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|🔥 Oct 06, 2026|
+|**Quince**|[Design an Order and Inventory Coordination Domain](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|🔥 Oct 06, 2026|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|🔥 Oct 05, 2026|
 |**Adobe / Airwallex**|[Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|🔥 Oct 05, 2026|
 |**Micro1 / Amazon / FamPay**|[Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|🔥 Oct 05, 2026|

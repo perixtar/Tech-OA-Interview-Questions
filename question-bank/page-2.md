@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**OpenAI**|[Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|Aug 02, 2026|
 |**Baseten**|[Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|Aug 02, 2026|
 |**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
 |**Asana**|[Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Aug 02, 2026|
@@ -1829,5 +1830,4 @@
 |**Wolverine Trading**|[Max Shared](https://www.fastprep.io/problems/wolverine-trading-max-shared)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-max-shared)|Mar 19, 2024|
 |**Amazon**|[Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Mar 18, 2024|
 |**DoorDash**|[Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-adjust-prices)|Mar 18, 2024|
-|**Two Sigma**|[Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Mar 18, 2024|
 <a id="bottom"></a>

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,317)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (568)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,317)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (568)](formats/system-design.md) · [Low-level design (160)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -151,6 +151,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**ByteDance**|[Course Schedule](https://www.fastprep.io/problems/bytedance-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-course-schedule)|🔥 Oct 06, 2026|
 |**Uber**|[Find Robots by Blocker Distances](https://www.fastprep.io/problems/uber-find-robots-by-blocker-distances)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-find-robots-by-blocker-distances)|🔥 Oct 06, 2026|
 |**Kotak Mahindra Bank / ServiceNow**|[Design a Movie Ticket Booking Platform](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|🔥 Oct 06, 2026|
+|**Quince**|[Design an Order and Inventory Coordination Domain](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|🔥 Oct 06, 2026|
 |**Tekion / Autodesk**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🔥 Oct 05, 2026|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|🔥 Oct 05, 2026|
 |**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🔥 Oct 05, 2026|
@@ -1683,5 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Infosys**|[Count Valid A-B-C Sequences Under a Modulo-Four Rule](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Aug 02, 2026|
 |**Infosys**|[Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Aug 02, 2026|
 |**Infosys**|[Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Aug 02, 2026|
-|**OpenAI**|[Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|Aug 02, 2026|
 <a id="bottom"></a>
