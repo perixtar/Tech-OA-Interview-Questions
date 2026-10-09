@@ -15,6 +15,8 @@
 |**Hudson River Trading**|[Count Multiples of Three with Two Sevens](https://www.fastprep.io/problems/hrt-count-divisible-numbers-with-two-sevens)|[![Practice][p]](https://www.fastprep.io/problems/hrt-count-divisible-numbers-with-two-sevens)|🔥 Oct 08, 2026|
 |**Hudson River Trading**|[Rotate Matrix Regions Around the Diagonals](https://www.fastprep.io/problems/hrt-rotate-matrix-over-diagonals)|[![Practice][p]](https://www.fastprep.io/problems/hrt-rotate-matrix-over-diagonals)|🔥 Oct 08, 2026|
 |**Hudson River Trading**|[Recursively Expanded Shell Command Counts](https://www.fastprep.io/problems/hrt-shell-history-command-counts)|[![Practice][p]](https://www.fastprep.io/problems/hrt-shell-history-command-counts)|🔥 Oct 08, 2026|
+|**Google**|[Sliding Window Median of Response Times](https://www.fastprep.io/problems/google-sliding-window-median)|[![Practice][p]](https://www.fastprep.io/problems/google-sliding-window-median)|🔥 Oct 08, 2026|
+|**Google**|[Fountain Safety](https://www.fastprep.io/problems/google-fountain-safety)|[![Practice][p]](https://www.fastprep.io/problems/google-fountain-safety)|🔥 Oct 08, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Oct 07, 2026|
 |**OpenAI**|[Largest Microorganism After Consumption](https://www.fastprep.io/problems/openai-largest-microorganism)|[![Practice][p]](https://www.fastprep.io/problems/openai-largest-microorganism)|🔥 Oct 07, 2026|
 |**JP Morgan Chase**|[Maximize Minimum Deployment Difficulty](https://www.fastprep.io/problems/jpmorgan-maximize-minimum-deployment-difficulty)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-maximize-minimum-deployment-difficulty)|🔥 Oct 07, 2026|
@@ -973,7 +975,6 @@
 |**Google**|[Maximize Two Endpoint Values](https://www.fastprep.io/problems/google-maximize-two-endpoint-values)|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-two-endpoint-values)|🆕 Aug 31, 2026|
 |**Pinterest**|[Expression Add Operators](https://www.fastprep.io/problems/pinterest-expression-add-operators)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-expression-add-operators)|🆕 Aug 31, 2026|
 |**Pinterest**|[Nested JSON Schema Validator](https://www.fastprep.io/problems/pinterest-nested-json-schema-validator)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-nested-json-schema-validator)|🆕 Aug 31, 2026|
-|**Google**|[Sliding Window Median of Response Times](https://www.fastprep.io/problems/google-sliding-window-median)|[![Practice][p]](https://www.fastprep.io/problems/google-sliding-window-median)|🆕 Aug 31, 2026|
 |**Matroid**|[Count Good Tuples](https://www.fastprep.io/problems/matroid-count-good-tuples)|[![Practice][p]](https://www.fastprep.io/problems/matroid-count-good-tuples)|🆕 Aug 30, 2026|
 |**Matroid**|[Validate 3x3 Digit Windows](https://www.fastprep.io/problems/matroid-validate-3x3-digit-windows)|[![Practice][p]](https://www.fastprep.io/problems/matroid-validate-3x3-digit-windows)|🆕 Aug 30, 2026|
 |**Matroid**|[Diagonal Robot Path Sum](https://www.fastprep.io/problems/matroid-diagonal-robot-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/matroid-diagonal-robot-path-sum)|🆕 Aug 30, 2026|
@@ -1431,7 +1432,6 @@
 |**Meesho**|[Efficient Deployments](https://www.fastprep.io/problems/meesho-efficient-deployments)|[![Practice][p]](https://www.fastprep.io/problems/meesho-efficient-deployments)|Jun 18, 2026|
 |**Google**|[Minimum Tree Value After Leaf Relocations](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Jun 18, 2026|
 |**Maven Clinic**|[Minimum Appointment Cancellations with a Required Break](https://www.fastprep.io/problems/maven-clinic-minimum-appointment-cancellations)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-minimum-appointment-cancellations)|Jun 18, 2026|
-|**Google**|[Fountain Safety](https://www.fastprep.io/problems/google-fountain-safety)|[![Practice][p]](https://www.fastprep.io/problems/google-fountain-safety)|Jun 17, 2026|
 |**Visa**|[Maximum Even Tag Sum](https://www.fastprep.io/problems/visa-maximum-even-tag-sum)|[![Practice][p]](https://www.fastprep.io/problems/visa-maximum-even-tag-sum)|Jun 17, 2026|
 |**Visa**|[Transform Binary Matrix](https://www.fastprep.io/problems/visa-transform-binary-matrix)|[![Practice][p]](https://www.fastprep.io/problems/visa-transform-binary-matrix)|Jun 17, 2026|
 |**Walmart**|[K-Capable Model Selection](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|[![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|Jun 16, 2026|
