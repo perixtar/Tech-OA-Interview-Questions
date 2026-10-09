@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Side Largest Square](https://www.fastprep.io/problems/microsoft-side-largest-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-side-largest-square)|Mar 18, 2024|
+|**Microsoft**|[Str with Longgest Len](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Mar 18, 2024|
+|**Geneva Trading**|[Min Num of Permutation Operations](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|Mar 18, 2024|
+|**ServiceNow**|[Max Sum of Balanced Sequence](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Mar 18, 2024|
 |**ServiceNow**|[Find Max Min Val Using K Elements](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|Mar 18, 2024|
 |**General Motors**|[Prepare Notification](https://www.fastprep.io/problems/general-motors-prepare-notification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/general-motors-prepare-notification)|Mar 17, 2024|
 |**General Motors**|[Smallest But Greater](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|Coding|[![Practice][p]](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|Mar 17, 2024|

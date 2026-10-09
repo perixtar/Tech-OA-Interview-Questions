@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**566 questions**
+**567 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -478,6 +478,7 @@
 |**Atlassian**|[Design Video Metadata Reads Under a Deadline](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|[![Practice][p]](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|Aug 12, 2025|
 |**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
 |**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|
+|**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
 |**Google**|[Design Personalized Private Email Search](https://www.fastprep.io/system-design/personalized-private-email-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-private-email-search)|May 23, 2025|
 |**Scale AI**|[Design a Third-Party LLM Batch Job Orchestrator](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|[![Practice][p]](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|May 12, 2025|
 |**Scale AI**|[Design an LLM-Assisted Contributor Work Evaluation System](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|[![Practice][p]](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|May 09, 2025|
