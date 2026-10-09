@@ -805,6 +805,7 @@
 |**Microsoft**|[Optimize LLM Inference Across Model and Infrastructure](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|Oct 08, 2025|
 |**AT&T**|[Break a Palindrome](https://www.fastprep.io/problems/att-break-a-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-break-a-palindrome)|Oct 07, 2025|
 |**AT&T**|[3Sum](https://www.fastprep.io/problems/att-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-three-sum)|Oct 07, 2025|
+|**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
 |**Microsoft**|[Isomorphic Strings](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Sep 18, 2025|
 |**Microsoft**|[Merge Two Descending Linked Lists](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Sep 18, 2025|
 |**Microsoft**|[Sort a Linked List in Descending Order](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|Sep 18, 2025|
@@ -820,7 +821,7 @@
 |**Maven Clinic**|[Meeting Rooms II](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Aug 28, 2025|
 |**Tennr**|[Top K Frequent Elements](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Aug 24, 2025|
 |**Tennr**|[Wildcard Multi-Delimiter Validation](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Aug 24, 2025|
-|**Atlassian / Compass International Holdings / Better.com / Coinbase**|[Post Author Friend Count Serving](https://www.fastprep.io/system-design/post-author-friend-count-serving)|System design|[![Practice][p]](https://www.fastprep.io/system-design/post-author-friend-count-serving)|Aug 23, 2025|
+|**Atlassian / Compass International Holdings / Better.com / Coinbase / Wayfair**|[Post Author Friend Count Serving](https://www.fastprep.io/system-design/post-author-friend-count-serving)|System design|[![Practice][p]](https://www.fastprep.io/system-design/post-author-friend-count-serving)|Aug 23, 2025|
 |**Atlassian / Better.com**|[Signing Notification Loss Recovery](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|Aug 23, 2025|
 |**SpaceX**|[Rocket Component Cost](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Aug 22, 2025|
 |**SpaceX**|[Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Aug 22, 2025|
@@ -1833,5 +1834,4 @@
 |**Google**|[Largest Lexicographical Substring](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Mar 05, 2024|
 |**Google**|[Maximize Power Values Sum](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Mar 05, 2024|
 |**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
-|**Amazon**|[Ways to Group Parcels](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Mar 04, 2024|
 <a id="bottom"></a>

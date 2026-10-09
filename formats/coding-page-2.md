@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,294 questions**
+**3,295 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Virtu Financial**|[HexSpeak](https://www.fastprep.io/problems/virtu-hexspeak)|[![Practice][p]](https://www.fastprep.io/problems/virtu-hexspeak)|Jul 26, 2025|
 |**Virtu Financial**|[Maximum Apples That Fit in a Box](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|[![Practice][p]](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|Jul 26, 2025|
 |**Virtu Financial**|[Minimum Steps to a Fibonacci Number](https://www.fastprep.io/problems/virtu-minimum-steps-to-fibonacci)|[![Practice][p]](https://www.fastprep.io/problems/virtu-minimum-steps-to-fibonacci)|Jul 26, 2025|
 |**Zoox**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|Jul 26, 2025|

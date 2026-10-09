@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Ways to Group Parcels](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Mar 04, 2024|
 |**IBM**|[Find Max Distinct Items](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Mar 04, 2024|
 |**Amazon**|[Maxmimum Times Word Removed](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Mar 03, 2024|
 |**Amazon**|[Reverse Binary String](https://www.fastprep.io/problems/amazon-reverse-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-reverse-binary-string)|Mar 02, 2024|
