@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,315)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (566)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,317)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (567)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -76,6 +76,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Boston Consulting Group**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|🔥 Oct 08, 2026|
 |**Boston Consulting Group**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|🔥 Oct 08, 2026|
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 08, 2026|
+|**Google**|[Boolean Expression Results After Leaf Flips](https://www.fastprep.io/problems/google-boolean-expression-tree-flip-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-boolean-expression-tree-flip-results)|🔥 Oct 08, 2026|
+|**IBM**|[Query Type Frequency Window](https://www.fastprep.io/problems/ibm-query-type-frequency-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-query-type-frequency-window)|🔥 Oct 08, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 07, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 07, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Oct 07, 2026|
@@ -114,6 +116,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Snap Inc.**|[Stream Cluster Max and Median](https://www.fastprep.io/problems/snap-inc-stream-cluster-max-and-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-stream-cluster-max-and-median)|🔥 Oct 07, 2026|
 |**Snap Inc.**|[Number of Closed Islands](https://www.fastprep.io/problems/snap-inc-number-of-closed-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-number-of-closed-islands)|🔥 Oct 07, 2026|
 |**Snap Inc.**|[Radar Barrier Crossing](https://www.fastprep.io/problems/snap-inc-radar-barrier-crossing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-radar-barrier-crossing)|🔥 Oct 07, 2026|
+|**Google**|[Merge Intervals](https://www.fastprep.io/problems/google-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-merge-intervals)|🔥 Oct 07, 2026|
+|**Google**|[Dynamic Friendship Connectivity](https://www.fastprep.io/problems/google-dynamic-friendship-connectivity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-dynamic-friendship-connectivity)|🔥 Oct 07, 2026|
+|**Google**|[Running Interval Union Length](https://www.fastprep.io/problems/google-running-interval-union-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-running-interval-union-length)|🔥 Oct 07, 2026|
 |**Google**|[Peak Task Concurrency Intervals](https://www.fastprep.io/problems/google-peak-task-concurrency-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-peak-task-concurrency-intervals)|🔥 Oct 06, 2026|
 |**Google**|[Priority-Aware Dependent Task Order](https://www.fastprep.io/problems/google-priority-dependent-task-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-priority-dependent-task-order)|🔥 Oct 06, 2026|
 |**Google**|[Shortest Path Between BST Nodes](https://www.fastprep.io/problems/google-shortest-path-between-bst-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-between-bst-nodes)|🔥 Oct 06, 2026|
@@ -437,7 +442,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Attentive**|[Lisp Expression Parser](https://www.fastprep.io/problems/attentive-lisp-expression-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/attentive-lisp-expression-parser)|🔥 Sep 27, 2026|
 |**Attentive**|[Messages in an Inclusive Timestamp Range](https://www.fastprep.io/problems/attentive-log-range-query)|Coding|[![Practice][p]](https://www.fastprep.io/problems/attentive-log-range-query)|🔥 Sep 27, 2026|
 |**Bloomberg LP**|[Lowest Common Ancestor in an N-ary Tree](https://www.fastprep.io/problems/bloomberg-nary-tree-lowest-common-ancestor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-nary-tree-lowest-common-ancestor)|🔥 Sep 27, 2026|
-|**Google**|[Boolean Expression Results After Leaf Flips](https://www.fastprep.io/problems/google-boolean-expression-tree-flip-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-boolean-expression-tree-flip-results)|🔥 Sep 27, 2026|
 |**Google**|[Merge Hierarchical Trees by Name](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|🔥 Sep 27, 2026|
 |**Verkada**|[Find the Unique User with Access to Every Camera](https://www.fastprep.io/problems/verkada-admin-user-with-all-camera-access)|Coding|[![Practice][p]](https://www.fastprep.io/problems/verkada-admin-user-with-all-camera-access)|🔥 Sep 27, 2026|
 |**Aurora Innovation**|[Safe LLM Driving Intent Platform](https://www.fastprep.io/system-design/llm-assisted-driving-intent-safety-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-assisted-driving-intent-safety-platform)|🔥 Sep 27, 2026|
@@ -1680,7 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Infosys**|[Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Aug 02, 2026|
 |**Infosys**|[Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Aug 02, 2026|
 |**OpenAI**|[Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|Aug 02, 2026|
-|**Baseten**|[Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|Aug 02, 2026|
-|**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
-|**Asana**|[Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Aug 02, 2026|
 <a id="bottom"></a>

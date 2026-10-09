@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,315 questions**
+**3,317 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Priority Job Scheduler with Cooldowns](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|[![Practice][p]](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Jul 26, 2025|
+|**Illumio**|[Time-Based Key-Value Database](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|[![Practice][p]](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Jul 26, 2025|
+|**Meta**|[Count Fully Used Batteries](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|[![Practice][p]](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Jul 26, 2025|
 |**Meta**|[Count Key Changes](https://www.fastprep.io/problems/meta-count-key-changes)|[![Practice][p]](https://www.fastprep.io/problems/meta-count-key-changes)|Jul 26, 2025|
 |**Meta**|[Minimum Operations for a Stepwise Sequence](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Jul 26, 2025|
 |**Meta**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|[![Practice][p]](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Jul 26, 2025|
@@ -182,7 +185,6 @@
 |**Bloomberg LP**|[Minimum-Cost Root-to-Leaf Path in an N-ary Tree](https://www.fastprep.io/problems/bloomberg-minimum-cost-nary-root-to-leaf-path)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-cost-nary-root-to-leaf-path)|Feb 21, 2025|
 |**Bloomberg LP**|[Welsh Custom Alphabet Sort](https://www.fastprep.io/problems/bloomberg-welsh-custom-alphabet-sort)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-welsh-custom-alphabet-sort)|Feb 21, 2025|
 |**Google**|[Maximum Subarray](https://www.fastprep.io/problems/google-maximum-subarray)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray)|Feb 13, 2025|
-|**Google**|[Merge Intervals](https://www.fastprep.io/problems/google-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/google-merge-intervals)|Feb 13, 2025|
 |**Amazon**|[Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Feb 10, 2025|
 |**TikTok**|[Playlist Partitioning](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Feb 09, 2025|
 |**TikTok**|[Change Username](https://www.fastprep.io/problems/tiktok-changing-username)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-changing-username)|Feb 09, 2025|
