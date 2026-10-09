@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**162 questions**
+**163 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -15,7 +15,7 @@
 |**Quince**|[Design an Order and Inventory Coordination Domain](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|🔥 Oct 06, 2026|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|🔥 Oct 05, 2026|
 |**Adobe / Airwallex**|[Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|🔥 Oct 05, 2026|
-|**Micro1 / Amazon / FamPay**|[Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|🔥 Oct 05, 2026|
+|**Micro1 / Amazon / FamPay / Stripe**|[Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|🔥 Oct 05, 2026|
 |**OpenAI / Lokal / Coupang**|[Design a Multi-Channel Bot Notification Service](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service)|🔥 Oct 05, 2026|
 |**CoinDCX**|[Design a Crypto Order Matching Engine](https://www.fastprep.io/low-level-design/crypto-order-matching-engine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/crypto-order-matching-engine-domain)|🔥 Oct 05, 2026|
 |**Lokal**|[Design a Workspace Notification Policy Domain](https://www.fastprep.io/low-level-design/slack-like-notification-policy-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/slack-like-notification-policy-domain)|🔥 Oct 05, 2026|
@@ -119,6 +119,7 @@
 |**Anduril**|[Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|[![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|May 12, 2026|
 |**Amazon**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
 |**Confluent**|[Design and Implement a Random-Access FIFO Queue](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Apr 03, 2026|
+|**Stripe**|[Design a Business KYC Verification Domain](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|Mar 27, 2026|
 |**Bloomberg LP**|[Design an O(1) Randomized Set](https://www.fastprep.io/low-level-design/o1-randomized-set)|[![Practice][p]](https://www.fastprep.io/low-level-design/o1-randomized-set)|Feb 19, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
