@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Hartford Financial Services**|[Average Grades per Student](https://www.fastprep.io/problems/hartford-student-grade-averages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-student-grade-averages)|Aug 02, 2026|
 |**Decagon**|[Design a Multi-Tenant AI Gateway](https://www.fastprep.io/system-design/multi-tenant-ai-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-ai-gateway)|Aug 01, 2026|
 |**Scale AI**|[Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api)|Aug 01, 2026|
 |**Apple**|[Design an Online Voting Service](https://www.fastprep.io/system-design/online-voting-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-voting-service)|Aug 01, 2026|
@@ -386,6 +387,7 @@
 |**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
 |**Meta**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
 |**Meta**|[Design a Live-Session Conversational Chatbot](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|Jun 30, 2026|
+|**Google**|[Partition Into K Subarrays With Sum at Least X](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Jun 30, 2026|
 |**Amazon**|[Frequently Bought Together](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Jun 29, 2026|
 |**Amazon**|[Souvenir Shop Purchases](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Jun 29, 2026|
 |**McKinsey**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Jun 29, 2026|
@@ -858,7 +860,7 @@
 |**Splunk / Atlassian**|[Cost-Aware Interactive Content Delivery](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|Aug 13, 2025|
 |**Splunk**|[Prepaid Game-Card Payment Network](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|Aug 13, 2025|
 |**Splunk / Atlassian / Deliveroo**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
-|**Splunk**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
+|**Splunk / Atlassian**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
 |**Atlassian**|[Design Video Metadata Reads Under a Deadline](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|Aug 12, 2025|
 |**Amazon**|[Fair Prize Distribution](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Aug 10, 2025|
 |**Amazon**|[Count Picked Items Less Than Queries](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Aug 10, 2025|
@@ -1829,6 +1831,4 @@
 |**Microsoft**|[Str with Longgest Len](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-str-with-longest-len)|Mar 18, 2024|
 |**Geneva Trading**|[Min Num of Permutation Operations](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations)|Mar 18, 2024|
 |**ServiceNow**|[Max Sum of Balanced Sequence](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence)|Mar 18, 2024|
-|**ServiceNow**|[Find Max Min Val Using K Elements](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements)|Mar 18, 2024|
-|**General Motors**|[Prepare Notification](https://www.fastprep.io/problems/general-motors-prepare-notification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/general-motors-prepare-notification)|Mar 17, 2024|
 <a id="bottom"></a>

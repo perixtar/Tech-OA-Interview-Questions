@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,313)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (566)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,314)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (566)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1683,5 +1683,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Baseten**|[Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|Aug 02, 2026|
 |**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
 |**Asana**|[Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Aug 02, 2026|
-|**Hartford Financial Services**|[Average Grades per Student](https://www.fastprep.io/problems/hartford-student-grade-averages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-student-grade-averages)|Aug 02, 2026|
 <a id="bottom"></a>

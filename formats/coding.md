@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,313 questions**
+**3,314 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1426,6 +1426,7 @@
 |**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
 |**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
 |**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
+|**Google**|[Partition Into K Subarrays With Sum at Least X](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|[![Practice][p]](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Jun 30, 2026|
 |**Amazon**|[Frequently Bought Together](https://www.fastprep.io/problems/amazon-frequently-bought-together)|[![Practice][p]](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Jun 29, 2026|
 |**Amazon**|[Souvenir Shop Purchases](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|[![Practice][p]](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Jun 29, 2026|
 |**McKinsey**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Jun 29, 2026|
@@ -1823,5 +1824,4 @@
 |**Illumio**|[Time-Based Key-Value Database](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|[![Practice][p]](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Jul 26, 2025|
 |**Meta**|[Count Fully Used Batteries](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|[![Practice][p]](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Jul 26, 2025|
 |**Meta**|[Count Key Changes](https://www.fastprep.io/problems/meta-count-key-changes)|[![Practice][p]](https://www.fastprep.io/problems/meta-count-key-changes)|Jul 26, 2025|
-|**Meta**|[Minimum Operations for a Stepwise Sequence](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Jul 26, 2025|
 <a id="bottom"></a>
