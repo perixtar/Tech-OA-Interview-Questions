@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**565 questions**
+**566 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -473,7 +473,7 @@
 |**Splunk**|[Activity Playlist Streaming Service](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|[![Practice][p]](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|Aug 13, 2025|
 |**Splunk / Atlassian**|[Cost-Aware Interactive Content Delivery](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery)|Aug 13, 2025|
 |**Splunk**|[Prepaid Game-Card Payment Network](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|[![Practice][p]](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|Aug 13, 2025|
-|**Splunk / Atlassian**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
+|**Splunk / Atlassian / Deliveroo**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
 |**Splunk**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
 |**Atlassian**|[Design Video Metadata Reads Under a Deadline](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|[![Practice][p]](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|Aug 12, 2025|
 |**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
@@ -531,6 +531,7 @@
 |**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
 |**Google / Microsoft**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|Apr 28, 2022|
+|**Coinbase**|[Mutual Friend Lookup Service](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|[![Practice][p]](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|Apr 25, 2022|
 |**Amazon**|[Design Cross-Catalog Entity Matching](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|[![Practice][p]](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|Apr 20, 2022|
 |**Meta**|[Design a Human-Detection Video Data Pipeline](https://www.fastprep.io/system-design/human-detection-video-data-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/human-detection-video-data-pipeline)|Apr 05, 2022|
 |**Meta**|[Design a Global Most-Listened Songs Leaderboard](https://www.fastprep.io/system-design/global-most-listened-songs-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/global-most-listened-songs-leaderboard)|Apr 05, 2022|
