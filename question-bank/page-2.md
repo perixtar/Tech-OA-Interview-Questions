@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[String-Pair Frequency Similarity](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity)|Jul 30, 2026|
+|**Pinterest / Amazon / Zoom / Goldman Sachs**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|Jul 30, 2026|
+|**Opendoor**|[Map-Based Home Search Backend](https://www.fastprep.io/system-design/map-home-search-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/map-home-search-backend)|Jul 30, 2026|
+|**Databricks / Highspot**|[Music Playlist System](https://www.fastprep.io/system-design/music-playlist-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/music-playlist-system)|Jul 30, 2026|
 |**Susquehanna International Group (SIG)**|[Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Jul 30, 2026|
 |**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
 |**Walmart**|[Design a Marketplace Product Catalog Platform](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|Jul 30, 2026|
@@ -122,7 +126,6 @@
 |**Cresta**|[Feature Flag Evaluation Engine](https://www.fastprep.io/problems/cresta-feature-flag-evaluation-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cresta-feature-flag-evaluation-engine)|Jul 24, 2026|
 |**MathWorks**|[Group Shifted Strings](https://www.fastprep.io/problems/mathworks-group-shifted-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-group-shifted-strings)|Jul 24, 2026|
 |**MathWorks**|[Longest Valid Parentheses](https://www.fastprep.io/problems/mathworks-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-longest-valid-parentheses)|Jul 24, 2026|
-|**LinkedIn / Confluent / Shield AI**|[CI/CD Pipeline Orchestration System](https://www.fastprep.io/system-design/ci-cd-pipeline-orchestration-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ci-cd-pipeline-orchestration-system)|Jul 24, 2026|
 |**Tekion**|[Design a Car Service-Center Booking System](https://www.fastprep.io/system-design/car-service-center-booking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/car-service-center-booking)|Jul 24, 2026|
 |**MathWorks**|[Design a Product Authentication Platform](https://www.fastprep.io/system-design/product-authentication-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/product-authentication-platform)|Jul 24, 2026|
 |**Shopify**|[Design a Production-Ready URL Cache Service](https://www.fastprep.io/system-design/production-ready-url-cache-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/production-ready-url-cache-service)|Jul 24, 2026|
@@ -989,7 +992,6 @@
 |**Rippling**|[In-Memory Spreadsheet Values](https://www.fastprep.io/problems/rippling-in-memory-spreadsheet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-in-memory-spreadsheet)|Apr 10, 2025|
 |**Amazon**|[Remove Characters in Frequency Order](https://www.fastprep.io/problems/amazon-remove-characters-in-frequency-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-remove-characters-in-frequency-order)|Apr 10, 2025|
 |**Microsoft**|[Min Cars to Remove](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove)|Apr 10, 2025|
-|**Modular**|[Design a Machine Learning Feature Store](https://www.fastprep.io/system-design/machine-learning-feature-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-feature-store)|Apr 10, 2025|
 |**Roku**|[Design a Recurring Grocery Subscription Domain](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|Apr 08, 2025|
 |**Google**|[Design an Online Four-Candidate Ranker](https://www.fastprep.io/system-design/contextual-four-candidate-ranker)|System design|[![Practice][p]](https://www.fastprep.io/system-design/contextual-four-candidate-ranker)|Apr 08, 2025|
 |**Character.AI**|[Time-Based Key-Value Map With Floor and Ceiling Queries](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|Apr 07, 2025|
@@ -1832,6 +1834,4 @@
 |**Optiver**|[Get Biggest Lions](https://www.fastprep.io/problems/get-biggest-lions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-biggest-lions)|Mar 06, 2024|
 |**Airbnb**|[Minimum Eating Speed](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Mar 06, 2024|
 |**Google**|[Largest Lexicographical Substring](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Mar 05, 2024|
-|**Google**|[Maximize Power Values Sum](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Mar 05, 2024|
-|**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
 <a id="bottom"></a>
