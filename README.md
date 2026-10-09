@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,313)](formats/coding.md) · [SQL (70)](formats/sql.md) · [System design (566)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,314)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (566)](formats/system-design.md) · [Low-level design (159)](formats/low-level-design.md) · [AI coding (74)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -72,6 +72,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[Capacity to Ship Packages Within Days](https://www.fastprep.io/problems/microsoft-capacity-to-ship-packages-within-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-capacity-to-ship-packages-within-days)|🔥 Oct 08, 2026|
 |**Oracle**|[Remove Adjacent Duplicates in String II](https://www.fastprep.io/problems/oracle-remove-adjacent-duplicates-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-remove-adjacent-duplicates-ii)|🔥 Oct 08, 2026|
 |**Google**|[Reach a Destination Through Scheduled Flights](https://www.fastprep.io/problems/google-reach-destination-scheduled-flights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reach-destination-scheduled-flights)|🔥 Oct 08, 2026|
+|**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🔥 Oct 08, 2026|
+|**Boston Consulting Group**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|🔥 Oct 08, 2026|
+|**Boston Consulting Group**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|🔥 Oct 08, 2026|
+|**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 08, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 07, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 07, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Oct 07, 2026|
@@ -110,8 +114,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Snap Inc.**|[Stream Cluster Max and Median](https://www.fastprep.io/problems/snap-inc-stream-cluster-max-and-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-stream-cluster-max-and-median)|🔥 Oct 07, 2026|
 |**Snap Inc.**|[Number of Closed Islands](https://www.fastprep.io/problems/snap-inc-number-of-closed-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-number-of-closed-islands)|🔥 Oct 07, 2026|
 |**Snap Inc.**|[Radar Barrier Crossing](https://www.fastprep.io/problems/snap-inc-radar-barrier-crossing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-radar-barrier-crossing)|🔥 Oct 07, 2026|
-|**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🔥 Oct 06, 2026|
-|**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 06, 2026|
 |**Google**|[Peak Task Concurrency Intervals](https://www.fastprep.io/problems/google-peak-task-concurrency-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-peak-task-concurrency-intervals)|🔥 Oct 06, 2026|
 |**Google**|[Priority-Aware Dependent Task Order](https://www.fastprep.io/problems/google-priority-dependent-task-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-priority-dependent-task-order)|🔥 Oct 06, 2026|
 |**Google**|[Shortest Path Between BST Nodes](https://www.fastprep.io/problems/google-shortest-path-between-bst-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-between-bst-nodes)|🔥 Oct 06, 2026|
@@ -1681,7 +1683,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Baseten**|[Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|Aug 02, 2026|
 |**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
 |**Asana**|[Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle)|Aug 02, 2026|
-|**Hartford Financial Services**|[Average Grades per Student](https://www.fastprep.io/problems/hartford-student-grade-averages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-student-grade-averages)|Aug 02, 2026|
-|**Decagon**|[Design a Multi-Tenant AI Gateway](https://www.fastprep.io/system-design/multi-tenant-ai-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-ai-gateway)|Aug 01, 2026|
-|**Scale AI**|[Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api)|Aug 01, 2026|
 <a id="bottom"></a>

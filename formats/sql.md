@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**70 questions**
+**72 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -13,9 +13,11 @@
 |**Apple**|[Customer Order Count Distribution by Country](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|[![Practice][p]](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|🔥 Oct 08, 2026|
 |**Apple**|[iPhone Model Sales Share by Country](https://www.fastprep.io/problems/apple-iphone-model-sales-share)|[![Practice][p]](https://www.fastprep.io/problems/apple-iphone-model-sales-share)|🔥 Oct 08, 2026|
 |**Apple**|[Top Five Countries by Product Revenue](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|[![Practice][p]](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|🔥 Oct 08, 2026|
+|**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🔥 Oct 08, 2026|
+|**Boston Consulting Group**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|🔥 Oct 08, 2026|
+|**Boston Consulting Group**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|🔥 Oct 08, 2026|
+|**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 08, 2026|
 |**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🔥 Oct 07, 2026|
-|**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🔥 Oct 06, 2026|
-|**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 06, 2026|
 |**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|🔥 Oct 01, 2026|
 |**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|🔥 Oct 01, 2026|
 |**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|🔥 Oct 01, 2026|
