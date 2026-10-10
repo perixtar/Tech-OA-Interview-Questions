@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Elementary School](https://www.fastprep.io/problems/ibm-elementary-school)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-elementary-school)|Mar 20, 2024|
+|**Goldman Sachs**|[Find Niceness](https://www.fastprep.io/problems/goldman-find-niceness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-niceness)|Mar 20, 2024|
+|**IXL Learning**|[Card Packets](https://www.fastprep.io/problems/ixl-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-card-packets)|Mar 20, 2024|
 |**IXL Learning**|[Count Max](https://www.fastprep.io/problems/ixl-count-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-count-max)|Mar 20, 2024|
 |**IXL Learning**|[Get Min Difference](https://www.fastprep.io/problems/ixl-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-get-minimum-difference)|Mar 20, 2024|
 |**IXL Learning**|[Prison](https://www.fastprep.io/problems/ixl-prison)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-prison)|Mar 20, 2024|
