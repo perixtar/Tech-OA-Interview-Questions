@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system)|Aug 03, 2026|
 |**Amazon**|[Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|Aug 03, 2026|
 |**Gusto**|[Design a Restaurant Staff Scheduling System](https://www.fastprep.io/system-design/restaurant-scheduling-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-scheduling-system)|Aug 03, 2026|
 |**HSBC**|[Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels)|Aug 03, 2026|
@@ -412,6 +413,7 @@
 |**Goldman Sachs**|[Valid Binary Prefix](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|Jun 29, 2026|
 |**Expedia**|[Maximum Team Size](https://www.fastprep.io/problems/expedia-maximum-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-maximum-team-size)|Jun 29, 2026|
 |**SeekOut**|[Merge Intervals](https://www.fastprep.io/problems/seekout-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/seekout-merge-intervals)|Jun 27, 2026|
+|**Headlands Technologies**|[Market Order Book](https://www.fastprep.io/problems/headlands-market-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-market-order-book)|Jun 25, 2026|
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
 |**ByteDance**|[Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|Jun 25, 2026|
 |**Amazon**|[Find Minimum Groups](https://www.fastprep.io/problems/amazon-find-minimum-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-groups)|Jun 24, 2026|
@@ -1824,6 +1826,4 @@
 |**Trade Desk**|[Earn The Most](https://www.fastprep.io/problems/tdesk-about-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-profit)|Mar 21, 2024|
 |**Trade Desk**|[Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-lamps)|Mar 21, 2024|
 |**Trade Desk**|[Flights](https://www.fastprep.io/problems/tdesk-flights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-flights)|Mar 21, 2024|
-|**Trade Desk**|[Friend List](https://www.fastprep.io/problems/tdesk-friend-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-friend-list)|Mar 21, 2024|
-|**DoorDash**|[Find Different Value](https://www.fastprep.io/problems/doordash-find-difference-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-find-difference-value)|Mar 20, 2024|
 <a id="bottom"></a>
