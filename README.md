@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,317)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (572)](formats/system-design.md) · [Low-level design (163)](formats/low-level-design.md) · [AI coding (75)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,317)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (572)](formats/system-design.md) · [Low-level design (164)](formats/low-level-design.md) · [AI coding (75)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -734,6 +734,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Snowflake**|[Sliding-Window Rate Limiter](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|🆕 Sep 22, 2026|
 |**Stripe**|[Validate Six-Column Business CSV Rows](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|🆕 Sep 22, 2026|
 |**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|🆕 Sep 22, 2026|
+|**Google**|[Design and Implement an Extensible Order Sales Counter](https://www.fastprep.io/low-level-design/extensible-order-sales-counter)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-order-sales-counter)|🆕 Sep 22, 2026|
 |**Google**|[Subtract One Half-Open Interval from Another](https://www.fastprep.io/problems/google-subtract-half-open-interval)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-subtract-half-open-interval)|🆕 Sep 21, 2026|
 |**Google**|[Longest Dictionary Word from Nine Letters](https://www.fastprep.io/problems/google-longest-word-from-nine-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-word-from-nine-letters)|🆕 Sep 21, 2026|
 |**Google**|[Maximal Rectangle in a Binary Matrix](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|🆕 Sep 21, 2026|
@@ -1683,5 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**HSBC**|[Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels)|Aug 03, 2026|
 |**Infosys**|[Count Valid A-B-C Sequences Under a Modulo-Four Rule](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Aug 02, 2026|
 |**Infosys**|[Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Aug 02, 2026|
-|**Infosys**|[Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Aug 02, 2026|
 <a id="bottom"></a>

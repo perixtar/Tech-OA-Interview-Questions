@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**163 questions**
+**164 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -55,6 +55,7 @@
 |**Coupa Software**|[Design and Implement an Immutable Customer Profile](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|[![Practice][p]](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|🆕 Sep 23, 2026|
 |**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🆕 Sep 23, 2026|
 |**PayPay**|[Design a Pluggable Random Value Library](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-random-value-library)|🆕 Sep 22, 2026|
+|**Google**|[Design and Implement an Extensible Order Sales Counter](https://www.fastprep.io/low-level-design/extensible-order-sales-counter)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-order-sales-counter)|🆕 Sep 22, 2026|
 |**Tekion**|[Design and Implement a TTL Cache Library](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|🆕 Sep 21, 2026|
 |**Google**|[Design a Document Find Session](https://www.fastprep.io/low-level-design/document-find-session)|[![Practice][p]](https://www.fastprep.io/low-level-design/document-find-session)|🆕 Sep 21, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🆕 Sep 18, 2026|

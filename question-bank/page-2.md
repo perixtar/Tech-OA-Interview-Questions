@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Infosys**|[Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Aug 02, 2026|
 |**OpenAI**|[Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|Aug 02, 2026|
 |**Baseten**|[Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|Aug 02, 2026|
 |**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
@@ -1827,5 +1828,4 @@
 |**IXL Learning**|[Get Min Difference](https://www.fastprep.io/problems/ixl-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-get-minimum-difference)|Mar 20, 2024|
 |**IXL Learning**|[Prison](https://www.fastprep.io/problems/ixl-prison)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-prison)|Mar 20, 2024|
 |**Amazon**|[Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-faults)|Mar 19, 2024|
-|**Amazon**|[Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-num)|Mar 19, 2024|
 <a id="bottom"></a>
