@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,323 questions**
+**3,324 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1515,4 +1515,5 @@
 |**ZipRecruiter**|[Iterate Ragged Integer Lists Vertically](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|May 11, 2017|
 |**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
 |**ZipRecruiter**|[Min Stack](https://www.fastprep.io/problems/ziprecruiter-min-stack)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Feb 03, 2017|
+|**Headlands Technologies**|[Text Pattern Matching with Stars](https://www.fastprep.io/problems/headlands-text-pattern-matching)|[![Practice][p]](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Jan 21, 2017|
 <a id="bottom"></a>

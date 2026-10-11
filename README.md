@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,323)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (573)](formats/system-design.md) · [Low-level design (165)](formats/low-level-design.md) · [AI coding (75)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,324)](formats/coding.md) · [SQL (72)](formats/sql.md) · [System design (574)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (75)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1579,6 +1579,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**eBay**|[Design a Workplace Lunch Ordering Platform](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|Aug 19, 2026|
 |**Micro1**|[Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|Aug 19, 2026|
 |**Meta**|[Build an In-Memory Cloud Storage System](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|Aug 19, 2026|
+|**OpenAI**|[Design a GPU Worker Messaging Protocol](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|Aug 19, 2026|
 |**IBM**|[Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|Aug 18, 2026|
 |**IBM**|[Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Aug 18, 2026|
 |**Pinterest**|[Design an Asynchronous Bulk Record Update Service](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|Aug 18, 2026|
@@ -1683,5 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**IMC**|[Choose Containers](https://www.fastprep.io/problems/imc-choose-containers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-choose-containers)|Aug 04, 2026|
 |**HSBC**|[Minimum Satellite Data Transfer Iterations](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations)|Aug 03, 2026|
 |**HSBC**|[Organization Reputation After Employee Departures](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures)|Aug 03, 2026|
-|**DoorDash**|[Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system)|Aug 03, 2026|
 <a id="bottom"></a>

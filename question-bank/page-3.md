@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Trade Desk**|[Earn The Most](https://www.fastprep.io/problems/tdesk-about-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-profit)|Mar 21, 2024|
+|**Trade Desk**|[Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-lamps)|Mar 21, 2024|
+|**Trade Desk**|[Flights](https://www.fastprep.io/problems/tdesk-flights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-flights)|Mar 21, 2024|
 |**Trade Desk**|[Friend List](https://www.fastprep.io/problems/tdesk-friend-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-friend-list)|Mar 21, 2024|
 |**DoorDash**|[Find Different Value](https://www.fastprep.io/problems/doordash-find-difference-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-find-difference-value)|Mar 20, 2024|
 |**IBM**|[Elementary School](https://www.fastprep.io/problems/ibm-elementary-school)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-elementary-school)|Mar 20, 2024|
@@ -749,4 +752,5 @@
 |**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
 |**ZipRecruiter**|[Design a Community URL Shortening Service](https://www.fastprep.io/system-design/community-url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-url-shortening-service)|Feb 03, 2017|
 |**ZipRecruiter**|[Min Stack](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Feb 03, 2017|
+|**Headlands Technologies**|[Text Pattern Matching with Stars](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Jan 21, 2017|
 <a id="bottom"></a>

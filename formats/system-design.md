@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**573 questions**
+**574 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -305,6 +305,7 @@
 |**Oracle**|[Design a Healthcare Data Ingestion Pipeline](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|Aug 19, 2026|
 |**eBay**|[Design a Top-Selling Items and Categories Dashboard](https://www.fastprep.io/system-design/top-selling-items-and-categories-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/top-selling-items-and-categories-dashboard)|Aug 19, 2026|
 |**eBay**|[Design a Workplace Lunch Ordering Platform](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|Aug 19, 2026|
+|**OpenAI**|[Design a GPU Worker Messaging Protocol](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|Aug 19, 2026|
 |**Pinterest**|[Design an Asynchronous Bulk Record Update Service](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|Aug 18, 2026|
 |**Axon**|[Design a Nearest-Timestamp Device Status Service](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|[![Practice][p]](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|Aug 17, 2026|
 |**Uber Freight**|[Design a Rolling Restaurant Analytics Dashboard](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|Aug 17, 2026|

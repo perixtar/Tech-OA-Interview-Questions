@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,323 questions**
+**3,324 questions**
 
 [p]: ../assets/practice-button.svg
 

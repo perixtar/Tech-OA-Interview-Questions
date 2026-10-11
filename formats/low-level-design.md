@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**165 questions**
+**166 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -123,6 +123,7 @@
 |**Amazon**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
 |**Confluent**|[Design and Implement a Random-Access FIFO Queue](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Apr 03, 2026|
 |**Stripe**|[Design a Business KYC Verification Domain](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|Mar 27, 2026|
+|**Persona**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|Mar 03, 2026|
 |**Bloomberg LP**|[Design an O(1) Randomized Set](https://www.fastprep.io/low-level-design/o1-randomized-set)|[![Practice][p]](https://www.fastprep.io/low-level-design/o1-randomized-set)|Feb 19, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
