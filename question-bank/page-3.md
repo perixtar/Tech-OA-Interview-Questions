@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Trade Desk**|[Earn The Most](https://www.fastprep.io/problems/tdesk-about-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-profit)|Mar 21, 2024|
+|**Trade Desk**|[Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-lamps)|Mar 21, 2024|
+|**Trade Desk**|[Flights](https://www.fastprep.io/problems/tdesk-flights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-flights)|Mar 21, 2024|
+|**Trade Desk**|[Friend List](https://www.fastprep.io/problems/tdesk-friend-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tdesk-friend-list)|Mar 21, 2024|
+|**DoorDash**|[Find Different Value](https://www.fastprep.io/problems/doordash-find-difference-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-find-difference-value)|Mar 20, 2024|
 |**IBM**|[Elementary School](https://www.fastprep.io/problems/ibm-elementary-school)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-elementary-school)|Mar 20, 2024|
 |**Goldman Sachs**|[Find Niceness](https://www.fastprep.io/problems/goldman-find-niceness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-niceness)|Mar 20, 2024|
 |**IXL Learning**|[Card Packets](https://www.fastprep.io/problems/ixl-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-card-packets)|Mar 20, 2024|
@@ -251,6 +256,7 @@
 |**Stripe**|[Weighted Server Load Balancer with TTL](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Nov 30, 2023|
 |**Bloomberg LP**|[Maximum Visibility in a Forest Grid](https://www.fastprep.io/problems/bloomberg-maximum-forest-grid-visibility)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-forest-grid-visibility)|Nov 28, 2023|
 |**Bloomberg LP**|[Partition Labels](https://www.fastprep.io/problems/bloomberg-partition-labels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-partition-labels)|Nov 28, 2023|
+|**Headlands Technologies**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/headlands-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-best-time-to-buy-and-sell-stock)|Nov 27, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 1: Accounts and Payments](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|Nov 20, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 2: Activity Ranking](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|Nov 20, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 3: Pending Transfer Acceptance](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|Nov 20, 2023|
@@ -350,6 +356,7 @@
 |**Bloomberg LP**|[Number of Islands](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Feb 22, 2023|
 |**ZipRecruiter**|[Format a Centered Paragraph in a Star Frame](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|Feb 07, 2023|
 |**ZipRecruiter**|[Count Prefix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Feb 07, 2023|
+|**Headlands Technologies**|[Job Runner Chain Reports](https://www.fastprep.io/problems/headlands-job-runner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-job-runner)|Feb 01, 2023|
 |**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**ZipRecruiter**|[K-Group Digit-Sum Compression](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Dec 28, 2022|
@@ -745,4 +752,5 @@
 |**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
 |**ZipRecruiter**|[Design a Community URL Shortening Service](https://www.fastprep.io/system-design/community-url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-url-shortening-service)|Feb 03, 2017|
 |**ZipRecruiter**|[Min Stack](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Feb 03, 2017|
+|**Headlands Technologies**|[Text Pattern Matching with Stars](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Jan 21, 2017|
 <a id="bottom"></a>

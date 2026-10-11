@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,319 questions**
+**3,324 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Binary Matrix Top-to-Bottom Reachability](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|[![Practice][p]](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|Jul 26, 2025|
+|**Google**|[Enumerate Top-to-Bottom Grid Paths](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|[![Practice][p]](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|Jul 26, 2025|
 |**Google**|[Inclusive Rectangle Coverage Counts](https://www.fastprep.io/problems/google-inclusive-rectangle-coverage-counts)|[![Practice][p]](https://www.fastprep.io/problems/google-inclusive-rectangle-coverage-counts)|Jul 26, 2025|
 |**Google**|[Minimum-Weight Top-to-Bottom Grid Path](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Jul 26, 2025|
 |**Google**|[Priority Job Scheduler with Cooldowns](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|[![Practice][p]](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Jul 26, 2025|
@@ -1101,6 +1103,7 @@
 |**Stripe**|[Weighted Server Load Balancer with TTL](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|[![Practice][p]](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Nov 30, 2023|
 |**Bloomberg LP**|[Maximum Visibility in a Forest Grid](https://www.fastprep.io/problems/bloomberg-maximum-forest-grid-visibility)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-forest-grid-visibility)|Nov 28, 2023|
 |**Bloomberg LP**|[Partition Labels](https://www.fastprep.io/problems/bloomberg-partition-labels)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-partition-labels)|Nov 28, 2023|
+|**Headlands Technologies**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/headlands-best-time-to-buy-and-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/headlands-best-time-to-buy-and-sell-stock)|Nov 27, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 1: Accounts and Payments](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|Nov 20, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 2: Activity Ranking](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|Nov 20, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 3: Pending Transfer Acceptance](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|Nov 20, 2023|
@@ -1190,6 +1193,7 @@
 |**Bloomberg LP**|[Number of Islands](https://www.fastprep.io/problems/bloomberg-number-of-islands)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Feb 22, 2023|
 |**ZipRecruiter**|[Format a Centered Paragraph in a Star Frame](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|Feb 07, 2023|
 |**ZipRecruiter**|[Count Prefix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Feb 07, 2023|
+|**Headlands Technologies**|[Job Runner Chain Reports](https://www.fastprep.io/problems/headlands-job-runner)|[![Practice][p]](https://www.fastprep.io/problems/headlands-job-runner)|Feb 01, 2023|
 |**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**ZipRecruiter**|[K-Group Digit-Sum Compression](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Dec 28, 2022|
@@ -1511,4 +1515,5 @@
 |**ZipRecruiter**|[Iterate Ragged Integer Lists Vertically](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|May 11, 2017|
 |**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
 |**ZipRecruiter**|[Min Stack](https://www.fastprep.io/problems/ziprecruiter-min-stack)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Feb 03, 2017|
+|**Headlands Technologies**|[Text Pattern Matching with Stars](https://www.fastprep.io/problems/headlands-text-pattern-matching)|[![Practice][p]](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Jan 21, 2017|
 <a id="bottom"></a>

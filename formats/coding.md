@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,319 questions**
+**3,324 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1089,6 +1089,7 @@
 |**IBM**|[Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Aug 18, 2026|
 |**Adobe**|[Count Parent Nodes With a Target Sum](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|Aug 14, 2026|
 |**Adobe**|[Largest Binary Number by Concatenation](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|[![Practice][p]](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|Aug 14, 2026|
+|**Headlands Technologies**|[As-Of Join](https://www.fastprep.io/problems/headlands-asof-join)|[![Practice][p]](https://www.fastprep.io/problems/headlands-asof-join)|Aug 13, 2026|
 |**IMC**|[Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping)|[![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping)|Aug 13, 2026|
 |**IMC**|[Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal)|[![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal)|Aug 13, 2026|
 |**Visa**|[Maximum Server Processing Time](https://www.fastprep.io/problems/visa-maximum-server-processing-time)|[![Practice][p]](https://www.fastprep.io/problems/visa-maximum-server-processing-time)|Aug 11, 2026|
@@ -1447,6 +1448,7 @@
 |**Goldman Sachs**|[Valid Binary Prefix](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|[![Practice][p]](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|Jun 29, 2026|
 |**Expedia**|[Maximum Team Size](https://www.fastprep.io/problems/expedia-maximum-team-size)|[![Practice][p]](https://www.fastprep.io/problems/expedia-maximum-team-size)|Jun 29, 2026|
 |**SeekOut**|[Merge Intervals](https://www.fastprep.io/problems/seekout-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/seekout-merge-intervals)|Jun 27, 2026|
+|**Headlands Technologies**|[Market Order Book](https://www.fastprep.io/problems/headlands-market-order-book)|[![Practice][p]](https://www.fastprep.io/problems/headlands-market-order-book)|Jun 25, 2026|
 |**Amazon**|[Find Minimum Groups](https://www.fastprep.io/problems/amazon-find-minimum-groups)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-groups)|Jun 24, 2026|
 |**Snowflake**|[Drawing Edge](https://www.fastprep.io/problems/snowflake-drawing-edge)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-drawing-edge)|Jun 24, 2026|
 |**Microsoft**|[Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings)|Jun 24, 2026|
@@ -1822,6 +1824,4 @@
 |**Cisco**|[Longest Non-Repeating Substring](https://www.fastprep.io/problems/cisco-longest-non-repeating-substring)|[![Practice][p]](https://www.fastprep.io/problems/cisco-longest-non-repeating-substring)|Jul 26, 2025|
 |**Databricks**|[Durable Data Writer](https://www.fastprep.io/problems/databricks-durable-data-writer)|[![Practice][p]](https://www.fastprep.io/problems/databricks-durable-data-writer)|Jul 26, 2025|
 |**Databricks**|[Snapshot Set Iterator](https://www.fastprep.io/problems/databricks-snapshot-set-iterator)|[![Practice][p]](https://www.fastprep.io/problems/databricks-snapshot-set-iterator)|Jul 26, 2025|
-|**Google**|[Binary Matrix Top-to-Bottom Reachability](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|[![Practice][p]](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|Jul 26, 2025|
-|**Google**|[Enumerate Top-to-Bottom Grid Paths](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|[![Practice][p]](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|Jul 26, 2025|
 <a id="bottom"></a>
