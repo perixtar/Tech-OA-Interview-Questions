@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,424 questions**
+**3,425 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -13,6 +13,7 @@
 |**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|🔥 Oct 10, 2026|
 |**Google**|[Validate Server Log Summary Counts](https://www.fastprep.io/problems/google-validate-server-log-summary)|[![Practice][p]](https://www.fastprep.io/problems/google-validate-server-log-summary)|🔥 Oct 10, 2026|
 |**Google**|[Generate an Unbiased Bit from a Biased Coin](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|[![Practice][p]](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|🔥 Oct 10, 2026|
+|**Ramp**|[Cloud Storage Compression and Decompression](https://www.fastprep.io/problems/ramp-cloud-storage-compression)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-compression)|🔥 Oct 09, 2026|
 |**Amazon**|[Maximize Shipment Order by Sorting One Window](https://www.fastprep.io/problems/amazon-maximize-shipment-order-one-window)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-shipment-order-one-window)|🔥 Oct 09, 2026|
 |**AMD**|[Insert After a Linked-List Node](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|[![Practice][p]](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|🔥 Oct 09, 2026|
 |**AMD**|[LRU Cache](https://www.fastprep.io/problems/amd-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/amd-lru-cache)|🔥 Oct 09, 2026|
@@ -1823,5 +1824,4 @@
 |**Benchling**|[Validate Nested JSON Against a Schema](https://www.fastprep.io/problems/benchling-nested-json-schema-validator)|[![Practice][p]](https://www.fastprep.io/problems/benchling-nested-json-schema-validator)|Dec 21, 2025|
 |**Google**|[Reach the End in Time](https://www.fastprep.io/problems/google-reach-the-end-in-time)|[![Practice][p]](https://www.fastprep.io/problems/google-reach-the-end-in-time)|Dec 20, 2025|
 |**Google**|[Maximum Tea Deliveries with Minimum Distance](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Dec 20, 2025|
-|**Motive**|[Validate IP Address](https://www.fastprep.io/problems/motive-validate-ip-address)|[![Practice][p]](https://www.fastprep.io/problems/motive-validate-ip-address)|Dec 19, 2025|
 <a id="bottom"></a>

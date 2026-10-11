@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Airtable / Meta / Microsoft**|[Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine)|Aug 16, 2026|
 |**Zoox / Uber**|[Design a Nearby Autonomous Vehicle Search Service](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|Aug 16, 2026|
 |**Amazon**|[Design a Multi-Branch Library Management System](https://www.fastprep.io/system-design/multi-branch-library-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-branch-library-management)|Aug 16, 2026|
 |**LinkedIn**|[Design a Ranked Hybrid Social Feed](https://www.fastprep.io/system-design/ranked-hybrid-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ranked-hybrid-social-feed)|Aug 16, 2026|
@@ -1809,5 +1810,4 @@
 |**Fivetran**|[Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups)|Jun 13, 2024|
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
 |**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
-|**Amazon**|[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)|Jun 10, 2024|
 <a id="bottom"></a>

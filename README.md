@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,424)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (577)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,425)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (577)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -43,6 +43,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Stripe / PhonePe**|[Design a Feature Flag Platform](https://www.fastprep.io/system-design/feature-flag-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/feature-flag-platform)|🔥 Oct 10, 2026|
 |**Apple**|[Design Consumer-Outage Backlog Recovery](https://www.fastprep.io/system-design/kafka-consumer-outage-backlog-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kafka-consumer-outage-backlog-recovery)|🔥 Oct 10, 2026|
 |**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🔥 Oct 10, 2026|
+|**Ramp**|[Cloud Storage Compression and Decompression](https://www.fastprep.io/problems/ramp-cloud-storage-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-compression)|🔥 Oct 09, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 09, 2026|
 |**Attentive**|[Design a Third-Party Data Pull Platform](https://www.fastprep.io/system-design/third-party-data-pull-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/third-party-data-pull-platform)|🔥 Oct 09, 2026|
 |**Uber**|[Design a Graph-Based Resource Access Platform](https://www.fastprep.io/system-design/graph-based-resource-access-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/graph-based-resource-access-platform)|🔥 Oct 09, 2026|
@@ -1689,5 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Axon**|[Design a Nearest-Timestamp Device Status Service](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|Aug 17, 2026|
 |**Uber Freight**|[Design a Rolling Restaurant Analytics Dashboard](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|Aug 17, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|Aug 17, 2026|
-|**Airtable / Meta / Microsoft**|[Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine)|Aug 16, 2026|
 <a id="bottom"></a>
