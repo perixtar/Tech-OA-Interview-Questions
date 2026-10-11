@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,428 questions**
+**3,430 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Reach the End in Time](https://www.fastprep.io/problems/google-reach-the-end-in-time)|[![Practice][p]](https://www.fastprep.io/problems/google-reach-the-end-in-time)|Dec 20, 2025|
+|**Google**|[Maximum Tea Deliveries with Minimum Distance](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Dec 20, 2025|
 |**Motive**|[Validate IP Address](https://www.fastprep.io/problems/motive-validate-ip-address)|[![Practice][p]](https://www.fastprep.io/problems/motive-validate-ip-address)|Dec 19, 2025|
 |**Motive**|[Minimum Swaps to Group Circular Ones](https://www.fastprep.io/problems/motive-minimum-swaps-group-ones-circular)|[![Practice][p]](https://www.fastprep.io/problems/motive-minimum-swaps-group-ones-circular)|Dec 18, 2025|
 |**Motive**|[Generate Palindromic Permutations](https://www.fastprep.io/problems/motive-palindromic-permutations)|[![Practice][p]](https://www.fastprep.io/problems/motive-palindromic-permutations)|Dec 18, 2025|

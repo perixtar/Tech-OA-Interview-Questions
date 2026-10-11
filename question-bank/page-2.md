@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Pinterest**|[Design an Asynchronous Bulk Record Update Service](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|Aug 18, 2026|
+|**Axon**|[Design a Nearest-Timestamp Device Status Service](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|Aug 17, 2026|
 |**Uber Freight**|[Design a Rolling Restaurant Analytics Dashboard](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|Aug 17, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|Aug 17, 2026|
 |**Airtable / Meta / Microsoft**|[Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine)|Aug 16, 2026|
@@ -1807,7 +1809,4 @@
 |**Uber**|[Word Pairs](https://www.fastprep.io/problems/uber-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-word-pairs)|Jun 15, 2024|
 |**Uber**|[Bus Time](https://www.fastprep.io/problems/uber-bus-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-bus-time)|Jun 15, 2024|
 |**IBM**|[Find Arrangement](https://www.fastprep.io/problems/ibm-find-arrangements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-arrangements)|Jun 15, 2024|
-|**Microsoft**|[Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper)|Jun 15, 2024|
-|**Microsoft**|[Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters)|Jun 15, 2024|
-|**Microsoft**|[Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells)|Jun 15, 2024|
 <a id="bottom"></a>
