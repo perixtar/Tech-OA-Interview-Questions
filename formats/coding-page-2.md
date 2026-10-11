@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,428 questions**
+**3,430 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1370,6 +1370,8 @@
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
 |**Alpaca**|[Aggregate a Large Dataset With GROUP BY](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|[![Practice][p]](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|Sep 04, 2022|
 |**Skydio**|[Overlap-Safe Memory Copy](https://www.fastprep.io/problems/skydio-overlap-safe-memory-copy)|[![Practice][p]](https://www.fastprep.io/problems/skydio-overlap-safe-memory-copy)|Aug 29, 2022|
+|**Cashfree Payments**|[Largest Subsequences](https://www.fastprep.io/problems/cashfree-largest-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/cashfree-largest-subsequences)|Aug 24, 2022|
+|**Cashfree Payments**|[Minimum Server Vulnerability](https://www.fastprep.io/problems/cashfree-minimum-server-vulnerability)|[![Practice][p]](https://www.fastprep.io/problems/cashfree-minimum-server-vulnerability)|Aug 24, 2022|
 |**Motive**|[Enumerate Grid Paths](https://www.fastprep.io/problems/motive-enumerate-grid-paths)|[![Practice][p]](https://www.fastprep.io/problems/motive-enumerate-grid-paths)|Aug 20, 2022|
 |**Bloomberg LP**|[All Paths From Source to Target](https://www.fastprep.io/problems/bloomberg-all-paths-from-source-to-target)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-paths-from-source-to-target)|Jul 28, 2022|
 |**Motive**|[Most Visited Hotel in a Time Window](https://www.fastprep.io/problems/motive-most-visited-hotel-in-time-window)|[![Practice][p]](https://www.fastprep.io/problems/motive-most-visited-hotel-in-time-window)|Jul 27, 2022|
