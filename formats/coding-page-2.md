@@ -321,8 +321,8 @@
 |**Amazon**|[Maximize Similarity](https://www.fastprep.io/problems/amazon-maximize-similarity)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-similarity)|Oct 28, 2024|
 |**Amazon**|[Find Networking Calls](https://www.fastprep.io/problems/amazon-find-network-calls)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-network-calls)|Oct 28, 2024|
 |**Google**|[Conveyor Triplet Packaging](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|[![Practice][p]](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|Oct 27, 2024|
-|**Persona**|[Escape the Haunted Castle](https://www.fastprep.io/problems/persona-escape-haunted-castle)|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle)|Oct 24, 2024|
-|**Persona**|[Escape the Haunted Castle with Treasures](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|Oct 24, 2024|
+|**Persona**|[Escape the Haunted Castle](https://www.fastprep.io/problems/persona-escape-haunted-castle)|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle)|Oct 27, 2024|
+|**Persona**|[Escape the Haunted Castle with Treasures](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|Oct 27, 2024|
 |**Google**|[Minimum-Cost Meeting City](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Oct 23, 2024|
 |**Amazon**|[Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smaller-items)|Oct 22, 2024|
 |**Amazon**|[About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Oct 22, 2024|
