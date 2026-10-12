@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**General Motors**|[Per-Client Sliding-Window Rate Limiter](https://www.fastprep.io/problems/general-motors-per-client-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/general-motors-per-client-sliding-window-rate-limiter)|Aug 21, 2026|
 |**Netflix**|[Timed Cache with Sidecar Cleanup](https://www.fastprep.io/problems/netflix-timed-cache-with-sidecar-cleanup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-timed-cache-with-sidecar-cleanup)|Aug 21, 2026|
 |**ByteDance**|[Count Numbers with an Even Digit Count](https://www.fastprep.io/problems/bytedance-count-even-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-count-even-digit-numbers)|Aug 21, 2026|
 |**ByteDance**|[Sorted Absolute-Difference Sums Across Cyclic Shifts](https://www.fastprep.io/problems/bytedance-cyclic-shift-absolute-difference-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-cyclic-shift-absolute-difference-sums)|Aug 21, 2026|
@@ -1800,5 +1801,4 @@
 |**Uber**|[Count Elements With At Least One Smaller And One Greater Value](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Jul 20, 2024|
 |**Uber**|[Min Operations To Make Harmonious](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Jul 20, 2024|
 |**Snowflake**|[Get Maximum Sum](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Jul 20, 2024|
-|**Jane Street**|[Transform String](https://www.fastprep.io/problems/janestreet-transform-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/janestreet-transform-string)|Jul 20, 2024|
 <a id="bottom"></a>

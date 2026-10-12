@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,488 questions**
+**3,489 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Capital One**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|🔥 Oct 12, 2026|
+|**Capital One**|[Wait Until the Next Bus](https://www.fastprep.io/problems/capital-one-next-bus-wait)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-next-bus-wait)|🔥 Oct 12, 2026|
+|**Capital One**|[Count One-Swap Number Pairs](https://www.fastprep.io/problems/capital-one-count-one-swap-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-one-swap-number-pairs)|🔥 Oct 12, 2026|
+|**Capital One**|[Count Values Excluding the First Two](https://www.fastprep.io/problems/capital-one-count-values-excluding-first-two)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-values-excluding-first-two)|🔥 Oct 12, 2026|
 |**Headlands Technologies**|[Array Interval Sums](https://www.fastprep.io/problems/headlands-array-interval-sums)|[![Practice][p]](https://www.fastprep.io/problems/headlands-array-interval-sums)|🔥 Oct 11, 2026|
 |**TikTok**|[Count Subarrays with at Least K Equal-Fruit Pairs](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|🔥 Oct 11, 2026|
 |**Microsoft**|[Maximum Escape Game Score](https://www.fastprep.io/problems/microsoft-maximum-escape-game-score)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-escape-game-score)|🔥 Oct 11, 2026|
@@ -506,8 +510,6 @@
 |**Google**|[Count Determinable Player Rankings](https://www.fastprep.io/problems/google-count-determinable-player-rankings)|[![Practice][p]](https://www.fastprep.io/problems/google-count-determinable-player-rankings)|🆕 Sep 25, 2026|
 |**Walmart**|[House Robber](https://www.fastprep.io/problems/walmart-house-robber)|[![Practice][p]](https://www.fastprep.io/problems/walmart-house-robber)|🆕 Sep 24, 2026|
 |**FalconX**|[Longest Low-Slippage Execution Window](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|[![Practice][p]](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|🆕 Sep 24, 2026|
-|**Capital One**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|🆕 Sep 24, 2026|
-|**Capital One**|[Wait Until the Next Bus](https://www.fastprep.io/problems/capital-one-next-bus-wait)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-next-bus-wait)|🆕 Sep 24, 2026|
 |**OpenAI**|[GPU Credit Ledger with a Negative-Balance Failure State](https://www.fastprep.io/problems/openai-gpu-credit-negative-balance-ledger)|[![Practice][p]](https://www.fastprep.io/problems/openai-gpu-credit-negative-balance-ledger)|🆕 Sep 24, 2026|
 |**Visa**|[Longest Increasing Path in a Matrix](https://www.fastprep.io/problems/visa-longest-increasing-path-in-matrix)|[![Practice][p]](https://www.fastprep.io/problems/visa-longest-increasing-path-in-matrix)|🆕 Sep 24, 2026|
 |**DoorDash**|[Simulate an Idempotent Refund Service Flow](https://www.fastprep.io/problems/doordash-refund-service-flow)|[![Practice][p]](https://www.fastprep.io/problems/doordash-refund-service-flow)|🆕 Sep 24, 2026|
@@ -597,7 +599,6 @@
 |**Hudson River Trading**|[Rightmost Longest Character Run](https://www.fastprep.io/problems/hrt-rightmost-longest-character-run)|[![Practice][p]](https://www.fastprep.io/problems/hrt-rightmost-longest-character-run)|🆕 Sep 22, 2026|
 |**Cursor**|[Filesystem Hash Tree](https://www.fastprep.io/problems/cursor-filesystem-hash-tree)|[![Practice][p]](https://www.fastprep.io/problems/cursor-filesystem-hash-tree)|🆕 Sep 22, 2026|
 |**Amazon**|[Path Through an O/X Grid Using Only Right and Down](https://www.fastprep.io/problems/amazon-right-down-grid-path)|[![Practice][p]](https://www.fastprep.io/problems/amazon-right-down-grid-path)|🆕 Sep 22, 2026|
-|**Capital One**|[Count One-Swap Number Pairs](https://www.fastprep.io/problems/capital-one-count-one-swap-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-one-swap-number-pairs)|🆕 Sep 22, 2026|
 |**Cursor**|[Diff Two Filesystem Hash Trees](https://www.fastprep.io/problems/cursor-filesystem-merkle-diff)|[![Practice][p]](https://www.fastprep.io/problems/cursor-filesystem-merkle-diff)|🆕 Sep 22, 2026|
 |**Ease**|[Linear-Probing Key-Value Store](https://www.fastprep.io/problems/ease-linear-probing-key-value-store)|[![Practice][p]](https://www.fastprep.io/problems/ease-linear-probing-key-value-store)|🆕 Sep 22, 2026|
 |**Fivetran**|[Execute In-Memory SQL Storage Operations](https://www.fastprep.io/problems/fivetran-sql-engine-storage-operations)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-sql-engine-storage-operations)|🆕 Sep 22, 2026|
@@ -1821,5 +1822,4 @@
 |**Bloomberg LP**|[Binary Tree Vertical Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-vertical-order-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-vertical-order-traversal)|Feb 03, 2026|
 |**Bloomberg LP**|[Word Search](https://www.fastprep.io/problems/bloomberg-word-search)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-search)|Feb 03, 2026|
 |**Google**|[Minimum Dictionary Segments](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Feb 02, 2026|
-|**Google**|[Minimum Servers for Cyclic Daily Tasks](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Feb 01, 2026|
 <a id="bottom"></a>
