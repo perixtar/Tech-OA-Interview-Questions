@@ -2,13 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**79 questions**
+**81 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Dell Technologies**|[Repair Expiration and Soft Deletion](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|🔥 Oct 11, 2026|
+|**Dell Technologies**|[Complete a Configurable RandomEmbedder](https://www.fastprep.io/project-coding/dell-random-embedder)|[![Practice][p]](https://www.fastprep.io/project-coding/dell-random-embedder)|🔥 Oct 11, 2026|
+|**IBM**|[Repair Event Listing Filters, Pagination, and Cache Invalidation](https://www.fastprep.io/project-coding/ibm-repair-event-listing-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-repair-event-listing-cache)|🔥 Oct 11, 2026|
 |**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🔥 Oct 10, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 09, 2026|
 |**Amazon**|[Repair Car Publication and Availability](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 09, 2026|
