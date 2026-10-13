@@ -2,12 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,490 questions**
+**3,496 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Validate a Tree From Its Parent Array](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|[![Practice][p]](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Feb 04, 2026|
+|**Uber**|[Binary Tree: Subtree Sum, Maximum Path Sum, and Path Nodes](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|[![Practice][p]](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Feb 04, 2026|
+|**IBM**|[Count Unstable Processes](https://www.fastprep.io/problems/ibm-count-unstable-processes)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-unstable-processes)|Feb 03, 2026|
+|**IBM**|[Longest Balanced Binary Subarray](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|[![Practice][p]](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Feb 03, 2026|
+|**Bloomberg LP**|[Binary Tree Vertical Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-vertical-order-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-vertical-order-traversal)|Feb 03, 2026|
+|**Bloomberg LP**|[Word Search](https://www.fastprep.io/problems/bloomberg-word-search)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-search)|Feb 03, 2026|
 |**Google**|[Minimum Dictionary Segments](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Feb 02, 2026|
 |**Google**|[Minimum Servers for Cyclic Daily Tasks](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Feb 01, 2026|
 |**Google**|[Pivot Index After Exactly One Removal](https://www.fastprep.io/problems/google-pivot-index-after-exactly-one-removal)|[![Practice][p]](https://www.fastprep.io/problems/google-pivot-index-after-exactly-one-removal)|Feb 01, 2026|

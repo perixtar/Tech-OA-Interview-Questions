@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Illumio**|[Least Recently Used Cache](https://www.fastprep.io/problems/illumio-least-recently-used-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/illumio-least-recently-used-cache)|Aug 21, 2026|
+|**Google**|[Minimum Racks for Server Resources](https://www.fastprep.io/problems/google-minimum-racks-for-server-resources)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-racks-for-server-resources)|Aug 21, 2026|
+|**Meta**|[First Common Ancestor with Parent Pointers](https://www.fastprep.io/problems/meta-first-common-ancestor-with-parent-pointers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-first-common-ancestor-with-parent-pointers)|Aug 21, 2026|
+|**Meta**|[Minimum Removal for Balanced Parentheses](https://www.fastprep.io/problems/meta-minimum-removal-for-balanced-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-removal-for-balanced-parentheses)|Aug 21, 2026|
+|**Google**|[Count Prefix Paths in a Character Graph](https://www.fastprep.io/problems/google-count-prefix-paths-in-character-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-prefix-paths-in-character-graph)|Aug 21, 2026|
+|**Airbnb**|[Cloud Storage with User Backup and Restore](https://www.fastprep.io/problems/airbnb-cloud-storage-backup-and-restore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-cloud-storage-backup-and-restore)|Aug 21, 2026|
+|**Anthropic**|[Task Management System](https://www.fastprep.io/problems/anthropic-task-management-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-task-management-system)|Aug 21, 2026|
 |**General Motors**|[Per-Client Sliding-Window Rate Limiter](https://www.fastprep.io/problems/general-motors-per-client-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/general-motors-per-client-sliding-window-rate-limiter)|Aug 21, 2026|
 |**Netflix**|[Timed Cache with Sidecar Cleanup](https://www.fastprep.io/problems/netflix-timed-cache-with-sidecar-cleanup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-timed-cache-with-sidecar-cleanup)|Aug 21, 2026|
 |**ByteDance**|[Count Numbers with an Even Digit Count](https://www.fastprep.io/problems/bytedance-count-even-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-count-even-digit-numbers)|Aug 21, 2026|
@@ -1794,11 +1801,4 @@
 |**Samsara**|[Design a Fleet Fuel Payment Monitoring Platform](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|Jul 22, 2024|
 |**Mastercard**|[Brands With Continuously Increasing Sales](https://www.fastprep.io/problems/mastercard-brands-with-continuously-increasing-sales)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mastercard-brands-with-continuously-increasing-sales)|Jul 22, 2024|
 |**Mastercard**|[Status Changes in Log Data](https://www.fastprep.io/problems/mastercard-log-status-change-events)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mastercard-log-status-change-events)|Jul 22, 2024|
-|**Mastercard**|[Left and Right Join Results](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|Jul 22, 2024|
-|**Alchemy**|[Count Class-C IPv4 Addresses](https://www.fastprep.io/problems/alchemy-count-class-c-ipv4-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-count-class-c-ipv4-addresses)|Jul 21, 2024|
-|**Clipboard Health**|[Prorated Monthly Subscription Charge](https://www.fastprep.io/problems/clipboard-health-prorated-monthly-charge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clipboard-health-prorated-monthly-charge)|Jul 21, 2024|
-|**Uber**|[Count L Shapes](https://www.fastprep.io/problems/uber-count-l-shapes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-l-shapes)|Jul 20, 2024|
-|**Uber**|[Count Elements With At Least One Smaller And One Greater Value](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Jul 20, 2024|
-|**Uber**|[Min Operations To Make Harmonious](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Jul 20, 2024|
-|**Snowflake**|[Get Maximum Sum](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Jul 20, 2024|
 <a id="bottom"></a>

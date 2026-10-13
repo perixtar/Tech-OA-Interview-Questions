@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,490 questions**
+**3,496 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,15 @@
 |**Capital One**|[Wait Until the Next Bus](https://www.fastprep.io/problems/capital-one-next-bus-wait)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-next-bus-wait)|🔥 Oct 12, 2026|
 |**Capital One**|[Count One-Swap Number Pairs](https://www.fastprep.io/problems/capital-one-count-one-swap-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-one-swap-number-pairs)|🔥 Oct 12, 2026|
 |**Capital One**|[Count Values Excluding the First Two](https://www.fastprep.io/problems/capital-one-count-values-excluding-first-two)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-values-excluding-first-two)|🔥 Oct 12, 2026|
+|**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|🔥 Oct 12, 2026|
+|**Google**|[Equal Sum Split After One Removal](https://www.fastprep.io/problems/google-equal-sum-split-after-one-removal)|[![Practice][p]](https://www.fastprep.io/problems/google-equal-sum-split-after-one-removal)|🔥 Oct 12, 2026|
+|**Google**|[Assign Locker](https://www.fastprep.io/problems/google-assign-locker)|[![Practice][p]](https://www.fastprep.io/problems/google-assign-locker)|🔥 Oct 12, 2026|
+|**Stripe**|[Monthly Calendar with Custom Week Start](https://www.fastprep.io/problems/stripe-monthly-calendar-custom-week-start)|[![Practice][p]](https://www.fastprep.io/problems/stripe-monthly-calendar-custom-week-start)|🔥 Oct 12, 2026|
+|**Google**|[Dynamic Prefix Query Counts](https://www.fastprep.io/problems/google-dynamic-prefix-query-counts)|[![Practice][p]](https://www.fastprep.io/problems/google-dynamic-prefix-query-counts)|🔥 Oct 12, 2026|
+|**Google**|[Two or Three Sum Existence](https://www.fastprep.io/problems/google-two-or-three-sum-existence)|[![Practice][p]](https://www.fastprep.io/problems/google-two-or-three-sum-existence)|🔥 Oct 12, 2026|
+|**Persona**|[Task Manager with Timed Assignments](https://www.fastprep.io/problems/persona-task-manager-with-timed-assignments)|[![Practice][p]](https://www.fastprep.io/problems/persona-task-manager-with-timed-assignments)|🔥 Oct 12, 2026|
+|**Google**|[Inorder Tree String Equivalence](https://www.fastprep.io/problems/google-inorder-tree-string-equivalence)|[![Practice][p]](https://www.fastprep.io/problems/google-inorder-tree-string-equivalence)|🔥 Oct 12, 2026|
+|**Google**|[Top-Rated Similar Movies](https://www.fastprep.io/problems/google-top-rated-similar-movies)|[![Practice][p]](https://www.fastprep.io/problems/google-top-rated-similar-movies)|🔥 Oct 12, 2026|
 |**Headlands Technologies**|[Array Interval Sums](https://www.fastprep.io/problems/headlands-array-interval-sums)|[![Practice][p]](https://www.fastprep.io/problems/headlands-array-interval-sums)|🔥 Oct 11, 2026|
 |**TikTok**|[Count Subarrays with at Least K Equal-Fruit Pairs](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|🔥 Oct 11, 2026|
 |**Microsoft**|[Maximum Escape Game Score](https://www.fastprep.io/problems/microsoft-maximum-escape-game-score)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-escape-game-score)|🔥 Oct 11, 2026|
@@ -170,7 +179,6 @@
 |**CoinDCX**|[DFS Subsequences of a String (For MLE)](https://www.fastprep.io/problems/coindcx-generate-all-string-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/coindcx-generate-all-string-subsequences)|🔥 Oct 05, 2026|
 |**Wonderful**|[Exponential Backoff Delays](https://www.fastprep.io/problems/wonderful-exponential-backoff-delays)|[![Practice][p]](https://www.fastprep.io/problems/wonderful-exponential-backoff-delays)|🔥 Oct 05, 2026|
 |**Stripe**|[Business Account KYC Verification — Parts 1–5](https://www.fastprep.io/problems/stripe-kyc-business-verification)|[![Practice][p]](https://www.fastprep.io/problems/stripe-kyc-business-verification)|🔥 Oct 04, 2026|
-|**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|🔥 Oct 04, 2026|
 |**Amazon**|[Binary Tree Spiral Level Order](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|[![Practice][p]](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|🔥 Oct 04, 2026|
 |**Amazon**|[Connect N Ropes With Minimum Cost](https://www.fastprep.io/problems/amazon-connect-ropes-minimum-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-connect-ropes-minimum-cost)|🔥 Oct 04, 2026|
 |**Amazon**|[0/1 Knapsack](https://www.fastprep.io/problems/amazon-zero-one-knapsack)|[![Practice][p]](https://www.fastprep.io/problems/amazon-zero-one-knapsack)|🔥 Oct 04, 2026|
@@ -415,7 +423,6 @@
 |**Google**|[Build a Combined People Schedule](https://www.fastprep.io/problems/google-people-schedule-segments)|[![Practice][p]](https://www.fastprep.io/problems/google-people-schedule-segments)|🆕 Sep 27, 2026|
 |**Amazon**|[Minimum Time to Spread Through a Grid](https://www.fastprep.io/problems/amazon-rotting-oranges-variation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-rotting-oranges-variation)|🆕 Sep 27, 2026|
 |**Amazon**|[Currency Conversion Rate](https://www.fastprep.io/problems/amazon-currency-conversion-rate)|[![Practice][p]](https://www.fastprep.io/problems/amazon-currency-conversion-rate)|🆕 Sep 27, 2026|
-|**Google**|[Equal Sum Split After One Removal](https://www.fastprep.io/problems/google-equal-sum-split-after-one-removal)|[![Practice][p]](https://www.fastprep.io/problems/google-equal-sum-split-after-one-removal)|🆕 Sep 27, 2026|
 |**Addepar**|[Flat Records to a Hierarchical Tree](https://www.fastprep.io/problems/addepar-flat-records-to-hierarchical-tree)|[![Practice][p]](https://www.fastprep.io/problems/addepar-flat-records-to-hierarchical-tree)|🆕 Sep 27, 2026|
 |**Amazon**|[Maximum Stock Profit with At Most Two Transactions](https://www.fastprep.io/problems/amazon-best-time-to-buy-and-sell-stock-iii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-best-time-to-buy-and-sell-stock-iii)|🆕 Sep 27, 2026|
 |**Amazon**|[House Robber](https://www.fastprep.io/problems/amazon-house-robber)|[![Practice][p]](https://www.fastprep.io/problems/amazon-house-robber)|🆕 Sep 27, 2026|
@@ -1171,7 +1178,6 @@
 |**Alpaca**|[Return Distinct Elements](https://www.fastprep.io/problems/alpaca-distinct-elements)|[![Practice][p]](https://www.fastprep.io/problems/alpaca-distinct-elements)|Aug 23, 2026|
 |**Alpaca**|[Make a Sorted Array Unique In Place](https://www.fastprep.io/problems/alpaca-in-place-array-uniqueness)|[![Practice][p]](https://www.fastprep.io/problems/alpaca-in-place-array-uniqueness)|Aug 23, 2026|
 |**Citadel**|[Minimum Changes for Palindromic Blocks](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks)|[![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks)|Aug 23, 2026|
-|**Google**|[Assign Locker](https://www.fastprep.io/problems/google-assign-locker)|[![Practice][p]](https://www.fastprep.io/problems/google-assign-locker)|Aug 23, 2026|
 |**Microsoft**|[Minimum Fuel Cost Between Cities](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost)|Aug 23, 2026|
 |**Barclays**|[Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|[![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Aug 22, 2026|
 |**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Aug 22, 2026|
@@ -1816,10 +1822,4 @@
 |**Google**|[Closest-Timestamp Key-Value Queries](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|[![Practice][p]](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Feb 06, 2026|
 |**Google**|[Top K Frequent Closest Points](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Feb 06, 2026|
 |**Amazon**|[Lexicographically Smallest After One Substring Rotation](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Feb 05, 2026|
-|**Google**|[Validate a Tree From Its Parent Array](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|[![Practice][p]](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Feb 04, 2026|
-|**Uber**|[Binary Tree: Subtree Sum, Maximum Path Sum, and Path Nodes](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|[![Practice][p]](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Feb 04, 2026|
-|**IBM**|[Count Unstable Processes](https://www.fastprep.io/problems/ibm-count-unstable-processes)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-unstable-processes)|Feb 03, 2026|
-|**IBM**|[Longest Balanced Binary Subarray](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|[![Practice][p]](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Feb 03, 2026|
-|**Bloomberg LP**|[Binary Tree Vertical Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-vertical-order-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-vertical-order-traversal)|Feb 03, 2026|
-|**Bloomberg LP**|[Word Search](https://www.fastprep.io/problems/bloomberg-word-search)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-search)|Feb 03, 2026|
 <a id="bottom"></a>

@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Mastercard**|[Left and Right Join Results](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|Jul 22, 2024|
+|**Alchemy**|[Count Class-C IPv4 Addresses](https://www.fastprep.io/problems/alchemy-count-class-c-ipv4-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-count-class-c-ipv4-addresses)|Jul 21, 2024|
+|**Clipboard Health**|[Prorated Monthly Subscription Charge](https://www.fastprep.io/problems/clipboard-health-prorated-monthly-charge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clipboard-health-prorated-monthly-charge)|Jul 21, 2024|
+|**Uber**|[Count L Shapes](https://www.fastprep.io/problems/uber-count-l-shapes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-l-shapes)|Jul 20, 2024|
+|**Uber**|[Count Elements With At Least One Smaller And One Greater Value](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Jul 20, 2024|
+|**Uber**|[Min Operations To Make Harmonious](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Jul 20, 2024|
+|**Snowflake**|[Get Maximum Sum](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Jul 20, 2024|
 |**Jane Street**|[Transform String](https://www.fastprep.io/problems/janestreet-transform-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/janestreet-transform-string)|Jul 20, 2024|
 |**Postman**|[Design Undo Delete for Shared Collections](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|Jul 19, 2024|
 |**Postman**|[Design Undoable Deletion for API Collections](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Jul 19, 2024|
