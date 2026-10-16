@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,563 questions**
+**3,564 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1756,6 +1756,7 @@
 |**Scale AI**|[Free Windows Between Busy Intervals](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Apr 13, 2026|
 |**Scale AI**|[Free Time for Every Meeting Room](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Apr 13, 2026|
 |**Scale AI**|[Order Queries by Shortest Processing Time](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Apr 13, 2026|
+|**Stripe**|[Validate CSV References and Field Dependencies](https://www.fastprep.io/problems/stripe-csv-reference-dependency-validator)|[![Practice][p]](https://www.fastprep.io/problems/stripe-csv-reference-dependency-validator)|Apr 13, 2026|
 |**Stripe**|[Merge and Filter Prioritized Configurations](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|[![Practice][p]](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Apr 11, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
 |**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
@@ -1823,5 +1824,4 @@
 |**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
-|**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 <a id="bottom"></a>

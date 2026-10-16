@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Roblox**|[Find Largest Num Of Pairs](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Aug 18, 2024|
 |**Databricks**|[String Requests](https://www.fastprep.io/problems/databricks-string-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-string-requests)|Aug 18, 2024|
 |**Databricks**|[Diagonal Weights](https://www.fastprep.io/problems/databricks-diagonal-weights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-diagonal-weights)|Aug 18, 2024|
 |**Databricks**|[Goto Largest Bucket](https://www.fastprep.io/problems/databricks-goto-largest-bucket)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-goto-largest-bucket)|Aug 18, 2024|

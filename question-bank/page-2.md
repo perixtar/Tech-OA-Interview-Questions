@@ -779,6 +779,7 @@
 |**Scale AI**|[Order Queries by Shortest Processing Time](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Apr 13, 2026|
 |**Scale AI**|[Debug Missing Model Output](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|Apr 13, 2026|
 |**Stripe**|[Integrate and Enrich Contact API Data](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|Apr 13, 2026|
+|**Stripe**|[Validate CSV References and Field Dependencies](https://www.fastprep.io/problems/stripe-csv-reference-dependency-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-csv-reference-dependency-validator)|Apr 13, 2026|
 |**Stripe**|[Merge and Filter Prioritized Configurations](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Apr 11, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
 |**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
@@ -1791,5 +1792,4 @@
 |**JP Morgan**|[Count Signals](https://www.fastprep.io/problems/jpmorgan-count-signals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-signals)|Aug 18, 2024|
 |**Google**|[Biggest Number of Digits](https://www.fastprep.io/problems/google-biggest-number-of-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-biggest-number-of-digits)|Aug 18, 2024|
 |**TikTok**|[Get Optimal Content Storage](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Aug 18, 2024|
-|**Roblox**|[Find Largest Num Of Pairs](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Aug 18, 2024|
 <a id="bottom"></a>
