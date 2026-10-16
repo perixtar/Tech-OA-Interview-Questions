@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,563 questions**
+**3,572 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1353,6 +1353,7 @@
 |**Cresta**|[Top Three Companies by Profit](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|[![Practice][p]](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|Jul 28, 2026|
 |**Cresta**|[Rightward Bacteria Consumption](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|[![Practice][p]](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Jul 28, 2026|
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
+|**Rippling**|[LFU Cache with LRU Tie-Breaking](https://www.fastprep.io/problems/rippling-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lfu-cache)|Jul 28, 2026|
 |**Spotnana**|[Optimal Card Game Score](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|[![Practice][p]](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Jul 27, 2026|
 |**Zomato / Eternal**|[Maximum Production Within Power](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|Jul 27, 2026|
 |**Zomato / Eternal**|[Rearrange Songs by Author](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|Jul 27, 2026|
@@ -1823,5 +1824,4 @@
 |**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
-|**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 <a id="bottom"></a>
