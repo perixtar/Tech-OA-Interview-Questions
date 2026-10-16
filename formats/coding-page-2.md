@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,563 questions**
+**3,572 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|
@@ -235,6 +236,13 @@
 |**Arcesium**|[Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Jul 23, 2025|
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
+|**Rippling**|[Maximum Average N-ary Subtree](https://www.fastprep.io/problems/rippling-maximum-average-nary-subtree)|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-average-nary-subtree)|Jul 23, 2025|
+|**Rippling**|[Maximum Score with K-step Jumps](https://www.fastprep.io/problems/rippling-maximum-k-step-jump-score)|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-k-step-jump-score)|Jul 23, 2025|
+|**Rippling**|[Maximum Invitations on an N-ary Tree](https://www.fastprep.io/problems/rippling-maximum-tree-invitations)|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-tree-invitations)|Jul 23, 2025|
+|**Rippling**|[Maximum Weighted End-Pick Score](https://www.fastprep.io/problems/rippling-maximum-weighted-end-pick-score)|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-weighted-end-pick-score)|Jul 23, 2025|
+|**Rippling**|[Minimum Rounds to Inform an N-ary Tree](https://www.fastprep.io/problems/rippling-minimum-tree-broadcast-rounds)|[![Practice][p]](https://www.fastprep.io/problems/rippling-minimum-tree-broadcast-rounds)|Jul 23, 2025|
+|**Rippling**|[Optimal Score Difference in an Endpoint Game](https://www.fastprep.io/problems/rippling-optimal-endpoint-score-difference)|[![Practice][p]](https://www.fastprep.io/problems/rippling-optimal-endpoint-score-difference)|Jul 23, 2025|
+|**Rippling**|[Count Numbers with a Prime Digit Sum](https://www.fastprep.io/problems/rippling-prime-digit-sum-range)|[![Practice][p]](https://www.fastprep.io/problems/rippling-prime-digit-sum-range)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
 |**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
 |**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
@@ -412,6 +420,7 @@
 |**Amazon**|[Get Max Events](https://www.fastprep.io/problems/amazon-get-maximum-events)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-events)|Jan 05, 2025|
 |**TikTok**|[TikTok Spam Filter](https://www.fastprep.io/problems/tiktok-get-spam-comments)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Jan 04, 2025|
 |**TikTok**|[Count Twin Pairs](https://www.fastprep.io/problems/tiktok-count-twin-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-twin-pairs)|Jan 04, 2025|
+|**Rippling**|[Merge K Sorted Arrays](https://www.fastprep.io/problems/rippling-merge-k-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-k-sorted-arrays)|Jan 03, 2025|
 |**Stripe**|[Currency Conversion Through Exchange Paths](https://www.fastprep.io/problems/stripe-currency-conversion-paths)|[![Practice][p]](https://www.fastprep.io/problems/stripe-currency-conversion-paths)|Jan 02, 2025|
 |**Stripe**|[Parse and Expand Supported Card Identifiers](https://www.fastprep.io/problems/stripe-ordered-card-identifier-expansion)|[![Practice][p]](https://www.fastprep.io/problems/stripe-ordered-card-identifier-expansion)|Jan 02, 2025|
 |**Google**|[Number of Distinct Islands](https://www.fastprep.io/problems/google-number-of-distinct-islands)|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Dec 31, 2024|

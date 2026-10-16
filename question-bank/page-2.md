@@ -297,6 +297,7 @@
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
 |**Wells Fargo**|[Overloaded Game Account Inventories](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|SQL|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|Jul 28, 2026|
 |**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|Jul 28, 2026|
+|**Rippling**|[LFU Cache with LRU Tie-Breaking](https://www.fastprep.io/problems/rippling-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-lfu-cache)|Jul 28, 2026|
 |**Spotnana**|[Optimal Card Game Score](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Jul 27, 2026|
 |**Zomato / Eternal**|[Maximum Production Within Power](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|Jul 27, 2026|
 |**Zomato / Eternal**|[Rearrange Songs by Author](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|Jul 27, 2026|
@@ -1147,6 +1148,13 @@
 |**Arcesium**|[Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Jul 23, 2025|
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
+|**Rippling**|[Maximum Average N-ary Subtree](https://www.fastprep.io/problems/rippling-maximum-average-nary-subtree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-average-nary-subtree)|Jul 23, 2025|
+|**Rippling**|[Maximum Score with K-step Jumps](https://www.fastprep.io/problems/rippling-maximum-k-step-jump-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-k-step-jump-score)|Jul 23, 2025|
+|**Rippling**|[Maximum Invitations on an N-ary Tree](https://www.fastprep.io/problems/rippling-maximum-tree-invitations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-tree-invitations)|Jul 23, 2025|
+|**Rippling**|[Maximum Weighted End-Pick Score](https://www.fastprep.io/problems/rippling-maximum-weighted-end-pick-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-weighted-end-pick-score)|Jul 23, 2025|
+|**Rippling**|[Minimum Rounds to Inform an N-ary Tree](https://www.fastprep.io/problems/rippling-minimum-tree-broadcast-rounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-minimum-tree-broadcast-rounds)|Jul 23, 2025|
+|**Rippling**|[Optimal Score Difference in an Endpoint Game](https://www.fastprep.io/problems/rippling-optimal-endpoint-score-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-optimal-endpoint-score-difference)|Jul 23, 2025|
+|**Rippling**|[Count Numbers with a Prime Digit Sum](https://www.fastprep.io/problems/rippling-prime-digit-sum-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-prime-digit-sum-range)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
 |**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
 |**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
@@ -1361,6 +1369,7 @@
 |**Amazon**|[Get Max Events](https://www.fastprep.io/problems/amazon-get-maximum-events)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-events)|Jan 05, 2025|
 |**TikTok**|[TikTok Spam Filter](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Jan 04, 2025|
 |**TikTok**|[Count Twin Pairs](https://www.fastprep.io/problems/tiktok-count-twin-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-twin-pairs)|Jan 04, 2025|
+|**Rippling**|[Merge K Sorted Arrays](https://www.fastprep.io/problems/rippling-merge-k-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-k-sorted-arrays)|Jan 03, 2025|
 |**Stripe**|[Currency Conversion Through Exchange Paths](https://www.fastprep.io/problems/stripe-currency-conversion-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-currency-conversion-paths)|Jan 02, 2025|
 |**Stripe**|[Parse and Expand Supported Card Identifiers](https://www.fastprep.io/problems/stripe-ordered-card-identifier-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-ordered-card-identifier-expansion)|Jan 02, 2025|
 |**Google**|[Number of Distinct Islands](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Dec 31, 2024|
@@ -1782,14 +1791,4 @@
 |**Trend Micro**|[Counting Game](https://www.fastprep.io/problems/trendmicro-counting-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-counting-game)|Aug 23, 2024|
 |**Trend Micro**|[Find Sequences](https://www.fastprep.io/problems/trendmicro-find-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-find-sequences)|Aug 23, 2024|
 |**Cvent**|[Maximize Score](https://www.fastprep.io/problems/cvent-maximize-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cvent-maximize-score)|Aug 23, 2024|
-|**Pinterest**|[Join Sources with Lagged Destination Timestamps](https://www.fastprep.io/problems/pinterest-timestamp-lag-source-join)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-timestamp-lag-source-join)|Aug 21, 2024|
-|**Snowflake**|[Closest Squared Distance](https://www.fastprep.io/problems/snowflake-closest-squared-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-squared-distance)|Aug 20, 2024|
-|**Salesforce**|[Find Num of Perfect Pairs](https://www.fastprep.io/problems/salesforce-find-number-of-perfect-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-number-of-perfect-pairs)|Aug 18, 2024|
-|**Salesforce**|[Least Hours](https://www.fastprep.io/problems/salesforce-least-hours)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-least-hours)|Aug 18, 2024|
-|**JP Morgan**|[Choose Fleets](https://www.fastprep.io/problems/jpmorgan-choose-fleets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-choose-fleets)|Aug 18, 2024|
-|**JP Morgan**|[Count Signals](https://www.fastprep.io/problems/jpmorgan-count-signals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-signals)|Aug 18, 2024|
-|**Google**|[Biggest Number of Digits](https://www.fastprep.io/problems/google-biggest-number-of-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-biggest-number-of-digits)|Aug 18, 2024|
-|**TikTok**|[Get Optimal Content Storage](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Aug 18, 2024|
-|**Roblox**|[Find Largest Num Of Pairs](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Aug 18, 2024|
-|**Databricks**|[String Requests](https://www.fastprep.io/problems/databricks-string-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-string-requests)|Aug 18, 2024|
 <a id="bottom"></a>

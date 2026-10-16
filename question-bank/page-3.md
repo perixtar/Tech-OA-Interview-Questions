@@ -9,6 +9,16 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Pinterest**|[Join Sources with Lagged Destination Timestamps](https://www.fastprep.io/problems/pinterest-timestamp-lag-source-join)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-timestamp-lag-source-join)|Aug 21, 2024|
+|**Snowflake**|[Closest Squared Distance](https://www.fastprep.io/problems/snowflake-closest-squared-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-squared-distance)|Aug 20, 2024|
+|**Salesforce**|[Find Num of Perfect Pairs](https://www.fastprep.io/problems/salesforce-find-number-of-perfect-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-number-of-perfect-pairs)|Aug 18, 2024|
+|**Salesforce**|[Least Hours](https://www.fastprep.io/problems/salesforce-least-hours)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-least-hours)|Aug 18, 2024|
+|**JP Morgan**|[Choose Fleets](https://www.fastprep.io/problems/jpmorgan-choose-fleets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-choose-fleets)|Aug 18, 2024|
+|**JP Morgan**|[Count Signals](https://www.fastprep.io/problems/jpmorgan-count-signals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-signals)|Aug 18, 2024|
+|**Google**|[Biggest Number of Digits](https://www.fastprep.io/problems/google-biggest-number-of-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-biggest-number-of-digits)|Aug 18, 2024|
+|**TikTok**|[Get Optimal Content Storage](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-optimal-content-storage)|Aug 18, 2024|
+|**Roblox**|[Find Largest Num Of Pairs](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-find-max-number-of-pairs)|Aug 18, 2024|
+|**Databricks**|[String Requests](https://www.fastprep.io/problems/databricks-string-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-string-requests)|Aug 18, 2024|
 |**Databricks**|[Diagonal Weights](https://www.fastprep.io/problems/databricks-diagonal-weights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-diagonal-weights)|Aug 18, 2024|
 |**Databricks**|[Goto Largest Bucket](https://www.fastprep.io/problems/databricks-goto-largest-bucket)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-goto-largest-bucket)|Aug 18, 2024|
 |**Databricks**|[Count Triples with Diff](https://www.fastprep.io/problems/databricks-count-triples-with-diff)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-count-triples-with-diff)|Aug 18, 2024|
