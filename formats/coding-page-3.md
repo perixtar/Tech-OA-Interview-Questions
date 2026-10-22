@@ -2,12 +2,30 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,768 questions**
+**3,788 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Carta**|[Aggregate Investment Ownership from CSV](https://www.fastprep.io/problems/carta-investment-ownership-aggregation)|[![Practice][p]](https://www.fastprep.io/problems/carta-investment-ownership-aggregation)|Oct 25, 2019|
+|**Bloomberg LP**|[Linked List of Binary Tree Nodes at a Given Level](https://www.fastprep.io/problems/bloomberg-binary-tree-level-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-linked-list)|Oct 24, 2019|
+|**Bloomberg LP**|[Interleaving String](https://www.fastprep.io/problems/bloomberg-interleaving-string)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-interleaving-string)|Oct 24, 2019|
+|**Bloomberg LP**|[Maximum Blocks in a Constrained Cave](https://www.fastprep.io/problems/bloomberg-maximum-blocks-in-cave)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-blocks-in-cave)|Oct 24, 2019|
+|**Bloomberg LP**|[Ordered Acknowledgement API](https://www.fastprep.io/problems/bloomberg-ordered-acknowledgement-api)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-ordered-acknowledgement-api)|Oct 24, 2019|
+|**Bloomberg LP**|[Symmetric Tree](https://www.fastprep.io/problems/bloomberg-symmetric-tree)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-symmetric-tree)|Oct 24, 2019|
+|**Bloomberg LP**|[Transitive Greater-Than Relation Queries](https://www.fastprep.io/problems/bloomberg-transitive-greater-than-queries)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-transitive-greater-than-queries)|Oct 24, 2019|
+|**SambaNova Systems**|[K Closest Points to the Origin](https://www.fastprep.io/problems/sambanova-k-closest-points)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-k-closest-points)|Oct 19, 2019|
+|**Bloomberg LP**|[Missing Element in Sorted Array](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|Oct 17, 2019|
+|**Marshall Wace**|[Minimum Winning Rounds with Limited All-In Bets](https://www.fastprep.io/problems/marshall-wace-limited-all-in-rounds)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-limited-all-in-rounds)|Oct 17, 2019|
+|**Marshall Wace**|[Maximum Apples from Two Disjoint Fixed-Length Segments](https://www.fastprep.io/problems/marshall-wace-two-apple-segments)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-two-apple-segments)|Oct 17, 2019|
+|**Airbnb**|[Resolve Battles](https://www.fastprep.io/problems/airbnb-resolve-battles)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-resolve-battles)|Oct 16, 2019|
+|**Marshall Wace**|[Count Squares of Any Orientation](https://www.fastprep.io/problems/marshall-wace-count-squares-any-orientation)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-count-squares-any-orientation)|Oct 15, 2019|
+|**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
+|**Vanguard**|[Remove Duplicate Anagrams](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|Sep 16, 2019|
+|**Vanguard**|[Compare High Score Counts](https://www.fastprep.io/problems/vanguard-compare-high-score-counts)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-compare-high-score-counts)|Sep 15, 2019|
+|**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
+|**Motive**|[Parse a Valid Roman Numeral](https://www.fastprep.io/problems/motive-valid-roman-numeral)|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-roman-numeral)|Aug 17, 2019|
 |**Mygate**|[Issue Non-repeating OTPs in a Time Window](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|[![Practice][p]](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|Aug 03, 2019|
 |**Motive**|[Smallest Common Integer in Sorted Lists](https://www.fastprep.io/problems/motive-smallest-common-integer-in-sorted-lists)|[![Practice][p]](https://www.fastprep.io/problems/motive-smallest-common-integer-in-sorted-lists)|Jul 17, 2019|
 |**Bloomberg LP**|[Collapse Extra Spaces In Place](https://www.fastprep.io/problems/bloomberg-collapse-extra-spaces)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collapse-extra-spaces)|Jul 12, 2019|

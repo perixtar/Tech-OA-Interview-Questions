@@ -9,6 +9,28 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Toshiba**|[Minimize Multiples of Three](https://www.fastprep.io/problems/toshiba-minimize-multiples-of-three)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toshiba-minimize-multiples-of-three)|Sep 27, 2024|
+|**Amazon**|[Maximum Quality Sum](https://www.fastprep.io/problems/amazon-maximum-quality-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-quality-sum)|Sep 26, 2024|
+|**Amazon**|[Minimize Warehouse Transfer Cost](https://www.fastprep.io/problems/amazon-minimize-warehouse-transfer-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-warehouse-transfer-cost)|Sep 26, 2024|
+|**Amazon**|[Find Sum of Beauties](https://www.fastprep.io/problems/amazon-find-sum-of-beauties)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-sum-of-beauties)|Sep 26, 2024|
+|**Amazon**|[Longest Perfect Anagrams](https://www.fastprep.io/problems/amazon-longest-perfect-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-perfect-anagrams)|Sep 26, 2024|
+|**Amazon**|[Find Maximum Calories](https://www.fastprep.io/problems/amazon-find-maximum-calories)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-calories)|Sep 26, 2024|
+|**Salesforce**|[Find Minimum Idleness](https://www.fastprep.io/problems/salesforce-find-minimum-idleness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-minimum-idleness)|Sep 26, 2024|
+|**Salesforce**|[Get Maximum Sum of Strengths](https://www.fastprep.io/problems/salesforce-get-maximum-sum-of-strengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-maximum-sum-of-strengths)|Sep 26, 2024|
+|**Agoda**|[Maximize Sum of Processed Times](https://www.fastprep.io/problems/agoda-maximize-sum-of-processed-times)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-maximize-sum-of-processed-times)|Sep 26, 2024|
+|**BNP**|[Piles of Boxes](https://www.fastprep.io/problems/bnp-piles-of-boxes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnp-piles-of-boxes)|Sep 26, 2024|
+|**BNP**|[Romanizer](https://www.fastprep.io/problems/bnp-romanizer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnp-romanizer)|Sep 26, 2024|
+|**Palantir**|[Minimize Path Value](https://www.fastprep.io/problems/palantir-minimize-path-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-minimize-path-value)|Sep 26, 2024|
+|**Palantir**|[Minimal Operations](https://www.fastprep.io/problems/palantir-minimal-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-minimal-operations)|Sep 26, 2024|
+|**JP Morgan**|[Slowest Keys](https://www.fastprep.io/problems/jpmorgan-slowest-key)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-slowest-key)|Sep 25, 2024|
+|**JP Morgan**|[Get Merged Intervals](https://www.fastprep.io/problems/jpmorgan-get-merged-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-merged-intervals)|Sep 25, 2024|
+|**Akuna**|[Update Release Scheduler](https://www.fastprep.io/problems/akuna-update-release-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-update-release-scheduler)|Sep 25, 2024|
+|**Akuna**|[Array Challenge](https://www.fastprep.io/problems/akuna-array-challenge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-array-challenge)|Sep 25, 2024|
+|**Roblox**|[Valid Pairs](https://www.fastprep.io/problems/roblox-valid-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-valid-pairs)|Sep 25, 2024|
+|**Databricks**|[Write L Matrix](https://www.fastprep.io/problems/databricks-write-l-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-write-l-matrix)|Sep 25, 2024|
+|**Databricks**|[Longest Common Prefix of Number Pairs](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|Sep 25, 2024|
+|**Databricks**|[Diff Between Sums of Positions](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|Sep 25, 2024|
+|**Databricks**|[Subarray Counting](https://www.fastprep.io/problems/databricks-subarray-counting)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-subarray-counting)|Sep 25, 2024|
 |**IBM**|[Equalize Team Size](https://www.fastprep.io/problems/ibm-equalize-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-equalize-team-size)|Sep 25, 2024|
 |**IBM**|[Max Index](https://www.fastprep.io/problems/ibm-max-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-index)|Sep 25, 2024|
 |**Arista Networks**|[Generate Matrix B](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Coding|[![Practice][p]](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Sep 24, 2024|
@@ -1176,7 +1198,6 @@
 |**Roblox**|[Design a Player Matchmaking Queue](https://www.fastprep.io/system-design/player-matchmaking-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/player-matchmaking-queue)|Dec 09, 2020|
 |**Apple**|[Merge Intervals](https://www.fastprep.io/problems/apple-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-merge-intervals)|Nov 30, 2020|
 |**Apple**|[Two Sum](https://www.fastprep.io/problems/apple-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-two-sum)|Nov 30, 2020|
-|**Apple**|[3Sum](https://www.fastprep.io/problems/apple-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-three-sum)|Nov 30, 2020|
 |**Bloomberg LP**|[Maximum Grid Path Sum in Exactly N Moves](https://www.fastprep.io/problems/bloomberg-maximum-grid-path-sum-exact-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-grid-path-sum-exact-moves)|Nov 27, 2020|
 |**Bloomberg LP**|[Sort an Absolute-Value-Sorted Array](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-array)|Nov 27, 2020|
 |**Bloomberg LP**|[Sort Every N-ary Tree Node's Children](https://www.fastprep.io/problems/bloomberg-sort-nary-tree-children)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-nary-tree-children)|Nov 27, 2020|
