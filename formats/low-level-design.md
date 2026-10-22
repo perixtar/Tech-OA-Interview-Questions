@@ -8,8 +8,8 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Oct 22, 2026|
-|**Proofpoint**|[Design a Concurrent Sports Roster Service](https://www.fastprep.io/low-level-design/concurrent-sports-roster-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sports-roster-service)|🔥 Oct 22, 2026|
+|**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Oct 21, 2026|
+|**Proofpoint**|[Design a Concurrent Sports Roster Service](https://www.fastprep.io/low-level-design/concurrent-sports-roster-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sports-roster-service)|🔥 Oct 21, 2026|
 |**Amazon**|[Design a Package Delivery Assignment Domain](https://www.fastprep.io/low-level-design/package-delivery-assignment-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/package-delivery-assignment-domain)|🔥 Oct 17, 2026|
 |**Amazon**|[Design a Delivery Slot Booking Domain](https://www.fastprep.io/low-level-design/delivery-slot-booking-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/delivery-slot-booking-domain)|🔥 Oct 16, 2026|
 |**Nykaa / Navi / Atlys**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 15, 2026|
