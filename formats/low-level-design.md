@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**181 questions**
+**182 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Shopify**|[Design and Implement Car Rental Reservations](https://www.fastprep.io/low-level-design/car-rental-reservations)|[![Practice][p]](https://www.fastprep.io/low-level-design/car-rental-reservations)|🔥 Oct 22, 2026|
 |**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Oct 21, 2026|
 |**Proofpoint**|[Design a Concurrent Sports Roster Service](https://www.fastprep.io/low-level-design/concurrent-sports-roster-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sports-roster-service)|🔥 Oct 21, 2026|
 |**Amazon**|[Design a Package Delivery Assignment Domain](https://www.fastprep.io/low-level-design/package-delivery-assignment-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/package-delivery-assignment-domain)|🔥 Oct 17, 2026|

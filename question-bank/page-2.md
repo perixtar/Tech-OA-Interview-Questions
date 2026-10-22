@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Oracle**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|Sep 05, 2026|
+|**Rippling**|[Design a Publisher News Feed](https://www.fastprep.io/system-design/publisher-news-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/publisher-news-feed)|Sep 05, 2026|
 |**Paytm**|[Design a Live Market Tick Brokerage Platform](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|Sep 05, 2026|
 |**Edge**|[Design a Website Content Parsing Service](https://www.fastprep.io/system-design/website-content-parsing-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/website-content-parsing-service)|Sep 05, 2026|
 |**Twilio**|[Design an Idempotent Multi-Source Event Store](https://www.fastprep.io/system-design/idempotent-multi-source-event-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-multi-source-event-store)|Sep 05, 2026|
@@ -155,7 +157,7 @@
 |**Goldman Sachs**|[Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Aug 24, 2026|
 |**TikTok**|[Repeated Grouped Digit Sum](https://www.fastprep.io/problems/tiktok-repeated-grouped-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-repeated-grouped-digit-sum)|Aug 24, 2026|
 |**Amazon / Microsoft**|[Design a Marketplace Product Search Service](https://www.fastprep.io/system-design/marketplace-product-search-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-search-service)|Aug 24, 2026|
-|**JP Morgan Chase**|[Design a Multimodal RAG Retrieval Platform](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|Aug 24, 2026|
+|**JP Morgan Chase / Apple**|[Design a Multimodal RAG Retrieval Platform](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|Aug 24, 2026|
 |**JP Morgan Chase**|[Design a Region-Aware User Record Store](https://www.fastprep.io/system-design/region-aware-user-record-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/region-aware-user-record-store)|Aug 24, 2026|
 |**JP Morgan Chase**|[Design a Reliable Endpoint File Transfer Service](https://www.fastprep.io/system-design/reliable-endpoint-file-transfer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/reliable-endpoint-file-transfer)|Aug 24, 2026|
 |**JP Morgan Chase**|[Design a Role-Based Token Authorization Platform](https://www.fastprep.io/system-design/role-based-token-authorization-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/role-based-token-authorization-platform)|Aug 24, 2026|
@@ -1031,6 +1033,7 @@
 |**ZipRecruiter**|[Restaurant Vote Leaders](https://www.fastprep.io/problems/ziprecruiter-restaurant-vote-leaders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-restaurant-vote-leaders)|Feb 08, 2026|
 |**Bloomberg LP**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Feb 07, 2026|
 |**Figma**|[Symmetric Binary Tree](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Feb 07, 2026|
+|**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|Feb 07, 2026|
 |**Hebbia**|[LRU Cache Snapshot Printer](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Feb 06, 2026|
 |**Salesforce**|[Collect Opportunity Data in a Tree](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Feb 06, 2026|
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
@@ -1769,7 +1772,4 @@
 |**IBM**|[Max Index](https://www.fastprep.io/problems/ibm-max-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-index)|Sep 25, 2024|
 |**Arista Networks**|[Generate Matrix B](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Coding|[![Practice][p]](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Sep 24, 2024|
 |**ZipRecruiter**|[Compare Odd- and Even-Index Sums](https://www.fastprep.io/problems/ziprecruiter-compare-index-parity-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-compare-index-parity-sums)|Sep 24, 2024|
-|**ZipRecruiter**|[Coordinate Removals with Column Gravity](https://www.fastprep.io/problems/ziprecruiter-coordinate-removals-with-gravity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-coordinate-removals-with-gravity)|Sep 24, 2024|
-|**ZipRecruiter**|[Recursively Expanded Shell Command Counts](https://www.fastprep.io/problems/ziprecruiter-shell-history-command-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-shell-history-command-counts)|Sep 24, 2024|
-|**ZipRecruiter**|[Lexicographically Smallest End Reversal](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Sep 24, 2024|
 <a id="bottom"></a>

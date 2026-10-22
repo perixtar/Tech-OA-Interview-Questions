@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Coordinate Removals with Column Gravity](https://www.fastprep.io/problems/ziprecruiter-coordinate-removals-with-gravity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-coordinate-removals-with-gravity)|Sep 24, 2024|
+|**ZipRecruiter**|[Recursively Expanded Shell Command Counts](https://www.fastprep.io/problems/ziprecruiter-shell-history-command-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-shell-history-command-counts)|Sep 24, 2024|
+|**ZipRecruiter**|[Lexicographically Smallest End Reversal](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Sep 24, 2024|
 |**Salesforce**|[Closest Subsequence Sum](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Sep 23, 2024|
 |**Google**|[Min Moves](https://www.fastprep.io/problems/google-focus-on-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-focus-on-efficiency)|Sep 23, 2024|
 |**Google**|[Largest Number Possible](https://www.fastprep.io/problems/google-largest-number-possible)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-number-possible)|Sep 23, 2024|
