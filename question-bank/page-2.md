@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Twilio**|[Design an Idempotent Multi-Source Event Store](https://www.fastprep.io/system-design/idempotent-multi-source-event-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-multi-source-event-store)|Sep 05, 2026|
+|**Roblox**|[Design Shared To-Do List Synchronization](https://www.fastprep.io/system-design/shared-task-list-synchronization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-task-list-synchronization)|Sep 05, 2026|
 |**Tekion**|[Design an Inventory Stock Control Domain](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|Sep 05, 2026|
 |**Rippling**|[Maximum Currency Conversion Along a Simple Path](https://www.fastprep.io/problems/rippling-maximum-simple-path-currency-conversion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-simple-path-currency-conversion)|Sep 05, 2026|
 |**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|Sep 05, 2026|
@@ -138,7 +140,6 @@
 |**TikTok**|[Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times)|Aug 26, 2026|
 |**TikTok**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-sum-pairs)|Aug 26, 2026|
 |**Superhuman / Grammarly**|[Design an Ephemeral Messaging Service](https://www.fastprep.io/system-design/ephemeral-message-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ephemeral-message-delivery)|Aug 26, 2026|
-|**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|Aug 26, 2026|
 |**ElevenLabs**|[AI-Assisted Commerce Platform](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|Aug 26, 2026|
 |**ByteDance**|[Match Consecutive Word Boundaries (for mle also :)](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-match-consecutive-word-boundaries)|Aug 25, 2026|
 |**ByteDance**|[Minimize Expression Value with Parentheses (for mle also :)](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Aug 25, 2026|
@@ -1772,5 +1773,4 @@
 |**ZipRecruiter**|[Lexicographically Smallest End Reversal](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Sep 24, 2024|
 |**Salesforce**|[Closest Subsequence Sum](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Sep 23, 2024|
 |**Google**|[Min Moves](https://www.fastprep.io/problems/google-focus-on-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-focus-on-efficiency)|Sep 23, 2024|
-|**Google**|[Largest Number Possible](https://www.fastprep.io/problems/google-largest-number-possible)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-number-possible)|Sep 23, 2024|
 <a id="bottom"></a>

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Largest Number Possible](https://www.fastprep.io/problems/google-largest-number-possible)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-number-possible)|Sep 23, 2024|
 |**IBM**|[Min Operations Required](https://www.fastprep.io/problems/ibm-minimum-operations-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-operations-required)|Sep 23, 2024|
 |**Microsoft**|[XOR Coloring](https://www.fastprep.io/problems/microsoft-xor-coloring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-coloring)|Sep 23, 2024|
 |**Microsoft**|[Count Good Arrays](https://www.fastprep.io/problems/microsoft-great-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-great-subsequences)|Sep 23, 2024|
