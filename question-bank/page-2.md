@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Latest-Timestamp Key-Value Store](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Sep 04, 2026|
 |**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|Sep 03, 2026|
 |**Abridge**|[Clone a Connected Graph](https://www.fastprep.io/problems/abridge-clone-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abridge-clone-graph)|Sep 03, 2026|
 |**Astrotalk**|[Design a Cached Astrologer Listing Service](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|Sep 03, 2026|
@@ -1774,5 +1775,4 @@
 |**Salesforce**|[Min Dev Time](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|Sep 20, 2024|
 |**Google**|[Transformation Steps](https://www.fastprep.io/problems/google-array-transformation-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-array-transformation-steps)|Sep 20, 2024|
 |**Google**|[Find Largest Number](https://www.fastprep.io/problems/google-find-largest-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-largest-number)|Sep 20, 2024|
-|**Hudson River Trading**|[Count Fancy Numbers](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|Sep 20, 2024|
 <a id="bottom"></a>

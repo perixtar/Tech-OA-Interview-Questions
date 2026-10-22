@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,756)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (609)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (94)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,756)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (609)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (95)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Optimize a Simulated Accelerator Kernel](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|🔥 Oct 22, 2026|
 |**Pinterest**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/pinterest-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Oct 21, 2026|
 |**Pinterest**|[Gradient Descent Linear Regression Predictions](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|🔥 Oct 21, 2026|
 |**Pinterest**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|🔥 Oct 21, 2026|
@@ -470,7 +471,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Applied Intuition**|[Driving Log Ingestion and Playback Windows](https://www.fastprep.io/project-coding/applied-intuition-driving-log-playback)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/applied-intuition-driving-log-playback)|🆕 Oct 06, 2026|
 |**Tekion / Autodesk**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🆕 Oct 05, 2026|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|🆕 Oct 05, 2026|
-|**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Oct 05, 2026|
+|**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi / Meta**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Oct 05, 2026|
 |**Walmart**|[Design an Agent-Assisted Search Experience](https://www.fastprep.io/system-design/agentic-search-experience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/agentic-search-experience)|🆕 Oct 05, 2026|
 |**Okta**|[Design Cross-Domain Single Sign-On](https://www.fastprep.io/system-design/cross-domain-single-sign-on)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-domain-single-sign-on)|🆕 Oct 05, 2026|
 |**Okta / Paytm**|[Design OIDC Login and Third-Party Tool Authorization](https://www.fastprep.io/system-design/oidc-third-party-tool-authorization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/oidc-third-party-tool-authorization)|🆕 Oct 05, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Snowflake**|[Minimum Clicks Between Wiki Pages](https://www.fastprep.io/problems/snowflake-minimum-clicks-between-wiki-pages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-clicks-between-wiki-pages)|Sep 04, 2026|
 |**Commure**|[Design Monthly Stream Royalties and Artist Payouts](https://www.fastprep.io/system-design/monthly-stream-royalty-payouts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/monthly-stream-royalty-payouts)|Sep 04, 2026|
 |**David AI**|[Design an Audio AI Processing Backend](https://www.fastprep.io/system-design/audio-ai-processing-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/audio-ai-processing-backend)|Sep 04, 2026|
-|**Amazon**|[Latest-Timestamp Key-Value Store](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Sep 04, 2026|
 <a id="bottom"></a>
