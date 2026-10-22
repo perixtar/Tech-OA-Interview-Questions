@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 21, 2026|
 |**Stripe**|[Colander Debugging: Repair Error Aggregation](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|🔥 Oct 20, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Oct 17, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Customer Message Classifier](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|🔥 Oct 16, 2026|
@@ -17,7 +18,6 @@
 |**StackAdapt**|[Repair Corrupted Grid Digit Recognition](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|[![Practice][p]](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|🔥 Oct 15, 2026|
 |**Sphere**|[Integrate a State Tax API](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|🔥 Oct 14, 2026|
 |**Upstart**|[Build a Poll and Voting API](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|[![Practice][p]](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|🔥 Oct 14, 2026|
-|**Amazon**|[Repair Car Publication and Availability](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 14, 2026|
 |**Dell Technologies**|[Repair Expiration and Soft Deletion](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|🔥 Oct 11, 2026|
 |**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🔥 Oct 10, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 09, 2026|

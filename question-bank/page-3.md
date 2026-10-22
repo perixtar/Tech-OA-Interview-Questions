@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Get Min Total Cost](https://www.fastprep.io/problems/tiktok-get-minimum-total-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-minimum-total-cost)|Sep 20, 2024|
+|**IBM**|[Rover Move](https://www.fastprep.io/problems/ibm-rover-move)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-rover-move)|Sep 20, 2024|
 |**Goldman Sachs**|[Get Min Moves](https://www.fastprep.io/problems/goldman-get-minimum-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-moves)|Sep 20, 2024|
 |**Cisco**|[Find Out Prime or Composite](https://www.fastprep.io/problems/cisco-find-out-prime-or-composite)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-out-prime-or-composite)|Sep 20, 2024|
 |**Cisco**|[Compact List](https://www.fastprep.io/problems/cisco-compact-the-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-compact-the-list)|Sep 20, 2024|
