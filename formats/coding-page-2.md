@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Citadel**|[Minimum Path Sum to Target in Binary Tree](https://www.fastprep.io/problems/citadel-minimum-path-sum-to-target-in-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-path-sum-to-target-in-binary-tree)|Apr 30, 2026|
 |**Datadog**|[Log Ingestion and Query](https://www.fastprep.io/problems/datadog-log-ingestion-and-query)|[![Practice][p]](https://www.fastprep.io/problems/datadog-log-ingestion-and-query)|Apr 30, 2026|
 |**LinkedIn**|[Count Completed Trips](https://www.fastprep.io/problems/linkedin-count-completed-trips)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-count-completed-trips)|Apr 30, 2026|
 |**Oscar Health**|[Members Lacking Provider Network Access](https://www.fastprep.io/problems/oscar-health-members-lacking-provider-network-access)|[![Practice][p]](https://www.fastprep.io/problems/oscar-health-members-lacking-provider-network-access)|Apr 30, 2026|
@@ -1929,5 +1930,4 @@
 |**Bloomberg LP**|[Collapse Extra Spaces In Place](https://www.fastprep.io/problems/bloomberg-collapse-extra-spaces)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collapse-extra-spaces)|Jul 12, 2019|
 |**Bloomberg LP**|[Generate Rand7 from Rand5](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|Jul 12, 2019|
 |**Bloomberg LP**|[Random Removal from a Set](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|Jul 12, 2019|
-|**Marshall Wace**|[Length of the Longest Common Subsequence](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|Jun 23, 2019|
 <a id="bottom"></a>
