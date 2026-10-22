@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**96 questions**
+**97 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -17,6 +17,7 @@
 |**Klaviyo**|[AI Engineer Intern Mock: Search Customer Messages](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|🔥 Oct 16, 2026|
 |**Flipkart**|[Implement a Distributed Task Scheduler](https://www.fastprep.io/project-coding/flipkart-distributed-task-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/flipkart-distributed-task-scheduler)|🔥 Oct 16, 2026|
 |**StackAdapt**|[Repair Corrupted Grid Digit Recognition](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|[![Practice][p]](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|🔥 Oct 15, 2026|
+|**eBay**|[Repair an Asynchronous Store Update](https://www.fastprep.io/project-coding/ebay-repair-async-store-update)|[![Practice][p]](https://www.fastprep.io/project-coding/ebay-repair-async-store-update)|🔥 Oct 15, 2026|
 |**Sphere**|[Integrate a State Tax API](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|🔥 Oct 14, 2026|
 |**Upstart**|[Build a Poll and Voting API](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|[![Practice][p]](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|🔥 Oct 14, 2026|
 |**Reevo**|[Airline Seat Booking](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|[![Practice][p]](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|🔥 Oct 14, 2026|

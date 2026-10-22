@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Closest Subsequence Sum](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Sep 23, 2024|
+|**Google**|[Min Moves](https://www.fastprep.io/problems/google-focus-on-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-focus-on-efficiency)|Sep 23, 2024|
 |**Google**|[Largest Number Possible](https://www.fastprep.io/problems/google-largest-number-possible)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-number-possible)|Sep 23, 2024|
 |**IBM**|[Min Operations Required](https://www.fastprep.io/problems/ibm-minimum-operations-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-operations-required)|Sep 23, 2024|
 |**Microsoft**|[XOR Coloring](https://www.fastprep.io/problems/microsoft-xor-coloring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-coloring)|Sep 23, 2024|

@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Paytm**|[Design a Live Market Tick Brokerage Platform](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|Sep 05, 2026|
+|**Edge**|[Design a Website Content Parsing Service](https://www.fastprep.io/system-design/website-content-parsing-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/website-content-parsing-service)|Sep 05, 2026|
 |**Twilio**|[Design an Idempotent Multi-Source Event Store](https://www.fastprep.io/system-design/idempotent-multi-source-event-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-multi-source-event-store)|Sep 05, 2026|
 |**Roblox**|[Design Shared To-Do List Synchronization](https://www.fastprep.io/system-design/shared-task-list-synchronization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-task-list-synchronization)|Sep 05, 2026|
 |**Tekion**|[Design an Inventory Stock Control Domain](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|Sep 05, 2026|
@@ -542,7 +544,6 @@
 |**IDFC**|[Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Jul 18, 2026|
 |**IDFC**|[Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Jul 18, 2026|
 |**Apple / Atlassian / Wayfair**|[Design a Large JSON and XML Transformation Service](https://www.fastprep.io/system-design/large-json-transformation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-json-transformation-service)|Jul 18, 2026|
-|**Pinterest / Apple**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|Jul 18, 2026|
 |**Cursor**|[Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Jul 18, 2026|
 |**Goldman Sachs**|[Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions)|Jul 17, 2026|
 |**Uber**|[Design a Driver Payout System](https://www.fastprep.io/system-design/uber-driver-payout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/uber-driver-payout)|Jul 17, 2026|
@@ -1771,6 +1772,4 @@
 |**ZipRecruiter**|[Coordinate Removals with Column Gravity](https://www.fastprep.io/problems/ziprecruiter-coordinate-removals-with-gravity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-coordinate-removals-with-gravity)|Sep 24, 2024|
 |**ZipRecruiter**|[Recursively Expanded Shell Command Counts](https://www.fastprep.io/problems/ziprecruiter-shell-history-command-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-shell-history-command-counts)|Sep 24, 2024|
 |**ZipRecruiter**|[Lexicographically Smallest End Reversal](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Sep 24, 2024|
-|**Salesforce**|[Closest Subsequence Sum](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Sep 23, 2024|
-|**Google**|[Min Moves](https://www.fastprep.io/problems/google-focus-on-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-focus-on-efficiency)|Sep 23, 2024|
 <a id="bottom"></a>
