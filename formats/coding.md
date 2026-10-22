@@ -8,12 +8,12 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Pinterest**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/pinterest-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Oct 21, 2026|
-|**Pinterest**|[Gradient Descent Linear Regression Predictions](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|🔥 Oct 21, 2026|
-|**Pinterest**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|🔥 Oct 21, 2026|
+|**Pinterest**|[Find Local Maxima in Sensor Data (Machine Learning OA)](https://www.fastprep.io/problems/pinterest-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Oct 21, 2026|
+|**Pinterest**|[Gradient Descent Linear Regression Predictions (Machine Learning OA)](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|🔥 Oct 21, 2026|
+|**Pinterest**|[Decision Tree Classifier from Scratch (Machine Learning OA)](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|🔥 Oct 21, 2026|
 |**Google**|[First-Fit Memory Allocator](https://www.fastprep.io/problems/google-first-fit-memory-allocator)|[![Practice][p]](https://www.fastprep.io/problems/google-first-fit-memory-allocator)|🔥 Oct 21, 2026|
 |**Amazon**|[Maximize Shipment Order by Sorting One Window](https://www.fastprep.io/problems/amazon-maximize-shipment-order-one-window)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-shipment-order-one-window)|🔥 Oct 21, 2026|
-|**McKinsey & Company**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|🔥 Oct 21, 2026|
+|**McKinsey & Company**|[Count Repeated Request IDs (Data Science OA)](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|🔥 Oct 21, 2026|
 |**McKinsey & Company**|[Minimize Adjacent Squared-Difference Cost with One Insertion](https://www.fastprep.io/problems/mckinsey-minimum-adjacent-square-cost-after-insertion)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-minimum-adjacent-square-cost-after-insertion)|🔥 Oct 21, 2026|
 |**Google**|[Robot Assembly Line Conflicts](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|🔥 Oct 20, 2026|
 |**Amazon**|[Climbing Stairs](https://www.fastprep.io/problems/amazon-climbing-stairs)|[![Practice][p]](https://www.fastprep.io/problems/amazon-climbing-stairs)|🔥 Oct 20, 2026|
@@ -1821,5 +1821,4 @@
 |**Uber**|[Top-K Using a Priority Queue](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|[![Practice][p]](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|Apr 30, 2026|
 |**Stripe**|[Generate Available Time Slots](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|[![Practice][p]](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|Apr 30, 2026|
 |**Applied Intuition**|[KV Store with Nested Transactions](https://www.fastprep.io/problems/applied-intuition-kv-store-nested-transactions)|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-kv-store-nested-transactions)|Apr 30, 2026|
-|**Citadel**|[Minimum Path Sum to Target in Binary Tree](https://www.fastprep.io/problems/citadel-minimum-path-sum-to-target-in-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-path-sum-to-target-in-binary-tree)|Apr 30, 2026|
 <a id="bottom"></a>

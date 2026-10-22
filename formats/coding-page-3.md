@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Marshall Wace**|[Length of the Longest Common Subsequence](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|Jun 23, 2019|
 |**Headlands Technologies**|[Numeric Wildcard Dictionary Matching](https://www.fastprep.io/problems/headlands-numeric-wildcard-dictionary-matching)|[![Practice][p]](https://www.fastprep.io/problems/headlands-numeric-wildcard-dictionary-matching)|Jun 09, 2019|
 |**Apple**|[Elements After the First Target](https://www.fastprep.io/problems/apple-elements-after-target)|[![Practice][p]](https://www.fastprep.io/problems/apple-elements-after-target)|May 30, 2019|
 |**Airbnb**|[Paginate Search Results by Unique Host](https://www.fastprep.io/problems/airbnb-paginate-search-results)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-paginate-search-results)|May 12, 2019|
