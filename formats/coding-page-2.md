@@ -2,12 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,756 questions**
+**3,763 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Datadog**|[Log Ingestion and Query](https://www.fastprep.io/problems/datadog-log-ingestion-and-query)|[![Practice][p]](https://www.fastprep.io/problems/datadog-log-ingestion-and-query)|Apr 30, 2026|
+|**LinkedIn**|[Count Completed Trips](https://www.fastprep.io/problems/linkedin-count-completed-trips)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-count-completed-trips)|Apr 30, 2026|
+|**Oscar Health**|[Members Lacking Provider Network Access](https://www.fastprep.io/problems/oscar-health-members-lacking-provider-network-access)|[![Practice][p]](https://www.fastprep.io/problems/oscar-health-members-lacking-provider-network-access)|Apr 30, 2026|
+|**Tesla**|[KV Store with Rollback](https://www.fastprep.io/problems/tesla-kv-store-with-rollback)|[![Practice][p]](https://www.fastprep.io/problems/tesla-kv-store-with-rollback)|Apr 30, 2026|
+|**Duolingo**|[Return Every Matching Decryption](https://www.fastprep.io/problems/duolingo-decrypt-all-matching-strings)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-decrypt-all-matching-strings)|Apr 29, 2026|
+|**Oura**|[Assign Server Numbers by Type](https://www.fastprep.io/problems/oura-assign-server-numbers-by-type)|[![Practice][p]](https://www.fastprep.io/problems/oura-assign-server-numbers-by-type)|Apr 28, 2026|
+|**Verkada**|[Find Valid IP Addresses](https://www.fastprep.io/problems/verkada-find-valid-ip-addresses)|[![Practice][p]](https://www.fastprep.io/problems/verkada-find-valid-ip-addresses)|Apr 28, 2026|
+|**Visa**|[Maximize Capped Contribution Sum](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|[![Practice][p]](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|Apr 27, 2026|
+|**Visa**|[Longest Selectable Non-Decreasing Subarray](https://www.fastprep.io/problems/visa-longest-selectable-nondecreasing-subarray)|[![Practice][p]](https://www.fastprep.io/problems/visa-longest-selectable-nondecreasing-subarray)|Apr 27, 2026|
 |**Databricks**|[Find First Anagram Index](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|[![Practice][p]](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|Apr 27, 2026|
 |**Gemini**|[Minimum Fence Painting Operations](https://www.fastprep.io/problems/gemini-minimum-fence-painting-operations)|[![Practice][p]](https://www.fastprep.io/problems/gemini-minimum-fence-painting-operations)|Apr 27, 2026|
 |**IBM**|[Count Power Products in Range](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|Apr 26, 2026|
@@ -748,7 +757,6 @@
 |**Akuna**|[Update Release Scheduler](https://www.fastprep.io/problems/akuna-update-release-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/akuna-update-release-scheduler)|Sep 25, 2024|
 |**Akuna**|[Array Challenge](https://www.fastprep.io/problems/akuna-array-challenge)|[![Practice][p]](https://www.fastprep.io/problems/akuna-array-challenge)|Sep 25, 2024|
 |**Roblox**|[Valid Pairs](https://www.fastprep.io/problems/roblox-valid-pairs)|[![Practice][p]](https://www.fastprep.io/problems/roblox-valid-pairs)|Sep 25, 2024|
-|**Roblox**|[Schedule Meeting](https://www.fastprep.io/problems/roblox-schedule-meeting)|[![Practice][p]](https://www.fastprep.io/problems/roblox-schedule-meeting)|Sep 25, 2024|
 |**Databricks**|[Write L Matrix](https://www.fastprep.io/problems/databricks-write-l-matrix)|[![Practice][p]](https://www.fastprep.io/problems/databricks-write-l-matrix)|Sep 25, 2024|
 |**Databricks**|[Longest Common Prefix of Number Pairs](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|Sep 25, 2024|
 |**Databricks**|[Diff Between Sums of Positions](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|[![Practice][p]](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|Sep 25, 2024|
@@ -1922,13 +1930,4 @@
 |**Bloomberg LP**|[Generate Rand7 from Rand5](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|Jul 12, 2019|
 |**Bloomberg LP**|[Random Removal from a Set](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|Jul 12, 2019|
 |**Marshall Wace**|[Length of the Longest Common Subsequence](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|Jun 23, 2019|
-|**Headlands Technologies**|[Numeric Wildcard Dictionary Matching](https://www.fastprep.io/problems/headlands-numeric-wildcard-dictionary-matching)|[![Practice][p]](https://www.fastprep.io/problems/headlands-numeric-wildcard-dictionary-matching)|Jun 09, 2019|
-|**Apple**|[Elements After the First Target](https://www.fastprep.io/problems/apple-elements-after-target)|[![Practice][p]](https://www.fastprep.io/problems/apple-elements-after-target)|May 30, 2019|
-|**Airbnb**|[Paginate Search Results by Unique Host](https://www.fastprep.io/problems/airbnb-paginate-search-results)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-paginate-search-results)|May 12, 2019|
-|**Airbnb**|[Round Prices to Match Target](https://www.fastprep.io/problems/airbnb-round-prices-to-match-target)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-round-prices-to-match-target)|Apr 01, 2019|
-|**Hartford Financial Services**|[Bubble Sort](https://www.fastprep.io/problems/hartford-bubble-sort)|[![Practice][p]](https://www.fastprep.io/problems/hartford-bubble-sort)|Mar 27, 2019|
-|**Hartford Financial Services**|[Swap Adjacent Character Pairs](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|[![Practice][p]](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|Mar 27, 2019|
-|**Airbnb**|[Minimum Wizard Referral Cost](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Mar 11, 2019|
-|**Airbnb**|[Count Decreasing Triplets](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Mar 05, 2019|
-|**Airbnb**|[Missing Words](https://www.fastprep.io/problems/airbnb-missing-words)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-missing-words)|Mar 05, 2019|
 <a id="bottom"></a>
