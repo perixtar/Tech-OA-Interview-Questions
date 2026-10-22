@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Min Operations to Make All Elements Equal](https://www.fastprep.io/problems/ibm-minimum-operations-to-make-all-elements-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-operations-to-make-all-elements-equal)|Sep 27, 2024|
+|**IBM**|[Get Minimum Operation Count](https://www.fastprep.io/problems/ibm-get-minimum-operation-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-operation-count)|Sep 27, 2024|
 |**Toshiba**|[Minimize Multiples of Three](https://www.fastprep.io/problems/toshiba-minimize-multiples-of-three)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toshiba-minimize-multiples-of-three)|Sep 27, 2024|
 |**Amazon**|[Maximum Quality Sum](https://www.fastprep.io/problems/amazon-maximum-quality-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-quality-sum)|Sep 26, 2024|
 |**Amazon**|[Minimize Warehouse Transfer Cost](https://www.fastprep.io/problems/amazon-minimize-warehouse-transfer-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-warehouse-transfer-cost)|Sep 26, 2024|

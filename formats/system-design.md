@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**614 questions**
+**616 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -513,6 +513,8 @@
 |**Splunk**|[Prepaid Game-Card Payment Network](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|[![Practice][p]](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|Aug 13, 2025|
 |**Splunk / Atlassian / Deliveroo**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
 |**Splunk / Atlassian / Wayfair**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
+|**LSEG**|[Design a Student Analytics Dashboard](https://www.fastprep.io/system-design/student-analytics-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/student-analytics-dashboard)|Jul 23, 2025|
+|**LSEG**|[Extend a Forex Platform with Bitcoin Trading](https://www.fastprep.io/system-design/crypto-trading-extension)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-trading-extension)|Jul 23, 2025|
 |**Klaviyo**|[Design a Crypto Portfolio Purchase Experience](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|Jul 09, 2025|
 |**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
 |**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|

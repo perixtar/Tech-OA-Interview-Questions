@@ -1344,6 +1344,8 @@
 |**Arcesium**|[Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Jul 23, 2025|
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
+|**LSEG**|[Design a Student Analytics Dashboard](https://www.fastprep.io/system-design/student-analytics-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/student-analytics-dashboard)|Jul 23, 2025|
+|**LSEG**|[Extend a Forex Platform with Bitcoin Trading](https://www.fastprep.io/system-design/crypto-trading-extension)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crypto-trading-extension)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
 |**Rippling**|[Server Upgrade Planning](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Jul 19, 2025|
 |**Rippling**|[Shortest Substring](https://www.fastprep.io/problems/rippling-shortest-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-shortest-substring)|Jul 19, 2025|
@@ -1769,6 +1771,4 @@
 |**Wayfair**|[DFS Substring of A String](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Sep 28, 2024|
 |**Elastic**|[Build a Search Index Web Service](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|Sep 28, 2024|
 |**Amazon**|[Find Subarray with Minimum Distinct Integers](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers)|Sep 27, 2024|
-|**IBM**|[Min Operations to Make All Elements Equal](https://www.fastprep.io/problems/ibm-minimum-operations-to-make-all-elements-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-operations-to-make-all-elements-equal)|Sep 27, 2024|
-|**IBM**|[Get Minimum Operation Count](https://www.fastprep.io/problems/ibm-get-minimum-operation-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-operation-count)|Sep 27, 2024|
 <a id="bottom"></a>
