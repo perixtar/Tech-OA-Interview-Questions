@@ -777,6 +777,7 @@
 |**Amazon**|[Get Smallest Base Segment](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Jun 09, 2026|
 |**Amazon**|[Count Promotional Periods](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Jun 09, 2026|
 |**Agoda**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Jun 08, 2026|
+|**Shopify**|[Design and Implement Bank Accounts and Transfers](https://www.fastprep.io/low-level-design/bank-accounts-and-transfers)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bank-accounts-and-transfers)|Jun 08, 2026|
 |**Notion**|[Nested Todo List](https://www.fastprep.io/problems/notion-nested-todo-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-nested-todo-list)|Jun 07, 2026|
 |**Hebbia**|[Detect a Winner on a 3x3 Tic-Tac-Toe Board](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Jun 06, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
@@ -784,6 +785,7 @@
 |**Notion**|[Top Error Types in a Time Window](https://www.fastprep.io/problems/notion-top-error-types-in-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-top-error-types-in-window)|Jun 05, 2026|
 |**JP Morgan**|[About Shipping](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Jun 04, 2026|
 |**Netflix**|[Topological Sort for Ads Tasks](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|Jun 04, 2026|
+|**Shopify**|[Design and Implement Movie Seat Reservations](https://www.fastprep.io/low-level-design/cinema-seat-reservations)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cinema-seat-reservations)|Jun 03, 2026|
 |**Alpaca**|[Hungarian Lottery Winner Counts](https://www.fastprep.io/problems/alpaca-hungarian-lottery-winners)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alpaca-hungarian-lottery-winners)|Jun 02, 2026|
 |**Runway**|[N Gram Next Token Prediction](https://www.fastprep.io/problems/runway-ngram-next-token-prediction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/runway-ngram-next-token-prediction)|Jun 02, 2026|
 |**Google**|[Consolidate On-Call Rotations](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|Jun 02, 2026|
@@ -1034,6 +1036,8 @@
 |**Bloomberg LP**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Feb 07, 2026|
 |**Figma**|[Symmetric Binary Tree](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Feb 07, 2026|
 |**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|Feb 07, 2026|
+|**DoorDash**|[Minimum Batches Within a Time Window](https://www.fastprep.io/problems/doordash-minimum-time-window-batches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-time-window-batches)|Feb 07, 2026|
+|**DoorDash**|[Minimum Riders for Delivery Intervals](https://www.fastprep.io/problems/doordash-minimum-delivery-riders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-delivery-riders)|Feb 07, 2026|
 |**Hebbia**|[LRU Cache Snapshot Printer](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Feb 06, 2026|
 |**Salesforce**|[Collect Opportunity Data in a Tree](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Feb 06, 2026|
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
@@ -1768,8 +1772,4 @@
 |**Databricks**|[Longest Common Prefix of Number Pairs](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|Sep 25, 2024|
 |**Databricks**|[Diff Between Sums of Positions](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|Sep 25, 2024|
 |**Databricks**|[Subarray Counting](https://www.fastprep.io/problems/databricks-subarray-counting)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-subarray-counting)|Sep 25, 2024|
-|**IBM**|[Equalize Team Size](https://www.fastprep.io/problems/ibm-equalize-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-equalize-team-size)|Sep 25, 2024|
-|**IBM**|[Max Index](https://www.fastprep.io/problems/ibm-max-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-index)|Sep 25, 2024|
-|**Arista Networks**|[Generate Matrix B](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Coding|[![Practice][p]](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Sep 24, 2024|
-|**ZipRecruiter**|[Compare Odd- and Even-Index Sums](https://www.fastprep.io/problems/ziprecruiter-compare-index-parity-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-compare-index-parity-sums)|Sep 24, 2024|
 <a id="bottom"></a>
