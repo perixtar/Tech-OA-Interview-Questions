@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**FlexTrade**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/flextrade-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-best-time-to-buy-and-sell-stock)|Sep 04, 2026|
 |**ByteDance**|[Restore Addresses with K Segments](https://www.fastprep.io/problems/bytedance-restore-addresses-with-k-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-restore-addresses-with-k-segments)|Sep 04, 2026|
 |**LinkedIn**|[Flowerbed Capacity Queries](https://www.fastprep.io/problems/linkedin-flowerbed-capacity-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-flowerbed-capacity-queries)|Sep 04, 2026|
 |**Microsoft**|[Maximum Decrypted Score](https://www.fastprep.io/problems/microsoft-maximum-decrypted-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-decrypted-score)|Sep 04, 2026|
@@ -1773,5 +1774,4 @@
 |**Microsoft**|[XOR Coloring](https://www.fastprep.io/problems/microsoft-xor-coloring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-coloring)|Sep 23, 2024|
 |**Microsoft**|[Count Good Arrays](https://www.fastprep.io/problems/microsoft-great-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-great-subsequences)|Sep 23, 2024|
 |**Microsoft**|[Great Subsequences](https://www.fastprep.io/problems/microsoft-to-good-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-to-good-arrays)|Sep 23, 2024|
-|**DE Shaw**|[Count Incremovable Subarrays](https://www.fastprep.io/problems/deshaw-count-the-number-of-incremovable-subarrays-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-count-the-number-of-incremovable-subarrays-ii)|Sep 23, 2024|
 <a id="bottom"></a>

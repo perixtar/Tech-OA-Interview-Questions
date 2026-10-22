@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**95 questions**
+**96 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -19,6 +19,7 @@
 |**StackAdapt**|[Repair Corrupted Grid Digit Recognition](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|[![Practice][p]](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|🔥 Oct 15, 2026|
 |**Sphere**|[Integrate a State Tax API](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|🔥 Oct 14, 2026|
 |**Upstart**|[Build a Poll and Voting API](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|[![Practice][p]](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|🔥 Oct 14, 2026|
+|**Reevo**|[Airline Seat Booking](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|[![Practice][p]](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|🔥 Oct 14, 2026|
 |**Dell Technologies**|[Repair Expiration and Soft Deletion](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|🔥 Oct 11, 2026|
 |**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🔥 Oct 10, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 09, 2026|

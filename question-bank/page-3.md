@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**DE Shaw**|[Count Incremovable Subarrays](https://www.fastprep.io/problems/deshaw-count-the-number-of-incremovable-subarrays-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-count-the-number-of-incremovable-subarrays-ii)|Sep 23, 2024|
 |**TikTok**|[TikTok Server Optimization](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes)|Sep 21, 2024|
 |**TikTok**|[Tiktok Viral Challenge](https://www.fastprep.io/problems/tiktok-count-viral-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-viral-combinations)|Sep 21, 2024|
 |**TikTok**|[Optimize TikTok Reels Viewing](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|Sep 21, 2024|
