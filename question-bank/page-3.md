@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Equalize Team Size](https://www.fastprep.io/problems/ibm-equalize-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-equalize-team-size)|Sep 25, 2024|
+|**IBM**|[Max Index](https://www.fastprep.io/problems/ibm-max-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-index)|Sep 25, 2024|
+|**Arista Networks**|[Generate Matrix B](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Coding|[![Practice][p]](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Sep 24, 2024|
+|**ZipRecruiter**|[Compare Odd- and Even-Index Sums](https://www.fastprep.io/problems/ziprecruiter-compare-index-parity-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-compare-index-parity-sums)|Sep 24, 2024|
 |**ZipRecruiter**|[Coordinate Removals with Column Gravity](https://www.fastprep.io/problems/ziprecruiter-coordinate-removals-with-gravity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-coordinate-removals-with-gravity)|Sep 24, 2024|
 |**ZipRecruiter**|[Recursively Expanded Shell Command Counts](https://www.fastprep.io/problems/ziprecruiter-shell-history-command-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-shell-history-command-counts)|Sep 24, 2024|
 |**ZipRecruiter**|[Lexicographically Smallest End Reversal](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-smallest-end-reversal)|Sep 24, 2024|
@@ -670,6 +674,8 @@
 |**IBM**|[Find Y Values](https://www.fastprep.io/problems/ibm-find-y-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-y-value)|Feb 05, 2024|
 |**IBM**|[Circles](https://www.fastprep.io/problems/ibm-circles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-circles)|Feb 05, 2024|
 |**IBM**|[Get Min Moves](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Feb 05, 2024|
+|**DoorDash**|[Maximum Coupon Credit and Its Time Windows](https://www.fastprep.io/problems/doordash-maximum-coupon-credit-windows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximum-coupon-credit-windows)|Feb 03, 2024|
+|**DoorDash**|[Longest Increasing Path in a Matrix](https://www.fastprep.io/problems/doordash-longest-increasing-matrix-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-longest-increasing-matrix-path)|Feb 03, 2024|
 |**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
 |**Akuna**|[Minimum Chunks Required (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Feb 02, 2024|
 |**Akuna**|[Diffierence Calculator (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-difference-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-difference-calculator)|Feb 02, 2024|
@@ -692,6 +698,7 @@
 |**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
 |**Navan**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Jan 24, 2024|
 |**Navan**|[Shortest Substring with at Least K Distinct Characters](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Jan 24, 2024|
+|**DoorDash**|[Best Starting Cell for Restaurant Distance](https://www.fastprep.io/problems/doordash-minimum-restaurant-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-restaurant-distance)|Jan 24, 2024|
 |**Optiver**|[Design a Cross-Site Stock Trading Application](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|Jan 23, 2024|
 |**Google**|[Design Near-Duplicate Image Detection](https://www.fastprep.io/system-design/near-duplicate-image-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/near-duplicate-image-detection)|Jan 16, 2024|
 |**Marshall Wace**|[Crop a Notification at Whole-Word Boundaries](https://www.fastprep.io/problems/marshall-wace-crop-notification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-crop-notification)|Jan 14, 2024|
