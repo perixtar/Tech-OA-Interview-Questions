@@ -304,6 +304,7 @@
 |**Adobe**|[K-th Ancestor Subtree Preorder Query](https://www.fastprep.io/problems/adobe-kth-ancestor-subtree-preorder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-kth-ancestor-subtree-preorder)|Aug 09, 2026|
 |**Adobe**|[Number-Character Bijective Mapping](https://www.fastprep.io/problems/adobe-number-character-bijective-mapping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-number-character-bijective-mapping)|Aug 09, 2026|
 |**Adobe**|[Trapped Characters in a Grid](https://www.fastprep.io/problems/adobe-trapped-characters-in-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-trapped-characters-in-grid)|Aug 09, 2026|
+|**NVIDIA**|[Linked List Palindrome in Constant Space](https://www.fastprep.io/problems/nvidia-constant-space-linked-list-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-constant-space-linked-list-palindrome)|Aug 08, 2026|
 |**Zoox**|[Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display)|Aug 07, 2026|
 |**Figma**|[Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files)|System design|[![Practice][p]](https://www.fastprep.io/system-design/trending-design-files)|Aug 07, 2026|
 |**Bloomberg LP**|[Merge Intervals](https://www.fastprep.io/problems/bloomberg-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-intervals)|Aug 07, 2026|
@@ -555,6 +556,7 @@
 |**Microsoft**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome)|Jul 16, 2026|
 |**Zomato / Eternal**|[Robot Warehouse Optimization](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization)|Jul 16, 2026|
 |**Optiver**|[Construct Binary Tree S-Expression](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression)|Jul 16, 2026|
+|**NVIDIA**|[Valid Bracket Sequence](https://www.fastprep.io/problems/nvidia-valid-bracket-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-valid-bracket-sequence)|Jul 16, 2026|
 |**Google**|[Count Good Numbers](https://www.fastprep.io/problems/google-count-good-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-good-numbers)|Jul 15, 2026|
 |**Google**|[Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Jul 15, 2026|
 |**Google**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Jul 15, 2026|
@@ -798,6 +800,8 @@
 |**Capital One**|[Longest Same-Character Substring](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|May 31, 2026|
 |**Capital One**|[Count House Segments After Destruction](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|May 31, 2026|
 |**Capital One**|[Laser Robot Safe Path](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|May 31, 2026|
+|**NVIDIA**|[Real-Number Calculator](https://www.fastprep.io/problems/nvidia-real-number-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-real-number-calculator)|May 31, 2026|
+|**NVIDIA**|[Implement a Semaphore](https://www.fastprep.io/problems/nvidia-implement-semaphore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-implement-semaphore)|May 31, 2026|
 |**Hebbia**|[Ultimate Tic-Tac-Toe Move Simulator](https://www.fastprep.io/problems/hebbia-ultimate-tic-tac-toe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-ultimate-tic-tac-toe)|May 30, 2026|
 |**Amazon**|[Lowest Common Ancestor Implemented with Stack](https://www.fastprep.io/problems/amazon-lowest-common-ancestor-implemented-with-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lowest-common-ancestor-implemented-with-stack)|May 30, 2026|
 |**Meta**|[Design Weapon-Sale Ad Detection and Review](https://www.fastprep.io/system-design/weapon-sale-ad-intent-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/weapon-sale-ad-intent-detection)|May 29, 2026|
@@ -1768,7 +1772,4 @@
 |**IBM**|[Maximum Efficiency](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Sep 28, 2024|
 |**Cisco**|[Pilot Drops Food Packet](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Sep 28, 2024|
 |**Wayfair**|[Num of Divisible Substrings](https://www.fastprep.io/problems/wayfair-number-of-divisible-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-number-of-divisible-substrings)|Sep 28, 2024|
-|**Wayfair**|[DFS Substring of A String](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Sep 28, 2024|
-|**Elastic**|[Build a Search Index Web Service](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|Sep 28, 2024|
-|**Amazon**|[Find Subarray with Minimum Distinct Integers](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers)|Sep 27, 2024|
 <a id="bottom"></a>

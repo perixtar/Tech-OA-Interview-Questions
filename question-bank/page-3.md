@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Wayfair**|[DFS Substring of A String](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Sep 28, 2024|
+|**Elastic**|[Build a Search Index Web Service](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|Sep 28, 2024|
+|**Amazon**|[Find Subarray with Minimum Distinct Integers](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers)|Sep 27, 2024|
 |**IBM**|[Min Operations to Make All Elements Equal](https://www.fastprep.io/problems/ibm-minimum-operations-to-make-all-elements-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-operations-to-make-all-elements-equal)|Sep 27, 2024|
 |**IBM**|[Get Minimum Operation Count](https://www.fastprep.io/problems/ibm-get-minimum-operation-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-operation-count)|Sep 27, 2024|
 |**Toshiba**|[Minimize Multiples of Three](https://www.fastprep.io/problems/toshiba-minimize-multiples-of-three)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toshiba-minimize-multiples-of-three)|Sep 27, 2024|

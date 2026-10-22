@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,788 questions**
+**3,792 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Shortest Path with Mandatory Waypoint](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|Apr 30, 2026|
+|**Uber**|[First Unique Log Entry](https://www.fastprep.io/problems/uber-first-unique-log-entry)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-log-entry)|Apr 30, 2026|
+|**Uber**|[Top-K Using a Priority Queue](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|[![Practice][p]](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|Apr 30, 2026|
+|**Stripe**|[Generate Available Time Slots](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|[![Practice][p]](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|Apr 30, 2026|
 |**Applied Intuition**|[KV Store with Nested Transactions](https://www.fastprep.io/problems/applied-intuition-kv-store-nested-transactions)|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-kv-store-nested-transactions)|Apr 30, 2026|
 |**Citadel**|[Minimum Path Sum to Target in Binary Tree](https://www.fastprep.io/problems/citadel-minimum-path-sum-to-target-in-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-path-sum-to-target-in-binary-tree)|Apr 30, 2026|
 |**Datadog**|[Log Ingestion and Query](https://www.fastprep.io/problems/datadog-log-ingestion-and-query)|[![Practice][p]](https://www.fastprep.io/problems/datadog-log-ingestion-and-query)|Apr 30, 2026|
@@ -1928,7 +1932,4 @@
 |**Bloomberg LP**|[Configurable Valid Parentheses](https://www.fastprep.io/problems/bloomberg-configurable-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-configurable-valid-parentheses)|Nov 14, 2019|
 |**Tesla**|[Batched Strided Convolution](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|[![Practice][p]](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|Nov 13, 2019|
 |**Airbnb**|[Build a Profile Sentence from CSV](https://www.fastprep.io/problems/airbnb-csv-profile-sentence)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-csv-profile-sentence)|Nov 09, 2019|
-|**Bloomberg LP**|[Binary Tree Spiral Level Order](https://www.fastprep.io/problems/bloomberg-binary-tree-zigzag-level-order-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-zigzag-level-order-traversal)|Nov 03, 2019|
-|**Bloomberg LP**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/bloomberg-intersection-of-two-linked-lists)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-intersection-of-two-linked-lists)|Nov 03, 2019|
-|**Bloomberg LP**|[Order Employees by a Reports-To Hierarchy](https://www.fastprep.io/problems/bloomberg-order-employees-by-reporting-depth)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-order-employees-by-reporting-depth)|Oct 26, 2019|
 <a id="bottom"></a>
