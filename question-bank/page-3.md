@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[TikTok Server Optimization](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes)|Sep 21, 2024|
+|**TikTok**|[Tiktok Viral Challenge](https://www.fastprep.io/problems/tiktok-count-viral-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-viral-combinations)|Sep 21, 2024|
+|**TikTok**|[Optimize TikTok Reels Viewing](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|Sep 21, 2024|
+|**ZipRecruiter**|[Count Case-Insensitive Key Changes](https://www.fastprep.io/problems/ziprecruiter-count-case-insensitive-key-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-case-insensitive-key-changes)|Sep 21, 2024|
+|**Salesforce**|[Min Difference](https://www.fastprep.io/problems/salesforce-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-difference)|Sep 20, 2024|
+|**Salesforce**|[Get Node to Remove](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|Sep 20, 2024|
+|**Salesforce**|[Min Dev Time](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|Sep 20, 2024|
+|**Google**|[Transformation Steps](https://www.fastprep.io/problems/google-array-transformation-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-array-transformation-steps)|Sep 20, 2024|
+|**Google**|[Find Largest Number](https://www.fastprep.io/problems/google-find-largest-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-largest-number)|Sep 20, 2024|
 |**Hudson River Trading**|[Count Fancy Numbers](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|Sep 20, 2024|
 |**TikTok**|[Get Min Total Cost](https://www.fastprep.io/problems/tiktok-get-minimum-total-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-minimum-total-cost)|Sep 20, 2024|
 |**IBM**|[Rover Move](https://www.fastprep.io/problems/ibm-rover-move)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-rover-move)|Sep 20, 2024|
