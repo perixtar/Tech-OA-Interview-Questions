@@ -39,6 +39,7 @@
 |**Chubb**|[Maximum Element After Rotations](https://www.fastprep.io/problems/chubb-max-element-indexes-after-rotations)|[![Practice][p]](https://www.fastprep.io/problems/chubb-max-element-indexes-after-rotations)|🔥 Oct 19, 2026|
 |**Chubb**|[Reverse a Linked List](https://www.fastprep.io/problems/chubb-reverse-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/chubb-reverse-linked-list)|🔥 Oct 19, 2026|
 |**Chubb**|[Unique Element Among Pairs](https://www.fastprep.io/problems/chubb-unique-element-among-pairs)|[![Practice][p]](https://www.fastprep.io/problems/chubb-unique-element-among-pairs)|🔥 Oct 19, 2026|
+|**Stripe**|[Split Tender Payments with Expiration and Refunds](https://www.fastprep.io/problems/stripe-split-tender-payments-with-refunds)|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-payments-with-refunds)|🔥 Oct 19, 2026|
 |**Amazon**|[Binary Tree Spiral Level Order](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|[![Practice][p]](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|🔥 Oct 18, 2026|
 |**Amazon**|[Number of Islands](https://www.fastprep.io/problems/amazon-number-of-islands)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-islands)|🔥 Oct 18, 2026|
 |**Amazon**|[Minimum Cost of Left and Right Propagation](https://www.fastprep.io/problems/amazon-minimum-left-right-propagation-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-left-right-propagation-cost)|🔥 Oct 18, 2026|
@@ -209,7 +210,6 @@
 |**Pinterest**|[Optimal Account Balancing](https://www.fastprep.io/problems/pinterest-optimal-account-balancing)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-optimal-account-balancing)|🔥 Oct 11, 2026|
 |**Amazon**|[Available Recipes from Initial Supplies](https://www.fastprep.io/problems/amazon-available-recipes-from-supplies)|[![Practice][p]](https://www.fastprep.io/problems/amazon-available-recipes-from-supplies)|🔥 Oct 11, 2026|
 |**NVIDIA**|[Parallel String Counts with a Custom Hash Table](https://www.fastprep.io/problems/nvidia-parallel-custom-string-counts)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-parallel-custom-string-counts)|🔥 Oct 11, 2026|
-|**Stripe**|[Split Tender Payments with Expiration and Refunds](https://www.fastprep.io/problems/stripe-split-tender-payments-with-refunds)|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-payments-with-refunds)|🔥 Oct 11, 2026|
 |**IBM**|[Last Object Exit Time](https://www.fastprep.io/problems/ibm-last-object-exit-time)|[![Practice][p]](https://www.fastprep.io/problems/ibm-last-object-exit-time)|🔥 Oct 10, 2026|
 |**IBM**|[Maximum Easy Tasks After Rearranging](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|🔥 Oct 10, 2026|
 |**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|🔥 Oct 10, 2026|
