@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,788 questions**
+**3,792 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Binary Tree Spiral Level Order](https://www.fastprep.io/problems/bloomberg-binary-tree-zigzag-level-order-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-zigzag-level-order-traversal)|Nov 03, 2019|
+|**Bloomberg LP**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/bloomberg-intersection-of-two-linked-lists)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-intersection-of-two-linked-lists)|Nov 03, 2019|
+|**Bloomberg LP**|[Order Employees by a Reports-To Hierarchy](https://www.fastprep.io/problems/bloomberg-order-employees-by-reporting-depth)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-order-employees-by-reporting-depth)|Oct 26, 2019|
 |**Carta**|[Aggregate Investment Ownership from CSV](https://www.fastprep.io/problems/carta-investment-ownership-aggregation)|[![Practice][p]](https://www.fastprep.io/problems/carta-investment-ownership-aggregation)|Oct 25, 2019|
 |**Bloomberg LP**|[Linked List of Binary Tree Nodes at a Given Level](https://www.fastprep.io/problems/bloomberg-binary-tree-level-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-linked-list)|Oct 24, 2019|
 |**Bloomberg LP**|[Interleaving String](https://www.fastprep.io/problems/bloomberg-interleaving-string)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-interleaving-string)|Oct 24, 2019|
