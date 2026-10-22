@@ -8,7 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Stripe**|[Colander Debugging Mock: Repair Error Aggregation](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|🔥 Oct 20, 2026|
+|**Stripe**|[Colander Debugging: Repair Error Aggregation](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|🔥 Oct 20, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Oct 17, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Customer Message Classifier](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|🔥 Oct 16, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Repair a Classifier Cache](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|🔥 Oct 16, 2026|
