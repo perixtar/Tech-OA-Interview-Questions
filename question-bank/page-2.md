@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Distinct Pairs](https://www.fastprep.io/problems/amazon-get-distinct-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-distinct-pairs)|Sep 05, 2026|
+|**Oracle**|[Design a Rolling Top Error-Services Monitor](https://www.fastprep.io/system-design/rolling-top-error-services)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-error-services)|Sep 05, 2026|
 |**Oracle**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|Sep 05, 2026|
 |**Rippling**|[Design a Publisher News Feed](https://www.fastprep.io/system-design/publisher-news-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/publisher-news-feed)|Sep 05, 2026|
 |**Paytm**|[Design a Live Market Tick Brokerage Platform](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|Sep 05, 2026|
@@ -1770,6 +1772,4 @@
 |**Hudson River Trading**|[Future Stock Price](https://www.fastprep.io/problems/hudsonriver-maximum-amount-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-maximum-amount-profit)|Sep 28, 2024|
 |**IBM**|[Count Similar Pairs](https://www.fastprep.io/problems/ibm-count-similar-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-similar-pairs)|Sep 28, 2024|
 |**IBM**|[Max Subject Number](https://www.fastprep.io/problems/ibm-max-subjects-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-subjects-number)|Sep 28, 2024|
-|**IBM**|[Maximum Efficiency](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Sep 28, 2024|
-|**Cisco**|[Pilot Drops Food Packet](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Sep 28, 2024|
 <a id="bottom"></a>

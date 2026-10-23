@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Maximum Efficiency](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Sep 28, 2024|
+|**Cisco**|[Pilot Drops Food Packet](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Sep 28, 2024|
 |**Wayfair**|[Num of Divisible Substrings](https://www.fastprep.io/problems/wayfair-number-of-divisible-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-number-of-divisible-substrings)|Sep 28, 2024|
 |**Wayfair**|[DFS Substring of A String](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Sep 28, 2024|
 |**Elastic**|[Build a Search Index Web Service](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|Sep 28, 2024|
@@ -993,7 +995,6 @@
 |**Motive**|[Enumerate Grid Paths](https://www.fastprep.io/problems/motive-enumerate-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-enumerate-grid-paths)|Aug 20, 2022|
 |**Motive**|[Build a Hotel Booking Frequency API](https://www.fastprep.io/project-coding/hotel-booking-frequency)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/hotel-booking-frequency)|Aug 20, 2022|
 |**Bloomberg LP**|[Design Internal Latency Measurement and Alerting](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|Aug 12, 2022|
-|**Careem**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|Aug 08, 2022|
 |**Bloomberg LP**|[All Paths From Source to Target](https://www.fastprep.io/problems/bloomberg-all-paths-from-source-to-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-paths-from-source-to-target)|Jul 28, 2022|
 |**Motive**|[Most Visited Hotel in a Time Window](https://www.fastprep.io/problems/motive-most-visited-hotel-in-time-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-most-visited-hotel-in-time-window)|Jul 27, 2022|
 |**Bloomberg LP**|[Gossip Consensus on the Maximum Value](https://www.fastprep.io/problems/bloomberg-gossip-consensus-maximum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-gossip-consensus-maximum)|Jul 19, 2022|
