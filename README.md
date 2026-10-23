@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,793)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (617)](formats/system-design.md) · [Low-level design (184)](formats/low-level-design.md) · [AI coding (100)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,804)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (617)](formats/system-design.md) · [Low-level design (184)](formats/low-level-design.md) · [AI coding (100)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -44,6 +44,15 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🔥 Oct 22, 2026|
 |**Keka HR**|[Design an Admin Trip Assignment System](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|🔥 Oct 22, 2026|
 |**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🔥 Oct 22, 2026|
+|**Scale AI**|[Lowest Common Ancestor in a General Tree](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Oct 22, 2026|
+|**NVIDIA**|[Address on Same Page](https://www.fastprep.io/problems/nvidia-address-on-same-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-address-on-same-page)|🔥 Oct 22, 2026|
+|**NVIDIA**|[Count Ideal Numbers in a Range](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|🔥 Oct 22, 2026|
+|**NVIDIA**|[Generate Bit Mask](https://www.fastprep.io/problems/nvidia-generate-bit-mask)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-generate-bit-mask)|🔥 Oct 22, 2026|
+|**NVIDIA**|[Reconstruct an Array from Prefix XOR](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|🔥 Oct 22, 2026|
+|**NVIDIA**|[Sum of Subarray Minimums](https://www.fastprep.io/problems/nvidia-sum-of-subarray-minimums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-sum-of-subarray-minimums)|🔥 Oct 22, 2026|
+|**NVIDIA**|[Unique Integers That Sum to Zero](https://www.fastprep.io/problems/nvidia-unique-integers-summing-to-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-unique-integers-summing-to-zero)|🔥 Oct 22, 2026|
+|**Scale AI**|[Build Sessions from Unordered Events](https://www.fastprep.io/problems/scale-ai-build-sessions-from-events)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-build-sessions-from-events)|🔥 Oct 22, 2026|
+|**Scale AI**|[Reconcile Session Totals with a Billing Ledger](https://www.fastprep.io/problems/scale-ai-reconcile-session-billing-ledger)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-reconcile-session-billing-ledger)|🔥 Oct 22, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🔥 Oct 21, 2026|
 |**Amazon / OpenAI / Anthropic / eBay**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Oct 21, 2026|
 |**Confluent / Oracle**|[Design a Durable Disposable Email Service](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|🔥 Oct 21, 2026|
@@ -1682,12 +1691,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Divide Tree Nodes](https://www.fastprep.io/problems/divide-tree-nodes-google)|Coding|[![Practice][p]](https://www.fastprep.io/problems/divide-tree-nodes-google)|🆕 Sep 08, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|Sep 07, 2026|
-|**Nubank**|[Design Chargeback Ingestion and Eligible-Record Export](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|Sep 07, 2026|
-|**Wells Fargo**|[Event Statistics Aggregator](https://www.fastprep.io/problems/wellsfargo-event-statistics-aggregator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-event-statistics-aggregator)|Sep 07, 2026|
-|**Wells Fargo**|[Ordered Deployment Configuration Validator](https://www.fastprep.io/problems/wellsfargo-ordered-deployment-configuration-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-ordered-deployment-configuration-validator)|Sep 07, 2026|
-|**Stripe**|[Evolving Merchant Clusters and Persistent Pins](https://www.fastprep.io/problems/stripe-evolving-merchant-clusters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-evolving-merchant-clusters)|Sep 06, 2026|
-|**Medallion**|[Design an Automated Achievement Certificate System](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|Sep 06, 2026|
-|**Anthropic**|[Design Telemetry Name Reconciliation](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|Sep 06, 2026|
-|**Oracle**|[Top-K URLs Overall and in the Last 24 Hours](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)|Sep 05, 2026|
-|**Oracle**|[Maximum Subarray Sum with Length at Most K](https://www.fastprep.io/problems/oracle-maximum-subarray-sum-length-at-most-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-subarray-sum-length-at-most-k)|Sep 05, 2026|
 <a id="bottom"></a>

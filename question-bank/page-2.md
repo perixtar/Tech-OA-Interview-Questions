@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Nubank**|[Design Chargeback Ingestion and Eligible-Record Export](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|Sep 07, 2026|
+|**Wells Fargo**|[Event Statistics Aggregator](https://www.fastprep.io/problems/wellsfargo-event-statistics-aggregator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-event-statistics-aggregator)|Sep 07, 2026|
+|**Wells Fargo**|[Ordered Deployment Configuration Validator](https://www.fastprep.io/problems/wellsfargo-ordered-deployment-configuration-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-ordered-deployment-configuration-validator)|Sep 07, 2026|
+|**Stripe**|[Evolving Merchant Clusters and Persistent Pins](https://www.fastprep.io/problems/stripe-evolving-merchant-clusters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-evolving-merchant-clusters)|Sep 06, 2026|
+|**Medallion**|[Design an Automated Achievement Certificate System](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|Sep 06, 2026|
+|**Anthropic**|[Design Telemetry Name Reconciliation](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|Sep 06, 2026|
+|**Oracle**|[Top-K URLs Overall and in the Last 24 Hours](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)|Sep 05, 2026|
+|**Oracle**|[Maximum Subarray Sum with Length at Most K](https://www.fastprep.io/problems/oracle-maximum-subarray-sum-length-at-most-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-subarray-sum-length-at-most-k)|Sep 05, 2026|
 |**Capital One**|[Count Digits 0, 2, and 4](https://www.fastprep.io/problems/capital-one-count-digits-0-2-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-digits-0-2-4)|Sep 05, 2026|
 |**Capital One**|[Inventory Discount Tracker](https://www.fastprep.io/problems/capital-one-inventory-discount-tracker)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-inventory-discount-tracker)|Sep 05, 2026|
 |**Capital One**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/capital-one-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-alternating-tile-groups)|Sep 05, 2026|
@@ -1154,7 +1162,6 @@
 |**Apple**|[Online Counts over Time](https://www.fastprep.io/problems/apple-online-count-timeline)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-online-count-timeline)|Dec 11, 2025|
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Scale AI**|[Clock Hand Angle with Subsecond Precision](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Dec 07, 2025|
-|**Scale AI**|[Lowest Common Ancestor in a General Tree](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|Dec 07, 2025|
 |**Benchling**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Dec 06, 2025|
 |**Rippling**|[Minimum of a Convex Function](https://www.fastprep.io/problems/rippling-convex-function-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-convex-function-minimum)|Dec 06, 2025|
 |**Google**|[The Skyline Problem](https://www.fastprep.io/problems/google-the-skyline-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-the-skyline-problem)|Dec 04, 2025|
@@ -1520,6 +1527,7 @@
 |**Instacart**|[Bird Collects Sticks](https://www.fastprep.io/problems/instacart-collect-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-collect-sticks)|Mar 23, 2025|
 |**Instacart**|[Pop Bubbles](https://www.fastprep.io/problems/instacart-pop-bubbles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-pop-bubbles)|Mar 23, 2025|
 |**Instacart**|[Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|Mar 23, 2025|
+|**Scale AI**|[Compare Labeling Worker Annotations](https://www.fastprep.io/problems/scale-ai-compare-labeling-worker-annotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-compare-labeling-worker-annotations)|Mar 23, 2025|
 |**Amazon**|[Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-increments)|Mar 22, 2025|
 |**Amazon**|[Password Strength](https://www.fastprep.io/problems/amazon-password-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-password-strength)|Mar 22, 2025|
 |**Publicis Sapients**|[Get Min Time](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|Mar 22, 2025|
@@ -1762,13 +1770,4 @@
 |**Rubrik**|[Maximize Stellar Gradient](https://www.fastprep.io/problems/rubrik-maximize-stellar-gradient)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-maximize-stellar-gradient)|Sep 29, 2024|
 |**Rubrik**|[Salvage Humankind](https://www.fastprep.io/problems/rubrik-salvage-humankind)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-salvage-humankind)|Sep 29, 2024|
 |**Rubrik**|[Mike and Gems](https://www.fastprep.io/problems/rubrik-mike-and-gems)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-mike-and-gems)|Sep 29, 2024|
-|**Deutsche Bank**|[Generate Lexicographically Smallest String](https://www.fastprep.io/problems/deutsche-bank-generate-lexicographically-smallest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deutsche-bank-generate-lexicographically-smallest-string)|Sep 29, 2024|
-|**Squarepoint**|[Empty Shelf](https://www.fastprep.io/problems/squarepoint-empty-shelf)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-empty-shelf)|Sep 29, 2024|
-|**Squarepoint**|[Suggested Products](https://www.fastprep.io/problems/squarepoint-suggested-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-suggested-products)|Sep 29, 2024|
-|**ZipRecruiter**|[Apply Binary State Operations](https://www.fastprep.io/problems/ziprecruiter-apply-binary-state-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-apply-binary-state-operations)|Sep 29, 2024|
-|**ZipRecruiter**|[Simulate Orchard Rot Spread](https://www.fastprep.io/problems/ziprecruiter-orchard-rot-spread)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-orchard-rot-spread)|Sep 29, 2024|
-|**OpenAI**|[Maixmize the Hits](https://www.fastprep.io/problems/openai-maximize-the-hits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-maximize-the-hits)|Sep 28, 2024|
-|**Amazon**|[Find Days S2 Subsequence of S1](https://www.fastprep.io/problems/amazon-find-days-s2-subsequence-of-s1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-days-s2-subsequence-of-s1)|Sep 28, 2024|
-|**Meta**|[ Min Obstacles to Allow Figure Fall ](https://www.fastprep.io/problems/mt-minimum-obstacles-to-remove-to-allow-figure-fall)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-minimum-obstacles-to-remove-to-allow-figure-fall)|Sep 28, 2024|
-|**Meta**|[ Find How Many Subarrays Match the Pattern ](https://www.fastprep.io/problems/mt-find-how-many-subarrays-match-the-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-find-how-many-subarrays-match-the-pattern)|Sep 28, 2024|
 <a id="bottom"></a>
