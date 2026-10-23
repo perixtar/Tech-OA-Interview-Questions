@@ -2,12 +2,39 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,793 questions**
+**3,821 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Minimum Insertions to Make a Palindrome](https://www.fastprep.io/problems/bloomberg-minimum-insertions-to-make-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-insertions-to-make-palindrome)|Apr 21, 2020|
+|**Bloomberg LP**|[Shortest Suffix to Form a Palindrome](https://www.fastprep.io/problems/bloomberg-shortest-suffix-to-form-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-suffix-to-form-palindrome)|Apr 21, 2020|
+|**Bloomberg LP**|[Valid Palindrome](https://www.fastprep.io/problems/bloomberg-valid-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-palindrome)|Apr 21, 2020|
+|**Bloomberg LP**|[Binary Tree Inorder Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-inorder-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-inorder-traversal)|Apr 08, 2020|
+|**Bloomberg LP**|[Instant Runoff Election](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|Apr 08, 2020|
+|**Bloomberg LP**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|Apr 08, 2020|
+|**Bloomberg LP**|[Browser History by Frequency and Recency](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|Apr 02, 2020|
+|**Bloomberg LP**|[Constant-Time Restaurant Waiting List](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|Mar 20, 2020|
+|**Bloomberg LP**|[Number of Dice Rolls With Target Sum](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|Mar 20, 2020|
+|**Bloomberg LP**|[Minimum Path Sum](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|Mar 19, 2020|
+|**Bloomberg LP**|[Two Sum with Distinct Pairs](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|Mar 19, 2020|
+|**Bloomberg LP**|[Allocate Mailboxes](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|Mar 15, 2020|
+|**Bloomberg LP**|[Generate All String Permutations](https://www.fastprep.io/problems/bloomberg-string-permutations)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-string-permutations)|Mar 15, 2020|
+|**Bloomberg LP**|[Course Schedule](https://www.fastprep.io/problems/bloomberg-course-schedule)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-course-schedule)|Mar 11, 2020|
+|**Bloomberg LP**|[Last Position of a Target in a Sorted Array](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|Mar 11, 2020|
+|**Bloomberg LP**|[Three Calls Within Three Seconds](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|Feb 28, 2020|
+|**Bloomberg LP**|[Sort an Absolute-Value-Sorted Linked List](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-linked-list)|Feb 25, 2020|
+|**Bloomberg LP**|[Maximal Consecutive Number Ranges](https://www.fastprep.io/problems/bloomberg-consecutive-number-ranges)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive-number-ranges)|Jan 04, 2020|
+|**Apple**|[First and Last Position in a Sorted Array](https://www.fastprep.io/problems/apple-first-and-last-position)|[![Practice][p]](https://www.fastprep.io/problems/apple-first-and-last-position)|Dec 10, 2019|
+|**Bloomberg LP**|[All Simple Paths in an Undirected Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-undirected-graph)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-undirected-graph)|Nov 29, 2019|
+|**Bloomberg LP**|[N-ary Tree Right Side View](https://www.fastprep.io/problems/bloomberg-nary-tree-right-side-view)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-nary-tree-right-side-view)|Nov 19, 2019|
+|**Vanguard**|[Group Anagrams](https://www.fastprep.io/problems/vanguard-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-group-anagrams)|Nov 19, 2019|
+|**Bloomberg LP**|[Four-Direction Unique Grid Paths](https://www.fastprep.io/problems/bloomberg-four-direction-unique-grid-paths)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-four-direction-unique-grid-paths)|Nov 16, 2019|
+|**Bloomberg LP**|[Implement Queue Using Stacks](https://www.fastprep.io/problems/bloomberg-implement-queue-using-stacks)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-queue-using-stacks)|Nov 16, 2019|
+|**Bloomberg LP**|[Rebuild Binary Tree from Level Order](https://www.fastprep.io/problems/bloomberg-rebuild-tree-from-level-order)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rebuild-tree-from-level-order)|Nov 16, 2019|
+|**Bloomberg LP**|[Configurable Valid Parentheses](https://www.fastprep.io/problems/bloomberg-configurable-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-configurable-valid-parentheses)|Nov 14, 2019|
+|**Tesla**|[Batched Strided Convolution](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|[![Practice][p]](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|Nov 13, 2019|
 |**Airbnb**|[Build a Profile Sentence from CSV](https://www.fastprep.io/problems/airbnb-csv-profile-sentence)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-csv-profile-sentence)|Nov 09, 2019|
 |**Bloomberg LP**|[Binary Tree Spiral Level Order](https://www.fastprep.io/problems/bloomberg-binary-tree-zigzag-level-order-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-zigzag-level-order-traversal)|Nov 03, 2019|
 |**Bloomberg LP**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/bloomberg-intersection-of-two-linked-lists)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-intersection-of-two-linked-lists)|Nov 03, 2019|
