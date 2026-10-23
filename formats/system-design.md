@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**616 questions**
+**617 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -13,6 +13,7 @@
 |**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|🔥 Oct 22, 2026|
 |**Amazon**|[Design a Scheduled Examination Platform](https://www.fastprep.io/system-design/scheduled-examination-platform)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-examination-platform)|🔥 Oct 22, 2026|
 |**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Oct 22, 2026|
+|**Keka HR**|[Design an Admin Trip Assignment System](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|[![Practice][p]](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|🔥 Oct 22, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🔥 Oct 21, 2026|
 |**Amazon / OpenAI / Anthropic / eBay**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Oct 21, 2026|
 |**Confluent / Oracle**|[Design a Durable Disposable Email Service](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|[![Practice][p]](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|🔥 Oct 21, 2026|

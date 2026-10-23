@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**99 questions**
+**100 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -10,6 +10,7 @@
 | :-- | :-- | :-: | :-- |
 |**Anthropic**|[Optimize a Simulated Accelerator Kernel](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|🔥 Oct 22, 2026|
 |**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🔥 Oct 22, 2026|
+|**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🔥 Oct 22, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 21, 2026|
 |**Stripe**|[Colander Debugging: Repair Error Aggregation](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|🔥 Oct 20, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Oct 17, 2026|

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,793)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (616)](formats/system-design.md) · [Low-level design (184)](formats/low-level-design.md) · [AI coding (99)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,793)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (617)](formats/system-design.md) · [Low-level design (184)](formats/low-level-design.md) · [AI coding (100)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -42,6 +42,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Oct 22, 2026|
 |**Amazon / Omnissa / Deloitte**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🔥 Oct 22, 2026|
 |**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🔥 Oct 22, 2026|
+|**Keka HR**|[Design an Admin Trip Assignment System](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|🔥 Oct 22, 2026|
+|**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🔥 Oct 22, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🔥 Oct 21, 2026|
 |**Amazon / OpenAI / Anthropic / eBay**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Oct 21, 2026|
 |**Confluent / Oracle**|[Design a Durable Disposable Email Service](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|🔥 Oct 21, 2026|
@@ -1688,6 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Anthropic**|[Design Telemetry Name Reconciliation](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|Sep 06, 2026|
 |**Oracle**|[Top-K URLs Overall and in the Last 24 Hours](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)|Sep 05, 2026|
 |**Oracle**|[Maximum Subarray Sum with Length at Most K](https://www.fastprep.io/problems/oracle-maximum-subarray-sum-length-at-most-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-subarray-sum-length-at-most-k)|Sep 05, 2026|
-|**Capital One**|[Count Digits 0, 2, and 4](https://www.fastprep.io/problems/capital-one-count-digits-0-2-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-digits-0-2-4)|Sep 05, 2026|
-|**Capital One**|[Inventory Discount Tracker](https://www.fastprep.io/problems/capital-one-inventory-discount-tracker)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-inventory-discount-tracker)|Sep 05, 2026|
 <a id="bottom"></a>

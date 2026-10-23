@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Meta**|[ Count Three Sisters ](https://www.fastprep.io/problems/mt-count-three-sisters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-count-three-sisters)|Sep 28, 2024|
+|**Hudson River Trading**|[Future Stock Price](https://www.fastprep.io/problems/hudsonriver-maximum-amount-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-maximum-amount-profit)|Sep 28, 2024|
 |**IBM**|[Count Similar Pairs](https://www.fastprep.io/problems/ibm-count-similar-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-similar-pairs)|Sep 28, 2024|
 |**IBM**|[Max Subject Number](https://www.fastprep.io/problems/ibm-max-subjects-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-subjects-number)|Sep 28, 2024|
 |**IBM**|[Maximum Efficiency](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Sep 28, 2024|
