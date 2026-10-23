@@ -134,6 +134,7 @@
 |**Indeed**|[Redesign a Production Spam Classifier](https://www.fastprep.io/system-design/production-spam-classifier-redesign)|System design|[![Practice][p]](https://www.fastprep.io/system-design/production-spam-classifier-redesign)|Aug 28, 2026|
 |**IMC**|[Grid Paths with Override Passes](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)|Aug 28, 2026|
 |**Confluent**|[Design and Implement a Random-Access FIFO Queue](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Aug 28, 2026|
+|**Google**|[Task Scheduler with Cooldown](https://www.fastprep.io/problems/google-task-scheduler-with-cooldown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-task-scheduler-with-cooldown)|Aug 28, 2026|
 |**Walmart**|[Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path)|Aug 27, 2026|
 |**Microsoft**|[Roll the String](https://www.fastprep.io/problems/microsoft-roll-the-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-roll-the-string)|Aug 27, 2026|
 |**Microsoft**|[Minimum Length Good Subarray](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)|Aug 27, 2026|
@@ -1771,5 +1772,4 @@
 |**IBM**|[Max Subject Number](https://www.fastprep.io/problems/ibm-max-subjects-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-subjects-number)|Sep 28, 2024|
 |**IBM**|[Maximum Efficiency](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Sep 28, 2024|
 |**Cisco**|[Pilot Drops Food Packet](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Sep 28, 2024|
-|**Wayfair**|[Num of Divisible Substrings](https://www.fastprep.io/problems/wayfair-number-of-divisible-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-number-of-divisible-substrings)|Sep 28, 2024|
 <a id="bottom"></a>
