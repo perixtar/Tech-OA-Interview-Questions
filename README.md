@@ -183,6 +183,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Course Schedule Cycle Detection](https://www.fastprep.io/problems/google-course-schedule-cycle-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-course-schedule-cycle-detection)|🔥 Oct 16, 2026|
 |**Google**|[Make an Array Non-Decreasing With One Modification](https://www.fastprep.io/problems/google-non-decreasing-array-one-modification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-non-decreasing-array-one-modification)|🔥 Oct 16, 2026|
 |**Google**|[Design a Pull-Based Server Metrics Monitor](https://www.fastprep.io/system-design/pull-based-server-metrics-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pull-based-server-metrics-monitoring)|🔥 Oct 16, 2026|
+|**Stripe**|[Integrate and Enrich Contact API Data](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|🔥 Oct 16, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
 |**TikTok**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/tiktok-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-local-maxima)|🔥 Oct 15, 2026|
 |**TikTok**|[Bagging Classifier with Supplied Decision Trees](https://www.fastprep.io/problems/tiktok-bagging-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bagging-classifier)|🔥 Oct 15, 2026|
@@ -1689,5 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Airbnb**|[In-Memory File System](https://www.fastprep.io/problems/airbnb-in-memory-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-in-memory-file-system)|🆕 Sep 08, 2026|
 |**Visa**|[Planning Production](https://www.fastprep.io/problems/visa-planning-production)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-planning-production)|🆕 Sep 08, 2026|
 |**Visa**|[Subarray Sum](https://www.fastprep.io/problems/visa-subarray-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-subarray-sum)|🆕 Sep 08, 2026|
-|**Visa**|[Minimum Anagram Period](https://www.fastprep.io/problems/visa-minimum-anagram-period)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-anagram-period)|🆕 Sep 08, 2026|
 <a id="bottom"></a>

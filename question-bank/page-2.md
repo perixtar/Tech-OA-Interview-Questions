@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Visa**|[Minimum Anagram Period](https://www.fastprep.io/problems/visa-minimum-anagram-period)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-anagram-period)|🆕 Sep 08, 2026|
 |**Google**|[Divide Tree Nodes](https://www.fastprep.io/problems/divide-tree-nodes-google)|Coding|[![Practice][p]](https://www.fastprep.io/problems/divide-tree-nodes-google)|🆕 Sep 08, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|Sep 07, 2026|
@@ -939,7 +940,6 @@
 |**Scale AI**|[Free Time for Every Meeting Room](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Apr 13, 2026|
 |**Scale AI**|[Order Queries by Shortest Processing Time](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Apr 13, 2026|
 |**Scale AI**|[Debug Missing Model Output](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|Apr 13, 2026|
-|**Stripe**|[Integrate and Enrich Contact API Data](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|Apr 13, 2026|
 |**Stripe**|[Merge and Filter Prioritized Configurations](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Apr 11, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
 |**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
