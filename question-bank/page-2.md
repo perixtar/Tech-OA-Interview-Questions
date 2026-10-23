@@ -1271,6 +1271,8 @@
 |**PeopleStrong**|[Find the Entry of a Linked List Cycle](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle-entry)|Sep 16, 2025|
 |**PeopleStrong**|[Word Ladder II: All Shortest Transformations](https://www.fastprep.io/problems/peoplestrong-word-ladder-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-word-ladder-ii)|Sep 16, 2025|
 |**PeopleStrong**|[Integer to English Words: Up to 20 Digits](https://www.fastprep.io/problems/peoplestrong-number-to-english-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-number-to-english-words)|Sep 16, 2025|
+|**Apple**|[Implement Multi-Head Attention](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|Sep 13, 2025|
+|**Apple**|[Implement Beam Search Decoding](https://www.fastprep.io/problems/apple-fixed-length-beam-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-fixed-length-beam-search)|Sep 13, 2025|
 |**PeopleStrong**|[Valid Parentheses](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|Sep 11, 2025|
 |**Cerebras**|[Implement Binary Search From Scratch](https://www.fastprep.io/problems/cerebras-binary-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-binary-search)|Sep 06, 2025|
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
@@ -1292,7 +1294,6 @@
 |**SpaceX**|[Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Aug 22, 2025|
 |**SpaceX**|[Warehouse Order Transit Tracking](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|Aug 22, 2025|
 |**Rippling**|[Median Across N Sorted Arrays](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|Aug 18, 2025|
-|**Apple**|[Implement Multi-Head Attention](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|Aug 15, 2025|
 |**Apple**|[Top K Frequent Elements](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|Aug 15, 2025|
 |**Apple**|[Coin Change](https://www.fastprep.io/problems/apple-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change)|Aug 14, 2025|
 |**Apple**|[Collect Letters Along a Unique Grid Path](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Aug 14, 2025|
@@ -1461,6 +1462,8 @@
 |**Juspay**|[Converging Maze: Largest Sum Cycle](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|May 25, 2025|
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
 |**Google**|[Design Personalized Private Email Search](https://www.fastprep.io/system-design/personalized-private-email-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-private-email-search)|May 23, 2025|
+|**Apple**|[Implement k-Nearest Neighbors](https://www.fastprep.io/problems/apple-knn-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-knn-classifier)|May 21, 2025|
+|**Apple**|[Implement Circular Padding](https://www.fastprep.io/problems/apple-circular-padding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-circular-padding)|May 21, 2025|
 |**Meta**|[Multi-Datacenter Kernel Upgrade Pipeline](https://www.fastprep.io/system-design/multi-datacenter-kernel-upgrade-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-datacenter-kernel-upgrade-pipeline)|May 20, 2025|
 |**Meta**|[Rank Bipedal Dinosaurs by Speed](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|May 20, 2025|
 |**Meta**|[Valid Palindrome](https://www.fastprep.io/problems/meta-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-palindrome)|May 20, 2025|
@@ -1768,6 +1771,4 @@
 |**Cisco**|[Rotate the Matrix](https://www.fastprep.io/problems/cisco-rotate-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-rotate-matrix)|Oct 04, 2024|
 |**Expedia**|[Get Max Efficiency](https://www.fastprep.io/problems/expedia-get-max-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-get-max-efficiency)|Oct 04, 2024|
 |**Expedia**|[Calculate the Sum](https://www.fastprep.io/problems/expedia-calculate-the-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-calculate-the-sum)|Oct 04, 2024|
-|**Headlands Technologies**|[Concurrent Sorted-Stream Merger](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Oct 04, 2024|
-|**Headlands Technologies**|[Merge K Sorted Sequences](https://www.fastprep.io/problems/headlands-merge-k-sorted-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-merge-k-sorted-sequences)|Oct 04, 2024|
 <a id="bottom"></a>

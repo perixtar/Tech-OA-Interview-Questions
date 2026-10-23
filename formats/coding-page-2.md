@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,804 questions**
+**3,807 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -318,6 +318,8 @@
 |**PeopleStrong**|[Find the Entry of a Linked List Cycle](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle-entry)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle-entry)|Sep 16, 2025|
 |**PeopleStrong**|[Word Ladder II: All Shortest Transformations](https://www.fastprep.io/problems/peoplestrong-word-ladder-ii)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-word-ladder-ii)|Sep 16, 2025|
 |**PeopleStrong**|[Integer to English Words: Up to 20 Digits](https://www.fastprep.io/problems/peoplestrong-number-to-english-words)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-number-to-english-words)|Sep 16, 2025|
+|**Apple**|[Implement Multi-Head Attention](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|[![Practice][p]](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|Sep 13, 2025|
+|**Apple**|[Implement Beam Search Decoding](https://www.fastprep.io/problems/apple-fixed-length-beam-search)|[![Practice][p]](https://www.fastprep.io/problems/apple-fixed-length-beam-search)|Sep 13, 2025|
 |**PeopleStrong**|[Valid Parentheses](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|Sep 11, 2025|
 |**Cerebras**|[Implement Binary Search From Scratch](https://www.fastprep.io/problems/cerebras-binary-search)|[![Practice][p]](https://www.fastprep.io/problems/cerebras-binary-search)|Sep 06, 2025|
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
@@ -332,7 +334,6 @@
 |**Tennr**|[Wildcard Multi-Delimiter Validation](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|[![Practice][p]](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Aug 24, 2025|
 |**SpaceX**|[Rocket Component Cost](https://www.fastprep.io/problems/spacex-rocket-component-cost)|[![Practice][p]](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Aug 22, 2025|
 |**Rippling**|[Median Across N Sorted Arrays](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|Aug 18, 2025|
-|**Apple**|[Implement Multi-Head Attention](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|[![Practice][p]](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|Aug 15, 2025|
 |**Apple**|[Top K Frequent Elements](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|[![Practice][p]](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|Aug 15, 2025|
 |**Apple**|[Coin Change](https://www.fastprep.io/problems/apple-coin-change)|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change)|Aug 14, 2025|
 |**Apple**|[Collect Letters Along a Unique Grid Path](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|[![Practice][p]](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Aug 14, 2025|
@@ -482,6 +483,8 @@
 |**Epify**|[Request Redirection](https://www.fastprep.io/problems/epifi-get-min-latency)|[![Practice][p]](https://www.fastprep.io/problems/epifi-get-min-latency)|May 25, 2025|
 |**Juspay**|[Converging Maze: Largest Sum Cycle](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|[![Practice][p]](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|May 25, 2025|
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
+|**Apple**|[Implement k-Nearest Neighbors](https://www.fastprep.io/problems/apple-knn-classifier)|[![Practice][p]](https://www.fastprep.io/problems/apple-knn-classifier)|May 21, 2025|
+|**Apple**|[Implement Circular Padding](https://www.fastprep.io/problems/apple-circular-padding)|[![Practice][p]](https://www.fastprep.io/problems/apple-circular-padding)|May 21, 2025|
 |**Meta**|[Rank Bipedal Dinosaurs by Speed](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|May 20, 2025|
 |**Meta**|[Valid Palindrome](https://www.fastprep.io/problems/meta-valid-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-palindrome)|May 20, 2025|
 |**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
@@ -1930,6 +1933,4 @@
 |**Bloomberg LP**|[Allocate Mailboxes](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|Mar 15, 2020|
 |**Bloomberg LP**|[Generate All String Permutations](https://www.fastprep.io/problems/bloomberg-string-permutations)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-string-permutations)|Mar 15, 2020|
 |**Bloomberg LP**|[Course Schedule](https://www.fastprep.io/problems/bloomberg-course-schedule)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-course-schedule)|Mar 11, 2020|
-|**Bloomberg LP**|[Last Position of a Target in a Sorted Array](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|Mar 11, 2020|
-|**Bloomberg LP**|[Three Calls Within Three Seconds](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|Feb 28, 2020|
 <a id="bottom"></a>
