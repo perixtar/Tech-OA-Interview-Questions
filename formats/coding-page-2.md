@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,792 questions**
+**3,793 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Netflix**|[Command Undo Data Structure](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|[![Practice][p]](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|Apr 30, 2026|
 |**Google**|[Shortest Path with Mandatory Waypoint](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|Apr 30, 2026|
 |**Uber**|[First Unique Log Entry](https://www.fastprep.io/problems/uber-first-unique-log-entry)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-log-entry)|Apr 30, 2026|
 |**Uber**|[Top-K Using a Priority Queue](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|[![Practice][p]](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|Apr 30, 2026|
@@ -1931,5 +1932,4 @@
 |**Bloomberg LP**|[Rebuild Binary Tree from Level Order](https://www.fastprep.io/problems/bloomberg-rebuild-tree-from-level-order)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rebuild-tree-from-level-order)|Nov 16, 2019|
 |**Bloomberg LP**|[Configurable Valid Parentheses](https://www.fastprep.io/problems/bloomberg-configurable-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-configurable-valid-parentheses)|Nov 14, 2019|
 |**Tesla**|[Batched Strided Convolution](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|[![Practice][p]](https://www.fastprep.io/problems/tesla-batched-strided-convolution)|Nov 13, 2019|
-|**Airbnb**|[Build a Profile Sentence from CSV](https://www.fastprep.io/problems/airbnb-csv-profile-sentence)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-csv-profile-sentence)|Nov 09, 2019|
 <a id="bottom"></a>

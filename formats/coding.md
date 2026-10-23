@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,792 questions**
+**3,793 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1290,6 +1290,7 @@
 |**Airbnb**|[In-Memory Database](https://www.fastprep.io/problems/airbnb-in-memory-database)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-in-memory-database)|Aug 28, 2026|
 |**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|Aug 28, 2026|
 |**IMC**|[Grid Paths with Override Passes](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)|[![Practice][p]](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes)|Aug 28, 2026|
+|**Google**|[Task Scheduler with Cooldown](https://www.fastprep.io/problems/google-task-scheduler-with-cooldown)|[![Practice][p]](https://www.fastprep.io/problems/google-task-scheduler-with-cooldown)|Aug 28, 2026|
 |**Walmart**|[Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path)|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path)|Aug 27, 2026|
 |**Microsoft**|[Roll the String](https://www.fastprep.io/problems/microsoft-roll-the-string)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-roll-the-string)|Aug 27, 2026|
 |**Microsoft**|[Minimum Length Good Subarray](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-length-good-subarray)|Aug 27, 2026|
@@ -1821,5 +1822,4 @@
 |**IDFC**|[Special Binary String](https://www.fastprep.io/problems/idfc-special-binary-string)|[![Practice][p]](https://www.fastprep.io/problems/idfc-special-binary-string)|May 01, 2026|
 |**Rippling**|[Top K Frequent Words](https://www.fastprep.io/problems/rippling-top-k-frequent-words)|[![Practice][p]](https://www.fastprep.io/problems/rippling-top-k-frequent-words)|May 01, 2026|
 |**Amazon**|[Feasible Indices After Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-reduction)|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-reduction)|Apr 30, 2026|
-|**Netflix**|[Command Undo Data Structure](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|[![Practice][p]](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|Apr 30, 2026|
 <a id="bottom"></a>
