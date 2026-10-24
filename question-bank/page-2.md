@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Jane Street**|[Design a Cross-Exchange Arbitrage Engine](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|Sep 08, 2026|
+|**Wex**|[Design a Threshold Logging and Alerting Model](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|Sep 08, 2026|
+|**Salesforce**|[Ludo Game Object Model](https://www.fastprep.io/low-level-design/ludo-game-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ludo-game-object-model)|Sep 08, 2026|
 |**OpenAI**|[Design an Offline-Capable IoT Log Platform](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|Sep 08, 2026|
 |**ByteDance**|[Design Observability for AI Agent Tool Calls](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|Sep 08, 2026|
 |**Waymo**|[Shortest Distance from All Buildings](https://www.fastprep.io/problems/waymo-shortest-distance-from-all-buildings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-shortest-distance-from-all-buildings)|Sep 08, 2026|
@@ -46,7 +49,6 @@
 |**Roblox**|[Design Shared To-Do List Synchronization](https://www.fastprep.io/system-design/shared-task-list-synchronization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-task-list-synchronization)|Sep 05, 2026|
 |**Tekion**|[Design an Inventory Stock Control Domain](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|Sep 05, 2026|
 |**Rippling**|[Maximum Currency Conversion Along a Simple Path](https://www.fastprep.io/problems/rippling-maximum-simple-path-currency-conversion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-simple-path-currency-conversion)|Sep 05, 2026|
-|**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|Sep 05, 2026|
 |**FlexTrade**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/flextrade-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-best-time-to-buy-and-sell-stock)|Sep 04, 2026|
 |**ByteDance**|[Restore Addresses with K Segments](https://www.fastprep.io/problems/bytedance-restore-addresses-with-k-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-restore-addresses-with-k-segments)|Sep 04, 2026|
 |**LinkedIn**|[Flowerbed Capacity Queries](https://www.fastprep.io/problems/linkedin-flowerbed-capacity-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-flowerbed-capacity-queries)|Sep 04, 2026|
@@ -273,7 +275,6 @@
 |**Uber Freight**|[Design a Rolling Restaurant Analytics Dashboard](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|Aug 17, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|Aug 17, 2026|
 |**Headlands Technologies**|[Job Runner Chain Reports](https://www.fastprep.io/problems/headlands-job-runner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-job-runner)|Aug 17, 2026|
-|**Airtable / Meta / Microsoft**|[Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine)|Aug 16, 2026|
 |**Zoox / Uber**|[Design a Nearby Autonomous Vehicle Search Service](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|Aug 16, 2026|
 |**Amazon**|[Design a Multi-Branch Library Management System](https://www.fastprep.io/system-design/multi-branch-library-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-branch-library-management)|Aug 16, 2026|
 |**LinkedIn**|[Design a Ranked Hybrid Social Feed](https://www.fastprep.io/system-design/ranked-hybrid-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ranked-hybrid-social-feed)|Aug 16, 2026|
@@ -1769,5 +1770,4 @@
 |**Wells Fargo**|[Get Substring](https://www.fastprep.io/problems/wellsfargo-get-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-substring)|Oct 09, 2024|
 |**Wells Fargo**|[Sum of Compressed Num for All Subarrays](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Oct 09, 2024|
 |**Amazon**|[Get Max Alternating Music](https://www.fastprep.io/problems/amazon-get-max-alternating-music)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-alternating-music)|Oct 08, 2024|
-|**TikTok**|[Max Engagement](https://www.fastprep.io/problems/tiktok-maximize-engagement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-engagement)|Oct 08, 2024|
 <a id="bottom"></a>
