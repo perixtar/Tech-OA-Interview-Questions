@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**HSBC**|[Distinct Products After Removing One Element](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|Sep 08, 2026|
+|**HSBC**|[Minimum Cleaning Robot Runs](https://www.fastprep.io/problems/hsbc-minimum-cleaning-robot-runs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-cleaning-robot-runs)|Sep 08, 2026|
 |**Jane Street**|[Design a Cross-Exchange Arbitrage Engine](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|Sep 08, 2026|
 |**Wex**|[Design a Threshold Logging and Alerting Model](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|Sep 08, 2026|
 |**Salesforce**|[Ludo Game Object Model](https://www.fastprep.io/low-level-design/ludo-game-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ludo-game-object-model)|Sep 08, 2026|
@@ -249,7 +251,6 @@
 |**Netflix**|[Design a Competitive Ad Exclusion Service](https://www.fastprep.io/system-design/competitive-ad-exclusion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/competitive-ad-exclusion-service)|Aug 21, 2026|
 |**General Motors**|[Design a Composable AI Function Platform](https://www.fastprep.io/system-design/composable-ai-function-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/composable-ai-function-platform)|Aug 21, 2026|
 |**Cursor**|[Hash-Tree Client/Server Synchronization](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|Aug 21, 2026|
-|**ByteDance**|[Relational Query Index Design](https://www.fastprep.io/system-design/relational-query-index-design)|System design|[![Practice][p]](https://www.fastprep.io/system-design/relational-query-index-design)|Aug 21, 2026|
 |**ByteDance**|[SQL Index Eligibility Analysis](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|Aug 21, 2026|
 |**IBM**|[Drawing Edge](https://www.fastprep.io/problems/ibm-drawing-edge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-drawing-edge)|Aug 20, 2026|
 |**IBM**|[Increasing-Value Triplets Under a Threshold](https://www.fastprep.io/problems/ibm-increasing-value-triplets-under-threshold)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-increasing-value-triplets-under-threshold)|Aug 20, 2026|
@@ -1769,5 +1770,4 @@
 |**Wells Fargo**|[Count Operations](https://www.fastprep.io/problems/wellsfargo-count-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-operations)|Oct 09, 2024|
 |**Wells Fargo**|[Get Substring](https://www.fastprep.io/problems/wellsfargo-get-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-substring)|Oct 09, 2024|
 |**Wells Fargo**|[Sum of Compressed Num for All Subarrays](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Oct 09, 2024|
-|**Amazon**|[Get Max Alternating Music](https://www.fastprep.io/problems/amazon-get-max-alternating-music)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-alternating-music)|Oct 08, 2024|
 <a id="bottom"></a>
