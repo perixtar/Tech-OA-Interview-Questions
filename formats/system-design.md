@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**618 questions**
+**619 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -23,6 +23,7 @@
 |**Amazon**|[Design a Prescription Eyewear Ordering Platform](https://www.fastprep.io/system-design/prescription-eyewear-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/prescription-eyewear-ordering-platform)|🔥 Oct 21, 2026|
 |**Pinterest / Slack / Motive**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Oct 21, 2026|
 |**Pinterest / Apple**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|🔥 Oct 21, 2026|
+|**Syfe / Google**|[Design A Token-Limited Multi-Profile Chat](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|[![Practice][p]](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|🔥 Oct 21, 2026|
 |**Amazon / Instacart / Zip / Nykaa / Flipkart**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Oct 20, 2026|
 |**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🔥 Oct 19, 2026|
 |**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🔥 Oct 19, 2026|
@@ -50,6 +51,7 @@
 |**Nykaa / Headway**|[Design a Cart-to-Order Inventory Platform](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cart-to-order-inventory-platform)|🔥 Oct 16, 2026|
 |**Google**|[Design a Pull-Based Server Metrics Monitor](https://www.fastprep.io/system-design/pull-based-server-metrics-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/pull-based-server-metrics-monitoring)|🔥 Oct 16, 2026|
 |**Apple / OneTrust / Goldman Sachs**|[Design an Analytical Data Dashboard](https://www.fastprep.io/system-design/analytical-data-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/analytical-data-dashboard)|🔥 Oct 16, 2026|
+|**NVIDIA**|[Design a Versioned Package Download Service](https://www.fastprep.io/system-design/versioned-package-download-service)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-package-download-service)|🔥 Oct 16, 2026|
 |**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 15, 2026|
 |**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 15, 2026|
 |**Google / ByteDance**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|🔥 Oct 15, 2026|
@@ -268,7 +270,6 @@
 |**Apple**|[Design Predictive File Storage-Tier Placement](https://www.fastprep.io/system-design/file-storage-tier-selection)|[![Practice][p]](https://www.fastprep.io/system-design/file-storage-tier-selection)|🆕 Sep 10, 2026|
 |**Snap Inc.**|[Design a Pre-Login Risk Challenge Service](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|[![Practice][p]](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|🆕 Sep 10, 2026|
 |**LinkedIn / Rippling**|[Design a Recent User-Activity Query System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|🆕 Sep 10, 2026|
-|**Syfe**|[Design A Token-Limited Multi-Profile Chat](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|[![Practice][p]](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|🆕 Sep 09, 2026|
 |**Syfe**|[Design Flash-Sale Notification Fanout](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|[![Practice][p]](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|🆕 Sep 09, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🆕 Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|🆕 Sep 09, 2026|

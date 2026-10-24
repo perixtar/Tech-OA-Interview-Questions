@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Visa**|[Minimum Anagram Period](https://www.fastprep.io/problems/visa-minimum-anagram-period)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-anagram-period)|Sep 08, 2026|
 |**Google**|[Divide Tree Nodes](https://www.fastprep.io/problems/divide-tree-nodes-google)|Coding|[![Practice][p]](https://www.fastprep.io/problems/divide-tree-nodes-google)|Sep 08, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|Sep 07, 2026|
