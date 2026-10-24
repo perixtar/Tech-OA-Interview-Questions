@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,807 questions**
+**3,812 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**TikTok**|[Check Array Arithmetic Expressions](https://www.fastprep.io/problems/tiktok-check-array-arithmetic-expressions)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-array-arithmetic-expressions)|🔥 Oct 23, 2026|
+|**TikTok**|[Wait Until the Next Shuttle](https://www.fastprep.io/problems/tiktok-next-shuttle-wait-time)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-next-shuttle-wait-time)|🔥 Oct 23, 2026|
 |**Scale AI**|[Lowest Common Ancestor in a General Tree](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Address on Same Page](https://www.fastprep.io/problems/nvidia-address-on-same-page)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-address-on-same-page)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Count Ideal Numbers in a Range](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|🔥 Oct 22, 2026|
@@ -15,8 +17,8 @@
 |**NVIDIA**|[Reconstruct an Array from Prefix XOR](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Sum of Subarray Minimums](https://www.fastprep.io/problems/nvidia-sum-of-subarray-minimums)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-sum-of-subarray-minimums)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Unique Integers That Sum to Zero](https://www.fastprep.io/problems/nvidia-unique-integers-summing-to-zero)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-unique-integers-summing-to-zero)|🔥 Oct 22, 2026|
-|**Scale AI**|[Build Sessions from Unordered Events](https://www.fastprep.io/problems/scale-ai-build-sessions-from-events)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-build-sessions-from-events)|🔥 Oct 22, 2026|
-|**Scale AI**|[Match Billing Charges to User Sessions](https://www.fastprep.io/problems/scale-ai-reconcile-session-billing-ledger)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-reconcile-session-billing-ledger)|🔥 Oct 22, 2026|
+|**Scale AI**|[Build Sessions from Unordered Events (Part 1)](https://www.fastprep.io/problems/scale-ai-build-sessions-from-events)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-build-sessions-from-events)|🔥 Oct 22, 2026|
+|**Scale AI**|[Match Billing Charges to User Sessions (Part 2)](https://www.fastprep.io/problems/scale-ai-reconcile-session-billing-ledger)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-reconcile-session-billing-ledger)|🔥 Oct 22, 2026|
 |**Pinterest**|[Find Local Maxima in Sensor Data (Machine Learning OA)](https://www.fastprep.io/problems/pinterest-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Oct 21, 2026|
 |**Pinterest**|[Gradient Descent Linear Regression Predictions (Machine Learning OA)](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|🔥 Oct 21, 2026|
 |**Pinterest**|[Decision Tree Classifier from Scratch (Machine Learning OA)](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|🔥 Oct 21, 2026|
@@ -219,6 +221,8 @@
 |**Pinterest**|[Optimal Account Balancing](https://www.fastprep.io/problems/pinterest-optimal-account-balancing)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-optimal-account-balancing)|🔥 Oct 11, 2026|
 |**Amazon**|[Available Recipes from Initial Supplies](https://www.fastprep.io/problems/amazon-available-recipes-from-supplies)|[![Practice][p]](https://www.fastprep.io/problems/amazon-available-recipes-from-supplies)|🔥 Oct 11, 2026|
 |**NVIDIA**|[Parallel String Counts with a Custom Hash Table](https://www.fastprep.io/problems/nvidia-parallel-custom-string-counts)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-parallel-custom-string-counts)|🔥 Oct 11, 2026|
+|**TikTok**|[Count Subarrays with at Least K Equal-Fruit Pairs](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|🔥 Oct 11, 2026|
+|**TikTok**|[Simulate Orchard Rot Spread](https://www.fastprep.io/problems/tiktok-orchard-rot-spread)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-orchard-rot-spread)|🔥 Oct 11, 2026|
 |**IBM**|[Last Object Exit Time](https://www.fastprep.io/problems/ibm-last-object-exit-time)|[![Practice][p]](https://www.fastprep.io/problems/ibm-last-object-exit-time)|🔥 Oct 10, 2026|
 |**IBM**|[Maximum Easy Tasks After Rearranging](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|🔥 Oct 10, 2026|
 |**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|🔥 Oct 10, 2026|
@@ -623,7 +627,6 @@
 |**Hartford Financial Services**|[Maximum Product Subarray](https://www.fastprep.io/problems/hartford-maximum-product-subarray)|[![Practice][p]](https://www.fastprep.io/problems/hartford-maximum-product-subarray)|🆕 Sep 26, 2026|
 |**TikTok**|[Count Subarrays Matching a Comparison Pattern](https://www.fastprep.io/problems/tiktok-count-subarrays-matching-comparison-pattern)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-matching-comparison-pattern)|🆕 Sep 25, 2026|
 |**TikTok**|[Partition Matrix by Nonnegative Averages](https://www.fastprep.io/problems/tiktok-partition-matrix-by-nonnegative-averages)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-partition-matrix-by-nonnegative-averages)|🆕 Sep 25, 2026|
-|**TikTok**|[Count Subarrays with at Least K Equal-Fruit Pairs](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|🆕 Sep 25, 2026|
 |**Ramp**|[Convert Snake Case Variables to Camel Case](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|[![Practice][p]](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|🆕 Sep 25, 2026|
 |**Character.AI**|[Spreadsheet With Dependent Cells](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|🆕 Sep 25, 2026|
 |**Clay**|[Hierarchical In-Memory File System](https://www.fastprep.io/problems/clay-hierarchical-file-system)|[![Practice][p]](https://www.fastprep.io/problems/clay-hierarchical-file-system)|🆕 Sep 25, 2026|
@@ -1819,8 +1822,4 @@
 |**Circle**|[User Quota Scheduling with Expiring Assignments](https://www.fastprep.io/problems/circle-user-quota-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/circle-user-quota-scheduling)|May 10, 2026|
 |**Point72**|[Lexicographically Smallest String After Substring Operation](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|[![Practice][p]](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|May 10, 2026|
 |**Two Sigma**|[Piecewise Linear Interpolation and Extrapolation](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|[![Practice][p]](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|May 10, 2026|
-|**Intuit**|[Small Business Network: Degrees of Separation](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|[![Practice][p]](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|May 08, 2026|
-|**OpenAI**|[ChatApp with Bots](https://www.fastprep.io/problems/openai-chatapp-with-bots)|[![Practice][p]](https://www.fastprep.io/problems/openai-chatapp-with-bots)|May 05, 2026|
-|**OpenAI**|[IP Address to CIDR Blocks](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|May 05, 2026|
-|**Roblox**|[Implement a Rate Limiter](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|May 05, 2026|
 <a id="bottom"></a>
