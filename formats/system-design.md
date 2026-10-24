@@ -2,14 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**619 questions**
+**622 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Mercor / Salesforce / Nuro / Rippling / Qualified Health AI / Solytics Partners**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Oct 23, 2026|
-|**Careem / Cohesity / NVIDIA**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|🔥 Oct 23, 2026|
+|**Careem / Cohesity / NVIDIA / LinkedIn**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|🔥 Oct 23, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix / slice**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 23, 2026|
 |**LinkedIn**|[Design Sliding-Window Exception Rankings](https://www.fastprep.io/system-design/sliding-window-exception-rankings)|[![Practice][p]](https://www.fastprep.io/system-design/sliding-window-exception-rankings)|🔥 Oct 23, 2026|
 |**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|🔥 Oct 22, 2026|
@@ -24,6 +24,8 @@
 |**Pinterest / Slack / Motive**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Oct 21, 2026|
 |**Pinterest / Apple**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|🔥 Oct 21, 2026|
 |**Syfe / Google**|[Design A Token-Limited Multi-Profile Chat](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|[![Practice][p]](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|🔥 Oct 21, 2026|
+|**Okta**|[Design a Device Status Collection Platform](https://www.fastprep.io/system-design/device-status-collection-platform)|[![Practice][p]](https://www.fastprep.io/system-design/device-status-collection-platform)|🔥 Oct 21, 2026|
+|**Zoox**|[Design Accurate Video View Counts](https://www.fastprep.io/system-design/video-view-count-analytics)|[![Practice][p]](https://www.fastprep.io/system-design/video-view-count-analytics)|🔥 Oct 21, 2026|
 |**Amazon / Instacart / Zip / Nykaa / Flipkart**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Oct 20, 2026|
 |**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🔥 Oct 19, 2026|
 |**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🔥 Oct 19, 2026|
@@ -34,10 +36,12 @@
 |**Snowflake**|[Resilient REST Call Abstraction](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|🔥 Oct 19, 2026|
 |**Snowflake**|[Versioned Query-DAG Result Cache](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|🔥 Oct 19, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Oct 19, 2026|
+|**ByteDance**|[Design a Currency Conversion Service](https://www.fastprep.io/system-design/currency-conversion-service)|[![Practice][p]](https://www.fastprep.io/system-design/currency-conversion-service)|🔥 Oct 19, 2026|
 |**Unattributed**|[Design a Medicine Delivery Platform](https://www.fastprep.io/system-design/medicine-delivery-platform)|[![Practice][p]](https://www.fastprep.io/system-design/medicine-delivery-platform)|🔥 Oct 18, 2026|
 |**Modular / Unity / Faire**|[Design a Machine Learning Feature Store](https://www.fastprep.io/system-design/machine-learning-feature-store)|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-feature-store)|🔥 Oct 18, 2026|
 |**Lambda / Faire**|[Cloud AI Inference Platform](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|🔥 Oct 18, 2026|
 |**Keychain / Headlands Technologies / Anyscale**|[Design a Future-Time Job Scheduler](https://www.fastprep.io/system-design/future-time-job-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/future-time-job-scheduler)|🔥 Oct 18, 2026|
+|**Roblox / Coinbase / Faire**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|🔥 Oct 18, 2026|
 |**Agoda**|[Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|🔥 Oct 17, 2026|
 |**Agoda**|[Design a Supplier Booking-Pull Platform](https://www.fastprep.io/system-design/supplier-booking-pull-platform)|[![Practice][p]](https://www.fastprep.io/system-design/supplier-booking-pull-platform)|🔥 Oct 17, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Explain and Extend Your AI Project](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|[![Practice][p]](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|🔥 Oct 16, 2026|
@@ -433,7 +437,6 @@
 |**Google**|[Ranked Deals Discovery and Claim Service](https://www.fastprep.io/system-design/ranked-deals-discovery-and-claim-service)|[![Practice][p]](https://www.fastprep.io/system-design/ranked-deals-discovery-and-claim-service)|Jul 24, 2026|
 |**Capillary Technologies**|[Design a Loyalty-Data Insight Platform](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|[![Practice][p]](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|Jul 24, 2026|
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
-|**Roblox / Coinbase**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|Jul 23, 2026|
 |**Amazon / Goldman Sachs**|[Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|Jul 22, 2026|
 |**Databricks**|[Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|[![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|Jul 22, 2026|
 |**Ramp**|[Design a Real-Time Payment Count Dashboard](https://www.fastprep.io/system-design/real-time-payment-count-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-count-dashboard)|Jul 20, 2026|

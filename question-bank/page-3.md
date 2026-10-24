@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Find Max Squad Size](https://www.fastprep.io/problems/tiktok-find-max-squad-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-max-squad-size)|Oct 08, 2024|
+|**Expedia**|[Rank Secondary Popularity](https://www.fastprep.io/problems/expedia-rank-songs-by-popularity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-rank-songs-by-popularity)|Oct 08, 2024|
+|**Expedia**|[Get Min Steps](https://www.fastprep.io/problems/expedia-get-min-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-get-min-steps)|Oct 08, 2024|
+|**Oracle**|[Min Diff](https://www.fastprep.io/problems/oracle-find-circle-num)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-find-circle-num)|Oct 07, 2024|
+|**Headlands Technologies**|[Triggered Order Event Filter](https://www.fastprep.io/problems/headlands-triggered-order-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-triggered-order-filter)|Oct 07, 2024|
+|**Amazon**|[Special String](https://www.fastprep.io/problems/amazon-get-special-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-special-string)|Oct 05, 2024|
+|**ZipRecruiter**|[Maximum Fish Caught](https://www.fastprep.io/problems/ziprecruiter-caught-fish)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-caught-fish)|Oct 05, 2024|
+|**ZipRecruiter**|[Count Three-Digit Numbers with Distinct Digits](https://www.fastprep.io/problems/ziprecruiter-count-distinct-three-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-distinct-three-digit-numbers)|Oct 05, 2024|
 |**ZipRecruiter**|[Longest Frequency-Bounded Subarray](https://www.fastprep.io/problems/ziprecruiter-longest-frequency-bounded-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-frequency-bounded-subarray)|Oct 05, 2024|
 |**ZipRecruiter**|[Minimum Changes to Draw a Y](https://www.fastprep.io/problems/ziprecruiter-minimum-y-recoloring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-y-recoloring)|Oct 05, 2024|
 |**Cisco**|[Identify the Non Twin Person](https://www.fastprep.io/problems/cisco-identify-the-non-twin-person)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-identify-the-non-twin-person)|Oct 04, 2024|

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**102 questions**
+**106 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,8 +12,12 @@
 |**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🔥 Oct 22, 2026|
 |**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🔥 Oct 22, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 21, 2026|
+|**Okta**|[Implement a JWT Parser](https://www.fastprep.io/project-coding/okta-jwt-parser)|[![Practice][p]](https://www.fastprep.io/project-coding/okta-jwt-parser)|🔥 Oct 21, 2026|
+|**Anthropic**|[Implement a Stock-Price Agent Loop](https://www.fastprep.io/project-coding/anthropic-stock-price-agent-loop)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-stock-price-agent-loop)|🔥 Oct 21, 2026|
 |**Stripe**|[Colander Debugging: Repair Error Aggregation](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|🔥 Oct 20, 2026|
+|**LinkedIn**|[Implement Priority and Time-Window Log Processing](https://www.fastprep.io/project-coding/linkedin-priority-window-log-processing)|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-priority-window-log-processing)|🔥 Oct 19, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Oct 17, 2026|
+|**LinkedIn**|[Simulate Roller-Coaster Group Seating](https://www.fastprep.io/project-coding/linkedin-roller-coaster-group-seating)|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-roller-coaster-group-seating)|🔥 Oct 17, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Customer Message Classifier](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-classifier)|🔥 Oct 16, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Repair a Classifier Cache](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-classifier-cache)|🔥 Oct 16, 2026|
 |**Klaviyo**|[AI Engineer Intern Mock: Search Customer Messages](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|🔥 Oct 16, 2026|

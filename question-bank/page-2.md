@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**OpenAI**|[Design an Offline-Capable IoT Log Platform](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|Sep 08, 2026|
+|**ByteDance**|[Design Observability for AI Agent Tool Calls](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|Sep 08, 2026|
+|**Waymo**|[Shortest Distance from All Buildings](https://www.fastprep.io/problems/waymo-shortest-distance-from-all-buildings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-shortest-distance-from-all-buildings)|Sep 08, 2026|
+|**Waymo**|[Deterministic Depth-First Graph Traversal](https://www.fastprep.io/problems/waymo-deterministic-depth-first-graph-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-deterministic-depth-first-graph-traversal)|Sep 08, 2026|
+|**OpenAI**|[In-Memory Key-Value Store Operations](https://www.fastprep.io/problems/openai-key-value-store-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-key-value-store-operations)|Sep 08, 2026|
+|**Microsoft**|[Count Binary Substrings](https://www.fastprep.io/problems/microsoft-count-binary-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-binary-substrings)|Sep 08, 2026|
+|**IBM**|[Tree Pythagorean Triples](https://www.fastprep.io/problems/ibm-tree-pythagorean-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-tree-pythagorean-triples)|Sep 08, 2026|
+|**IBM**|[Flight Delay Propagation](https://www.fastprep.io/problems/ibm-flight-delay-propagation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-flight-delay-propagation)|Sep 08, 2026|
 |**ByteDance**|[Enumerate Directed Paths and Cycles](https://www.fastprep.io/problems/bytedance-directed-graph-paths-and-cycles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-directed-graph-paths-and-cycles)|Sep 08, 2026|
 |**Airbnb**|[In-Memory File System](https://www.fastprep.io/problems/airbnb-in-memory-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-in-memory-file-system)|Sep 08, 2026|
 |**Visa**|[Planning Production](https://www.fastprep.io/problems/visa-planning-production)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-planning-production)|Sep 08, 2026|
@@ -526,7 +534,6 @@
 |**Goldman Sachs**|[Validate Binary Search Tree](https://www.fastprep.io/problems/goldman-sachs-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-validate-binary-search-tree)|Jul 23, 2026|
 |**Visa**|[Signal Pings](https://www.fastprep.io/problems/visa-signal-pings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings)|Jul 23, 2026|
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
-|**Roblox / Coinbase**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|Jul 23, 2026|
 |**OnePay**|[Count Complete Toll Journeys](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Jul 23, 2026|
 |**OnePay**|[Per-Segment Speeding](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Jul 23, 2026|
 |**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
@@ -1763,12 +1770,4 @@
 |**Wells Fargo**|[Sum of Compressed Num for All Subarrays](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Oct 09, 2024|
 |**Amazon**|[Get Max Alternating Music](https://www.fastprep.io/problems/amazon-get-max-alternating-music)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-alternating-music)|Oct 08, 2024|
 |**TikTok**|[Max Engagement](https://www.fastprep.io/problems/tiktok-maximize-engagement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-engagement)|Oct 08, 2024|
-|**TikTok**|[Find Max Squad Size](https://www.fastprep.io/problems/tiktok-find-max-squad-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-max-squad-size)|Oct 08, 2024|
-|**Expedia**|[Rank Secondary Popularity](https://www.fastprep.io/problems/expedia-rank-songs-by-popularity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-rank-songs-by-popularity)|Oct 08, 2024|
-|**Expedia**|[Get Min Steps](https://www.fastprep.io/problems/expedia-get-min-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-get-min-steps)|Oct 08, 2024|
-|**Oracle**|[Min Diff](https://www.fastprep.io/problems/oracle-find-circle-num)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-find-circle-num)|Oct 07, 2024|
-|**Headlands Technologies**|[Triggered Order Event Filter](https://www.fastprep.io/problems/headlands-triggered-order-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-triggered-order-filter)|Oct 07, 2024|
-|**Amazon**|[Special String](https://www.fastprep.io/problems/amazon-get-special-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-special-string)|Oct 05, 2024|
-|**ZipRecruiter**|[Maximum Fish Caught](https://www.fastprep.io/problems/ziprecruiter-caught-fish)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-caught-fish)|Oct 05, 2024|
-|**ZipRecruiter**|[Count Three-Digit Numbers with Distinct Digits](https://www.fastprep.io/problems/ziprecruiter-count-distinct-three-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-distinct-three-digit-numbers)|Oct 05, 2024|
 <a id="bottom"></a>
