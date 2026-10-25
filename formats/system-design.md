@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**624 questions**
+**626 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,10 @@
 |**Amazon**|[Design a Smart Meter Electricity Monitoring System](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|🔥 Oct 24, 2026|
 |**Amazon / Nike, Inc.**|[Design a Scheduled Examination Platform](https://www.fastprep.io/system-design/scheduled-examination-platform)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-examination-platform)|🔥 Oct 24, 2026|
 |**Rubrik**|[Design a Distributed Unique-ID Service](https://www.fastprep.io/system-design/distributed-unique-id-generation)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-unique-id-generation)|🔥 Oct 24, 2026|
+|**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi / Meta / Yellow.ai**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🔥 Oct 24, 2026|
+|**Walmart / CARS24**|[Design a Marketplace Product Catalog Platform](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|🔥 Oct 24, 2026|
+|**Yellow.ai**|[Design a Conference Room Booking System](https://www.fastprep.io/system-design/conference-room-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/conference-room-booking-system)|🔥 Oct 24, 2026|
+|**CARS24**|[Design a Regional Lead Allocation System](https://www.fastprep.io/system-design/regional-lead-allocation-system)|[![Practice][p]](https://www.fastprep.io/system-design/regional-lead-allocation-system)|🔥 Oct 24, 2026|
 |**Mercor / Salesforce / Nuro / Rippling / Qualified Health AI / Solytics Partners**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Oct 23, 2026|
 |**Careem / Cohesity / NVIDIA / LinkedIn**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|🔥 Oct 23, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix / slice**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 23, 2026|
@@ -111,7 +115,6 @@
 |**Uber**|[Design an ML-Assisted Field-Service Evidence Workflow](https://www.fastprep.io/system-design/field-service-evidence-ml-workflow)|[![Practice][p]](https://www.fastprep.io/system-design/field-service-evidence-ml-workflow)|🆕 Oct 06, 2026|
 |**Teradata**|[Design an Organization Knowledge Assistant with Tool Use](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|[![Practice][p]](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|🆕 Oct 06, 2026|
 |**Tekion / Autodesk**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🆕 Oct 05, 2026|
-|**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi / Meta**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Oct 05, 2026|
 |**Walmart**|[Design an Agent-Assisted Search Experience](https://www.fastprep.io/system-design/agentic-search-experience)|[![Practice][p]](https://www.fastprep.io/system-design/agentic-search-experience)|🆕 Oct 05, 2026|
 |**Okta**|[Design Cross-Domain Single Sign-On](https://www.fastprep.io/system-design/cross-domain-single-sign-on)|[![Practice][p]](https://www.fastprep.io/system-design/cross-domain-single-sign-on)|🆕 Oct 05, 2026|
 |**Okta / Paytm**|[Design OIDC Login and Third-Party Tool Authorization](https://www.fastprep.io/system-design/oidc-third-party-tool-authorization)|[![Practice][p]](https://www.fastprep.io/system-design/oidc-third-party-tool-authorization)|🆕 Oct 05, 2026|
@@ -417,7 +420,6 @@
 |**Pinterest / Amazon / Zoom / Goldman Sachs**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|Jul 30, 2026|
 |**Opendoor**|[Map-Based Home Search Backend](https://www.fastprep.io/system-design/map-home-search-backend)|[![Practice][p]](https://www.fastprep.io/system-design/map-home-search-backend)|Jul 30, 2026|
 |**Databricks / Highspot**|[Music Playlist System](https://www.fastprep.io/system-design/music-playlist-system)|[![Practice][p]](https://www.fastprep.io/system-design/music-playlist-system)|Jul 30, 2026|
-|**Walmart**|[Design a Marketplace Product Catalog Platform](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|Jul 30, 2026|
 |**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|Jul 30, 2026|
 |**Databricks**|[Bookstore Batch Book-Price API](https://www.fastprep.io/system-design/bookstore-batch-book-price-api)|[![Practice][p]](https://www.fastprep.io/system-design/bookstore-batch-book-price-api)|Jul 29, 2026|
 |**Rippling**|[Design an Exact-Room Hotel Reservation System](https://www.fastprep.io/system-design/exact-room-hotel-reservation-system)|[![Practice][p]](https://www.fastprep.io/system-design/exact-room-hotel-reservation-system)|Jul 29, 2026|

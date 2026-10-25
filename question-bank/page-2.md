@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Sep 08, 2026|
+|**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Sep 08, 2026|
+|**TikTok**|[Build Blocks from a Starting Position](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|Sep 08, 2026|
+|**TikTok**|[Gradient Descent Linear Regression from Scratch](https://www.fastprep.io/problems/tiktok-gradient-descent-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-gradient-descent-linear-regression)|Sep 08, 2026|
 |**TikTok**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/tiktok-decision-tree-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-decision-tree-classifier)|Sep 08, 2026|
 |**HSBC**|[Distinct Products After Removing One Element](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|Sep 08, 2026|
 |**HSBC**|[Minimum Cleaning Robot Runs](https://www.fastprep.io/problems/hsbc-minimum-cleaning-robot-runs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-cleaning-robot-runs)|Sep 08, 2026|
@@ -421,7 +425,6 @@
 |**Databricks / Highspot**|[Music Playlist System](https://www.fastprep.io/system-design/music-playlist-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/music-playlist-system)|Jul 30, 2026|
 |**Susquehanna International Group (SIG)**|[Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Jul 30, 2026|
 |**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
-|**Walmart**|[Design a Marketplace Product Catalog Platform](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-catalog-platform)|Jul 30, 2026|
 |**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|Jul 30, 2026|
 |**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|Jul 30, 2026|
 |**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
@@ -1766,8 +1769,4 @@
 |**Amazon**|[Rearrange Binary String](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Oct 11, 2024|
 |**Amazon**|[Sort Permutation](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Oct 11, 2024|
 |**Wells Fargo**|[Allocate Wells](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Oct 09, 2024|
-|**Wells Fargo**|[Find Affected Systems](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Oct 09, 2024|
-|**Wells Fargo**|[Max Distance](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Oct 09, 2024|
-|**Wells Fargo**|[Count Operations](https://www.fastprep.io/problems/wellsfargo-count-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-operations)|Oct 09, 2024|
-|**Wells Fargo**|[Get Substring](https://www.fastprep.io/problems/wellsfargo-get-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-substring)|Oct 09, 2024|
 <a id="bottom"></a>
