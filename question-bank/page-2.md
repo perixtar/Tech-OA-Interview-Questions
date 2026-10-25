@@ -9,8 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**TikTok**|[Gradient Descent Linear Regression from Scratch](https://www.fastprep.io/problems/tiktok-gradient-descent-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-gradient-descent-linear-regression)|Sep 08, 2026|
-|**TikTok**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/tiktok-decision-tree-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-decision-tree-classifier)|Sep 08, 2026|
 |**HSBC**|[Distinct Products After Removing One Element](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-distinct-products-after-removing-one-element)|Sep 08, 2026|
 |**HSBC**|[Minimum Cleaning Robot Runs](https://www.fastprep.io/problems/hsbc-minimum-cleaning-robot-runs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-cleaning-robot-runs)|Sep 08, 2026|
 |**Jane Street**|[Design a Cross-Exchange Arbitrage Engine](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|Sep 08, 2026|
@@ -1769,4 +1767,7 @@
 |**Wells Fargo**|[Allocate Wells](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Oct 09, 2024|
 |**Wells Fargo**|[Find Affected Systems](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Oct 09, 2024|
 |**Wells Fargo**|[Max Distance](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Oct 09, 2024|
+|**Wells Fargo**|[Count Operations](https://www.fastprep.io/problems/wellsfargo-count-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-operations)|Oct 09, 2024|
+|**Wells Fargo**|[Get Substring](https://www.fastprep.io/problems/wellsfargo-get-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-substring)|Oct 09, 2024|
+|**Wells Fargo**|[Sum of Compressed Num for All Subarrays](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Oct 09, 2024|
 <a id="bottom"></a>

@@ -8,9 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Bloomberg LP**|[Number of Dice Rolls With Target Sum](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|Mar 20, 2020|
-|**Bloomberg LP**|[Minimum Path Sum](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|Mar 19, 2020|
-|**Bloomberg LP**|[Two Sum with Distinct Pairs](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|Mar 19, 2020|
 |**Bloomberg LP**|[Allocate Mailboxes](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|Mar 15, 2020|
 |**Bloomberg LP**|[Generate All String Permutations](https://www.fastprep.io/problems/bloomberg-string-permutations)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-string-permutations)|Mar 15, 2020|
 |**Bloomberg LP**|[Course Schedule](https://www.fastprep.io/problems/bloomberg-course-schedule)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-course-schedule)|Mar 11, 2020|

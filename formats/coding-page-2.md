@@ -8,8 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Intuit**|[Small Business Network: Degrees of Separation](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|[![Practice][p]](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|May 08, 2026|
-|**OpenAI**|[ChatApp with Bots](https://www.fastprep.io/problems/openai-chatapp-with-bots)|[![Practice][p]](https://www.fastprep.io/problems/openai-chatapp-with-bots)|May 05, 2026|
 |**OpenAI**|[IP Address to CIDR Blocks](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|May 05, 2026|
 |**Roblox**|[Implement a Rate Limiter](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|May 05, 2026|
 |**Roblox**|[Rate Limit by Multiple Request Fields](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|May 05, 2026|
@@ -1932,4 +1930,7 @@
 |**Bloomberg LP**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|Apr 08, 2020|
 |**Bloomberg LP**|[Browser History by Frequency and Recency](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|Apr 02, 2020|
 |**Bloomberg LP**|[Constant-Time Restaurant Waiting List](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|Mar 20, 2020|
+|**Bloomberg LP**|[Number of Dice Rolls With Target Sum](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|Mar 20, 2020|
+|**Bloomberg LP**|[Minimum Path Sum](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|Mar 19, 2020|
+|**Bloomberg LP**|[Two Sum with Distinct Pairs](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|Mar 19, 2020|
 <a id="bottom"></a>
