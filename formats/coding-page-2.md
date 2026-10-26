@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,812 questions**
+**3,820 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -627,6 +627,7 @@
 |**Apple**|[Reverse a String without Built-In Reversal](https://www.fastprep.io/problems/apple-reverse-string-without-builtins)|[![Practice][p]](https://www.fastprep.io/problems/apple-reverse-string-without-builtins)|Dec 16, 2024|
 |**Meta**|[Count Centaur Friend Requests](https://www.fastprep.io/problems/meta-centaur-friend-requests)|[![Practice][p]](https://www.fastprep.io/problems/meta-centaur-friend-requests)|Dec 12, 2024|
 |**Meta**|[Top N Frequent Words in a File](https://www.fastprep.io/problems/meta-top-n-words-in-file)|[![Practice][p]](https://www.fastprep.io/problems/meta-top-n-words-in-file)|Dec 12, 2024|
+|**LSEG**|[Price Equity Options and Forwards](https://www.fastprep.io/problems/lseg-equity-derivative-pricing)|[![Practice][p]](https://www.fastprep.io/problems/lseg-equity-derivative-pricing)|Dec 12, 2024|
 |**Amazon**|[Get Min Value](https://www.fastprep.io/problems/amazon-get-minimum-value)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-value)|Dec 11, 2024|
 |**Amazon**|[Get Max Skill Sum](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Dec 11, 2024|
 |**Amazon**|[Find Number](https://www.fastprep.io/problems/amazon-find-number)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number)|Dec 10, 2024|
@@ -1928,9 +1929,7 @@
 |**Bloomberg LP**|[Instant Runoff Election](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|Apr 08, 2020|
 |**Bloomberg LP**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|Apr 08, 2020|
 |**Bloomberg LP**|[Browser History by Frequency and Recency](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|Apr 02, 2020|
+|**London Stock Exchange**|[Group Anagram Strings](https://www.fastprep.io/problems/london-stock-exchange-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-group-anagrams)|Apr 02, 2020|
+|**London Stock Exchange**|[Implement Key Equality and Hashing](https://www.fastprep.io/problems/london-stock-exchange-key-equality-hashing)|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-key-equality-hashing)|Apr 02, 2020|
 |**Bloomberg LP**|[Constant-Time Restaurant Waiting List](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|Mar 20, 2020|
-|**Bloomberg LP**|[Number of Dice Rolls With Target Sum](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|Mar 20, 2020|
-|**Bloomberg LP**|[Minimum Path Sum](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|Mar 19, 2020|
-|**Bloomberg LP**|[Two Sum with Distinct Pairs](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|Mar 19, 2020|
-|**Bloomberg LP**|[Allocate Mailboxes](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|Mar 15, 2020|
 <a id="bottom"></a>
