@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,820 questions**
+**3,825 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Browser History by Frequency and Recency](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|Apr 02, 2020|
+|**London Stock Exchange**|[Group Anagram Strings](https://www.fastprep.io/problems/london-stock-exchange-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-group-anagrams)|Apr 02, 2020|
+|**London Stock Exchange**|[Implement Key Equality and Hashing](https://www.fastprep.io/problems/london-stock-exchange-key-equality-hashing)|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-key-equality-hashing)|Apr 02, 2020|
+|**Bloomberg LP**|[Constant-Time Restaurant Waiting List](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|Mar 20, 2020|
 |**Bloomberg LP**|[Number of Dice Rolls With Target Sum](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|Mar 20, 2020|
 |**Bloomberg LP**|[Minimum Path Sum](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|Mar 19, 2020|
 |**Bloomberg LP**|[Two Sum with Distinct Pairs](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|Mar 19, 2020|
