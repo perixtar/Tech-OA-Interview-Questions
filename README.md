@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,812)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (626)](formats/system-design.md) · [Low-level design (185)](formats/low-level-design.md) · [AI coding (107)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,814)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (626)](formats/system-design.md) · [Low-level design (185)](formats/low-level-design.md) · [AI coding (107)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**ThoughtSpot / CARS24**|[Design a Priority-Aware Database Request Gateway](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|🔥 Oct 25, 2026|
+|**NVIDIA**|[Minimize Task Resource Consumption](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|🔥 Oct 25, 2026|
+|**NVIDIA**|[Minimum Project Bid Cost](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|🔥 Oct 25, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 24, 2026|
 |**Amazon**|[Design a Smart Meter Electricity Monitoring System](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|🔥 Oct 24, 2026|
 |**Amazon**|[Design an Agentic Chatbot Domain](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|🔥 Oct 24, 2026|
@@ -1689,7 +1691,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**IBM**|[Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount)|Sep 08, 2026|
 |**TikTok**|[Analyze Taxi Driver and Ride Metrics](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|SQL|[![Practice][p]](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|Sep 08, 2026|
 |**DRW**|[Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|Sep 08, 2026|
-|**DRW**|[Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|Sep 08, 2026|
-|**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Sep 08, 2026|
-|**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Sep 08, 2026|
 <a id="bottom"></a>

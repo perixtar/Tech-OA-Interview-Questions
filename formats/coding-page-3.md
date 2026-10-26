@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,812 questions**
+**3,814 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Two Sum with Distinct Pairs](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|Mar 19, 2020|
+|**Bloomberg LP**|[Allocate Mailboxes](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|Mar 15, 2020|
 |**Bloomberg LP**|[Generate All String Permutations](https://www.fastprep.io/problems/bloomberg-string-permutations)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-string-permutations)|Mar 15, 2020|
 |**Bloomberg LP**|[Course Schedule](https://www.fastprep.io/problems/bloomberg-course-schedule)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-course-schedule)|Mar 11, 2020|
 |**Bloomberg LP**|[Last Position of a Target in a Sorted Array](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|Mar 11, 2020|

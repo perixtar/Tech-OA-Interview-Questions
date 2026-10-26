@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Wells Fargo**|[Allocate Wells](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Oct 09, 2024|
+|**Wells Fargo**|[Find Affected Systems](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Oct 09, 2024|
+|**Wells Fargo**|[Max Distance](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Oct 09, 2024|
+|**Wells Fargo**|[Count Operations](https://www.fastprep.io/problems/wellsfargo-count-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-operations)|Oct 09, 2024|
 |**Wells Fargo**|[Get Substring](https://www.fastprep.io/problems/wellsfargo-get-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-substring)|Oct 09, 2024|
 |**Wells Fargo**|[Sum of Compressed Num for All Subarrays](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-sum-of-compressed-number-for-all-subarrays)|Oct 09, 2024|
 |**Amazon**|[Get Max Alternating Music](https://www.fastprep.io/problems/amazon-get-max-alternating-music)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-alternating-music)|Oct 08, 2024|

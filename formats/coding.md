@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,812 questions**
+**3,814 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**NVIDIA**|[Minimize Task Resource Consumption](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|🔥 Oct 25, 2026|
+|**NVIDIA**|[Minimum Project Bid Cost](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|🔥 Oct 25, 2026|
 |**TikTok**|[Check Array Arithmetic Expressions](https://www.fastprep.io/problems/tiktok-check-array-arithmetic-expressions)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-array-arithmetic-expressions)|🔥 Oct 23, 2026|
 |**TikTok**|[Wait Until the Next Shuttle](https://www.fastprep.io/problems/tiktok-next-shuttle-wait-time)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-next-shuttle-wait-time)|🔥 Oct 23, 2026|
 |**Scale AI**|[Lowest Common Ancestor in a General Tree](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Oct 22, 2026|
@@ -1823,6 +1825,4 @@
 |**Point72**|[Lexicographically Smallest String After Substring Operation](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|[![Practice][p]](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|May 10, 2026|
 |**Two Sigma**|[Piecewise Linear Interpolation and Extrapolation](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|[![Practice][p]](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|May 10, 2026|
 |**Intuit**|[Small Business Network: Degrees of Separation](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|[![Practice][p]](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|May 08, 2026|
-|**OpenAI**|[ChatApp with Bots](https://www.fastprep.io/problems/openai-chatapp-with-bots)|[![Practice][p]](https://www.fastprep.io/problems/openai-chatapp-with-bots)|May 05, 2026|
-|**OpenAI**|[IP Address to CIDR Blocks](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|May 05, 2026|
 <a id="bottom"></a>
