@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**OpenAI**|[IP Address to CIDR Blocks](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|May 05, 2026|
 |**Roblox**|[Implement a Rate Limiter](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|May 05, 2026|
 |**Roblox**|[Rate Limit by Multiple Request Fields](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|May 05, 2026|
 |**Visa**|[Minimum Cost to Select People for Skill Quotas](https://www.fastprep.io/problems/visa-minimum-cost-to-select-people-for-skill-quotas)|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-cost-to-select-people-for-skill-quotas)|May 05, 2026|
@@ -1933,4 +1932,5 @@
 |**Bloomberg LP**|[Number of Dice Rolls With Target Sum](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-dice-rolls-with-target-sum)|Mar 20, 2020|
 |**Bloomberg LP**|[Minimum Path Sum](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-path-sum)|Mar 19, 2020|
 |**Bloomberg LP**|[Two Sum with Distinct Pairs](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum-distinct-pairs)|Mar 19, 2020|
+|**Bloomberg LP**|[Allocate Mailboxes](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|Mar 15, 2020|
 <a id="bottom"></a>

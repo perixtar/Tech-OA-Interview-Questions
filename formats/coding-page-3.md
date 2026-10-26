@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Bloomberg LP**|[Allocate Mailboxes](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-allocate-mailboxes)|Mar 15, 2020|
 |**Bloomberg LP**|[Generate All String Permutations](https://www.fastprep.io/problems/bloomberg-string-permutations)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-string-permutations)|Mar 15, 2020|
 |**Bloomberg LP**|[Course Schedule](https://www.fastprep.io/problems/bloomberg-course-schedule)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-course-schedule)|Mar 11, 2020|
 |**Bloomberg LP**|[Last Position of a Target in a Sorted Array](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|Mar 11, 2020|
