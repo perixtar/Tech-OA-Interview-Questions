@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Rippling**|[Top K Frequent Elements](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Oct 15, 2024|
+|**Google**|[Count Distinct Values in a Sorted Array](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|Oct 14, 2024|
+|**Google**|[Distances to the Nearest Infected Node](https://www.fastprep.io/problems/google-nearest-infected-node-distances)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-nearest-infected-node-distances)|Oct 14, 2024|
+|**Amazon**|[Get Max Charge](https://www.fastprep.io/problems/amazon-get-max-charge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-charge)|Oct 11, 2024|
 |**Amazon**|[Min Time to Create Beautiful Canvas](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas)|Oct 11, 2024|
 |**Amazon**|[Rearrange Binary String](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Oct 11, 2024|
 |**Amazon**|[Sort Permutation](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Oct 11, 2024|

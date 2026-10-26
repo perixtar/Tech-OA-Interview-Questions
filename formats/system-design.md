@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**626 questions**
+**628 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**DocuSign / Walmart Labs / Alteryx**|[Design a Resilient E-Commerce Checkout](https://www.fastprep.io/system-design/resilient-ecommerce-checkout)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-ecommerce-checkout)|🔥 Oct 26, 2026|
+|**Uber**|[Meal Delivery to Train Passengers](https://www.fastprep.io/system-design/train-station-meal-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/train-station-meal-delivery)|🔥 Oct 26, 2026|
+|**GoDaddy**|[Vehicle Violation Notifications](https://www.fastprep.io/system-design/vehicle-violation-notifications)|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-violation-notifications)|🔥 Oct 26, 2026|
 |**ThoughtSpot / CARS24**|[Design a Priority-Aware Database Request Gateway](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|🔥 Oct 25, 2026|
 |**Amazon**|[Design a Smart Meter Electricity Monitoring System](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|🔥 Oct 24, 2026|
 |**Amazon / Nike, Inc.**|[Design a Scheduled Examination Platform](https://www.fastprep.io/system-design/scheduled-examination-platform)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-examination-platform)|🔥 Oct 24, 2026|
@@ -67,7 +70,6 @@
 |**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Oct 15, 2026|
 |**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 15, 2026|
 |**Google / ByteDance**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|🔥 Oct 15, 2026|
-|**DocuSign / Walmart Labs**|[Design a Resilient E-Commerce Checkout](https://www.fastprep.io/system-design/resilient-ecommerce-checkout)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-ecommerce-checkout)|🔥 Oct 15, 2026|
 |**Databricks**|[Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform)|🔥 Oct 15, 2026|
 |**Scale AI**|[Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api)|[![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api)|🔥 Oct 15, 2026|
 |**Bloomberg LP / Atlassian**|[Design a Streaming Top-K Hitters System](https://www.fastprep.io/system-design/streaming-top-k-hitters)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-top-k-hitters)|🔥 Oct 15, 2026|
