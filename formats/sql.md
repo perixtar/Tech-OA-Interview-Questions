@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**81 questions**
+**82 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Straive**|[Department Employee Counts and Running Total](https://www.fastprep.io/problems/straive-department-employee-running-counts)|[![Practice][p]](https://www.fastprep.io/problems/straive-department-employee-running-counts)|🔥 Oct 24, 2026|
 |**Dell Technologies**|[Departments Without Employees](https://www.fastprep.io/problems/dell-departments-without-employees)|[![Practice][p]](https://www.fastprep.io/problems/dell-departments-without-employees)|🔥 Oct 20, 2026|
 |**Chubb**|[Second-Highest Salary](https://www.fastprep.io/problems/chubb-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/chubb-second-highest-salary)|🔥 Oct 19, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
