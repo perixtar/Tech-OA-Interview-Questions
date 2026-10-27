@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Capital One**|[Diagonal Robot Path Sum](https://www.fastprep.io/problems/capital-one-diagonal-robot-path-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-diagonal-robot-path-sum)|Sep 08, 2026|
+|**Capital One**|[Rectangle Fit Queries](https://www.fastprep.io/problems/capital-one-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rectangle-fit-queries)|Sep 08, 2026|
 |**Capital One**|[Round-Robin WDL Order](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order)|Sep 08, 2026|
 |**IBM**|[Plus Mult Array](https://www.fastprep.io/problems/ibm-plus-mult-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-plus-mult-array)|Sep 08, 2026|
 |**IBM**|[Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount)|Sep 08, 2026|
@@ -1671,7 +1673,6 @@
 |**Amazon**|[Get Max Skill Sum](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Dec 11, 2024|
 |**Amazon**|[Find Number](https://www.fastprep.io/problems/amazon-find-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number)|Dec 10, 2024|
 |**Amazon**|[Get Min Removal](https://www.fastprep.io/problems/amazon-get-min-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-removal)|Dec 10, 2024|
-|**JP Morgan**|[Find Total Cost](https://www.fastprep.io/problems/jpmorgan-find-total-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-cost)|Dec 10, 2024|
 |**Microsoft**|[Max Num Of Prduced Car](https://www.fastprep.io/problems/microsoft-max-num-of-produced-cars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-max-num-of-produced-cars)|Dec 10, 2024|
 |**Bloomberg LP**|[Remove Letter to Equalize Frequency](https://www.fastprep.io/problems/bloomberg-remove-letter-to-equalize-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-letter-to-equalize-frequency)|Dec 10, 2024|
 |**Amazon**|[Find Lexicographically Smallest String](https://www.fastprep.io/problems/amazon-find-lexicographically-smallest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-lexicographically-smallest-string)|Dec 08, 2024|
@@ -1769,5 +1770,4 @@
 |**Paypal**|[Find Min Price to Spend](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Oct 22, 2024|
 |**TikTok**|[Count Balanced Clilps](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|Oct 21, 2024|
 |**Patreon**|[Sum of Subarray Regions](https://www.fastprep.io/problems/patreon-sum-of-subarray-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/patreon-sum-of-subarray-regions)|Oct 21, 2024|
-|**Amazon**|[Planning the Campaign](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Oct 20, 2024|
 <a id="bottom"></a>

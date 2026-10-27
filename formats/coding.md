@@ -2,16 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,826 questions**
+**3,827 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**NVIDIA**|[Address on Same Page](https://www.fastprep.io/problems/nvidia-address-on-same-page)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-address-on-same-page)|🔥 Oct 26, 2026|
+|**Microsoft**|[Capacity to Ship Packages Within Days](https://www.fastprep.io/problems/microsoft-capacity-to-ship-packages-within-days)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-capacity-to-ship-packages-within-days)|🔥 Oct 26, 2026|
+|**Microsoft**|[Count Digit Replacements with No Equal Adjacent Digits](https://www.fastprep.io/problems/microsoft-count-digit-replacements-with-no-equal-adjacent-digits)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-digit-replacements-with-no-equal-adjacent-digits)|🔥 Oct 26, 2026|
+|**JP Morgan Chase**|[Minimum Meeting Rooms](https://www.fastprep.io/problems/jpmorgan-minimum-meeting-rooms)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-meeting-rooms)|🔥 Oct 26, 2026|
+|**JP Morgan Chase**|[Find Total Cost](https://www.fastprep.io/problems/jpmorgan-find-total-cost)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-cost)|🔥 Oct 26, 2026|
+|**NVIDIA**|[Maximum Score](https://www.fastprep.io/problems/nvidia-maximum-score)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-maximum-score)|🔥 Oct 26, 2026|
 |**TikTok**|[Check Array Arithmetic Expressions](https://www.fastprep.io/problems/tiktok-check-array-arithmetic-expressions)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-array-arithmetic-expressions)|🔥 Oct 23, 2026|
 |**TikTok**|[Wait Until the Next Shuttle](https://www.fastprep.io/problems/tiktok-next-shuttle-wait-time)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-next-shuttle-wait-time)|🔥 Oct 23, 2026|
 |**Scale AI**|[Lowest Common Ancestor in a General Tree](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Oct 22, 2026|
-|**NVIDIA**|[Address on Same Page](https://www.fastprep.io/problems/nvidia-address-on-same-page)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-address-on-same-page)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Count Ideal Numbers in a Range](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Generate Bit Mask](https://www.fastprep.io/problems/nvidia-generate-bit-mask)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-generate-bit-mask)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Reconstruct an Array from Prefix XOR](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|🔥 Oct 22, 2026|
@@ -258,7 +263,6 @@
 |**Lime**|[Merge Intervals](https://www.fastprep.io/problems/lime-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/lime-merge-intervals)|🆕 Oct 08, 2026|
 |**Unity**|[ETL Pipeline Scheduler](https://www.fastprep.io/problems/unity-etl-pipeline-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/unity-etl-pipeline-scheduler)|🆕 Oct 08, 2026|
 |**Microsoft**|[Copy a Doubly Linked List with a Special Pointer](https://www.fastprep.io/problems/microsoft-copy-doubly-linked-list-with-special-pointer)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-doubly-linked-list-with-special-pointer)|🆕 Oct 08, 2026|
-|**Microsoft**|[Capacity to Ship Packages Within Days](https://www.fastprep.io/problems/microsoft-capacity-to-ship-packages-within-days)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-capacity-to-ship-packages-within-days)|🆕 Oct 08, 2026|
 |**Oracle**|[Remove Adjacent Duplicates in String II](https://www.fastprep.io/problems/oracle-remove-adjacent-duplicates-ii)|[![Practice][p]](https://www.fastprep.io/problems/oracle-remove-adjacent-duplicates-ii)|🆕 Oct 08, 2026|
 |**Google**|[Reach a Destination Through Scheduled Flights](https://www.fastprep.io/problems/google-reach-destination-scheduled-flights)|[![Practice][p]](https://www.fastprep.io/problems/google-reach-destination-scheduled-flights)|🆕 Oct 08, 2026|
 |**Google**|[Boolean Expression Results After Leaf Flips](https://www.fastprep.io/problems/google-boolean-expression-tree-flip-results)|[![Practice][p]](https://www.fastprep.io/problems/google-boolean-expression-tree-flip-results)|🆕 Oct 08, 2026|
@@ -688,7 +692,6 @@
 |**Airbnb**|[Task Management System](https://www.fastprep.io/problems/airbnb-task-management-system)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-task-management-system)|🆕 Sep 24, 2026|
 |**New Relic**|[Basic String Compression with Length Guard](https://www.fastprep.io/problems/new-relic-basic-string-compression)|[![Practice][p]](https://www.fastprep.io/problems/new-relic-basic-string-compression)|🆕 Sep 24, 2026|
 |**New Relic**|[Longest Increasing Path in a Matrix](https://www.fastprep.io/problems/new-relic-longest-increasing-path-in-matrix)|[![Practice][p]](https://www.fastprep.io/problems/new-relic-longest-increasing-path-in-matrix)|🆕 Sep 24, 2026|
-|**Microsoft**|[Count Digit Replacements with No Equal Adjacent Digits](https://www.fastprep.io/problems/microsoft-count-digit-replacements-with-no-equal-adjacent-digits)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-digit-replacements-with-no-equal-adjacent-digits)|🆕 Sep 24, 2026|
 |**Visa**|[Top Mutual-Friend Recommendations](https://www.fastprep.io/problems/visa-mutual-friend-recommendations)|[![Practice][p]](https://www.fastprep.io/problems/visa-mutual-friend-recommendations)|🆕 Sep 24, 2026|
 |**Visa**|[Minimum Power-of-Two Removal Operations](https://www.fastprep.io/problems/visa-minimum-power-of-two-removal-operations)|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-power-of-two-removal-operations)|🆕 Sep 24, 2026|
 |**Visa**|[Optimal Transfer](https://www.fastprep.io/problems/visa-optimal-transfer)|[![Practice][p]](https://www.fastprep.io/problems/visa-optimal-transfer)|🆕 Sep 24, 2026|
@@ -1130,7 +1133,6 @@
 |**Infosys**|[Product Of Array Except Self](https://www.fastprep.io/problems/infosys-product-of-array-except-self)|[![Practice][p]](https://www.fastprep.io/problems/infosys-product-of-array-except-self)|Sep 09, 2026|
 |**Infosys**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/infosys-longest-substring-without-repeating)|[![Practice][p]](https://www.fastprep.io/problems/infosys-longest-substring-without-repeating)|Sep 09, 2026|
 |**Commvault**|[Missing and Repeated Number](https://www.fastprep.io/problems/commvault-missing-and-repeated-number)|[![Practice][p]](https://www.fastprep.io/problems/commvault-missing-and-repeated-number)|Sep 09, 2026|
-|**JPMorgan Chase**|[Minimum Meeting Rooms](https://www.fastprep.io/problems/jpmorgan-minimum-meeting-rooms)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-meeting-rooms)|Sep 09, 2026|
 |**JPMorgan Chase**|[Maximum Game Board Score](https://www.fastprep.io/problems/jpmorgan-maximum-game-board-score)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-maximum-game-board-score)|Sep 09, 2026|
 |**Capital One**|[Sorted Extended Matrix Diagonals](https://www.fastprep.io/problems/capital-one-sorted-extended-matrix-diagonals)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-sorted-extended-matrix-diagonals)|Sep 09, 2026|
 |**Amazon**|[Find Minimum Cost](https://www.fastprep.io/problems/amazon-find-minimum-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-cost)|Sep 09, 2026|
@@ -1824,6 +1826,4 @@
 |**Two Sigma**|[Piecewise Linear Interpolation and Extrapolation](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|[![Practice][p]](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|May 10, 2026|
 |**Intuit**|[Small Business Network: Degrees of Separation](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|[![Practice][p]](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|May 08, 2026|
 |**OpenAI**|[ChatApp with Bots](https://www.fastprep.io/problems/openai-chatapp-with-bots)|[![Practice][p]](https://www.fastprep.io/problems/openai-chatapp-with-bots)|May 05, 2026|
-|**OpenAI**|[IP Address to CIDR Blocks](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|May 05, 2026|
-|**Roblox**|[Implement a Rate Limiter](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|May 05, 2026|
 <a id="bottom"></a>
