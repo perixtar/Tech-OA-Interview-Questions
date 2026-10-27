@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Bloomberg LP**|[Browser History by Frequency and Recency](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|Apr 02, 2020|
 |**London Stock Exchange**|[Group Anagram Strings](https://www.fastprep.io/problems/london-stock-exchange-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-group-anagrams)|Apr 02, 2020|
 |**London Stock Exchange**|[Implement Key Equality and Hashing](https://www.fastprep.io/problems/london-stock-exchange-key-equality-hashing)|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-key-equality-hashing)|Apr 02, 2020|
 |**Bloomberg LP**|[Constant-Time Restaurant Waiting List](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-constant-time-restaurant-waiting-list)|Mar 20, 2020|

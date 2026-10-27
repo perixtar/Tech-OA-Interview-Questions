@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**DRW**|[Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|Sep 08, 2026|
 |**DRW**|[Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|Sep 08, 2026|
 |**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Sep 08, 2026|
 |**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Sep 08, 2026|
@@ -1769,4 +1768,6 @@
 |**Amazon**|[Get Max Programs](https://www.fastprep.io/problems/amazon-get-max-programs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-programs)|Oct 19, 2024|
 |**Amazon**|[Find Minimum Time](https://www.fastprep.io/problems/amazon-find-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time)|Oct 19, 2024|
 |**Rippling**|[Single-Source Shortest Paths](https://www.fastprep.io/problems/rippling-single-source-shortest-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-single-source-shortest-paths)|Oct 15, 2024|
+|**Rippling**|[Top K Frequent Elements](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Oct 15, 2024|
+|**Google**|[Count Distinct Values in a Sorted Array](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|Oct 14, 2024|
 <a id="bottom"></a>
