@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Planning the Campaign](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Oct 20, 2024|
 |**TikTok**|[Server Network Optimizations](https://www.fastprep.io/problems/tiktok-server-network-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-server-network-optimization)|Oct 20, 2024|
 |**Amazon**|[Get Max Programs](https://www.fastprep.io/problems/amazon-get-max-programs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-programs)|Oct 19, 2024|
 |**Amazon**|[Find Minimum Time](https://www.fastprep.io/problems/amazon-find-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time)|Oct 19, 2024|

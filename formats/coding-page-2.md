@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,826 questions**
+**3,827 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**OpenAI**|[IP Address to CIDR Blocks](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|May 05, 2026|
+|**Roblox**|[Implement a Rate Limiter](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|May 05, 2026|
 |**Roblox**|[Rate Limit by Multiple Request Fields](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limit-by-multiple-request-fields)|May 05, 2026|
 |**Visa**|[Minimum Cost to Select People for Skill Quotas](https://www.fastprep.io/problems/visa-minimum-cost-to-select-people-for-skill-quotas)|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-cost-to-select-people-for-skill-quotas)|May 05, 2026|
 |**Zipline**|[Max Stack](https://www.fastprep.io/problems/zipline-max-stack)|[![Practice][p]](https://www.fastprep.io/problems/zipline-max-stack)|May 05, 2026|
@@ -637,7 +639,6 @@
 |**Amazon**|[Get Max Skill Sum](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Dec 11, 2024|
 |**Amazon**|[Find Number](https://www.fastprep.io/problems/amazon-find-number)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number)|Dec 10, 2024|
 |**Amazon**|[Get Min Removal](https://www.fastprep.io/problems/amazon-get-min-removal)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-removal)|Dec 10, 2024|
-|**JP Morgan**|[Find Total Cost](https://www.fastprep.io/problems/jpmorgan-find-total-cost)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-cost)|Dec 10, 2024|
 |**Microsoft**|[Max Num Of Prduced Car](https://www.fastprep.io/problems/microsoft-max-num-of-produced-cars)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-max-num-of-produced-cars)|Dec 10, 2024|
 |**Bloomberg LP**|[Remove Letter to Equalize Frequency](https://www.fastprep.io/problems/bloomberg-remove-letter-to-equalize-frequency)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-letter-to-equalize-frequency)|Dec 10, 2024|
 |**Amazon**|[Find Lexicographically Smallest String](https://www.fastprep.io/problems/amazon-find-lexicographically-smallest-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-lexicographically-smallest-string)|Dec 08, 2024|
@@ -1932,5 +1933,4 @@
 |**Bloomberg LP**|[Valid Palindrome](https://www.fastprep.io/problems/bloomberg-valid-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-palindrome)|Apr 21, 2020|
 |**Bloomberg LP**|[Binary Tree Inorder Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-inorder-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-inorder-traversal)|Apr 08, 2020|
 |**Bloomberg LP**|[Instant Runoff Election](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|Apr 08, 2020|
-|**Bloomberg LP**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|Apr 08, 2020|
 <a id="bottom"></a>
