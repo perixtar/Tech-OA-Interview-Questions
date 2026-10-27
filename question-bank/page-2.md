@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Capital One**|[Round-Robin WDL Order](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order)|Sep 08, 2026|
 |**IBM**|[Plus Mult Array](https://www.fastprep.io/problems/ibm-plus-mult-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-plus-mult-array)|Sep 08, 2026|
 |**IBM**|[Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount)|Sep 08, 2026|
 |**TikTok**|[Analyze Taxi Driver and Ride Metrics](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|SQL|[![Practice][p]](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|Sep 08, 2026|
@@ -1768,6 +1769,4 @@
 |**TikTok**|[Count Balanced Clilps](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|Oct 21, 2024|
 |**Patreon**|[Sum of Subarray Regions](https://www.fastprep.io/problems/patreon-sum-of-subarray-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/patreon-sum-of-subarray-regions)|Oct 21, 2024|
 |**Amazon**|[Planning the Campaign](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Oct 20, 2024|
-|**TikTok**|[Server Network Optimizations](https://www.fastprep.io/problems/tiktok-server-network-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-server-network-optimization)|Oct 20, 2024|
-|**Amazon**|[Get Max Programs](https://www.fastprep.io/problems/amazon-get-max-programs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-programs)|Oct 19, 2024|
 <a id="bottom"></a>

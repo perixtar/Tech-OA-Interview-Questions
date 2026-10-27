@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Server Network Optimizations](https://www.fastprep.io/problems/tiktok-server-network-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-server-network-optimization)|Oct 20, 2024|
+|**Amazon**|[Get Max Programs](https://www.fastprep.io/problems/amazon-get-max-programs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-programs)|Oct 19, 2024|
 |**Amazon**|[Find Minimum Time](https://www.fastprep.io/problems/amazon-find-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time)|Oct 19, 2024|
 |**Rippling**|[Single-Source Shortest Paths](https://www.fastprep.io/problems/rippling-single-source-shortest-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-single-source-shortest-paths)|Oct 15, 2024|
 |**Rippling**|[Top K Frequent Elements](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Oct 15, 2024|
