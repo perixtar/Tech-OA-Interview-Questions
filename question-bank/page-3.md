@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Find Minimum Time](https://www.fastprep.io/problems/amazon-find-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time)|Oct 19, 2024|
 |**Rippling**|[Single-Source Shortest Paths](https://www.fastprep.io/problems/rippling-single-source-shortest-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-single-source-shortest-paths)|Oct 15, 2024|
 |**Rippling**|[Top K Frequent Elements](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Oct 15, 2024|
 |**Google**|[Count Distinct Values in a Sorted Array](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|Oct 14, 2024|
@@ -202,6 +203,7 @@
 |**ZipRecruiter**|[Replace Every Nth Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-every-nth-consonant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-every-nth-consonant)|Sep 11, 2024|
 |**ZipRecruiter**|[Keep Endpoints and Strict Local Maxima](https://www.fastprep.io/problems/ziprecruiter-endpoints-and-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-endpoints-and-local-maxima)|Sep 10, 2024|
 |**ZipRecruiter**|[Count Nearly Regular Matrix Crosses](https://www.fastprep.io/problems/ziprecruiter-nearly-regular-crosses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-nearly-regular-crosses)|Sep 10, 2024|
+|**JP Morgan Chase**|[Complete an Internal Document Review Dashboard](https://www.fastprep.io/project-coding/jpmorgan-cry-document-review-dashboard)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-cry-document-review-dashboard)|Sep 10, 2024|
 |**ZipRecruiter**|[Count Suffix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-suffix-related-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-suffix-related-word-pairs)|Sep 07, 2024|
 |**ZipRecruiter**|[Dynamic Pair Sum Queries](https://www.fastprep.io/problems/ziprecruiter-dynamic-pair-sum-delta-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-dynamic-pair-sum-delta-queries)|Sep 07, 2024|
 |**Motive**|[Count Product-Divisible Pairs](https://www.fastprep.io/problems/motive-count-product-divisible-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-count-product-divisible-pairs)|Sep 06, 2024|
@@ -364,6 +366,10 @@
 |**Maven Clinic**|[Possible Bipartition](https://www.fastprep.io/problems/maven-clinic-possible-bipartition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-possible-bipartition)|Aug 01, 2024|
 |**Character.AI**|[Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/character-ai-guess-the-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/character-ai-guess-the-word)|Jul 31, 2024|
 |**Benchling**|[Generate All Contiguous Protein Chains](https://www.fastprep.io/problems/benchling-generate-all-protein-chains)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-generate-all-protein-chains)|Jul 30, 2024|
+|**JP Morgan Chase**|[Complete a Benefit Application Workflow](https://www.fastprep.io/project-coding/jpmorgan-indus-benefit-applications)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-indus-benefit-applications)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete a Donation and Clothing Bank Workflow](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete a Multilingual Volunteer Tutoring Platform](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete an Intervention Tracking Website](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|Jul 27, 2024|
 |**Amazon**|[Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Jul 25, 2024|
 |**IBM**|[Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Jul 25, 2024|
 |**Optiver**|[Customer Checkout Duration](https://www.fastprep.io/problems/optiver-customer-checkout-duration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-customer-checkout-duration)|Jul 24, 2024|
@@ -1288,6 +1294,7 @@
 |**Wells Fargo**|[Matrix Path Existence](https://www.fastprep.io/problems/wellsfargo-matrix-path-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-matrix-path-existence)|Sep 26, 2020|
 |**Postman**|[Configuration System](https://www.fastprep.io/problems/postman-configuration-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system)|Sep 23, 2020|
 |**Postman**|[Large Responses](https://www.fastprep.io/problems/postman-large-responses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-large-responses)|Sep 23, 2020|
+|**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
 |**Bloomberg LP**|[Palindrome Number](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Sep 18, 2020|
 |**Bloomberg LP**|[Traverse an Up-Down-Right Pointer Structure](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|Sep 18, 2020|
 |**Bloomberg LP**|[Design a Dynamic Phonebook with Autocomplete](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Sep 17, 2020|
