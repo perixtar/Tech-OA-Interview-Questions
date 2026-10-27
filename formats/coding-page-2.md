@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,825 questions**
+**3,826 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -161,6 +161,7 @@
 |**Salesforce**|[Strings With No k Consecutive Identical Characters](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-strings-with-no-k-consecutive-identical-characters)|Feb 06, 2026|
 |**Google**|[Closest-Timestamp Key-Value Queries](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|[![Practice][p]](https://www.fastprep.io/problems/google-closest-timestamp-key-value-queries)|Feb 06, 2026|
 |**Google**|[Top K Frequent Closest Points](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-frequent-closest-points)|Feb 06, 2026|
+|**IBM**|[Two Sum](https://www.fastprep.io/problems/ibm-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/ibm-two-sum)|Feb 06, 2026|
 |**Amazon**|[Lexicographically Smallest After One Substring Rotation](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-smallest-after-one-substring-rotation)|Feb 05, 2026|
 |**Google**|[Validate a Tree From Its Parent Array](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|[![Practice][p]](https://www.fastprep.io/problems/google-valid-tree-from-parent-array)|Feb 04, 2026|
 |**Uber**|[Binary Tree: Subtree Sum, Maximum Path Sum, and Path Nodes](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|[![Practice][p]](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Feb 04, 2026|
@@ -1932,5 +1933,4 @@
 |**Bloomberg LP**|[Binary Tree Inorder Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-inorder-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-inorder-traversal)|Apr 08, 2020|
 |**Bloomberg LP**|[Instant Runoff Election](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|Apr 08, 2020|
 |**Bloomberg LP**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|Apr 08, 2020|
-|**Bloomberg LP**|[Browser History by Frequency and Recency](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|Apr 02, 2020|
 <a id="bottom"></a>
