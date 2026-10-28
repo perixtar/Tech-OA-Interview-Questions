@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Cisco**|[Water Jug](https://www.fastprep.io/problems/cisco-water-jug-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-water-jug-problem)|Oct 22, 2024|
+|**Paypal**|[Find Min Price to Spend](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Oct 22, 2024|
 |**TikTok**|[Count Balanced Clilps](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|Oct 21, 2024|
 |**Patreon**|[Sum of Subarray Regions](https://www.fastprep.io/problems/patreon-sum-of-subarray-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/patreon-sum-of-subarray-regions)|Oct 21, 2024|
 |**Amazon**|[Planning the Campaign](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Oct 20, 2024|

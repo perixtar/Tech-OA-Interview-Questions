@@ -1187,6 +1187,7 @@
 |**Flipkart**|[Minimized Total Idle Time](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Dec 11, 2025|
 |**Apple**|[Plant Connected Vegetable Groups](https://www.fastprep.io/problems/apple-connected-vegetable-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-connected-vegetable-grid)|Dec 11, 2025|
 |**Apple**|[Online Counts over Time](https://www.fastprep.io/problems/apple-online-count-timeline)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-online-count-timeline)|Dec 11, 2025|
+|**Datadog**|[Design a Photo Match Notification Service](https://www.fastprep.io/system-design/photo-match-notification-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-match-notification-service)|Dec 11, 2025|
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Scale AI**|[Clock Hand Angle with Subsecond Precision](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Dec 07, 2025|
 |**Benchling**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Dec 06, 2025|
@@ -1270,6 +1271,7 @@
 |**Google**|[Design a Visual Similarity Search System](https://www.fastprep.io/system-design/visual-similarity-search-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/visual-similarity-search-system)|Oct 16, 2025|
 |**Notion**|[Sliding Window Median](https://www.fastprep.io/problems/notion-sliding-window-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-sliding-window-median)|Oct 16, 2025|
 |**Notion**|[Task Row Modifications](https://www.fastprep.io/problems/notion-task-row-modifications)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-task-row-modifications)|Oct 16, 2025|
+|**Datadog**|[Design a Frontend Alarm Management Console](https://www.fastprep.io/system-design/frontend-alarm-management-console)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-alarm-management-console)|Oct 16, 2025|
 |**Apple**|[LLM SDK Output Strategies](https://www.fastprep.io/problems/apple-llm-sdk-output-strategies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-llm-sdk-output-strategies)|Oct 15, 2025|
 |**Motive**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/motive-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-search-in-rotated-sorted-array)|Oct 11, 2025|
 |**Morgan Stanley**|[Model Room Appliances with OOP](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Oct 11, 2025|
@@ -1767,6 +1769,4 @@
 |**Amazon**|[Get Min Cost of Purchasing Books](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Oct 22, 2024|
 |**Amazon**|[Schedule Tasks](https://www.fastprep.io/problems/amazon-schedule-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-schedule-tasks)|Oct 22, 2024|
 |**Walmart**|[Candy Bars](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|Oct 22, 2024|
-|**Cisco**|[Water Jug](https://www.fastprep.io/problems/cisco-water-jug-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-water-jug-problem)|Oct 22, 2024|
-|**Paypal**|[Find Min Price to Spend](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Oct 22, 2024|
 <a id="bottom"></a>
