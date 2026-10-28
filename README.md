@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,841)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (636)](formats/system-design.md) · [Low-level design (193)](formats/low-level-design.md) · [AI coding (121)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,843)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (636)](formats/system-design.md) · [Low-level design (193)](formats/low-level-design.md) · [AI coding (121)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -40,9 +40,11 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Oracle**|[Cache an Expensive Service Across Threads](https://www.fastprep.io/problems/oracle-concurrent-expensive-service-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-concurrent-expensive-service-cache)|🔥 Oct 27, 2026|
 |**Walleye Capital**|[Minimum Testers to Find the Poisoned Bottle](https://www.fastprep.io/problems/walleye-poison-bottle-minimum-testers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walleye-poison-bottle-minimum-testers)|🔥 Oct 27, 2026|
 |**Walleye Capital**|[Squared Frobenius Norm of a Reflect-and-Stretch Map](https://www.fastprep.io/problems/walleye-reflect-stretch-frobenius-norm)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walleye-reflect-stretch-frobenius-norm)|🔥 Oct 27, 2026|
+|**Walleye Capital**|[Posterior of a Poisson Rate After Observing a Total](https://www.fastprep.io/problems/walleye-gamma-poisson-posterior)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walleye-gamma-poisson-posterior)|🔥 Oct 27, 2026|
 |**Nextdoor**|[Build a File Tree from Streamed Records](https://www.fastprep.io/problems/nextdoor-streaming-file-system-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nextdoor-streaming-file-system-tree)|🔥 Oct 27, 2026|
 |**Mercor**|[Expected Fake-Name Collisions](https://www.fastprep.io/problems/mercor-fake-name-expected-collisions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-fake-name-expected-collisions)|🔥 Oct 27, 2026|
 |**Mercor**|[Precision of Stacked PII Detector Flags](https://www.fastprep.io/problems/mercor-pii-detector-flag-precision)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-pii-detector-flag-precision)|🔥 Oct 27, 2026|
+|**Mercor**|[Length of a Document Reached Through a Random Token](https://www.fastprep.io/problems/mercor-token-sampled-document-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-token-sampled-document-length)|🔥 Oct 27, 2026|
 |**Google**|[Finish Time of Fixed-Length CPU Tasks](https://www.fastprep.io/problems/google-fixed-length-cpu-tasks-finish-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fixed-length-cpu-tasks-finish-time)|🔥 Oct 27, 2026|
 |**Google**|[Lowest-Bid Auction System](https://www.fastprep.io/problems/google-lowest-bid-auction-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lowest-bid-auction-system)|🔥 Oct 27, 2026|
 |**Google**|[Minimum Product Path in a Directed Graph](https://www.fastprep.io/problems/google-minimum-product-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-product-path)|🔥 Oct 27, 2026|
@@ -1686,6 +1688,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Explore an Unknown Grid and Find a Path](https://www.fastprep.io/problems/linkedin-explore-unknown-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-explore-unknown-grid-path)|Sep 09, 2026|
 |**Google**|[Minimum Root-to-Leaf Cut Cost](https://www.fastprep.io/problems/google-minimum-root-to-leaf-cut-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-root-to-leaf-cut-cost)|Sep 09, 2026|
 |**Google**|[Longest Consecutive Same-Color Line](https://www.fastprep.io/problems/google-longest-consecutive-same-color-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-consecutive-same-color-line)|Sep 09, 2026|
-|**DoorDash**|[Dasher Active Time](https://www.fastprep.io/problems/doordash-dasher-active-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-dasher-active-time)|Sep 09, 2026|
-|**Databricks**|[Rolling Hit Counter](https://www.fastprep.io/problems/databricks-rolling-hit-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-rolling-hit-counter)|Sep 09, 2026|
 <a id="bottom"></a>

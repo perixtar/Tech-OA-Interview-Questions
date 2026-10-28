@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**DoorDash**|[Dasher Active Time](https://www.fastprep.io/problems/doordash-dasher-active-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-dasher-active-time)|Sep 09, 2026|
+|**Databricks**|[Rolling Hit Counter](https://www.fastprep.io/problems/databricks-rolling-hit-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-rolling-hit-counter)|Sep 09, 2026|
 |**Citadel**|[Reference-Counted Deduplicating File System](https://www.fastprep.io/problems/citadel-reference-counted-deduplicating-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-reference-counted-deduplicating-file-system)|Sep 09, 2026|
 |**Apple**|[Palindrome Match Percentage](https://www.fastprep.io/problems/apple-palindrome-match-percentage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-palindrome-match-percentage)|Sep 09, 2026|
 |**Amazon**|[Meeting Rooms II](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-rooms-ii)|Sep 09, 2026|
@@ -1766,6 +1768,4 @@
 |**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 |**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
 |**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
-|**Clipboard Health**|[Design a Dimmer and Connected Bulbs System](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Oct 31, 2024|
-|**Navan**|[Roman to Integer](https://www.fastprep.io/problems/navan-roman-to-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-roman-to-integer)|Oct 31, 2024|
 <a id="bottom"></a>
