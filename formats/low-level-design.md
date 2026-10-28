@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Commvault / Oracle**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🔥 Oct 27, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 24, 2026|
 |**Amazon**|[Design an Agentic Chatbot Domain](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|🔥 Oct 24, 2026|
 |**FamPay / Atlassian**|[Design and Implement a Per-User Rate Limiter](https://www.fastprep.io/low-level-design/per-user-rate-limiter-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/per-user-rate-limiter-domain)|🔥 Oct 23, 2026|
@@ -91,7 +92,6 @@
 |**The D.E. Shaw Group**|[Design a Ride-Hailing Class Model](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|Sep 11, 2026|
 |**Wayfair**|[Design a Rental Product Circulation Domain](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Sep 11, 2026|
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Sep 09, 2026|
-|**Commvault**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|Sep 09, 2026|
 |**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Sep 09, 2026|
 |**Jane Street**|[Design a Cross-Exchange Arbitrage Engine](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/cross-exchange-arbitrage-engine)|Sep 08, 2026|
 |**Wex**|[Design a Threshold Logging and Alerting Model](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|[![Practice][p]](https://www.fastprep.io/low-level-design/threshold-logging-alerting)|Sep 08, 2026|

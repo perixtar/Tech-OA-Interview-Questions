@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Oct 22, 2024|
+|**Amazon**|[Get Min Cost of Purchasing Books](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Oct 22, 2024|
+|**Amazon**|[Schedule Tasks](https://www.fastprep.io/problems/amazon-schedule-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-schedule-tasks)|Oct 22, 2024|
 |**Walmart**|[Candy Bars](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|Oct 22, 2024|
 |**Cisco**|[Water Jug](https://www.fastprep.io/problems/cisco-water-jug-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-water-jug-problem)|Oct 22, 2024|
 |**Paypal**|[Find Min Price to Spend](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Oct 22, 2024|

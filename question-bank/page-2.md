@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Stripe**|[Asynchronous Payment Event Processing](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)|Sep 08, 2026|
+|**Capital One**|[Count Good Tuples](https://www.fastprep.io/problems/capital-one-count-good-tuples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-good-tuples)|Sep 08, 2026|
 |**Capital One**|[Diagonal Robot Path Sum](https://www.fastprep.io/problems/capital-one-diagonal-robot-path-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-diagonal-robot-path-sum)|Sep 08, 2026|
 |**Capital One**|[Rectangle Fit Queries](https://www.fastprep.io/problems/capital-one-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rectangle-fit-queries)|Sep 08, 2026|
 |**Capital One**|[Round-Robin WDL Order](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order)|Sep 08, 2026|
@@ -1766,7 +1768,4 @@
 |**Persona**|[Escape the Haunted Castle with Treasures](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|Oct 27, 2024|
 |**Google**|[Minimum-Cost Meeting City](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Oct 23, 2024|
 |**Amazon**|[Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smaller-items)|Oct 22, 2024|
-|**Amazon**|[About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Oct 22, 2024|
-|**Amazon**|[Get Min Cost of Purchasing Books](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Oct 22, 2024|
-|**Amazon**|[Schedule Tasks](https://www.fastprep.io/problems/amazon-schedule-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-schedule-tasks)|Oct 22, 2024|
 <a id="bottom"></a>

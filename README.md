@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,827)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (634)](formats/system-design.md) · [Low-level design (193)](formats/low-level-design.md) · [AI coding (119)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,827)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (636)](formats/system-design.md) · [Low-level design (193)](formats/low-level-design.md) · [AI coding (119)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🔥 Oct 27, 2026|
+|**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic / Datadog / WhatNot**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🔥 Oct 27, 2026|
+|**Commvault / Oracle**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🔥 Oct 27, 2026|
+|**Nextdoor**|[Design a Neighborhood News Feed with Black-Box Ranking](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|🔥 Oct 27, 2026|
+|**Oracle**|[Design Safe Patching and Image Rollout for a Storage Fleet](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|🔥 Oct 27, 2026|
 |**DocuSign / Walmart Labs / Alteryx**|[Design a Resilient E-Commerce Checkout](https://www.fastprep.io/system-design/resilient-ecommerce-checkout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-ecommerce-checkout)|🔥 Oct 26, 2026|
 |**Uber**|[Meal Delivery to Train Passengers](https://www.fastprep.io/system-design/train-station-meal-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/train-station-meal-delivery)|🔥 Oct 26, 2026|
 |**GoDaddy**|[Vehicle Violation Notifications](https://www.fastprep.io/system-design/vehicle-violation-notifications)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-violation-notifications)|🔥 Oct 26, 2026|
@@ -406,7 +410,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Uber**|[Design a Participant Meeting Scheduler](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|🆕 Oct 09, 2026|
 |**AMD**|[Insert After a Linked-List Node](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|🆕 Oct 09, 2026|
 |**AMD**|[LRU Cache](https://www.fastprep.io/problems/amd-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-lru-cache)|🆕 Oct 09, 2026|
-|**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic / Datadog**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🆕 Oct 09, 2026|
 |**OpenAI**|[Budgeted API Inference with Out-of-Order Feedback](https://www.fastprep.io/problems/openai-budgeted-api-inference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-budgeted-api-inference)|🆕 Oct 09, 2026|
 |**Susquehanna International Group (SIG)**|[Count Equal or One-Swap Number Pairs](https://www.fastprep.io/problems/susquehanna-count-one-swap-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-count-one-swap-number-pairs)|🆕 Oct 09, 2026|
 |**Susquehanna International Group (SIG)**|[Split a Matrix by Nonnegative Region Averages](https://www.fastprep.io/problems/susquehanna-partition-matrix-by-nonnegative-averages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-partition-matrix-by-nonnegative-averages)|🆕 Oct 09, 2026|
@@ -1639,7 +1642,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Maximum Elements With a Common Digit](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|Sep 09, 2026|
 |**Syfe**|[Design Flash-Sale Notification Fanout](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|Sep 09, 2026|
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Sep 09, 2026|
-|**Commvault**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|Sep 09, 2026|
 |**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Sep 09, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|Sep 09, 2026|
@@ -1689,6 +1691,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[Count Numbers with the Same Set-Bit Count](https://www.fastprep.io/problems/microsoft-count-same-bit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-same-bit-numbers)|Sep 08, 2026|
 |**Microsoft**|[Equalize Arrays with Prefix and Suffix Increments](https://www.fastprep.io/problems/microsoft-equalize-arrays-with-prefix-suffix-increments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-equalize-arrays-with-prefix-suffix-increments)|Sep 08, 2026|
 |**Amazon**|[Maximum System Memory Capacity](https://www.fastprep.io/problems/amazon-maximum-capacity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-capacity)|Sep 08, 2026|
-|**Stripe**|[Asynchronous Payment Event Processing](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)|Sep 08, 2026|
-|**Capital One**|[Count Good Tuples](https://www.fastprep.io/problems/capital-one-count-good-tuples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-good-tuples)|Sep 08, 2026|
 <a id="bottom"></a>
