@@ -571,6 +571,7 @@
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
 |**OnePay**|[Count Complete Toll Journeys](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Jul 23, 2026|
 |**OnePay**|[Per-Segment Speeding](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Jul 23, 2026|
+|**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|Jul 23, 2026|
 |**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
@@ -1767,5 +1768,4 @@
 |**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
 |**Clipboard Health**|[Design a Dimmer and Connected Bulbs System](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Oct 31, 2024|
 |**Navan**|[Roman to Integer](https://www.fastprep.io/problems/navan-roman-to-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-roman-to-integer)|Oct 31, 2024|
-|**Navan**|[Sort Colors](https://www.fastprep.io/problems/navan-sort-colors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-sort-colors)|Oct 31, 2024|
 <a id="bottom"></a>

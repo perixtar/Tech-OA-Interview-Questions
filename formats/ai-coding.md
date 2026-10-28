@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**119 questions**
+**121 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -84,6 +84,7 @@
 |**OpenAI**|[Repair a Deployed Django Rate Limiter](https://www.fastprep.io/project-coding/openai-django-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-django-rate-limiter)|Jul 31, 2026|
 |**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
 |**Coinbase / Airbnb**|[In-Memory Database](https://www.fastprep.io/project-coding/in-memory-database)|[![Practice][p]](https://www.fastprep.io/project-coding/in-memory-database)|Jul 27, 2026|
+|**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|Jul 23, 2026|
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
 |**ByteDance**|[Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|[![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|Jun 25, 2026|
 |**Stripe**|[Build an Image Prediction Pipeline](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|May 06, 2026|
@@ -126,5 +127,6 @@
 |**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 |**Shopify**|[Build a Warehouse Inventory Application](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|Jan 27, 2022|
 |**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
+|**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
 |**Datadog**|[Console Website Monitor](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|May 26, 2019|
 <a id="bottom"></a>

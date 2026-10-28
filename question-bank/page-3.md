@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Navan**|[Sort Colors](https://www.fastprep.io/problems/navan-sort-colors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-sort-colors)|Oct 31, 2024|
 |**Amazon**|[Find Min Variance](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Oct 30, 2024|
 |**Amazon**|[Find Min Time Required](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Oct 30, 2024|
 |**Amazon**|[Cleanup Dataset](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Oct 30, 2024|
@@ -1423,6 +1424,7 @@
 |**Vanguard**|[Remove Duplicate Anagrams](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|Sep 16, 2019|
 |**Vanguard**|[Design an Abstract Car Class](https://www.fastprep.io/low-level-design/abstract-car-class)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/abstract-car-class)|Sep 15, 2019|
 |**Vanguard**|[Compare High Score Counts](https://www.fastprep.io/problems/vanguard-compare-high-score-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-compare-high-score-counts)|Sep 15, 2019|
+|**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
 |**Motive**|[Parse a Valid Roman Numeral](https://www.fastprep.io/problems/motive-valid-roman-numeral)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-roman-numeral)|Aug 17, 2019|
 |**Mygate**|[Issue Non-repeating OTPs in a Time Window](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|Aug 03, 2019|
