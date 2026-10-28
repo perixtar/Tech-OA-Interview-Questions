@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**LinkedIn**|[Explore an Unknown Grid and Find a Path](https://www.fastprep.io/problems/linkedin-explore-unknown-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-explore-unknown-grid-path)|Sep 09, 2026|
+|**Google**|[Minimum Root-to-Leaf Cut Cost](https://www.fastprep.io/problems/google-minimum-root-to-leaf-cut-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-root-to-leaf-cut-cost)|Sep 09, 2026|
+|**Google**|[Longest Consecutive Same-Color Line](https://www.fastprep.io/problems/google-longest-consecutive-same-color-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-consecutive-same-color-line)|Sep 09, 2026|
 |**DoorDash**|[Dasher Active Time](https://www.fastprep.io/problems/doordash-dasher-active-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-dasher-active-time)|Sep 09, 2026|
 |**Databricks**|[Rolling Hit Counter](https://www.fastprep.io/problems/databricks-rolling-hit-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-rolling-hit-counter)|Sep 09, 2026|
 |**Citadel**|[Reference-Counted Deduplicating File System](https://www.fastprep.io/problems/citadel-reference-counted-deduplicating-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-reference-counted-deduplicating-file-system)|Sep 09, 2026|
@@ -1650,7 +1653,6 @@
 |**Mygate**|[Frog Jump: Minimum Energy](https://www.fastprep.io/problems/mygate-frog-jump)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-frog-jump)|Jan 07, 2025|
 |**Mygate**|[Left View of a Binary Tree](https://www.fastprep.io/problems/mygate-left-view-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-left-view-binary-tree)|Jan 07, 2025|
 |**Mygate**|[Elements Occurring More Than n/3 Times](https://www.fastprep.io/problems/mygate-majority-over-n-third)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-majority-over-n-third)|Jan 07, 2025|
-|**Google**|[Design and Implement a Meeting-Room Scheduler](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|Jan 06, 2025|
 |**Amazon**|[Find Max Value](https://www.fastprep.io/problems/amazon-find-max-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-max-value)|Jan 05, 2025|
 |**Amazon**|[Get Max Events](https://www.fastprep.io/problems/amazon-get-maximum-events)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-events)|Jan 05, 2025|
 |**TikTok**|[TikTok Spam Filter](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Jan 04, 2025|
@@ -1766,6 +1768,4 @@
 |**Stripe**|[Register and Transfer Brazilian Receivables](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Nov 08, 2024|
 |**Stripe**|[Brazilian Receivables Part 3 — Partial Contracts](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Nov 08, 2024|
 |**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
-|**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
-|**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
 <a id="bottom"></a>

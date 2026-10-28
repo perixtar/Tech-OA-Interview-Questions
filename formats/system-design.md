@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**636 questions**
+**637 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -11,6 +11,7 @@
 |**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic / Datadog / WhatNot**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🔥 Oct 27, 2026|
 |**Nextdoor**|[Design a Neighborhood News Feed with Black-Box Ranking](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|🔥 Oct 27, 2026|
 |**Oracle**|[Design Safe Patching and Image Rollout for a Storage Fleet](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|[![Practice][p]](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|🔥 Oct 27, 2026|
+|**Amazon**|[Design a Marketplace Product Review System](https://www.fastprep.io/system-design/marketplace-product-review-system)|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-review-system)|🔥 Oct 27, 2026|
 |**DocuSign / Walmart Labs / Alteryx**|[Design a Resilient E-Commerce Checkout](https://www.fastprep.io/system-design/resilient-ecommerce-checkout)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-ecommerce-checkout)|🔥 Oct 26, 2026|
 |**Uber**|[Meal Delivery to Train Passengers](https://www.fastprep.io/system-design/train-station-meal-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/train-station-meal-delivery)|🔥 Oct 26, 2026|
 |**GoDaddy**|[Vehicle Violation Notifications](https://www.fastprep.io/system-design/vehicle-violation-notifications)|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-violation-notifications)|🔥 Oct 26, 2026|
