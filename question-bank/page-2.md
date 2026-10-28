@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Nuro**|[Thread-Safe Task Storage and Worker Dispatch](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Sep 09, 2026|
+|**Nuro**|[Group Sparse Points by Distance Threshold](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Sep 09, 2026|
+|**Nuro**|[Course Ordering with Concurrent Updates](https://www.fastprep.io/problems/nuro-course-schedule-ii-thread-safe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-course-schedule-ii-thread-safe)|Sep 09, 2026|
+|**LinkedIn**|[Schedule Tasks with an Interval Tree](https://www.fastprep.io/problems/linkedin-interval-tree-task-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-interval-tree-task-scheduling)|Sep 09, 2026|
 |**LinkedIn**|[Explore an Unknown Grid and Find a Path](https://www.fastprep.io/problems/linkedin-explore-unknown-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-explore-unknown-grid-path)|Sep 09, 2026|
 |**Google**|[Minimum Root-to-Leaf Cut Cost](https://www.fastprep.io/problems/google-minimum-root-to-leaf-cut-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-root-to-leaf-cut-cost)|Sep 09, 2026|
 |**Google**|[Longest Consecutive Same-Color Line](https://www.fastprep.io/problems/google-longest-consecutive-same-color-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-consecutive-same-color-line)|Sep 09, 2026|
@@ -1247,7 +1251,6 @@
 |**Vanguard**|[Are They Pangrams](https://www.fastprep.io/problems/vanguard-are-they-pangrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-are-they-pangrams)|Nov 13, 2025|
 |**Vanguard**|[Missing Words](https://www.fastprep.io/problems/vanguard-missing-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-missing-words)|Nov 13, 2025|
 |**Vanguard**|[Spam Detection](https://www.fastprep.io/problems/vanguard-spam-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-spam-detection)|Nov 13, 2025|
-|**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Rippling**|[Split Text by Multiple Delimiters](https://www.fastprep.io/problems/rippling-split-text-by-multiple-delimiters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-split-text-by-multiple-delimiters)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Bloomberg LP**|[Flatten a Multilevel Singly Linked List](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Nov 11, 2025|
@@ -1765,7 +1768,4 @@
 |**AT&T**|[Counting Triplets Divisible by D](https://www.fastprep.io/problems/att-counting-triplets-divisible-by-d)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-counting-triplets-divisible-by-d)|Nov 08, 2024|
 |**AT&T**|[Project Estimates](https://www.fastprep.io/problems/att-project-estimates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-project-estimates)|Nov 08, 2024|
 |**AT&T**|[Advertising System Failures Report](https://www.fastprep.io/problems/att-advertising-system-failures-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/att-advertising-system-failures-report)|Nov 08, 2024|
-|**Stripe**|[Register and Transfer Brazilian Receivables](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Nov 08, 2024|
-|**Stripe**|[Brazilian Receivables Part 3 — Partial Contracts](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Nov 08, 2024|
-|**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 <a id="bottom"></a>
