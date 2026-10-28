@@ -76,6 +76,7 @@
 |**Commure**|[Design Monthly Stream Royalties and Artist Payouts](https://www.fastprep.io/system-design/monthly-stream-royalty-payouts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/monthly-stream-royalty-payouts)|Sep 04, 2026|
 |**David AI**|[Design an Audio AI Processing Backend](https://www.fastprep.io/system-design/audio-ai-processing-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/audio-ai-processing-backend)|Sep 04, 2026|
 |**Amazon**|[Latest-Timestamp Key-Value Store](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Sep 04, 2026|
+|**Datadog**|[Review a Batched Processor Pull Request](https://www.fastprep.io/project-coding/datadog-batch-processor-pr-review)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-batch-processor-pr-review)|Sep 04, 2026|
 |**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|Sep 03, 2026|
 |**Abridge**|[Clone a Connected Graph](https://www.fastprep.io/problems/abridge-clone-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abridge-clone-graph)|Sep 03, 2026|
 |**Astrotalk**|[Design a Cached Astrologer Listing Service](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|Sep 03, 2026|
@@ -1768,5 +1769,4 @@
 |**Amazon**|[About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Oct 22, 2024|
 |**Amazon**|[Get Min Cost of Purchasing Books](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Oct 22, 2024|
 |**Amazon**|[Schedule Tasks](https://www.fastprep.io/problems/amazon-schedule-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-schedule-tasks)|Oct 22, 2024|
-|**Walmart**|[Candy Bars](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|Oct 22, 2024|
 <a id="bottom"></a>
