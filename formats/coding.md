@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,841 questions**
+**3,843 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -15,9 +15,11 @@
 |**Oracle**|[Cache an Expensive Service Across Threads](https://www.fastprep.io/problems/oracle-concurrent-expensive-service-cache)|[![Practice][p]](https://www.fastprep.io/problems/oracle-concurrent-expensive-service-cache)|🔥 Oct 27, 2026|
 |**Walleye Capital**|[Minimum Testers to Find the Poisoned Bottle](https://www.fastprep.io/problems/walleye-poison-bottle-minimum-testers)|[![Practice][p]](https://www.fastprep.io/problems/walleye-poison-bottle-minimum-testers)|🔥 Oct 27, 2026|
 |**Walleye Capital**|[Squared Frobenius Norm of a Reflect-and-Stretch Map](https://www.fastprep.io/problems/walleye-reflect-stretch-frobenius-norm)|[![Practice][p]](https://www.fastprep.io/problems/walleye-reflect-stretch-frobenius-norm)|🔥 Oct 27, 2026|
+|**Walleye Capital**|[Posterior of a Poisson Rate After Observing a Total](https://www.fastprep.io/problems/walleye-gamma-poisson-posterior)|[![Practice][p]](https://www.fastprep.io/problems/walleye-gamma-poisson-posterior)|🔥 Oct 27, 2026|
 |**Nextdoor**|[Build a File Tree from Streamed Records](https://www.fastprep.io/problems/nextdoor-streaming-file-system-tree)|[![Practice][p]](https://www.fastprep.io/problems/nextdoor-streaming-file-system-tree)|🔥 Oct 27, 2026|
 |**Mercor**|[Expected Fake-Name Collisions](https://www.fastprep.io/problems/mercor-fake-name-expected-collisions)|[![Practice][p]](https://www.fastprep.io/problems/mercor-fake-name-expected-collisions)|🔥 Oct 27, 2026|
 |**Mercor**|[Precision of Stacked PII Detector Flags](https://www.fastprep.io/problems/mercor-pii-detector-flag-precision)|[![Practice][p]](https://www.fastprep.io/problems/mercor-pii-detector-flag-precision)|🔥 Oct 27, 2026|
+|**Mercor**|[Length of a Document Reached Through a Random Token](https://www.fastprep.io/problems/mercor-token-sampled-document-length)|[![Practice][p]](https://www.fastprep.io/problems/mercor-token-sampled-document-length)|🔥 Oct 27, 2026|
 |**Google**|[Finish Time of Fixed-Length CPU Tasks](https://www.fastprep.io/problems/google-fixed-length-cpu-tasks-finish-time)|[![Practice][p]](https://www.fastprep.io/problems/google-fixed-length-cpu-tasks-finish-time)|🔥 Oct 27, 2026|
 |**Google**|[Lowest-Bid Auction System](https://www.fastprep.io/problems/google-lowest-bid-auction-system)|[![Practice][p]](https://www.fastprep.io/problems/google-lowest-bid-auction-system)|🔥 Oct 27, 2026|
 |**Google**|[Minimum Product Path in a Directed Graph](https://www.fastprep.io/problems/google-minimum-product-path)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-product-path)|🔥 Oct 27, 2026|
@@ -1824,6 +1826,4 @@
 |**Uber**|[Maximal Square Area](https://www.fastprep.io/problems/uber-maximal-square-area)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximal-square-area)|May 11, 2026|
 |**Snowflake**|[Closest Bathroom / Desk on a Grid](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|May 11, 2026|
 |**Snowflake**|[Minimum Index Distance Between Person and Cake](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|May 11, 2026|
-|**Crusoe**|[Interval Usage with Non-Overlapping Overrides](https://www.fastprep.io/problems/crusoe-interval-usage-with-overrides)|[![Practice][p]](https://www.fastprep.io/problems/crusoe-interval-usage-with-overrides)|May 11, 2026|
-|**DoorDash**|[Maximize Total Profit by Assigning Chefs to Dishes](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|May 11, 2026|
 <a id="bottom"></a>
