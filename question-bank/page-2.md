@@ -9,6 +9,25 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Sep 09, 2026|
+|**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|Sep 09, 2026|
+|**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|Sep 09, 2026|
+|**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|Sep 09, 2026|
+|**Nuro / Motive**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|Sep 09, 2026|
+|**Nuro**|[Design Petabyte-Scale Range Search for Large Rows](https://www.fastprep.io/system-design/large-row-range-query-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-row-range-query-search)|Sep 09, 2026|
+|**Verkada**|[Build SQLite-Backed GET and POST Endpoints](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|Sep 09, 2026|
+|**Tekion**|[Open Lockers After Toggle Passes](https://www.fastprep.io/problems/tekion-100-lockers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-100-lockers)|Sep 09, 2026|
+|**Tekion**|[Coin Game From The Ends](https://www.fastprep.io/problems/tekion-coin-game-from-ends)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-coin-game-from-ends)|Sep 09, 2026|
+|**Tesla**|[Resilient Fake API Client](https://www.fastprep.io/problems/tesla-resilient-fake-api-client)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-resilient-fake-api-client)|Sep 09, 2026|
+|**Stripe**|[Rank Linked Merchants by Weighted Shared Attributes](https://www.fastprep.io/problems/stripe-weighted-linked-merchants-by-shared-attributes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-weighted-linked-merchants-by-shared-attributes)|Sep 09, 2026|
+|**Stripe**|[Project and Filter Structured Records](https://www.fastprep.io/problems/stripe-project-and-filter-structured-records)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-project-and-filter-structured-records)|Sep 09, 2026|
+|**Strala**|[Evaluate Live Spreadsheet Expressions](https://www.fastprep.io/problems/strala-spreadsheet-cell-expressions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/strala-spreadsheet-cell-expressions)|Sep 09, 2026|
+|**Square**|[Map Black Cells to Covering 2x2 Blocks](https://www.fastprep.io/problems/square-map-black-cells-to-covering-blocks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/square-map-black-cells-to-covering-blocks)|Sep 09, 2026|
+|**Runloop**|[In-Memory Meeting Room Manager](https://www.fastprep.io/problems/runloop-in-memory-meeting-room-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/runloop-in-memory-meeting-room-manager)|Sep 09, 2026|
+|**Roblox**|[Track Received Byte Ranges](https://www.fastprep.io/problems/roblox-track-received-byte-ranges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-track-received-byte-ranges)|Sep 09, 2026|
+|**Reducto**|[Recover Document Hierarchy from Indentation](https://www.fastprep.io/problems/reducto-document-text-indentation-hierarchy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reducto-document-text-indentation-hierarchy)|Sep 09, 2026|
+|**Nuro**|[Versioned Key-Value Store with Suffix Truncation](https://www.fastprep.io/problems/nuro-versioned-key-value-store-with-truncation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-versioned-key-value-store-with-truncation)|Sep 09, 2026|
+|**Nuro**|[Trapping Rain Water](https://www.fastprep.io/problems/nuro-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-trapping-rain-water)|Sep 09, 2026|
 |**Nuro**|[Thread-Safe Task Storage and Worker Dispatch](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Sep 09, 2026|
 |**Nuro**|[Group Sparse Points by Distance Threshold](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Sep 09, 2026|
 |**Nuro**|[Course Ordering with Concurrent Updates](https://www.fastprep.io/problems/nuro-course-schedule-ii-thread-safe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-course-schedule-ii-thread-safe)|Sep 09, 2026|
@@ -888,7 +907,6 @@
 |**Akuna**|[Maximum Difference](https://www.fastprep.io/problems/akuna-maximum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-difference)|May 25, 2026|
 |**Amazon**|[Product Category Group Sizes](https://www.fastprep.io/problems/amazon-product-category-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-category-groups)|May 23, 2026|
 |**Uber**|[Tournament Rounds by Rank](https://www.fastprep.io/problems/uber-tournament-rounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-tournament-rounds)|May 23, 2026|
-|**Uber**|[Earliest Time All Users Are Connected](https://www.fastprep.io/problems/uber-earliest-full-connection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-earliest-full-connection)|May 23, 2026|
 |**Meta**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/meta-merge-three-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-merge-three-sorted-arrays)|May 23, 2026|
 |**Amazon**|[Count Connected Components](https://www.fastprep.io/problems/amazon-count-connected-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-connected-components)|May 21, 2026|
 |**Postman**|[Design a Social Feed and Post Detail Experience](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|May 21, 2026|
@@ -1747,25 +1765,4 @@
 |**IBM**|[Card Packs](https://www.fastprep.io/problems/ibm-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-card-packets)|Nov 24, 2024|
 |**Amazon**|[Min Chars to Append](https://www.fastprep.io/problems/amazon-determine-minimum-characters-to-append)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-minimum-characters-to-append)|Nov 23, 2024|
 |**Cisco**|[Find Max Difference](https://www.fastprep.io/problems/cisco-find-maximum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-difference)|Nov 21, 2024|
-|**Confluent**|[Design a Leader-Based Distributed Key-Value Store](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|Nov 21, 2024|
-|**Bloomberg LP**|[Count Index Pairs with a Target Sum](https://www.fastprep.io/problems/bloomberg-count-index-pairs-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-index-pairs-target-sum)|Nov 21, 2024|
-|**Amazon**|[Reduce Memory Usage](https://www.fastprep.io/problems/amazon-reduce-memory-usage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-reduce-memory-usage)|Nov 20, 2024|
-|**Salesforce**|[Minimize Total Input Cost](https://www.fastprep.io/problems/salesforce-minimize-total-input-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimize-total-input-cost)|Nov 20, 2024|
-|**Google**|[Get Meeting Intervals](https://www.fastprep.io/problems/google-get-meeting-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-get-meeting-intervals)|Nov 20, 2024|
-|**Amazon**|[Get Min Change](https://www.fastprep.io/problems/amazon-get-minimum-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-changes)|Nov 18, 2024|
-|**Amazon**|[Calculate Truck Distance](https://www.fastprep.io/problems/amazon-calculate-truck-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-truck-distance)|Nov 18, 2024|
-|**Rubrik**|[Get Min Operations](https://www.fastprep.io/problems/rubrik-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-get-min-operations)|Nov 18, 2024|
-|**Rubrik**|[Get Triplet Count](https://www.fastprep.io/problems/rubrik-get-triplet-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-get-triplet-count)|Nov 18, 2024|
-|**Rubrik**|[Find Pod Count](https://www.fastprep.io/problems/rubrik-find-pod-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-find-pod-count)|Nov 18, 2024|
-|**Amazon**|[Find Ideal Days](https://www.fastprep.io/problems/amazon-find-ideal-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-ideal-days)|Nov 17, 2024|
-|**TikTok**|[Calculate Max Processing Throughput](https://www.fastprep.io/problems/tiktok-calculate-max-processing-throughput)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-max-processing-throughput)|Nov 17, 2024|
-|**TikTok**|[Get Total Impact](https://www.fastprep.io/problems/tiktok-get-total-impact)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-total-impact)|Nov 17, 2024|
-|**TikTok**|[Max Profits](https://www.fastprep.io/problems/tiktok-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-max-profit)|Nov 17, 2024|
-|**Paypal**|[Find Min Price](https://www.fastprep.io/problems/paypal-find-minimum-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypal-find-minimum-price)|Nov 17, 2024|
-|**Amazon**|[Get Min Moves](https://www.fastprep.io/problems/amazon-get-min-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-moves)|Nov 14, 2024|
-|**Amazon**|[Minimize Effort](https://www.fastprep.io/problems/amazon-minimize-effort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-effort)|Nov 14, 2024|
-|**Amazon**|[Get Max Discount Pairs](https://www.fastprep.io/problems/amazon-get-max-discount-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-discount-pairs)|Nov 13, 2024|
-|**Google**|[Get Components in Forest](https://www.fastprep.io/problems/google-get-components-in-forest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-get-components-in-forest)|Nov 13, 2024|
-|**Google**|[Find Max Frequency](https://www.fastprep.io/problems/google-find-maximum-frequency-of-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-frequency-of-number)|Nov 13, 2024|
-|**Microsoft**|[Reverse An Integer](https://www.fastprep.io/problems/microsoft-reverse-an-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-reverse-an-integer)|Nov 13, 2024|
 <a id="bottom"></a>

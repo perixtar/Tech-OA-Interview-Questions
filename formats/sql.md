@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**81 questions**
+**84 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Pelatro**|[Records Created or Updated in a Time Window](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|[![Practice][p]](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|🔥 Oct 26, 2026|
+|**Birla Pivot**|[Bond Holders Above the Cash Flow Threshold](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|🔥 Oct 26, 2026|
+|**Birla Pivot**|[Students and Their Subjects](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|🔥 Oct 26, 2026|
 |**Dell Technologies**|[Departments Without Employees](https://www.fastprep.io/problems/dell-departments-without-employees)|[![Practice][p]](https://www.fastprep.io/problems/dell-departments-without-employees)|🔥 Oct 20, 2026|
 |**Chubb**|[Second-Highest Salary](https://www.fastprep.io/problems/chubb-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/chubb-second-highest-salary)|🔥 Oct 19, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
