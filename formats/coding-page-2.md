@@ -2,12 +2,48 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,891 questions**
+**3,924 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**HSBC**|[Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Jun 21, 2026|
+|**Amazon**|[Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Jun 19, 2026|
+|**Meesho**|[Efficient Deployments](https://www.fastprep.io/problems/meesho-efficient-deployments)|[![Practice][p]](https://www.fastprep.io/problems/meesho-efficient-deployments)|Jun 18, 2026|
+|**Google**|[Minimum Tree Value After Leaf Relocations](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Jun 18, 2026|
+|**Maven Clinic**|[Minimum Appointment Cancellations with a Required Break](https://www.fastprep.io/problems/maven-clinic-minimum-appointment-cancellations)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-minimum-appointment-cancellations)|Jun 18, 2026|
+|**Visa**|[Maximum Even Tag Sum](https://www.fastprep.io/problems/visa-maximum-even-tag-sum)|[![Practice][p]](https://www.fastprep.io/problems/visa-maximum-even-tag-sum)|Jun 17, 2026|
+|**Visa**|[Transform Binary Matrix](https://www.fastprep.io/problems/visa-transform-binary-matrix)|[![Practice][p]](https://www.fastprep.io/problems/visa-transform-binary-matrix)|Jun 17, 2026|
+|**Walmart**|[K-Capable Model Selection](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|[![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|Jun 16, 2026|
+|**Scale AI**|[Task Processor: Dependencies and Deadlines](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Jun 14, 2026|
+|**Shopify**|[Mars Rover Robot Controller](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|[![Practice][p]](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|Jun 13, 2026|
+|**Luma AI**|[Center Crop a Grayscale Image](https://www.fastprep.io/problems/luma-ai-center-crop)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-center-crop)|Jun 12, 2026|
+|**Luma AI**|[Rotate a Rectangular Image Clockwise](https://www.fastprep.io/problems/luma-ai-rotate-image-clockwise)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-rotate-image-clockwise)|Jun 12, 2026|
+|**Luma AI**|[Numerically Stable Softmax](https://www.fastprep.io/problems/luma-ai-stable-softmax)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-stable-softmax)|Jun 12, 2026|
+|**Luma AI**|[Build a Gaussian Blur Kernel](https://www.fastprep.io/problems/luma-ai-gaussian-blur-kernel)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-gaussian-blur-kernel)|Jun 12, 2026|
+|**Luma AI**|[Triangle Flags from Adjacent Elements](https://www.fastprep.io/problems/luma-ai-adjacent-triangle-flags)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-adjacent-triangle-flags)|Jun 12, 2026|
+|**Luma AI**|[Minimum Euclidean Distance Between Points](https://www.fastprep.io/problems/luma-ai-minimum-euclidean-distance)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-minimum-euclidean-distance)|Jun 12, 2026|
+|**Luma AI**|[Impute Missing Values and Normalize Columns](https://www.fastprep.io/problems/luma-ai-impute-and-normalize-columns)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-impute-and-normalize-columns)|Jun 12, 2026|
+|**Rippling**|[In-Memory Fixed-Window Rate Limiter](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Jun 10, 2026|
+|**Salesforce**|[Count Prime Strings](https://www.fastprep.io/problems/salesforce-count-prime-strings)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Jun 10, 2026|
+|**IMC Trading**|[Matching Engine with Order Cancellation](https://www.fastprep.io/problems/imc-matching-engine-with-order-cancellation)|[![Practice][p]](https://www.fastprep.io/problems/imc-matching-engine-with-order-cancellation)|Jun 10, 2026|
+|**Amazon**|[Select Least Resource Tasks](https://www.fastprep.io/problems/amazon-select-least-resource-tasks)|[![Practice][p]](https://www.fastprep.io/problems/amazon-select-least-resource-tasks)|Jun 09, 2026|
+|**Amazon**|[Get Smallest Base Segment](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Jun 09, 2026|
+|**Amazon**|[Count Promotional Periods](https://www.fastprep.io/problems/amazon-count-promotional-periods)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Jun 09, 2026|
+|**Agoda**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Jun 08, 2026|
+|**Notion**|[Nested Todo List](https://www.fastprep.io/problems/notion-nested-todo-list)|[![Practice][p]](https://www.fastprep.io/problems/notion-nested-todo-list)|Jun 07, 2026|
+|**Hebbia**|[Detect a Winner on a 3x3 Tic-Tac-Toe Board](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|[![Practice][p]](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Jun 06, 2026|
+|**Notion**|[Top Error Types in a Time Window](https://www.fastprep.io/problems/notion-top-error-types-in-window)|[![Practice][p]](https://www.fastprep.io/problems/notion-top-error-types-in-window)|Jun 05, 2026|
+|**JP Morgan**|[About Shipping](https://www.fastprep.io/problems/jpmorgan-about-shipping)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Jun 04, 2026|
+|**Netflix**|[Topological Sort for Ads Tasks](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|[![Practice][p]](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|Jun 04, 2026|
+|**Alpaca**|[Hungarian Lottery Winner Counts](https://www.fastprep.io/problems/alpaca-hungarian-lottery-winners)|[![Practice][p]](https://www.fastprep.io/problems/alpaca-hungarian-lottery-winners)|Jun 02, 2026|
+|**Runway**|[N Gram Next Token Prediction](https://www.fastprep.io/problems/runway-ngram-next-token-prediction)|[![Practice][p]](https://www.fastprep.io/problems/runway-ngram-next-token-prediction)|Jun 02, 2026|
+|**Google**|[Consolidate On-Call Rotations](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|[![Practice][p]](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|Jun 02, 2026|
+|**Character.AI**|[Minimum Window Substring](https://www.fastprep.io/problems/character-ai-minimum-window-substring)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-minimum-window-substring)|Jun 02, 2026|
+|**Uber**|[Jump Game with Prime-3 Steps](https://www.fastprep.io/problems/uber-jump-game-prime-3-steps)|[![Practice][p]](https://www.fastprep.io/problems/uber-jump-game-prime-3-steps)|Jun 01, 2026|
+|**Uber**|[Total Palindrome Substring Cost](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|[![Practice][p]](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|Jun 01, 2026|
+|**Capital One**|[Count Numbers with Even Number of Digits](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|May 31, 2026|
 |**Capital One**|[Longest Same-Character Substring](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|May 31, 2026|
 |**Capital One**|[Count House Segments After Destruction](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|May 31, 2026|
 |**Capital One**|[Laser Robot Safe Path](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|May 31, 2026|
@@ -1898,39 +1934,4 @@
 |**ZipRecruiter**|[Center-Outward Number Spiral](https://www.fastprep.io/problems/ziprecruiter-center-outward-number-spiral)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-center-outward-number-spiral)|Jun 14, 2021|
 |**Bloomberg LP**|[Consecutive Characters](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|Jun 08, 2021|
 |**Bloomberg LP**|[Flatten Binary Tree to Linked List](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Jun 04, 2021|
-|**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
-|**SambaNova Systems**|[Ugly Number](https://www.fastprep.io/problems/sambanova-ugly-number)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-ugly-number)|Apr 02, 2021|
-|**Bloomberg LP**|[Lottery with Add and Pick Operations](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|Apr 01, 2021|
-|**Bloomberg LP**|[Minimum Operations with Multiply by Two and Divide by Three](https://www.fastprep.io/problems/bloomberg-multiply-two-divide-three-shortest-path)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-multiply-two-divide-three-shortest-path)|Apr 01, 2021|
-|**Bloomberg LP**|[Number of Islands in Three Dimensions](https://www.fastprep.io/problems/bloomberg-number-of-islands-in-3d)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands-in-3d)|Apr 01, 2021|
-|**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|
-|**Airbnb**|[Construct a Possible Bipartition](https://www.fastprep.io/problems/airbnb-bipartition-groups)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-bipartition-groups)|Mar 09, 2021|
-|**Bloomberg LP**|[Design HashMap](https://www.fastprep.io/problems/bloomberg-design-hashmap)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Mar 08, 2021|
-|**Bloomberg LP**|[Alien Dictionary](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Feb 26, 2021|
-|**Bloomberg LP**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Feb 26, 2021|
-|**Bloomberg LP**|[The Maze](https://www.fastprep.io/problems/bloomberg-the-maze)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-the-maze)|Feb 26, 2021|
-|**Bloomberg LP**|[Find Bottom Left Tree Value](https://www.fastprep.io/problems/bloomberg-find-bottom-left-tree-value)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-bottom-left-tree-value)|Feb 24, 2021|
-|**Bloomberg LP**|[Text Justification](https://www.fastprep.io/problems/bloomberg-text-justification)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-text-justification)|Feb 24, 2021|
-|**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
-|**Bloomberg LP**|[Remove Adjacent Duplicates in String II](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Feb 23, 2021|
-|**ZipRecruiter**|[Missing Ranges within Inclusive Bounds](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|Feb 20, 2021|
-|**Bloomberg LP**|[Count Target Occurrences in a Sorted Array](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|Feb 19, 2021|
-|**Marshall Wace**|[Count Sunk and Damaged Battleships (Practice Reconstruction)](https://www.fastprep.io/problems/marshall-wace-battleship-reconstruction)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-battleship-reconstruction)|Feb 09, 2021|
-|**Marshall Wace**|[Operations to Reduce a Binary String Value to Zero](https://www.fastprep.io/problems/marshall-wace-binary-reduction-steps)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-binary-reduction-steps)|Feb 09, 2021|
-|**Marshall Wace**|[Construct Distinct Integers Summing to Zero](https://www.fastprep.io/problems/marshall-wace-distinct-zero-sum-array)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-distinct-zero-sum-array)|Feb 09, 2021|
-|**Marshall Wace**|[Minimum Deletions to Make Every Letter Count Even](https://www.fastprep.io/problems/marshall-wace-even-letter-deletions)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-even-letter-deletions)|Feb 09, 2021|
-|**Bloomberg LP**|[Fibonacci Number](https://www.fastprep.io/problems/bloomberg-fibonacci-number)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-fibonacci-number)|Feb 03, 2021|
-|**Bloomberg LP**|[Coin Change](https://www.fastprep.io/problems/bloomberg-coin-change)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change)|Feb 02, 2021|
-|**Bloomberg LP**|[Path Existence in an Undirected Graph](https://www.fastprep.io/problems/bloomberg-graph-path-existence)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-graph-path-existence)|Feb 02, 2021|
-|**Bloomberg LP**|[Remove Nth Node From End](https://www.fastprep.io/problems/bloomberg-remove-nth-node-from-end)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-nth-node-from-end)|Feb 02, 2021|
-|**Bloomberg LP**|[Reconstruct Itinerary](https://www.fastprep.io/problems/bloomberg-reconstruct-itinerary)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-reconstruct-itinerary)|Jan 30, 2021|
-|**Bloomberg LP**|[LFU Cache](https://www.fastprep.io/problems/bloomberg-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lfu-cache)|Jan 28, 2021|
-|**Bloomberg LP**|[Minimum-Step Right-Down Grid Path](https://www.fastprep.io/problems/bloomberg-minimum-step-right-down-grid-path)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-step-right-down-grid-path)|Jan 28, 2021|
-|**Bloomberg LP**|[Rotate List](https://www.fastprep.io/problems/bloomberg-rotate-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rotate-list)|Jan 28, 2021|
-|**SpaceX**|[Find the Duplicate Number](https://www.fastprep.io/problems/spacex-duplicate-number)|[![Practice][p]](https://www.fastprep.io/problems/spacex-duplicate-number)|Jan 27, 2021|
-|**Bloomberg LP**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/bloomberg-lowest-common-ancestor-of-a-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lowest-common-ancestor-of-a-binary-tree)|Jan 20, 2021|
-|**Bloomberg LP**|[Number of Distinct Islands](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Jan 20, 2021|
-|**Bloomberg LP**|[Target Sum Across Two Sorted Arrays](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Jan 17, 2021|
-|**Bloomberg LP**|[Coin Change II](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Jan 12, 2021|
-|**Scale AI**|[Adjacent Order-Statistic Gap Distributions](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Jan 08, 2021|
 <a id="bottom"></a>
