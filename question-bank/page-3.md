@@ -9,6 +9,22 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Feb 10, 2025|
+|**TikTok**|[Playlist Partitioning](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Feb 09, 2025|
+|**TikTok**|[Change Username](https://www.fastprep.io/problems/tiktok-changing-username)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-changing-username)|Feb 09, 2025|
+|**Microsoft**|[Maximize Number Of Produced Cars](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|Feb 08, 2025|
+|**Microsoft**|[Minimize Tokens Remaining](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|Feb 08, 2025|
+|**Tennr**|[Find First and Last Position in Sorted Array](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|Feb 06, 2025|
+|**Meta**|[Top Five Stories by Latest Popularity](https://www.fastprep.io/problems/meta-top-five-stories-by-popularity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-top-five-stories-by-popularity)|Feb 06, 2025|
+|**Amazon**|[Max Number of Products You can Pick](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|Feb 05, 2025|
+|**Amazon**|[Maximize Sum of Array Multiplication](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Feb 05, 2025|
+|**Amazon**|[Sum of Max Subarrys](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Feb 02, 2025|
+|**Amazon**|[Get Maximum](https://www.fastprep.io/problems/amazon-get-maximum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum)|Feb 02, 2025|
+|**IMC Trading**|[Stock Transfer Minimization](https://www.fastprep.io/project-coding/stock-transfer-minimization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stock-transfer-minimization)|Jan 29, 2025|
+|**Figma**|[Topmost Accessible Nodes](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Jan 28, 2025|
+|**Google**|[Design Distributed Article Word-Count Aggregation](https://www.fastprep.io/system-design/distributed-article-word-count)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-article-word-count)|Jan 21, 2025|
+|**Postman**|[Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|Jan 17, 2025|
+|**Confluent**|[Design an Idempotent URL Shortening Service](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|Jan 16, 2025|
 |**Confluent**|[Design Crash Recovery for a Single-Node Key-Value Store](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|Jan 16, 2025|
 |**Confluent**|[Design and Implement a Thread-Safe Delayed Task Runner](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Jan 16, 2025|
 |**Amazon**|[Maximize Product of Sizes of Subtrees](https://www.fastprep.io/problems/amazon-maximize-product-of-sizes-of-subtrees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-product-of-sizes-of-subtrees)|Jan 09, 2025|

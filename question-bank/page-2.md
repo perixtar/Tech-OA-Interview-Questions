@@ -9,6 +9,21 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Oracle**|[Maximum of Window Minimums](https://www.fastprep.io/problems/oracle-maximum-of-window-minimums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-of-window-minimums)|Sep 10, 2026|
+|**Oracle**|[Classify Tree Nodes with SQL](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|SQL|[![Practice][p]](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|Sep 10, 2026|
+|**OpenAI**|[Aggregate Machine Topology](https://www.fastprep.io/problems/openai-aggregate-machine-topology)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-aggregate-machine-topology)|Sep 10, 2026|
+|**LinkedIn**|[Thread-Safe LRU Cache with TTL](https://www.fastprep.io/problems/linkedin-thread-safe-lru-cache-with-ttl)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-thread-safe-lru-cache-with-ttl)|Sep 10, 2026|
+|**LinkedIn**|[Find Leaves of a Binary Tree](https://www.fastprep.io/problems/linkedin-find-leaves-of-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-find-leaves-of-binary-tree)|Sep 10, 2026|
+|**Google**|[Shortest Round Trip Through All Deliveries](https://www.fastprep.io/problems/google-shortest-round-trip-all-deliveries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-round-trip-all-deliveries)|Sep 10, 2026|
+|**Google**|[Real-Time Temperature Window Statistics](https://www.fastprep.io/problems/google-realtime-temperature-window-statistics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-realtime-temperature-window-statistics)|Sep 10, 2026|
+|**Google**|[Out-of-Order Logger Rate Limiter](https://www.fastprep.io/problems/google-out-of-order-logger-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-out-of-order-logger-rate-limiter)|Sep 10, 2026|
+|**Google**|[Lowest Common Manager for Employee Groups](https://www.fastprep.io/problems/google-lowest-common-manager-for-k-employees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lowest-common-manager-for-k-employees)|Sep 10, 2026|
+|**Epic**|[Minimum Adjacent Transpositions](https://www.fastprep.io/problems/epic-minimum-adjacent-transpositions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epic-minimum-adjacent-transpositions)|Sep 10, 2026|
+|**Epic**|[Telephone Keypad String Encoding](https://www.fastprep.io/problems/epic-keypad-string-encoding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epic-keypad-string-encoding)|Sep 10, 2026|
+|**Epic**|[First Completed Mingo Line](https://www.fastprep.io/problems/epic-first-mingo-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epic-first-mingo-line)|Sep 10, 2026|
+|**Epic**|[Character Frequencies in First-Appearance Order](https://www.fastprep.io/problems/epic-first-appearance-character-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epic-first-appearance-character-frequencies)|Sep 10, 2026|
+|**ByteDance**|[Path Existence in an Undirected Graph](https://www.fastprep.io/problems/bytedance-undirected-graph-path-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-undirected-graph-path-existence)|Sep 10, 2026|
+|**ByteDance**|[Binary Tree Target-Sum Paths](https://www.fastprep.io/problems/bytedance-binary-tree-target-sum-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-binary-tree-target-sum-paths)|Sep 10, 2026|
 |**Booking.com**|[Project JSON Fields into a Target Format](https://www.fastprep.io/problems/booking-com-json-field-projection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/booking-com-json-field-projection)|Sep 10, 2026|
 |**Anthropic**|[Find Duplicate File Groups](https://www.fastprep.io/problems/anthropic-filesystem-duplicate-file-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-filesystem-duplicate-file-groups)|Sep 10, 2026|
 |**Amazon**|[Sliding-Window Rate Limiter](https://www.fastprep.io/problems/amazon-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sliding-window-rate-limiter)|Sep 10, 2026|
@@ -1746,20 +1761,4 @@
 |**Meta**|[Making a Large Island](https://www.fastprep.io/problems/meta-making-a-large-island)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-making-a-large-island)|Feb 19, 2025|
 |**Meta**|[Randomly Select a Maximum-Value Index](https://www.fastprep.io/problems/meta-random-maximum-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-random-maximum-index)|Feb 19, 2025|
 |**Google**|[Maximum Subarray](https://www.fastprep.io/problems/google-maximum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray)|Feb 13, 2025|
-|**Amazon**|[Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Feb 10, 2025|
-|**TikTok**|[Playlist Partitioning](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Feb 09, 2025|
-|**TikTok**|[Change Username](https://www.fastprep.io/problems/tiktok-changing-username)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-changing-username)|Feb 09, 2025|
-|**Microsoft**|[Maximize Number Of Produced Cars](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|Feb 08, 2025|
-|**Microsoft**|[Minimize Tokens Remaining](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|Feb 08, 2025|
-|**Tennr**|[Find First and Last Position in Sorted Array](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|Feb 06, 2025|
-|**Meta**|[Top Five Stories by Latest Popularity](https://www.fastprep.io/problems/meta-top-five-stories-by-popularity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-top-five-stories-by-popularity)|Feb 06, 2025|
-|**Amazon**|[Max Number of Products You can Pick](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|Feb 05, 2025|
-|**Amazon**|[Maximize Sum of Array Multiplication](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Feb 05, 2025|
-|**Amazon**|[Sum of Max Subarrys](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Feb 02, 2025|
-|**Amazon**|[Get Maximum](https://www.fastprep.io/problems/amazon-get-maximum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum)|Feb 02, 2025|
-|**IMC Trading**|[Stock Transfer Minimization](https://www.fastprep.io/project-coding/stock-transfer-minimization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stock-transfer-minimization)|Jan 29, 2025|
-|**Figma**|[Topmost Accessible Nodes](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Jan 28, 2025|
-|**Google**|[Design Distributed Article Word-Count Aggregation](https://www.fastprep.io/system-design/distributed-article-word-count)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-article-word-count)|Jan 21, 2025|
-|**Postman**|[Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|Jan 17, 2025|
-|**Confluent**|[Design an Idempotent URL Shortening Service](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|Jan 16, 2025|
 <a id="bottom"></a>

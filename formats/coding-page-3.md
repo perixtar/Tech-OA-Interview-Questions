@@ -2,12 +2,25 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,963 questions**
+**3,977 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Website Pair with the Most Common Visitors](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Nov 19, 2021|
+|**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
+|**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
+|**Bloomberg LP**|[Passing Cars](https://www.fastprep.io/problems/bloomberg-passing-cars)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-passing-cars)|Nov 15, 2021|
+|**Vanguard**|[Tool List: Two Smallest Values](https://www.fastprep.io/problems/vanguard-tool-list-two-minima)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-tool-list-two-minima)|Nov 08, 2021|
+|**PeopleStrong**|[Running Median of a Stream](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|Oct 26, 2021|
+|**PeopleStrong**|[Add Forward Linked-List Numbers Using Recursion](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Oct 26, 2021|
+|**PeopleStrong**|[Reverse a Stack Recursively](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Oct 26, 2021|
+|**PeopleStrong**|[Permutations of Character Positions](https://www.fastprep.io/problems/peoplestrong-character-permutations)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-character-permutations)|Oct 26, 2021|
+|**Tesla**|[Maximum Even-Sum Adjacent Pairs in a Circular Array](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|Oct 17, 2021|
+|**PeopleStrong**|[Build an Expression Tree from Postfix](https://www.fastprep.io/problems/peoplestrong-expression-tree)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-expression-tree)|Oct 12, 2021|
+|**PeopleStrong**|[Maximum Score from Deleting Neighboring Values](https://www.fastprep.io/problems/peoplestrong-maximum-deletion-score)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-maximum-deletion-score)|Oct 12, 2021|
+|**PeopleStrong**|[Third Largest Element in One Pass](https://www.fastprep.io/problems/peoplestrong-third-largest-element)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-third-largest-element)|Oct 12, 2021|
 |**PeopleStrong**|[Longest Palindromic Substring](https://www.fastprep.io/problems/peoplestrong-longest-palindromic-substring)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-palindromic-substring)|Oct 12, 2021|
 |**PeopleStrong**|[Reverse Words and Normalize Spaces](https://www.fastprep.io/problems/peoplestrong-reverse-words)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-words)|Oct 06, 2021|
 |**PeopleStrong**|[Remove Consecutive Duplicate Characters](https://www.fastprep.io/problems/peoplestrong-remove-consecutive-duplicates)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-remove-consecutive-duplicates)|Oct 06, 2021|
