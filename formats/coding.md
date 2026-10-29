@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,979 questions**
+**4,024 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1335,6 +1335,7 @@
 |**Google**|[Min Absolute Sum](https://www.fastprep.io/problems/google-min-absolute-sum)|[![Practice][p]](https://www.fastprep.io/problems/google-min-absolute-sum)|Sep 04, 2026|
 |**Snowflake**|[Minimum Clicks Between Wiki Pages](https://www.fastprep.io/problems/snowflake-minimum-clicks-between-wiki-pages)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-clicks-between-wiki-pages)|Sep 04, 2026|
 |**Amazon**|[Latest-Timestamp Key-Value Store](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|[![Practice][p]](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Sep 04, 2026|
+|**Datadog**|[Query Log Match](https://www.fastprep.io/problems/datadog-query-log-match)|[![Practice][p]](https://www.fastprep.io/problems/datadog-query-log-match)|Sep 04, 2026|
 |**Abridge**|[Clone a Connected Graph](https://www.fastprep.io/problems/abridge-clone-graph)|[![Practice][p]](https://www.fastprep.io/problems/abridge-clone-graph)|Sep 03, 2026|
 |**Amazon**|[Sliding Window Maximum](https://www.fastprep.io/problems/amazon-sliding-window-maximum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sliding-window-maximum)|Sep 03, 2026|
 |**Roblox**|[Rate Limiter Sliding Window With Per-Entity Limits](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity)|[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity)|Sep 02, 2026|
@@ -1822,5 +1823,4 @@
 |**Point72**|[Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count)|[![Practice][p]](https://www.fastprep.io/problems/point72-get-triplet-count)|Jul 02, 2026|
 |**Point72**|[Server Selection](https://www.fastprep.io/problems/point72-server-selection)|[![Practice][p]](https://www.fastprep.io/problems/point72-server-selection)|Jul 02, 2026|
 |**Amazon**|[Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Jun 30, 2026|
-|**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
 <a id="bottom"></a>
