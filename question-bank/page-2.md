@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Millennium**|[Debug the Impact Model](https://www.fastprep.io/problems/millennium-debug-impact-model)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-impact-model)|Sep 09, 2026|
+|**Millennium**|[Track the Book and Mark Final PnL](https://www.fastprep.io/problems/millennium-track-the-book)|SQL|[![Practice][p]](https://www.fastprep.io/problems/millennium-track-the-book)|Sep 09, 2026|
+|**Millennium**|[Risk Limits and Inventory Skew](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)|Sep 09, 2026|
+|**Millennium**|[Debug the Risk-Limit Quoter](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)|Sep 09, 2026|
+|**Millennium**|[Hedge Inventory with Return Covariance](https://www.fastprep.io/problems/millennium-hedge-inventory)|SQL|[![Practice][p]](https://www.fastprep.io/problems/millennium-hedge-inventory)|Sep 09, 2026|
+|**Walmart**|[Distinct Bitwise-OR Scores of Increasing Subsequences](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|Sep 09, 2026|
+|**Google**|[Maximum Coins With Moving Tokens](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|Sep 09, 2026|
+|**Google**|[Maximum Elements With a Common Digit](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|Sep 09, 2026|
+|**Syfe**|[Design Flash-Sale Notification Fanout](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|Sep 09, 2026|
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Sep 09, 2026|
 |**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Sep 09, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|Sep 09, 2026|
@@ -956,6 +965,8 @@
 |**Point72**|[Lexicographically Smallest String After Substring Operation](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|May 10, 2026|
 |**Two Sigma**|[Piecewise Linear Interpolation and Extrapolation](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|May 10, 2026|
 |**Intuit**|[Small Business Network: Degrees of Separation](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|May 08, 2026|
+|**Google**|[All Root-to-Leaf Paths in a Binary Tree](https://www.fastprep.io/problems/google-binary-tree-root-to-leaf-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-binary-tree-root-to-leaf-paths)|May 07, 2026|
+|**Google**|[Three Sum: Unique Target Triplets](https://www.fastprep.io/problems/google-three-sum-target-unique-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-three-sum-target-unique-triplets)|May 07, 2026|
 |**Stripe**|[Conditional Group Aggregation](https://www.fastprep.io/problems/stripe-conditional-group-aggregation)|SQL|[![Practice][p]](https://www.fastprep.io/problems/stripe-conditional-group-aggregation)|May 06, 2026|
 |**Stripe**|[Build an Image Prediction Pipeline](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|May 06, 2026|
 |**OpenAI**|[ChatApp with Bots](https://www.fastprep.io/problems/openai-chatapp-with-bots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-chatapp-with-bots)|May 05, 2026|
@@ -1753,15 +1764,4 @@
 |**Quora**|[Determine the Elimination Order](https://www.fastprep.io/problems/quora-determine-the-elimination-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quora-determine-the-elimination-order)|Dec 06, 2024|
 |**Wells Fargo**|[Get Min Length](https://www.fastprep.io/problems/wellsfargo-get-min-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-min-length)|Dec 06, 2024|
 |**Duolingo**|[Bouncing Square Reaches a Screen Corner](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|Dec 05, 2024|
-|**Amazon**|[Data Dependence Sum](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|Dec 03, 2024|
-|**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-get-min-operations2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-operations2)|Dec 03, 2024|
-|**TikTok**|[Interesting Watch Sequence](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Dec 03, 2024|
-|**IBM**|[Get Final String](https://www.fastprep.io/problems/ibm-get-final-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-final-string)|Dec 03, 2024|
-|**Postman**|[Design a Multi-Provider Weather Forecast Service](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service)|Nov 29, 2024|
-|**Mercury / Mastercard**|[Real-Time Payment Fraud Detection](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|Nov 29, 2024|
-|**Amazon**|[Sum of All Days Numbers on Which the Data of the Xth Will Be Dependent](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Nov 27, 2024|
-|**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Nov 25, 2024|
-|**Stripe**|[Card Range Obfuscation Part 4](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Nov 25, 2024|
-|**Stripe**|[Card Range Obfuscation Part 3](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part3)|Nov 25, 2024|
-|**Stripe**|[Card Range Obfuscation Part 2](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part2)|Nov 25, 2024|
 <a id="bottom"></a>

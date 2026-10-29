@@ -9,6 +9,17 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Data Dependence Sum](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|Dec 03, 2024|
+|**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-get-min-operations2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-operations2)|Dec 03, 2024|
+|**TikTok**|[Interesting Watch Sequence](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Dec 03, 2024|
+|**IBM**|[Get Final String](https://www.fastprep.io/problems/ibm-get-final-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-final-string)|Dec 03, 2024|
+|**Postman**|[Design a Multi-Provider Weather Forecast Service](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service)|Nov 29, 2024|
+|**Mercury / Mastercard**|[Real-Time Payment Fraud Detection](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-fraud-detection)|Nov 29, 2024|
+|**Amazon**|[Sum of All Days Numbers on Which the Data of the Xth Will Be Dependent](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Nov 27, 2024|
+|**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Nov 25, 2024|
+|**Stripe**|[Card Range Obfuscation Part 4](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Nov 25, 2024|
+|**Stripe**|[Card Range Obfuscation Part 3](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part3)|Nov 25, 2024|
+|**Stripe**|[Card Range Obfuscation Part 2](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part2)|Nov 25, 2024|
 |**Stripe**|[Card Range Obfuscation Part 1](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part1)|Nov 25, 2024|
 |**Amazon**|[Min Insertions](https://www.fastprep.io/problems/amazon-minimum-insertions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-insertions)|Nov 24, 2024|
 |**TikTok**|[Create Maximum Collaborations](https://www.fastprep.io/problems/tiktok-create-maximum-collaborations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-create-maximum-collaborations)|Nov 24, 2024|

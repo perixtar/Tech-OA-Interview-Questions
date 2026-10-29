@@ -2,12 +2,24 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,879 questions**
+**3,890 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[All Simple Paths in a Cyclic Directed Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|Dec 22, 2020|
+|**Bloomberg LP**|[Maximum Non-Overlapping Longer Intervals](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|Dec 22, 2020|
+|**Bloomberg LP**|[Validate Linked List Pointer Ordering](https://www.fastprep.io/problems/bloomberg-validate-linked-list-pointer-order)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-linked-list-pointer-order)|Dec 22, 2020|
+|**Bloomberg LP**|[Count and Say](https://www.fastprep.io/problems/bloomberg-count-and-say)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-and-say)|Dec 21, 2020|
+|**Bloomberg LP**|[Search in a Bitonic Array](https://www.fastprep.io/problems/bloomberg-search-bitonic-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-bitonic-array)|Dec 17, 2020|
+|**Bloomberg LP**|[First Missing Positive](https://www.fastprep.io/problems/bloomberg-first-missing-positive)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-missing-positive)|Dec 09, 2020|
+|**Bloomberg LP**|[Merge Two Sorted Streams with Next Calls](https://www.fastprep.io/problems/bloomberg-stateful-merge-two-sorted-streams)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-stateful-merge-two-sorted-streams)|Dec 09, 2020|
+|**Apple**|[Merge Intervals](https://www.fastprep.io/problems/apple-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/apple-merge-intervals)|Nov 30, 2020|
+|**Apple**|[Two Sum](https://www.fastprep.io/problems/apple-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/apple-two-sum)|Nov 30, 2020|
+|**Bloomberg LP**|[Maximum Grid Path Sum in Exactly N Moves](https://www.fastprep.io/problems/bloomberg-maximum-grid-path-sum-exact-moves)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-grid-path-sum-exact-moves)|Nov 27, 2020|
+|**Bloomberg LP**|[Sort an Absolute-Value-Sorted Array](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-array)|Nov 27, 2020|
+|**Bloomberg LP**|[Sort Every N-ary Tree Node's Children](https://www.fastprep.io/problems/bloomberg-sort-nary-tree-children)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-nary-tree-children)|Nov 27, 2020|
 |**SambaNova Systems**|[Diagonal Traverse](https://www.fastprep.io/problems/sambanova-diagonal-traverse)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-diagonal-traverse)|Nov 23, 2020|
 |**SambaNova Systems**|[Rotate Image](https://www.fastprep.io/problems/sambanova-rotate-image)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-rotate-image)|Nov 23, 2020|
 |**SambaNova Systems**|[Set Matrix Zeroes](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Nov 23, 2020|
