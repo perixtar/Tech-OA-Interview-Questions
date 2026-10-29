@@ -9,6 +9,21 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Shopping Cost](https://www.fastprep.io/problems/tiktok-calculate-tiktok-shopping-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-tiktok-shopping-cost)|Mar 23, 2025|
+|**Instacart**|[Bird Collects Sticks](https://www.fastprep.io/problems/instacart-collect-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-collect-sticks)|Mar 23, 2025|
+|**Instacart**|[Pop Bubbles](https://www.fastprep.io/problems/instacart-pop-bubbles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-pop-bubbles)|Mar 23, 2025|
+|**Instacart**|[Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|Mar 23, 2025|
+|**Scale AI**|[Compare Labeling Worker Annotations](https://www.fastprep.io/problems/scale-ai-compare-labeling-worker-annotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-compare-labeling-worker-annotations)|Mar 23, 2025|
+|**Amazon**|[Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-increments)|Mar 22, 2025|
+|**Amazon**|[Password Strength](https://www.fastprep.io/problems/amazon-password-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-password-strength)|Mar 22, 2025|
+|**Publicis Sapients**|[Get Min Time](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|Mar 22, 2025|
+|**Pure Storage**|[Bakery Quality Control](https://www.fastprep.io/problems/purestorage-compare-boxes-to-template)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-compare-boxes-to-template)|Mar 22, 2025|
+|**Pure Storage**|[Find Repetition](https://www.fastprep.io/problems/purestorage-find-repetitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-repetitions)|Mar 22, 2025|
+|**Pure Storage**|[Count Different Palindrome Substrings](https://www.fastprep.io/problems/purestorage-count-different-palindrome-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-count-different-palindrome-substrings)|Mar 22, 2025|
+|**Pure Storage**|[Racing Results](https://www.fastprep.io/problems/purestorage-racing-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-racing-results)|Mar 22, 2025|
+|**Amazon**|[Trader Joe Trades](https://www.fastprep.io/problems/amazon-trader-joe-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-trader-joe-trades)|Mar 21, 2025|
+|**Amazon**|[Optimal Level](https://www.fastprep.io/problems/amazon-find-optimal-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-optimal-level)|Mar 21, 2025|
+|**Amazon**|[Min Operation](https://www.fastprep.io/problems/amazon-min-operation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-min-operation)|Mar 21, 2025|
 |**Amazon**|[All About Rewards](https://www.fastprep.io/problems/amazon-all-about-rewards)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-all-about-rewards)|Mar 20, 2025|
 |**Amazon**|[Inventory Processes Survival Possibility](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|Mar 18, 2025|
 |**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
