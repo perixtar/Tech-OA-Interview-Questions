@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**LinkedIn / Rippling**|[Design a Recent User-Activity Query System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|Sep 10, 2026|
+|**Anthropic**|[Implement Concurrent Image Transformations](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|Sep 10, 2026|
 |**TikTok**|[Catch Fish with Reusable Baits](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|Sep 10, 2026|
 |**TikTok**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|Sep 10, 2026|
 |**Akuna Capital**|[Delivery Management System](https://www.fastprep.io/problems/akuna-delivery-management-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-delivery-management-system)|Sep 10, 2026|
@@ -701,7 +703,6 @@
 |**DRW**|[Last Round for Each Player](https://www.fastprep.io/problems/drw-last-round-for-each-player)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-last-round-for-each-player)|Jul 22, 2026|
 |**DRW**|[Shortest Compressed Length After Removal](https://www.fastprep.io/problems/drw-shortest-compressed-length-after-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-shortest-compressed-length-after-removal)|Jul 22, 2026|
 |**Amazon / Goldman Sachs**|[Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|Jul 22, 2026|
-|**Databricks**|[Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|Jul 22, 2026|
 |**Decagon**|[Versioned Recipe Shopping Cart](https://www.fastprep.io/problems/decagon-versioned-recipe-shopping-cart)|Coding|[![Practice][p]](https://www.fastprep.io/problems/decagon-versioned-recipe-shopping-cart)|Jul 21, 2026|
 |**Amazon**|[Loyal Customers Across Two Days](https://www.fastprep.io/problems/amazon-loyal-customers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-loyal-customers)|Jul 21, 2026|
 |**Amazon**|[Smallest Number With a Given Digit Sum](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Jul 21, 2026|
@@ -899,6 +900,7 @@
 |**Point72**|[Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-get-triplet-count)|Jul 02, 2026|
 |**Point72**|[Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|Jul 02, 2026|
 |**Point72**|[Server Selection](https://www.fastprep.io/problems/point72-server-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-server-selection)|Jul 02, 2026|
+|**Squarepoint Capital**|[Manage a Resource with Smart Pointers](https://www.fastprep.io/low-level-design/smart-pointer-resource-lifetime)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-resource-lifetime)|Jul 01, 2026|
 |**Amazon**|[Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Jun 30, 2026|
 |**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
 |**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
@@ -1761,6 +1763,4 @@
 |**Amazon**|[All About Rewards](https://www.fastprep.io/problems/amazon-all-about-rewards)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-all-about-rewards)|Mar 20, 2025|
 |**Amazon**|[Inventory Processes Survival Possibility](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|Mar 18, 2025|
 |**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
-|**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
-|**SpaceX**|[Speed to Pressure Lookup](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Mar 13, 2025|
 <a id="bottom"></a>

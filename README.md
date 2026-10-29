@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,027)](formats/coding.md) · [SQL (86)](formats/sql.md) · [System design (638)](formats/system-design.md) · [Low-level design (199)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,027)](formats/coding.md) · [SQL (86)](formats/sql.md) · [System design (639)](formats/system-design.md) · [Low-level design (200)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -39,6 +39,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Autodesk**|[Design a Shape Transformation Engine](https://www.fastprep.io/low-level-design/shape-transformation-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-transformation-engine)|🔥 Oct 29, 2026|
 |**Amazon**|[Best Improvement Period of at Least K Intervals](https://www.fastprep.io/problems/amazon-max-improvement-period-at-least-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-improvement-period-at-least-k)|🔥 Oct 28, 2026|
 |**Amazon**|[Search for an Element in a Stream](https://www.fastprep.io/problems/amazon-search-element-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-search-element-in-stream)|🔥 Oct 28, 2026|
+|**Rippling / Google**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|🔥 Oct 28, 2026|
+|**Cursor / Amazon**|[Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|🔥 Oct 28, 2026|
+|**Databricks**|[Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|🔥 Oct 28, 2026|
+|**Amazon**|[Design a Fleet Software Deployment and Orchestration System](https://www.fastprep.io/system-design/fleet-software-deployment-orchestration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-software-deployment-orchestration)|🔥 Oct 28, 2026|
 |**Amazon**|[Fill One Exact-Length Binary Window](https://www.fastprep.io/problems/amazon-fill-exact-length-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-fill-exact-length-window)|🔥 Oct 27, 2026|
 |**Google**|[Fuel Route with Fewest Station Visits](https://www.fastprep.io/problems/google-fuel-route-fewest-stations-then-roads)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fuel-route-fewest-stations-then-roads)|🔥 Oct 27, 2026|
 |**ByteDance**|[Sparse Matrix Multiplication](https://www.fastprep.io/problems/bytedance-sparse-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-sparse-matrix-multiplication)|🔥 Oct 27, 2026|
@@ -1534,7 +1538,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Find the Duplicate Number Without Modifying the Array](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-duplicate-number)|🆕 Sep 14, 2026|
 |**Google**|[Set Matrix Zeroes](https://www.fastprep.io/problems/google-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-set-matrix-zeroes)|🆕 Sep 14, 2026|
 |**Citadel**|[Exchange BBO and Market-Wide NBBO](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Sep 13, 2026|
-|**Rippling**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|Sep 13, 2026|
 |**Google**|[Determine Whether Two Horses Are Genetically Related](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Sep 13, 2026|
 |**JP Morgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|System design|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|Sep 13, 2026|
 |**Tekion / JP Morgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|Sep 13, 2026|
@@ -1545,7 +1548,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Lenskart**|[Most Recent Active User Per Department](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|SQL|[![Practice][p]](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|Sep 13, 2026|
 |**Lenskart**|[Test Execution Success Rate](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|SQL|[![Practice][p]](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|Sep 13, 2026|
 |**Lenskart**|[First Duplicate Transaction Within Ten Minutes](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|Sep 13, 2026|
-|**Cursor / Amazon**|[Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|Sep 13, 2026|
 |**Amazon**|[Design a Return Drop-Store Booking System](https://www.fastprep.io/low-level-design/return-drop-store-booking)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/return-drop-store-booking)|Sep 13, 2026|
 |**Amazon**|[Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer)|Sep 13, 2026|
 |**Amazon / Atlassian / Wayfair**|[Global Music Streaming Platform](https://www.fastprep.io/system-design/global-music-streaming-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-music-streaming-platform)|Sep 13, 2026|
@@ -1684,6 +1686,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Apple**|[Design Predictive File Storage-Tier Placement](https://www.fastprep.io/system-design/file-storage-tier-selection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/file-storage-tier-selection)|Sep 10, 2026|
 |**Snap Inc.**|[Build a Persistent Chat Backend](https://www.fastprep.io/project-coding/persistent-chat-backend)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/persistent-chat-backend)|Sep 10, 2026|
 |**Snap Inc.**|[Design a Pre-Login Risk Challenge Service](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|Sep 10, 2026|
-|**LinkedIn / Rippling**|[Design a Recent User-Activity Query System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|Sep 10, 2026|
-|**Anthropic**|[Implement Concurrent Image Transformations](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|Sep 10, 2026|
 <a id="bottom"></a>

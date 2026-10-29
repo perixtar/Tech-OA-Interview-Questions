@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
+|**SpaceX**|[Speed to Pressure Lookup](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Mar 13, 2025|
 |**Datadog**|[Count Repeated Words](https://www.fastprep.io/problems/datadog-count-repeated-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-repeated-words)|Mar 13, 2025|
 |**Datadog**|[Maximum Depth of a Rooted Tree](https://www.fastprep.io/problems/datadog-maximum-tree-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-maximum-tree-depth)|Mar 13, 2025|
 |**Atlassian**|[Crossword Hint Delivery](https://www.fastprep.io/system-design/crossword-hint-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crossword-hint-delivery)|Mar 12, 2025|

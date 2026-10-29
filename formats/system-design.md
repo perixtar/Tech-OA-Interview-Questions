@@ -2,13 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**638 questions**
+**639 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Rippling**|[Design a Multi-Tenant Employee Leave Management System](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|🔥 Oct 29, 2026|
+|**Rippling / Google**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|🔥 Oct 28, 2026|
+|**Cursor / Amazon**|[Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|🔥 Oct 28, 2026|
+|**Databricks**|[Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|[![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|🔥 Oct 28, 2026|
+|**Amazon**|[Design a Fleet Software Deployment and Orchestration System](https://www.fastprep.io/system-design/fleet-software-deployment-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-software-deployment-orchestration)|🔥 Oct 28, 2026|
 |**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic / Datadog / WhatNot**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🔥 Oct 27, 2026|
 |**Nextdoor**|[Design a Neighborhood News Feed with Black-Box Ranking](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|🔥 Oct 27, 2026|
 |**Oracle**|[Design Safe Patching and Image Rollout for a Storage Fleet](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|[![Practice][p]](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|🔥 Oct 27, 2026|
@@ -266,10 +270,8 @@
 |**Concentric AI**|[Design an Institute Attendance Management Platform](https://www.fastprep.io/system-design/institute-attendance-management-platform)|[![Practice][p]](https://www.fastprep.io/system-design/institute-attendance-management-platform)|🆕 Sep 15, 2026|
 |**Goldman Sachs**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|🆕 Sep 14, 2026|
 |**Airwallex**|[Design an Authoritative Grid Chase Game](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|[![Practice][p]](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|🆕 Sep 14, 2026|
-|**Rippling**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|Sep 13, 2026|
 |**JP Morgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|Sep 13, 2026|
 |**Tekion / JP Morgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|Sep 13, 2026|
-|**Cursor / Amazon**|[Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|Sep 13, 2026|
 |**Amazon / Atlassian / Wayfair**|[Global Music Streaming Platform](https://www.fastprep.io/system-design/global-music-streaming-platform)|[![Practice][p]](https://www.fastprep.io/system-design/global-music-streaming-platform)|Sep 13, 2026|
 |**Amazon**|[Design an Amazon Locker System](https://www.fastprep.io/system-design/amazon-locker-system)|[![Practice][p]](https://www.fastprep.io/system-design/amazon-locker-system)|Sep 13, 2026|
 |**Amazon**|[Design a Scalable Artifact Repository](https://www.fastprep.io/system-design/scalable-artifact-repository)|[![Practice][p]](https://www.fastprep.io/system-design/scalable-artifact-repository)|Sep 13, 2026|
@@ -448,7 +450,6 @@
 |**Capillary Technologies**|[Design a Loyalty-Data Insight Platform](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|[![Practice][p]](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|Jul 24, 2026|
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
 |**Amazon / Goldman Sachs**|[Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|Jul 22, 2026|
-|**Databricks**|[Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|[![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|Jul 22, 2026|
 |**Ramp**|[Design a Real-Time Payment Count Dashboard](https://www.fastprep.io/system-design/real-time-payment-count-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-count-dashboard)|Jul 20, 2026|
 |**Assort Health**|[Design a Conversational Flight Search and Booking Agent](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent)|[![Practice][p]](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent)|Jul 20, 2026|
 |**Google**|[Design Distributed Streaming Skill Matching](https://www.fastprep.io/system-design/distributed-streaming-skill-matching-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-streaming-skill-matching-platform)|Jul 19, 2026|
