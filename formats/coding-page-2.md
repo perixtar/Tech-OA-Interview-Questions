@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,843 questions**
+**3,857 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Deloitte**|[Seventh Nearest Palindrome](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|May 12, 2026|
+|**Uber**|[Maximal Square Area](https://www.fastprep.io/problems/uber-maximal-square-area)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximal-square-area)|May 11, 2026|
+|**Snowflake**|[Closest Bathroom / Desk on a Grid](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|May 11, 2026|
+|**Snowflake**|[Minimum Index Distance Between Person and Cake](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|May 11, 2026|
+|**Crusoe**|[Interval Usage with Non-Overlapping Overrides](https://www.fastprep.io/problems/crusoe-interval-usage-with-overrides)|[![Practice][p]](https://www.fastprep.io/problems/crusoe-interval-usage-with-overrides)|May 11, 2026|
 |**DoorDash**|[Maximize Total Profit by Assigning Chefs to Dishes](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|May 11, 2026|
 |**Ericsson**|[Pascal's Triangle](https://www.fastprep.io/problems/ericsson-pascals-triangle)|[![Practice][p]](https://www.fastprep.io/problems/ericsson-pascals-triangle)|May 11, 2026|
 |**Ericsson**|[Top K Frequent Elements](https://www.fastprep.io/problems/ericsson-top-k-frequent-elements)|[![Practice][p]](https://www.fastprep.io/problems/ericsson-top-k-frequent-elements)|May 11, 2026|
@@ -199,10 +204,16 @@
 |**Bloomberg LP**|[Design Underground System](https://www.fastprep.io/problems/bloomberg-design-underground-system)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-underground-system)|Jan 28, 2026|
 |**ZipRecruiter**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ziprecruiter-in-memory-database-historical-lookup)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-in-memory-database-historical-lookup)|Jan 28, 2026|
 |**Google**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|[![Practice][p]](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Jan 27, 2026|
+|**Citadel**|[2048 Simulation and Board Codec](https://www.fastprep.io/problems/citadel-2048-simulation-and-board-codec)|[![Practice][p]](https://www.fastprep.io/problems/citadel-2048-simulation-and-board-codec)|Jan 27, 2026|
+|**Citadel**|[Cancellable Priority Task Queue](https://www.fastprep.io/problems/citadel-cancellable-priority-task-queue)|[![Practice][p]](https://www.fastprep.io/problems/citadel-cancellable-priority-task-queue)|Jan 27, 2026|
+|**Citadel**|[Dynamic Weighted Sampling](https://www.fastprep.io/problems/citadel-dynamic-weighted-sampling)|[![Practice][p]](https://www.fastprep.io/problems/citadel-dynamic-weighted-sampling)|Jan 27, 2026|
+|**Citadel**|[Exchange Connection Alerts](https://www.fastprep.io/problems/citadel-exchange-connection-alerts)|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-connection-alerts)|Jan 27, 2026|
 |**Stripe**|[Transaction Fee Calculator — Channel Volume Tiers](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Jan 26, 2026|
 |**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
 |**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
 |**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
+|**Citadel**|[Binary Search Tree Operations](https://www.fastprep.io/problems/citadel-binary-search-tree-operations)|[![Practice][p]](https://www.fastprep.io/problems/citadel-binary-search-tree-operations)|Jan 22, 2026|
+|**Citadel**|[Stock Profit with a Transaction Limit](https://www.fastprep.io/problems/citadel-stock-profit-with-transaction-limit)|[![Practice][p]](https://www.fastprep.io/problems/citadel-stock-profit-with-transaction-limit)|Jan 22, 2026|
 |**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
@@ -362,6 +373,8 @@
 |**Apple**|[Coin Change II](https://www.fastprep.io/problems/apple-coin-change-ii)|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change-ii)|Aug 14, 2025|
 |**Motive**|[Search a Row-Major Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|Aug 13, 2025|
 |**Marshall Wace**|[Maximum Events in a 60-Second Window](https://www.fastprep.io/problems/marshall-wace-sixty-second-event-window)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-sixty-second-event-window)|Aug 13, 2025|
+|**Citadel**|[Binary Min-Heap Operations](https://www.fastprep.io/problems/citadel-binary-min-heap-operations)|[![Practice][p]](https://www.fastprep.io/problems/citadel-binary-min-heap-operations)|Aug 11, 2025|
+|**Citadel**|[Running Stream Medians](https://www.fastprep.io/problems/citadel-running-stream-medians)|[![Practice][p]](https://www.fastprep.io/problems/citadel-running-stream-medians)|Aug 11, 2025|
 |**Amazon**|[Fair Prize Distribution](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|[![Practice][p]](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Aug 10, 2025|
 |**Amazon**|[Count Picked Items Less Than Queries](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Aug 10, 2025|
 |**EvenUp**|[War Card Game Winner](https://www.fastprep.io/problems/evenup-war-card-game-winner)|[![Practice][p]](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Aug 09, 2025|
@@ -1921,17 +1934,4 @@
 |**Wells Fargo**|[Longest Balanced Bitonic Subsequence](https://www.fastprep.io/problems/wellsfargo-longest-balanced-bitonic-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-balanced-bitonic-subsequence)|Sep 15, 2020|
 |**Wells Fargo**|[Most Negative Number in Each Window](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|Sep 08, 2020|
 |**Wells Fargo**|[Single-Nested Valid Bracket Substrings](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|Sep 08, 2020|
-|**Benchling**|[Similar DNA Under Rotation and Substitution](https://www.fastprep.io/problems/benchling-similar-dna-rotations)|[![Practice][p]](https://www.fastprep.io/problems/benchling-similar-dna-rotations)|Sep 05, 2020|
-|**Benchling**|[Unique DNA Sequences Under Circular Rotation](https://www.fastprep.io/problems/benchling-unique-dna-rotations)|[![Practice][p]](https://www.fastprep.io/problems/benchling-unique-dna-rotations)|Sep 05, 2020|
-|**Postman**|[Minimum Swaps to Sort an Array](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort)|[![Practice][p]](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort)|Aug 27, 2020|
-|**Postman**|[Validate IP Address](https://www.fastprep.io/problems/postman-validate-ip-address)|[![Practice][p]](https://www.fastprep.io/problems/postman-validate-ip-address)|Aug 27, 2020|
-|**Bloomberg LP**|[Largest Same-Letter Grid Component](https://www.fastprep.io/problems/bloomberg-largest-letter-grid-component)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-letter-grid-component)|Aug 20, 2020|
-|**Bloomberg LP**|[Stable Odd-First Partition](https://www.fastprep.io/problems/bloomberg-stable-odd-first-partition)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-stable-odd-first-partition)|Aug 20, 2020|
-|**Arcesium**|[K-th Character in an Infinite String](https://www.fastprep.io/problems/arcesium-kth-character-in-infinite-string)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-kth-character-in-infinite-string)|Aug 08, 2020|
-|**Bloomberg LP**|[Capacity-Bounded Browser History](https://www.fastprep.io/problems/bloomberg-capacity-bounded-browser-history)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-capacity-bounded-browser-history)|Aug 07, 2020|
-|**Bloomberg LP**|[Complex Number Class](https://www.fastprep.io/problems/bloomberg-complex-number-class)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-complex-number-class)|Aug 07, 2020|
-|**Bloomberg LP**|[Directional Distance to Mines and Boundaries](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Aug 07, 2020|
-|**Bloomberg LP**|[Find K Closest Elements in a Sorted Array](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Jul 30, 2020|
-|**Bloomberg LP**|[Integer Square Root with Error Checks](https://www.fastprep.io/problems/bloomberg-integer-square-root)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Jul 30, 2020|
-|**Bloomberg LP**|[Clicked One-Dimensional Candy Crush](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Jul 20, 2020|
 <a id="bottom"></a>

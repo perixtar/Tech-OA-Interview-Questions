@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,843)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (196)](formats/low-level-design.md) · [AI coding (121)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,857)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (196)](formats/low-level-design.md) · [AI coding (121)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -83,6 +83,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Design a Train Ticket Booking Service](https://www.fastprep.io/low-level-design/train-ticket-booking-service)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/train-ticket-booking-service)|🔥 Oct 26, 2026|
 |**The D.E. Shaw Group**|[Design a Round-Based Tactical Shooter Match](https://www.fastprep.io/low-level-design/tactical-shooter-match-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/tactical-shooter-match-domain)|🔥 Oct 26, 2026|
 |**The D.E. Shaw Group**|[Design a Snakes and Ladders Game](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|🔥 Oct 26, 2026|
+|**Citadel**|[Reachable Transfer Positions](https://www.fastprep.io/problems/citadel-reachable-transfer-positions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-reachable-transfer-positions)|🔥 Oct 26, 2026|
 |**ThoughtSpot / CARS24**|[Design a Priority-Aware Database Request Gateway](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|🔥 Oct 25, 2026|
 |**Sierra**|[Debug a Subscription Retention Agent](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|🔥 Oct 25, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 24, 2026|
@@ -1429,12 +1430,12 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Vanta**|[Implement uniq: Unique Lines](https://www.fastprep.io/problems/vanta-unique-lines-command)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-unique-lines-command)|🆕 Sep 14, 2026|
 |**Airwallex**|[Paginated K-Way Unique Merge](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|🆕 Sep 14, 2026|
 |**Applied Intuition**|[Merge Overlapping Closed Intervals](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|🆕 Sep 14, 2026|
-|**Citadel**|[Exchange BBO and Market-Wide NBBO](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|🆕 Sep 14, 2026|
 |**LinkedIn**|[Restricted Decimal Number Validator](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|🆕 Sep 14, 2026|
 |**LinkedIn**|[Second Minimum in a Tournament Tree](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|🆕 Sep 14, 2026|
 |**The Walt Disney Company**|[Resizable Array-Backed Integer Set](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|🆕 Sep 14, 2026|
 |**Google**|[Find the Duplicate Number Without Modifying the Array](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-duplicate-number)|🆕 Sep 14, 2026|
 |**Google**|[Set Matrix Zeroes](https://www.fastprep.io/problems/google-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-set-matrix-zeroes)|🆕 Sep 14, 2026|
+|**Citadel**|[Exchange BBO and Market-Wide NBBO](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Sep 13, 2026|
 |**Rippling**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|Sep 13, 2026|
 |**Google**|[Determine Whether Two Horses Are Genetically Related](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Sep 13, 2026|
 |**JP Morgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|System design|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|Sep 13, 2026|
@@ -1688,5 +1689,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Nuro**|[Versioned Key-Value Store with Suffix Truncation](https://www.fastprep.io/problems/nuro-versioned-key-value-store-with-truncation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-versioned-key-value-store-with-truncation)|Sep 09, 2026|
 |**Nuro**|[Trapping Rain Water](https://www.fastprep.io/problems/nuro-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-trapping-rain-water)|Sep 09, 2026|
 |**Nuro**|[Thread-Safe Task Storage and Worker Dispatch](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Sep 09, 2026|
-|**Nuro**|[Group Sparse Points by Distance Threshold](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Sep 09, 2026|
 <a id="bottom"></a>
