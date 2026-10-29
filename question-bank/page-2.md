@@ -9,8 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Nuro**|[Thread-Safe Task Storage and Worker Dispatch](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Sep 09, 2026|
-|**Nuro**|[Group Sparse Points by Distance Threshold](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Sep 09, 2026|
 |**Nuro**|[Course Ordering with Concurrent Updates](https://www.fastprep.io/problems/nuro-course-schedule-ii-thread-safe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-course-schedule-ii-thread-safe)|Sep 09, 2026|
 |**LinkedIn**|[Schedule Tasks with an Interval Tree](https://www.fastprep.io/problems/linkedin-interval-tree-task-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-interval-tree-task-scheduling)|Sep 09, 2026|
 |**LinkedIn**|[Explore an Unknown Grid and Find a Path](https://www.fastprep.io/problems/linkedin-explore-unknown-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-explore-unknown-grid-path)|Sep 09, 2026|
@@ -1768,4 +1766,7 @@
 |**AT&T**|[Counting Triplets Divisible by D](https://www.fastprep.io/problems/att-counting-triplets-divisible-by-d)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-counting-triplets-divisible-by-d)|Nov 08, 2024|
 |**AT&T**|[Project Estimates](https://www.fastprep.io/problems/att-project-estimates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-project-estimates)|Nov 08, 2024|
 |**AT&T**|[Advertising System Failures Report](https://www.fastprep.io/problems/att-advertising-system-failures-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/att-advertising-system-failures-report)|Nov 08, 2024|
+|**Stripe**|[Register and Transfer Brazilian Receivables](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Nov 08, 2024|
+|**Stripe**|[Brazilian Receivables Part 3 — Partial Contracts](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Nov 08, 2024|
+|**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 <a id="bottom"></a>
