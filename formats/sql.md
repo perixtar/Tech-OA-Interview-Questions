@@ -2,16 +2,25 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**81 questions**
+**86 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Pelatro**|[Records Created or Updated in a Time Window](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|[![Practice][p]](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|🔥 Oct 26, 2026|
+|**Birla Pivot**|[Bond Holders Above the Cash Flow Threshold](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|🔥 Oct 26, 2026|
+|**Birla Pivot**|[Students and Their Subjects](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|🔥 Oct 26, 2026|
+|**Straive**|[Department Employee Counts and Running Total](https://www.fastprep.io/problems/straive-department-employee-running-counts)|[![Practice][p]](https://www.fastprep.io/problems/straive-department-employee-running-counts)|🔥 Oct 24, 2026|
 |**Dell Technologies**|[Departments Without Employees](https://www.fastprep.io/problems/dell-departments-without-employees)|[![Practice][p]](https://www.fastprep.io/problems/dell-departments-without-employees)|🔥 Oct 20, 2026|
 |**Chubb**|[Second-Highest Salary](https://www.fastprep.io/problems/chubb-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/chubb-second-highest-salary)|🔥 Oct 19, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
 |**Salesforce**|[Find Rows Common to Two Tables](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|🆕 Oct 14, 2026|
+|**Capital One**|[Analyze House and Viewing Metrics](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|🆕 Oct 11, 2026|
+|**Capital One**|[Build House Viewing Features](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|🆕 Oct 11, 2026|
+|**Capital One**|[Prepare House Price Regression Data](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|🆕 Oct 11, 2026|
+|**Capital One**|[Predict House Prices](https://www.fastprep.io/problems/capital-one-predict-house-prices)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-house-prices)|🆕 Oct 11, 2026|
+|**Capital One**|[Count Records Present in A but Not B](https://www.fastprep.io/problems/capital-one-count-records-in-a-not-b)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-records-in-a-not-b)|🆕 Oct 10, 2026|
 |**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🆕 Oct 08, 2026|
 |**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🆕 Oct 08, 2026|
 |**Apple**|[Customer Order Count Distribution by Country](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|[![Practice][p]](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|🆕 Oct 08, 2026|
@@ -27,10 +36,6 @@
 |**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|🆕 Oct 01, 2026|
 |**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|🆕 Oct 01, 2026|
 |**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|🆕 Oct 01, 2026|
-|**Capital One**|[Analyze House and Viewing Metrics](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|🆕 Sep 30, 2026|
-|**Capital One**|[Build House Viewing Features](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|🆕 Sep 30, 2026|
-|**Capital One**|[Prepare House Price Regression Data](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|🆕 Sep 30, 2026|
-|**Capital One**|[Predict House Prices](https://www.fastprep.io/problems/capital-one-predict-house-prices)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-house-prices)|🆕 Sep 30, 2026|
 |**Mygate**|[Employees Earning More Than Their Manager](https://www.fastprep.io/problems/mygate-employees-over-manager)|[![Practice][p]](https://www.fastprep.io/problems/mygate-employees-over-manager)|🆕 Sep 26, 2026|
 |**Mygate**|[Users Active in Both January and February](https://www.fastprep.io/problems/mygate-users-active-january-february)|[![Practice][p]](https://www.fastprep.io/problems/mygate-users-active-january-february)|🆕 Sep 26, 2026|
 |**Intuit**|[Oldest and Youngest Employees](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|[![Practice][p]](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|🆕 Sep 22, 2026|
