@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,924 questions**
+**3,925 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -312,6 +312,9 @@
 |**Google**|[Generate an Unbiased Bit from a Biased Coin](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|[![Practice][p]](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|🆕 Oct 10, 2026|
 |**Airbnb**|[Decode and Store Strings](https://www.fastprep.io/problems/airbnb-decode-and-store-strings)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-decode-and-store-strings)|🆕 Oct 10, 2026|
 |**Persona**|[Rank Football Teams](https://www.fastprep.io/problems/persona-rank-football-teams)|[![Practice][p]](https://www.fastprep.io/problems/persona-rank-football-teams)|🆕 Oct 10, 2026|
+|**OpenAI**|[Durable Work Queue with Dependencies](https://www.fastprep.io/problems/openai-durable-work-queue-with-dependencies)|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-work-queue-with-dependencies)|🆕 Oct 10, 2026|
+|**Valon**|[Out-of-Order Loan Ledger](https://www.fastprep.io/problems/valon-out-of-order-loan-ledger)|[![Practice][p]](https://www.fastprep.io/problems/valon-out-of-order-loan-ledger)|🆕 Oct 10, 2026|
+|**Sierra**|[Maximum Array Value](https://www.fastprep.io/problems/sierra-maximum-array-value)|[![Practice][p]](https://www.fastprep.io/problems/sierra-maximum-array-value)|🆕 Oct 10, 2026|
 |**AMD**|[Insert After a Linked-List Node](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|[![Practice][p]](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|🆕 Oct 09, 2026|
 |**AMD**|[LRU Cache](https://www.fastprep.io/problems/amd-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/amd-lru-cache)|🆕 Oct 09, 2026|
 |**OpenAI**|[Budgeted API Inference with Out-of-Order Feedback](https://www.fastprep.io/problems/openai-budgeted-api-inference)|[![Practice][p]](https://www.fastprep.io/problems/openai-budgeted-api-inference)|🆕 Oct 09, 2026|
@@ -541,7 +544,6 @@
 |**Google**|[Shortest Deletion for a Distinct Remainder](https://www.fastprep.io/problems/google-shortest-deletion-distinct-remainder)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-deletion-distinct-remainder)|🆕 Sep 30, 2026|
 |**Meta**|[Shortest Path in a Binary Matrix](https://www.fastprep.io/problems/meta-shortest-path-binary-matrix)|[![Practice][p]](https://www.fastprep.io/problems/meta-shortest-path-binary-matrix)|🆕 Sep 30, 2026|
 |**Microsoft**|[Greedy and Beam Sentence Decoding](https://www.fastprep.io/problems/microsoft-greedy-and-beam-sentence-decoding)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-greedy-and-beam-sentence-decoding)|🆕 Sep 30, 2026|
-|**OpenAI**|[Durable Work Queue with Dependencies](https://www.fastprep.io/problems/openai-durable-work-queue-with-dependencies)|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-work-queue-with-dependencies)|🆕 Sep 30, 2026|
 |**The Voleon Group**|[Best-Fit Plane Normal from 3D Points](https://www.fastprep.io/problems/the-voleon-group-best-fit-plane-normal)|[![Practice][p]](https://www.fastprep.io/problems/the-voleon-group-best-fit-plane-normal)|🆕 Sep 30, 2026|
 |**Virtu Financial**|[Maximum Barbell Weight](https://www.fastprep.io/problems/virtu-financial-maximum-barbell-weight)|[![Practice][p]](https://www.fastprep.io/problems/virtu-financial-maximum-barbell-weight)|🆕 Sep 30, 2026|
 |**Virtu Financial**|[Maximum Sum of Heights](https://www.fastprep.io/problems/virtu-financial-maximum-sum-of-heights)|[![Practice][p]](https://www.fastprep.io/problems/virtu-financial-maximum-sum-of-heights)|🆕 Sep 30, 2026|
@@ -611,7 +613,6 @@
 |**Uber**|[Dynamic Island Counts](https://www.fastprep.io/problems/uber-dynamic-island-counts)|[![Practice][p]](https://www.fastprep.io/problems/uber-dynamic-island-counts)|🆕 Sep 29, 2026|
 |**Uber**|[K Smallest Squares from a Sorted Array](https://www.fastprep.io/problems/uber-k-smallest-squares-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/uber-k-smallest-squares-sorted-array)|🆕 Sep 29, 2026|
 |**Uber**|[Count Connected Islands](https://www.fastprep.io/problems/uber-number-of-islands)|[![Practice][p]](https://www.fastprep.io/problems/uber-number-of-islands)|🆕 Sep 29, 2026|
-|**Valon**|[Out-of-Order Loan Ledger](https://www.fastprep.io/problems/valon-out-of-order-loan-ledger)|[![Practice][p]](https://www.fastprep.io/problems/valon-out-of-order-loan-ledger)|🆕 Sep 29, 2026|
 |**Verkada**|[Host Log Parser](https://www.fastprep.io/problems/verkada-host-log-parser)|[![Practice][p]](https://www.fastprep.io/problems/verkada-host-log-parser)|🆕 Sep 29, 2026|
 |**Waymo**|[Island Area and Water Boundary](https://www.fastprep.io/problems/waymo-island-area-water-boundary)|[![Practice][p]](https://www.fastprep.io/problems/waymo-island-area-water-boundary)|🆕 Sep 29, 2026|
 |**Waymo**|[Linked Perception History](https://www.fastprep.io/problems/waymo-linked-perception-history)|[![Practice][p]](https://www.fastprep.io/problems/waymo-linked-perception-history)|🆕 Sep 29, 2026|

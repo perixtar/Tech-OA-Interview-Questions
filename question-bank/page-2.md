@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/amazon-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-substring-without-repeating-characters)|Sep 10, 2026|
 |**Amazon**|[Most Frequent Consecutive Website Pattern](https://www.fastprep.io/problems/amazon-consecutive-website-visit-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-consecutive-website-visit-pattern)|Sep 10, 2026|
 |**Amazon**|[Recent Advertisement Click Counts](https://www.fastprep.io/problems/amazon-ad-click-counts-sliding-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-ad-click-counts-sliding-window)|Sep 10, 2026|
 |**Blinkit**|[Find a Peak Element](https://www.fastprep.io/problems/blinkit-find-peak-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blinkit-find-peak-element)|Sep 10, 2026|
@@ -1762,6 +1763,4 @@
 |**IBM**|[Max Profit](https://www.fastprep.io/problems/ibm-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-profit)|Dec 23, 2024|
 |**Amazon**|[Max Transfer Rate](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Dec 22, 2024|
 |**Amazon**|[Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-final-locations)|Dec 22, 2024|
-|**Amazon**|[Get Stable Periods Count](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Dec 22, 2024|
-|**Amazon**|[Calculate Max Profit](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Dec 22, 2024|
 <a id="bottom"></a>

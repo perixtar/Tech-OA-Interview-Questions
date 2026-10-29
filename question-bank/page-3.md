@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Stable Periods Count](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Dec 22, 2024|
+|**Amazon**|[Calculate Max Profit](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Dec 22, 2024|
 |**Google**|[Max Break Time](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Dec 22, 2024|
 |**Microsoft**|[Three Partition Array](https://www.fastprep.io/problems/microsoft-three-partition-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-partition-array)|Dec 22, 2024|
 |**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|Dec 20, 2024|

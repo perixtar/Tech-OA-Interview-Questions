@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**84 questions**
+**85 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -19,6 +19,7 @@
 |**Capital One**|[Build House Viewing Features](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|🆕 Oct 11, 2026|
 |**Capital One**|[Prepare House Price Regression Data](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|🆕 Oct 11, 2026|
 |**Capital One**|[Predict House Prices](https://www.fastprep.io/problems/capital-one-predict-house-prices)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-house-prices)|🆕 Oct 11, 2026|
+|**Capital One**|[Count Records Present in A but Not B](https://www.fastprep.io/problems/capital-one-count-records-in-a-not-b)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-records-in-a-not-b)|🆕 Oct 10, 2026|
 |**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🆕 Oct 08, 2026|
 |**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🆕 Oct 08, 2026|
 |**Apple**|[Customer Order Count Distribution by Country](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|[![Practice][p]](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|🆕 Oct 08, 2026|
