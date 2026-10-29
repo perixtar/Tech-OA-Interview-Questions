@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**637 questions**
+**638 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Rippling**|[Design a Multi-Tenant Employee Leave Management System](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|🔥 Oct 29, 2026|
 |**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic / Datadog / WhatNot**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🔥 Oct 27, 2026|
 |**Nextdoor**|[Design a Neighborhood News Feed with Black-Box Ranking](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|🔥 Oct 27, 2026|
 |**Oracle**|[Design Safe Patching and Image Rollout for a Storage Fleet](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|[![Practice][p]](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|🔥 Oct 27, 2026|

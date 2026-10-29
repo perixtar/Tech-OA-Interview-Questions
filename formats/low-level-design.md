@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**198 questions**
+**199 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Nykaa / Navi / Atlys / Rippling**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 29, 2026|
+|**Autodesk**|[Design a Shape Transformation Engine](https://www.fastprep.io/low-level-design/shape-transformation-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-transformation-engine)|🔥 Oct 29, 2026|
 |**Commvault / Oracle**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🔥 Oct 27, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Oct 27, 2026|
 |**Google / The D.E. Shaw Group**|[Design and Implement a Meeting-Room Scheduler](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|🔥 Oct 26, 2026|

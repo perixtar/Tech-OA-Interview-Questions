@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Datadog**|[Maximum Loot on a Line or Circle](https://www.fastprep.io/problems/datadog-house-loot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-house-loot)|Mar 07, 2025|
+|**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
 |**Chainalysis**|[Filter Team A Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Mar 06, 2025|
 |**Chainalysis**|[Filter Team A Transfer Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Mar 06, 2025|
 |**Chainalysis**|[High-Severity Counts by Search Type](https://www.fastprep.io/problems/chainalysis-high-severity-counts-by-search-type)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-high-severity-counts-by-search-type)|Mar 06, 2025|

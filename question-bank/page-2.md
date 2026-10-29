@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Akuna Capital**|[K Smallest Substring](https://www.fastprep.io/problems/akuna-get-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-get-substring)|Sep 10, 2026|
+|**Stripe**|[Build a Task and Subtask Hierarchy](https://www.fastprep.io/problems/stripe-unordered-task-subtask-hierarchy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-unordered-task-subtask-hierarchy)|Sep 10, 2026|
+|**Snap Inc.**|[Sort Characters by Frequency](https://www.fastprep.io/problems/snap-inc-sort-characters-by-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-sort-characters-by-frequency)|Sep 10, 2026|
 |**Reddit**|[Shortest Word Transformation Sequence](https://www.fastprep.io/problems/reddit-word-ladder-shortest-transformation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-word-ladder-shortest-transformation)|Sep 10, 2026|
 |**Reddit**|[Validate a Single-Letter Word Sequence](https://www.fastprep.io/problems/reddit-validate-single-letter-word-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-validate-single-letter-word-sequence)|Sep 10, 2026|
 |**Oracle**|[Maximum of Window Minimums](https://www.fastprep.io/problems/oracle-maximum-of-window-minimums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-of-window-minimums)|Sep 10, 2026|
@@ -1273,7 +1276,6 @@
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
 |**Stripe**|[Validate Timestamped Message Records](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Jan 17, 2026|
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
-|**Stripe**|[Complete a Balance-Summary Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|Jan 17, 2026|
 |**Stripe**|[Filter Contacts by Email Domain](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Jan 16, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
@@ -1761,6 +1763,4 @@
 |**Datadog**|[Maximum Depth of a Rooted Tree](https://www.fastprep.io/problems/datadog-maximum-tree-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-maximum-tree-depth)|Mar 13, 2025|
 |**Atlassian**|[Crossword Hint Delivery](https://www.fastprep.io/system-design/crossword-hint-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crossword-hint-delivery)|Mar 12, 2025|
 |**Confluent / Wayfair / Atlassian**|[Diagnose and Scale a Multi-Region Cloud Service](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|Mar 12, 2025|
-|**Datadog**|[Maximum Loot on a Line or Circle](https://www.fastprep.io/problems/datadog-house-loot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-house-loot)|Mar 07, 2025|
-|**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
 <a id="bottom"></a>
