@@ -1,6 +1,7 @@
 # Contributing
 
-Thanks for helping keep the 2026 Tech OA tracker current. The repo is useful only if reports are specific, source-safe, and easy to verify.
+Thanks for helping keep the 2026 Tech OA tracker current. The repo is useful
+only if reports are specific, source-safe, and easy to verify.
 
 ## What To Submit
 
@@ -32,7 +33,10 @@ legacy `/problems/` routes that predate the public catalog use the coding
 workspace's `Coding` fallback. Please do not guess a format from a title or
 company.
 
-Please do not submit confidential screenshots, private recruiter messages, account-only assessment pages, or full proprietary problem statements. A short summary is enough for maintainers to verify the report and create a practice-safe entry.
+Please do not submit confidential screenshots, private recruiter messages,
+account-only assessment pages, or full proprietary problem statements. A short
+summary is enough for maintainers to verify the report and create a
+practice-safe entry.
 
 ## How Updates Are Reviewed
 
@@ -54,11 +58,13 @@ newest-first ordering, route conservation, and every generated page's byte
 limit. It does not export source URLs, answers, evaluator content, or restricted
 assessment material.
 
-Prefer one issue per company/question so each report can be tracked independently.
+Prefer one issue per company/question so each report can be tracked
+independently.
 
 ## Corrections
 
-For corrections, link the current README row and explain the exact change needed. Examples:
+For corrections, link the current README row and explain the exact change
+needed. Examples:
 
 - Broken practice link.
 - Typo in the question title.
@@ -67,4 +73,5 @@ For corrections, link the current README row and explain the exact change needed
 
 ## Community
 
-For quick discussion or follow-up context, join the FastPrep Discord: https://discord.gg/kSbWpSGUTH
+For quick discussion or follow-up context, join the FastPrep Discord:
+https://discord.gg/kSbWpSGUTH
