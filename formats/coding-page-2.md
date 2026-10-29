@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,872 questions**
+**3,879 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Count Connected Components](https://www.fastprep.io/problems/amazon-count-connected-components)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-connected-components)|May 21, 2026|
+|**Google**|[Detonate Bombs with Chain Reactions](https://www.fastprep.io/problems/google-detonate-bombs-chain-reaction)|[![Practice][p]](https://www.fastprep.io/problems/google-detonate-bombs-chain-reaction)|May 20, 2026|
+|**Google**|[Evaluate a Nested Math Expression](https://www.fastprep.io/problems/google-evaluate-nested-math-expression)|[![Practice][p]](https://www.fastprep.io/problems/google-evaluate-nested-math-expression)|May 20, 2026|
+|**Guidewire**|[Minimum Boys Next to Girls](https://www.fastprep.io/problems/guidewire-minimum-boys-next-to-girls)|[![Practice][p]](https://www.fastprep.io/problems/guidewire-minimum-boys-next-to-girls)|May 20, 2026|
 |**Salesforce**|[Time Needed to Rearrange a Binary String](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|May 19, 2026|
 |**Infosys**|[Minimum Path Sum With Grid Switches](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|[![Practice][p]](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|May 19, 2026|
 |**Snowflake**|[Effective Role Privileges](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|May 19, 2026|
@@ -114,6 +118,7 @@
 |**Google**|[Rotate a Square Matrix Clockwise](https://www.fastprep.io/problems/google-rotate-matrix-clockwise)|[![Practice][p]](https://www.fastprep.io/problems/google-rotate-matrix-clockwise)|Apr 06, 2026|
 |**Rubrik**|[Minimum Swaps To Binary Palindrome](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|Apr 04, 2026|
 |**Zorvyn**|[Shortest Path With K Free Edges](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|[![Practice][p]](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|Apr 04, 2026|
+|**Decagon**|[Count Hits in the Last Five Minutes](https://www.fastprep.io/problems/decagon-hit-counter)|[![Practice][p]](https://www.fastprep.io/problems/decagon-hit-counter)|Apr 04, 2026|
 |**Maven Clinic**|[Paginate Provider Listings with Per-Page Diversity](https://www.fastprep.io/problems/maven-clinic-provider-diverse-pagination)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-provider-diverse-pagination)|Apr 03, 2026|
 |**Zip**|[Find All Zip Rummy Melds](https://www.fastprep.io/problems/zip-rummy-melds)|[![Practice][p]](https://www.fastprep.io/problems/zip-rummy-melds)|Apr 02, 2026|
 |**Rippling**|[Driver Balance Ledger](https://www.fastprep.io/problems/rippling-driver-balance-ledger)|[![Practice][p]](https://www.fastprep.io/problems/rippling-driver-balance-ledger)|Apr 01, 2026|
@@ -151,6 +156,7 @@
 |**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
 |**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
 |**FlexTrade**|[Reverse a String](https://www.fastprep.io/problems/flextrade-reverse-string)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-reverse-string)|Mar 14, 2026|
+|**Decagon**|[Exclusive Function Execution Time](https://www.fastprep.io/problems/decagon-exclusive-function-time)|[![Practice][p]](https://www.fastprep.io/problems/decagon-exclusive-function-time)|Mar 13, 2026|
 |**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Mar 12, 2026|
 |**Adobe**|[Maximum Reachable Value Within a Step Budget](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|[![Practice][p]](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Mar 12, 2026|
 |**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Mar 12, 2026|
@@ -681,6 +687,7 @@
 |**LSEG**|[Price Equity Options and Forwards](https://www.fastprep.io/problems/lseg-equity-derivative-pricing)|[![Practice][p]](https://www.fastprep.io/problems/lseg-equity-derivative-pricing)|Dec 12, 2024|
 |**Amazon**|[Get Min Value](https://www.fastprep.io/problems/amazon-get-minimum-value)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-value)|Dec 11, 2024|
 |**Amazon**|[Get Max Skill Sum](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Dec 11, 2024|
+|**Decagon**|[Largest Rectangle in a Histogram](https://www.fastprep.io/problems/decagon-largest-histogram-rectangle)|[![Practice][p]](https://www.fastprep.io/problems/decagon-largest-histogram-rectangle)|Dec 11, 2024|
 |**Amazon**|[Find Number](https://www.fastprep.io/problems/amazon-find-number)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number)|Dec 10, 2024|
 |**Amazon**|[Get Min Removal](https://www.fastprep.io/problems/amazon-get-min-removal)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-removal)|Dec 10, 2024|
 |**Microsoft**|[Max Num Of Prduced Car](https://www.fastprep.io/problems/microsoft-max-num-of-produced-cars)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-max-num-of-produced-cars)|Dec 10, 2024|
@@ -1926,12 +1933,4 @@
 |**Bloomberg LP**|[Maximum Grid Path Sum in Exactly N Moves](https://www.fastprep.io/problems/bloomberg-maximum-grid-path-sum-exact-moves)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-grid-path-sum-exact-moves)|Nov 27, 2020|
 |**Bloomberg LP**|[Sort an Absolute-Value-Sorted Array](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-array)|Nov 27, 2020|
 |**Bloomberg LP**|[Sort Every N-ary Tree Node's Children](https://www.fastprep.io/problems/bloomberg-sort-nary-tree-children)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-nary-tree-children)|Nov 27, 2020|
-|**SambaNova Systems**|[Diagonal Traverse](https://www.fastprep.io/problems/sambanova-diagonal-traverse)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-diagonal-traverse)|Nov 23, 2020|
-|**SambaNova Systems**|[Rotate Image](https://www.fastprep.io/problems/sambanova-rotate-image)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-rotate-image)|Nov 23, 2020|
-|**SambaNova Systems**|[Set Matrix Zeroes](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Nov 23, 2020|
-|**Bloomberg LP**|[Word Break with One Reconstruction](https://www.fastprep.io/problems/bloomberg-word-break-one-segmentation)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-one-segmentation)|Nov 22, 2020|
-|**Bloomberg LP**|[Search a Valley Array](https://www.fastprep.io/problems/bloomberg-search-valley-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-valley-array)|Nov 19, 2020|
-|**Bloomberg LP**|[Find Peak Element](https://www.fastprep.io/problems/bloomberg-find-peak-element)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-peak-element)|Nov 05, 2020|
-|**Bloomberg LP**|[Shortest Bridge](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|Nov 05, 2020|
-|**Bloomberg LP**|[Monotonic Array](https://www.fastprep.io/problems/bloomberg-monotonic-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-monotonic-array)|Oct 28, 2020|
 <a id="bottom"></a>
