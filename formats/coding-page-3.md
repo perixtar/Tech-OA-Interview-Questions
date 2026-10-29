@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,872 questions**
+**3,879 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**SambaNova Systems**|[Diagonal Traverse](https://www.fastprep.io/problems/sambanova-diagonal-traverse)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-diagonal-traverse)|Nov 23, 2020|
+|**SambaNova Systems**|[Rotate Image](https://www.fastprep.io/problems/sambanova-rotate-image)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-rotate-image)|Nov 23, 2020|
+|**SambaNova Systems**|[Set Matrix Zeroes](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Nov 23, 2020|
+|**Bloomberg LP**|[Word Break with One Reconstruction](https://www.fastprep.io/problems/bloomberg-word-break-one-segmentation)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-one-segmentation)|Nov 22, 2020|
+|**Bloomberg LP**|[Search a Valley Array](https://www.fastprep.io/problems/bloomberg-search-valley-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-valley-array)|Nov 19, 2020|
+|**Bloomberg LP**|[Find Peak Element](https://www.fastprep.io/problems/bloomberg-find-peak-element)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-peak-element)|Nov 05, 2020|
+|**Bloomberg LP**|[Shortest Bridge](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|Nov 05, 2020|
+|**Bloomberg LP**|[Monotonic Array](https://www.fastprep.io/problems/bloomberg-monotonic-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-monotonic-array)|Oct 28, 2020|
 |**Bloomberg LP**|[Remove Invalid Parentheses](https://www.fastprep.io/problems/bloomberg-remove-invalid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-invalid-parentheses)|Oct 23, 2020|
 |**Bloomberg LP**|[Intersection of Two Arrays](https://www.fastprep.io/problems/bloomberg-intersection-of-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-intersection-of-two-arrays)|Oct 22, 2020|
 |**IMC**|[Hidden Artifacts](https://www.fastprep.io/problems/imc-hidden-artifacts)|[![Practice][p]](https://www.fastprep.io/problems/imc-hidden-artifacts)|Oct 20, 2020|

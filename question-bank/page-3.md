@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Stripe**|[Card Range Obfuscation Part 1](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part1)|Nov 25, 2024|
+|**Amazon**|[Min Insertions](https://www.fastprep.io/problems/amazon-minimum-insertions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-insertions)|Nov 24, 2024|
+|**TikTok**|[Create Maximum Collaborations](https://www.fastprep.io/problems/tiktok-create-maximum-collaborations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-create-maximum-collaborations)|Nov 24, 2024|
+|**TikTok**|[Maximize Processing Power](https://www.fastprep.io/problems/tiktok-maximize-processing-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-processing-power)|Nov 24, 2024|
+|**IBM**|[Get Query Answers](https://www.fastprep.io/problems/ibm-get-query-answers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-query-answers)|Nov 24, 2024|
+|**IBM**|[Card Packs](https://www.fastprep.io/problems/ibm-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-card-packets)|Nov 24, 2024|
+|**Amazon**|[Min Chars to Append](https://www.fastprep.io/problems/amazon-determine-minimum-characters-to-append)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-minimum-characters-to-append)|Nov 23, 2024|
+|**Cisco**|[Find Max Difference](https://www.fastprep.io/problems/cisco-find-maximum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-difference)|Nov 21, 2024|
 |**Confluent**|[Design a Leader-Based Distributed Key-Value Store](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|Nov 21, 2024|
 |**Bloomberg LP**|[Count Index Pairs with a Target Sum](https://www.fastprep.io/problems/bloomberg-count-index-pairs-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-index-pairs-target-sum)|Nov 21, 2024|
 |**Amazon**|[Reduce Memory Usage](https://www.fastprep.io/problems/amazon-reduce-memory-usage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-reduce-memory-usage)|Nov 20, 2024|
