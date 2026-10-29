@@ -1422,6 +1422,7 @@
 |**Notion**|[Sliding Window Median](https://www.fastprep.io/problems/notion-sliding-window-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-sliding-window-median)|Oct 16, 2025|
 |**Notion**|[Task Row Modifications](https://www.fastprep.io/problems/notion-task-row-modifications)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-task-row-modifications)|Oct 16, 2025|
 |**Datadog**|[Design a Frontend Alarm Management Console](https://www.fastprep.io/system-design/frontend-alarm-management-console)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-alarm-management-console)|Oct 16, 2025|
+|**Squarepoint Capital**|[Demonstrate Four OOP Principles](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Oct 16, 2025|
 |**Apple**|[LLM SDK Output Strategies](https://www.fastprep.io/problems/apple-llm-sdk-output-strategies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-llm-sdk-output-strategies)|Oct 15, 2025|
 |**Motive**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/motive-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-search-in-rotated-sorted-array)|Oct 11, 2025|
 |**Morgan Stanley**|[Model Room Appliances with OOP](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Oct 11, 2025|
@@ -1762,5 +1763,4 @@
 |**Confluent / Wayfair / Atlassian**|[Diagnose and Scale a Multi-Region Cloud Service](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|Mar 12, 2025|
 |**Datadog**|[Maximum Loot on a Line or Circle](https://www.fastprep.io/problems/datadog-house-loot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-house-loot)|Mar 07, 2025|
 |**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
-|**Chainalysis**|[Filter Team A Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Mar 06, 2025|
 <a id="bottom"></a>

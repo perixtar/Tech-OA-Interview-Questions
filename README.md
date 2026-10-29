@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,024)](formats/coding.md) · [SQL (86)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (197)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,024)](formats/coding.md) · [SQL (86)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (198)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Nykaa / Navi / Atlys / Rippling**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 29, 2026|
 |**Amazon**|[Fill One Exact-Length Binary Window](https://www.fastprep.io/problems/amazon-fill-exact-length-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-fill-exact-length-window)|🔥 Oct 27, 2026|
 |**Google**|[Fuel Route with Fewest Station Visits](https://www.fastprep.io/problems/google-fuel-route-fewest-stations-then-roads)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fuel-route-fewest-stations-then-roads)|🔥 Oct 27, 2026|
 |**ByteDance**|[Sparse Matrix Multiplication](https://www.fastprep.io/problems/bytedance-sparse-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-sparse-matrix-multiplication)|🔥 Oct 27, 2026|
@@ -230,7 +231,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Stripe**|[Split Tender Payments with Expiration and Refunds](https://www.fastprep.io/problems/stripe-split-tender-payments-with-refunds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-payments-with-refunds)|🔥 Oct 19, 2026|
 |**ByteDance**|[Design a Currency Conversion Service](https://www.fastprep.io/system-design/currency-conversion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/currency-conversion-service)|🔥 Oct 19, 2026|
 |**LinkedIn**|[Implement Priority and Time-Window Log Processing](https://www.fastprep.io/project-coding/linkedin-priority-window-log-processing)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-priority-window-log-processing)|🔥 Oct 19, 2026|
-|**Nykaa / Navi / Atlys**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 19, 2026|
 |**Amazon**|[Binary Tree Spiral Level Order](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-binary-tree-spiral-level-order)|🔥 Oct 18, 2026|
 |**Amazon**|[Number of Islands](https://www.fastprep.io/problems/amazon-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-islands)|🔥 Oct 18, 2026|
 |**Unattributed**|[Design a Medicine Delivery Platform](https://www.fastprep.io/system-design/medicine-delivery-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/medicine-delivery-platform)|🔥 Oct 18, 2026|
