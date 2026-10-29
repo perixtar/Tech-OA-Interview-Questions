@@ -2,18 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**110 questions**
+**122 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🔥 Oct 27, 2026|
+|**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|🔥 Oct 26, 2026|
+|**Sierra**|[Debug a Subscription Retention Agent](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|[![Practice][p]](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|🔥 Oct 25, 2026|
 |**Anthropic**|[Optimize a Simulated Accelerator Kernel](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|🔥 Oct 22, 2026|
 |**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🔥 Oct 22, 2026|
 |**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🔥 Oct 22, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 21, 2026|
 |**Okta**|[Implement a JWT Parser](https://www.fastprep.io/project-coding/okta-jwt-parser)|[![Practice][p]](https://www.fastprep.io/project-coding/okta-jwt-parser)|🔥 Oct 21, 2026|
 |**Anthropic**|[Implement a Stock-Price Agent Loop](https://www.fastprep.io/project-coding/anthropic-stock-price-agent-loop)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-stock-price-agent-loop)|🔥 Oct 21, 2026|
+|**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|🔥 Oct 21, 2026|
 |**Stripe**|[Colander Debugging: Repair Error Aggregation](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-colander-aggregation)|🔥 Oct 20, 2026|
 |**LinkedIn**|[Implement Priority and Time-Window Log Processing](https://www.fastprep.io/project-coding/linkedin-priority-window-log-processing)|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-priority-window-log-processing)|🔥 Oct 19, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Oct 17, 2026|
@@ -25,11 +29,10 @@
 |**Stripe**|[Integrate and Enrich Contact API Data](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|🔥 Oct 16, 2026|
 |**StackAdapt**|[Repair Corrupted Grid Digit Recognition](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|[![Practice][p]](https://www.fastprep.io/project-coding/stackadapt-corrupted-grid-digit-recognition)|🔥 Oct 15, 2026|
 |**eBay**|[Repair an Asynchronous Store Update](https://www.fastprep.io/project-coding/ebay-repair-async-store-update)|[![Practice][p]](https://www.fastprep.io/project-coding/ebay-repair-async-store-update)|🔥 Oct 15, 2026|
-|**Sphere**|[Integrate a State Tax API](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|🔥 Oct 14, 2026|
-|**Upstart**|[Build a Poll and Voting API](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|[![Practice][p]](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|🔥 Oct 14, 2026|
-|**Reevo**|[Airline Seat Booking](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|[![Practice][p]](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|🔥 Oct 14, 2026|
-|**Perplexity AI**|[Analyze JSONL Click Data Quality in a Notebook](https://www.fastprep.io/project-coding/perplexity-jsonl-click-data-quality)|[![Practice][p]](https://www.fastprep.io/project-coding/perplexity-jsonl-click-data-quality)|🔥 Oct 14, 2026|
-|**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|🔥 Oct 13, 2026|
+|**Sphere**|[Integrate a State Tax API](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/sphere-state-tax-api-integration)|🆕 Oct 14, 2026|
+|**Upstart**|[Build a Poll and Voting API](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|[![Practice][p]](https://www.fastprep.io/project-coding/upstart-poll-voting-api)|🆕 Oct 14, 2026|
+|**Reevo**|[Airline Seat Booking](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|[![Practice][p]](https://www.fastprep.io/project-coding/reevo-airline-seat-booking)|🆕 Oct 14, 2026|
+|**Perplexity AI**|[Analyze JSONL Click Data Quality in a Notebook](https://www.fastprep.io/project-coding/perplexity-jsonl-click-data-quality)|[![Practice][p]](https://www.fastprep.io/project-coding/perplexity-jsonl-click-data-quality)|🆕 Oct 14, 2026|
 |**Dell Technologies**|[Repair Expiration and Soft Deletion](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|🆕 Oct 11, 2026|
 |**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🆕 Oct 10, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🆕 Oct 09, 2026|
@@ -42,6 +45,7 @@
 |**Zip**|[Repair Monthly Expense Attribution](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|🆕 Oct 02, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🆕 Sep 30, 2026|
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🆕 Sep 30, 2026|
+|**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|🆕 Sep 29, 2026|
 |**Amazon**|[Repair Blog Post Creation](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-blog-post-creation)|🆕 Sep 28, 2026|
 |**Odoo**|[Build FIFO Inventory Costing](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|[![Practice][p]](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|🆕 Sep 25, 2026|
 |**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🆕 Sep 25, 2026|
@@ -60,14 +64,13 @@
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🆕 Sep 16, 2026|
 |**Mercor**|[Repair a Concurrent Read-Through Cache](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|🆕 Sep 15, 2026|
 |**Amazon**|[Repair Django Ticket Creation and Replies](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|🆕 Sep 15, 2026|
-|**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|🆕 Sep 13, 2026|
-|**Shopify**|[Build a Bank Account Utility](https://www.fastprep.io/project-coding/shopify-bank-account-utility)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-bank-account-utility)|🆕 Sep 13, 2026|
-|**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|🆕 Sep 12, 2026|
-|**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🆕 Sep 11, 2026|
+|**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|Sep 13, 2026|
+|**Shopify**|[Build a Bank Account Utility](https://www.fastprep.io/project-coding/shopify-bank-account-utility)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-bank-account-utility)|Sep 13, 2026|
+|**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|Sep 12, 2026|
 |**Snap Inc.**|[Build a Persistent Chat Backend](https://www.fastprep.io/project-coding/persistent-chat-backend)|[![Practice][p]](https://www.fastprep.io/project-coding/persistent-chat-backend)|Sep 10, 2026|
 |**Anthropic**|[Implement Concurrent Image Transformations](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|Sep 10, 2026|
 |**Verkada**|[Build SQLite-Backed GET and POST Endpoints](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|Sep 09, 2026|
-|**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|Sep 02, 2026|
+|**Datadog**|[Review a Batched Processor Pull Request](https://www.fastprep.io/project-coding/datadog-batch-processor-pr-review)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-batch-processor-pr-review)|Sep 04, 2026|
 |**Amazon**|[Repair Dashboard Issue Creation](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|Sep 01, 2026|
 |**Amazon**|[Repair Event Listing Filters, Pagination, and Caching](https://www.fastprep.io/project-coding/amazon-repair-event-listing-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-event-listing-cache)|Aug 27, 2026|
 |**Meta**|[Build an In-Memory Cloud Storage System](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|[![Practice][p]](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|Aug 19, 2026|
@@ -79,9 +82,11 @@
 |**Baseten**|[Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|[![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|Aug 02, 2026|
 |**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
 |**Scale AI**|[Build a CSV-to-JSON LLM Categorization Service](https://www.fastprep.io/project-coding/scale-csv-json-llm-categorization-service)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-csv-json-llm-categorization-service)|Aug 01, 2026|
+|**Decagon**|[Build a Resilient AI Gateway](https://www.fastprep.io/project-coding/decagon-resilient-ai-gateway)|[![Practice][p]](https://www.fastprep.io/project-coding/decagon-resilient-ai-gateway)|Aug 01, 2026|
 |**OpenAI**|[Repair a Deployed Django Rate Limiter](https://www.fastprep.io/project-coding/openai-django-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-django-rate-limiter)|Jul 31, 2026|
 |**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
 |**Coinbase / Airbnb**|[In-Memory Database](https://www.fastprep.io/project-coding/in-memory-database)|[![Practice][p]](https://www.fastprep.io/project-coding/in-memory-database)|Jul 27, 2026|
+|**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|Jul 23, 2026|
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
 |**ByteDance**|[Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|[![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|Jun 25, 2026|
 |**Stripe**|[Build an Image Prediction Pipeline](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|May 06, 2026|
@@ -99,15 +104,20 @@
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Stripe**|[Complete a Paginated API Synchronization](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|Dec 04, 2025|
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
-|**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Apple**|[Complete a DAG Task Pipeline](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|Oct 07, 2025|
 |**Apple**|[Extend a Three-Bot Rock Paper Scissors Game](https://www.fastprep.io/project-coding/apple-rock-paper-scissors-rounds)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-rock-paper-scissors-rounds)|Aug 14, 2025|
 |**Zip**|[Build a Four-Level Cloud Storage Query Engine](https://www.fastprep.io/project-coding/zip-cloud-storage-queries)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-cloud-storage-queries)|Jul 24, 2025|
 |**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
 |**IMC Trading**|[Stock Transfer Minimization](https://www.fastprep.io/project-coding/stock-transfer-minimization)|[![Practice][p]](https://www.fastprep.io/project-coding/stock-transfer-minimization)|Jan 29, 2025|
+|**JP Morgan Chase**|[Complete a Rural Reading Assessment Platform](https://www.fastprep.io/project-coding/jpmorgan-vopa-reading-assessment)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-vopa-reading-assessment)|Dec 31, 2024|
 |**Elastic**|[Build a Search Index Web Service](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|[![Practice][p]](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|Sep 28, 2024|
 |**Odoo**|[Build a Room Booking Single-Page Application](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|[![Practice][p]](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|Sep 17, 2024|
+|**JP Morgan Chase**|[Complete an Internal Document Review Dashboard](https://www.fastprep.io/project-coding/jpmorgan-cry-document-review-dashboard)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-cry-document-review-dashboard)|Sep 10, 2024|
+|**JP Morgan Chase**|[Complete a Benefit Application Workflow](https://www.fastprep.io/project-coding/jpmorgan-indus-benefit-applications)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-indus-benefit-applications)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete a Donation and Clothing Bank Workflow](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete a Multilingual Volunteer Tutoring Platform](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|Jul 27, 2024|
+|**JP Morgan Chase**|[Complete an Intervention Tracking Website](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|Jul 27, 2024|
 |**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
 |**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Dec 21, 2023|
 |**Klaviyo**|[Repair a Train Speeding Incident Logger](https://www.fastprep.io/project-coding/klaviyo-train-speeding-incidents)|[![Practice][p]](https://www.fastprep.io/project-coding/klaviyo-train-speeding-incidents)|Sep 28, 2023|
@@ -117,5 +127,7 @@
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 |**Shopify**|[Build a Warehouse Inventory Application](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|Jan 27, 2022|
+|**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
+|**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
 |**Datadog**|[Console Website Monitor](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|May 26, 2019|
 <a id="bottom"></a>
