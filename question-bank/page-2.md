@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Nuro**|[Thread-Safe Task Storage and Worker Dispatch](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Sep 09, 2026|
 |**Nuro**|[Group Sparse Points by Distance Threshold](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-sparse-point-distance-components)|Sep 09, 2026|
 |**Nuro**|[Course Ordering with Concurrent Updates](https://www.fastprep.io/problems/nuro-course-schedule-ii-thread-safe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-course-schedule-ii-thread-safe)|Sep 09, 2026|
 |**LinkedIn**|[Schedule Tasks with an Interval Tree](https://www.fastprep.io/problems/linkedin-interval-tree-task-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-interval-tree-task-scheduling)|Sep 09, 2026|
@@ -1768,5 +1769,4 @@
 |**Microsoft**|[Reverse An Integer](https://www.fastprep.io/problems/microsoft-reverse-an-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-reverse-an-integer)|Nov 13, 2024|
 |**Stripe**|[Select Compatible Card Applications](https://www.fastprep.io/problems/stripe-card-application-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-application-selection)|Nov 12, 2024|
 |**Amazon**|[Rooks Left](https://www.fastprep.io/problems/amazon-rooks-left)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-rooks-left)|Nov 12, 2024|
-|**Google**|[Longest Non-Decreasing Subarray](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray-follow-up)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray-follow-up)|Nov 12, 2024|
 <a id="bottom"></a>

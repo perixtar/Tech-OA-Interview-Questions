@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,857)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (196)](formats/low-level-design.md) · [AI coding (121)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,857)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (197)](formats/low-level-design.md) · [AI coding (121)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -86,6 +86,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Citadel**|[Reachable Transfer Positions](https://www.fastprep.io/problems/citadel-reachable-transfer-positions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-reachable-transfer-positions)|🔥 Oct 26, 2026|
 |**ThoughtSpot / CARS24**|[Design a Priority-Aware Database Request Gateway](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-database-request-gateway)|🔥 Oct 25, 2026|
 |**Sierra**|[Debug a Subscription Retention Agent](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|🔥 Oct 25, 2026|
+|**Decagon**|[Design an AI Agent Rule Configuration Domain](https://www.fastprep.io/low-level-design/ai-agent-rule-configuration)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ai-agent-rule-configuration)|🔥 Oct 25, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 24, 2026|
 |**Amazon**|[Design a Smart Meter Electricity Monitoring System](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|🔥 Oct 24, 2026|
 |**Amazon**|[Design an Agentic Chatbot Domain](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|🔥 Oct 24, 2026|
@@ -1688,5 +1689,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Reducto**|[Recover Document Hierarchy from Indentation](https://www.fastprep.io/problems/reducto-document-text-indentation-hierarchy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reducto-document-text-indentation-hierarchy)|Sep 09, 2026|
 |**Nuro**|[Versioned Key-Value Store with Suffix Truncation](https://www.fastprep.io/problems/nuro-versioned-key-value-store-with-truncation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-versioned-key-value-store-with-truncation)|Sep 09, 2026|
 |**Nuro**|[Trapping Rain Water](https://www.fastprep.io/problems/nuro-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-trapping-rain-water)|Sep 09, 2026|
-|**Nuro**|[Thread-Safe Task Storage and Worker Dispatch](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-thread-safe-task-storage-and-worker-dispatch)|Sep 09, 2026|
 <a id="bottom"></a>

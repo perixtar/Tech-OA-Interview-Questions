@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Longest Non-Decreasing Subarray](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray-follow-up)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray-follow-up)|Nov 12, 2024|
 |**Google**|[Find Maximum Length Of Non-Decreasing Subarray](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray)|Nov 12, 2024|
 |**Google**|[Maximum Good Triplet Distance](https://www.fastprep.io/problems/google-maximum-good-triplet-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-good-triplet-distance)|Nov 11, 2024|
 |**Google**|[Nth License Plate](https://www.fastprep.io/problems/google-nth-license-plate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-nth-license-plate)|Nov 11, 2024|
