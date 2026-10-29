@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,027 questions**
+**4,029 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Benchling**|[Eight-Direction Keyboard Typing Time](https://www.fastprep.io/problems/benchling-eight-direction-keyboard-typing)|[![Practice][p]](https://www.fastprep.io/problems/benchling-eight-direction-keyboard-typing)|Apr 07, 2022|
+|**Vanguard**|[Maximum Occurring Character](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|Mar 30, 2022|
+|**Vanguard**|[Picking Tickets](https://www.fastprep.io/problems/vanguard-picking-tickets)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-picking-tickets)|Mar 30, 2022|
 |**SambaNova Systems**|[Parse Variable, Expression, and Application Trees](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Mar 28, 2022|
 |**Rippling**|[Palindrome Permutation](https://www.fastprep.io/problems/rippling-palindrome-permutation)|[![Practice][p]](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Mar 20, 2022|
 |**Rippling**|[Reverse Substrings Between Parentheses](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|[![Practice][p]](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|Mar 20, 2022|
