@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,024 questions**
+**4,027 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Rippling**|[In-Memory Priority Task Scheduler](https://www.fastprep.io/problems/rippling-priority-task-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/rippling-priority-task-scheduler)|🔥 Oct 29, 2026|
+|**Amazon**|[Best Improvement Period of at Least K Intervals](https://www.fastprep.io/problems/amazon-max-improvement-period-at-least-k)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-improvement-period-at-least-k)|🔥 Oct 28, 2026|
+|**Amazon**|[Search for an Element in a Stream](https://www.fastprep.io/problems/amazon-search-element-in-stream)|[![Practice][p]](https://www.fastprep.io/problems/amazon-search-element-in-stream)|🔥 Oct 28, 2026|
 |**Amazon**|[Fill One Exact-Length Binary Window](https://www.fastprep.io/problems/amazon-fill-exact-length-window)|[![Practice][p]](https://www.fastprep.io/problems/amazon-fill-exact-length-window)|🔥 Oct 27, 2026|
 |**Google**|[Fuel Route with Fewest Station Visits](https://www.fastprep.io/problems/google-fuel-route-fewest-stations-then-roads)|[![Practice][p]](https://www.fastprep.io/problems/google-fuel-route-fewest-stations-then-roads)|🔥 Oct 27, 2026|
 |**ByteDance**|[Sparse Matrix Multiplication](https://www.fastprep.io/problems/bytedance-sparse-matrix-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-sparse-matrix-multiplication)|🔥 Oct 27, 2026|
@@ -1820,7 +1823,4 @@
 |**Snowflake**|[Minimum Height](https://www.fastprep.io/problems/snowflake-minimum-height)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-height)|Jul 03, 2026|
 |**IBM**|[Maximum Requests in a Time Window](https://www.fastprep.io/problems/ibm-maximum-requests-window)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-requests-window)|Jul 03, 2026|
 |**IBM**|[Minimum Number of Non-Empty Disjoint Segments](https://www.fastprep.io/problems/ibm-minimum-disjoint-segments)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-disjoint-segments)|Jul 03, 2026|
-|**Point72**|[Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count)|[![Practice][p]](https://www.fastprep.io/problems/point72-get-triplet-count)|Jul 02, 2026|
-|**Point72**|[Server Selection](https://www.fastprep.io/problems/point72-server-selection)|[![Practice][p]](https://www.fastprep.io/problems/point72-server-selection)|Jul 02, 2026|
-|**Amazon**|[Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Jun 30, 2026|
 <a id="bottom"></a>
