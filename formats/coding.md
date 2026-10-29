@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,925 questions**
+**3,934 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1553,6 +1553,7 @@
 |**Cresta**|[Top Three Companies by Profit](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|[![Practice][p]](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|Jul 28, 2026|
 |**Cresta**|[Rightward Bacteria Consumption](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|[![Practice][p]](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Jul 28, 2026|
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
+|**Rippling**|[LFU Cache with LRU Tie-Breaking](https://www.fastprep.io/problems/rippling-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lfu-cache)|Jul 28, 2026|
 |**Spotnana**|[Optimal Card Game Score](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|[![Practice][p]](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Jul 27, 2026|
 |**Zomato / Eternal**|[Maximum Production Within Power](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|Jul 27, 2026|
 |**Zomato / Eternal**|[Rearrange Songs by Author](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|Jul 27, 2026|
@@ -1823,5 +1824,4 @@
 |**Microsoft**|[Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Jun 24, 2026|
 |**Meta**|[Alert After Repeated Column Threshold Breaches](https://www.fastprep.io/problems/meta-column-threshold-stream-alert)|[![Practice][p]](https://www.fastprep.io/problems/meta-column-threshold-stream-alert)|Jun 24, 2026|
 |**Datadog**|[Query Log Match](https://www.fastprep.io/problems/datadog-query-log-match)|[![Practice][p]](https://www.fastprep.io/problems/datadog-query-log-match)|Jun 22, 2026|
-|**HSBC**|[Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Jun 21, 2026|
 <a id="bottom"></a>

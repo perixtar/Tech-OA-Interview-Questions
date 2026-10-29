@@ -2,12 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,925 questions**
+**3,934 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**PeopleStrong**|[Permutation in a String](https://www.fastprep.io/problems/peoplestrong-permutation-in-string)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-permutation-in-string)|Aug 02, 2021|
+|**PeopleStrong**|[Minimum Travel Time with Flashing Traffic Lights](https://www.fastprep.io/problems/peoplestrong-minimum-traffic-light-travel-time)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-traffic-light-travel-time)|Aug 02, 2021|
+|**PeopleStrong**|[Rat in a Maze: All Simple Paths](https://www.fastprep.io/problems/peoplestrong-rat-in-a-maze)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-rat-in-a-maze)|Aug 02, 2021|
+|**Benchling**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/benchling-longest-substring-without-repeating-characters)|[![Practice][p]](https://www.fastprep.io/problems/benchling-longest-substring-without-repeating-characters)|Jul 30, 2021|
+|**Benchling**|[Next Palindrome Number](https://www.fastprep.io/problems/benchling-next-palindrome-number)|[![Practice][p]](https://www.fastprep.io/problems/benchling-next-palindrome-number)|Jul 30, 2021|
+|**Airbnb**|[Simplified XML Validator](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Jun 21, 2021|
+|**ZipRecruiter**|[Center-Outward Number Spiral](https://www.fastprep.io/problems/ziprecruiter-center-outward-number-spiral)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-center-outward-number-spiral)|Jun 14, 2021|
+|**Bloomberg LP**|[Consecutive Characters](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|Jun 08, 2021|
+|**Bloomberg LP**|[Flatten Binary Tree to Linked List](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Jun 04, 2021|
 |**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
 |**SambaNova Systems**|[Ugly Number](https://www.fastprep.io/problems/sambanova-ugly-number)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-ugly-number)|Apr 02, 2021|
 |**Bloomberg LP**|[Lottery with Add and Pick Operations](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|Apr 01, 2021|

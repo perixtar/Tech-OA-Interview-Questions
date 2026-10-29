@@ -9,6 +9,16 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Shopify**|[Fix the First Robot Instruction](https://www.fastprep.io/problems/shopify-fix-first-robot-instruction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-fix-first-robot-instruction)|Dec 25, 2024|
+|**Microsoft**|[Sum with Tiles](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Dec 24, 2024|
+|**Microsoft**|[Maximize Sum of Two Non Overlapping Fragments](https://www.fastprep.io/problems/microsoft-maximize-sum-of-two-non-overlapping-fragments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-sum-of-two-non-overlapping-fragments)|Dec 24, 2024|
+|**Google**|[Design and Implement a Trie Search Index](https://www.fastprep.io/low-level-design/trie-search-index)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/trie-search-index)|Dec 24, 2024|
+|**Capital One**|[Sum Digits Until One](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|Dec 23, 2024|
+|**IBM**|[Min Cost](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Dec 23, 2024|
+|**IBM**|[Min Difference](https://www.fastprep.io/problems/ibm-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-difference)|Dec 23, 2024|
+|**IBM**|[Max Profit](https://www.fastprep.io/problems/ibm-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-profit)|Dec 23, 2024|
+|**Amazon**|[Max Transfer Rate](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Dec 22, 2024|
+|**Amazon**|[Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-final-locations)|Dec 22, 2024|
 |**Amazon**|[Get Stable Periods Count](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Dec 22, 2024|
 |**Amazon**|[Calculate Max Profit](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Dec 22, 2024|
 |**Google**|[Max Break Time](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Dec 22, 2024|
