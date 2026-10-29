@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,977 questions**
+**3,979 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -66,6 +66,8 @@
 |**CARS24**|[Interleaving Strings](https://www.fastprep.io/problems/cars24-interleaving-string)|[![Practice][p]](https://www.fastprep.io/problems/cars24-interleaving-string)|🔥 Oct 25, 2026|
 |**Nielsen**|[Perfect Squares Matching a Pattern](https://www.fastprep.io/problems/nielsen-pattern-matching-perfect-squares)|[![Practice][p]](https://www.fastprep.io/problems/nielsen-pattern-matching-perfect-squares)|🔥 Oct 25, 2026|
 |**Nielsen**|[Preorder of a Special Binary Tree](https://www.fastprep.io/problems/nielsen-special-bst-preorder)|[![Practice][p]](https://www.fastprep.io/problems/nielsen-special-bst-preorder)|🔥 Oct 25, 2026|
+|**NVIDIA**|[Minimize Task Resource Consumption](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|🔥 Oct 25, 2026|
+|**NVIDIA**|[Minimum Project Bid Cost](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|🔥 Oct 25, 2026|
 |**Amazon**|[Reorganize a String](https://www.fastprep.io/problems/amazon-reorganize-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-reorganize-string)|🔥 Oct 24, 2026|
 |**CARS24**|[Daily Temperatures](https://www.fastprep.io/problems/cars24-daily-temperatures)|[![Practice][p]](https://www.fastprep.io/problems/cars24-daily-temperatures)|🔥 Oct 24, 2026|
 |**CARS24**|[LRU Cache Operation Sequence](https://www.fastprep.io/problems/cars24-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/cars24-lru-cache)|🔥 Oct 24, 2026|
@@ -1821,6 +1823,4 @@
 |**Point72**|[Server Selection](https://www.fastprep.io/problems/point72-server-selection)|[![Practice][p]](https://www.fastprep.io/problems/point72-server-selection)|Jul 02, 2026|
 |**Amazon**|[Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Jun 30, 2026|
 |**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
-|**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
-|**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
 <a id="bottom"></a>

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,977)](formats/coding.md) · [SQL (86)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (197)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,979)](formats/coding.md) · [SQL (86)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (197)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -113,6 +113,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**CARS24**|[Interleaving Strings](https://www.fastprep.io/problems/cars24-interleaving-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cars24-interleaving-string)|🔥 Oct 25, 2026|
 |**Nielsen**|[Perfect Squares Matching a Pattern](https://www.fastprep.io/problems/nielsen-pattern-matching-perfect-squares)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nielsen-pattern-matching-perfect-squares)|🔥 Oct 25, 2026|
 |**Nielsen**|[Preorder of a Special Binary Tree](https://www.fastprep.io/problems/nielsen-special-bst-preorder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nielsen-special-bst-preorder)|🔥 Oct 25, 2026|
+|**NVIDIA**|[Minimize Task Resource Consumption](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|🔥 Oct 25, 2026|
+|**NVIDIA**|[Minimum Project Bid Cost](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|🔥 Oct 25, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 24, 2026|
 |**Amazon**|[Design a Smart Meter Electricity Monitoring System](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|🔥 Oct 24, 2026|
 |**Amazon**|[Design an Agentic Chatbot Domain](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|🔥 Oct 24, 2026|
@@ -1685,6 +1687,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Akuna Capital**|[K Smallest Substring](https://www.fastprep.io/problems/akuna-get-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-get-substring)|Sep 10, 2026|
 |**Stripe**|[Build a Task and Subtask Hierarchy](https://www.fastprep.io/problems/stripe-unordered-task-subtask-hierarchy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-unordered-task-subtask-hierarchy)|Sep 10, 2026|
 |**Snap Inc.**|[Sort Characters by Frequency](https://www.fastprep.io/problems/snap-inc-sort-characters-by-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-sort-characters-by-frequency)|Sep 10, 2026|
-|**Reddit**|[Shortest Word Transformation Sequence](https://www.fastprep.io/problems/reddit-word-ladder-shortest-transformation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-word-ladder-shortest-transformation)|Sep 10, 2026|
-|**Reddit**|[Validate a Single-Letter Word Sequence](https://www.fastprep.io/problems/reddit-validate-single-letter-word-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-validate-single-letter-word-sequence)|Sep 10, 2026|
 <a id="bottom"></a>

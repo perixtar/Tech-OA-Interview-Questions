@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Reddit**|[Shortest Word Transformation Sequence](https://www.fastprep.io/problems/reddit-word-ladder-shortest-transformation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-word-ladder-shortest-transformation)|Sep 10, 2026|
+|**Reddit**|[Validate a Single-Letter Word Sequence](https://www.fastprep.io/problems/reddit-validate-single-letter-word-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-validate-single-letter-word-sequence)|Sep 10, 2026|
 |**Oracle**|[Maximum of Window Minimums](https://www.fastprep.io/problems/oracle-maximum-of-window-minimums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-of-window-minimums)|Sep 10, 2026|
 |**Oracle**|[Classify Tree Nodes with SQL](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|SQL|[![Practice][p]](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|Sep 10, 2026|
 |**OpenAI**|[Aggregate Machine Topology](https://www.fastprep.io/problems/openai-aggregate-machine-topology)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-aggregate-machine-topology)|Sep 10, 2026|
@@ -1759,6 +1761,4 @@
 |**Meta**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/meta-binary-tree-lowest-common-ancestor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-binary-tree-lowest-common-ancestor)|Feb 19, 2025|
 |**Meta**|[Next Permutation](https://www.fastprep.io/problems/meta-next-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-next-permutation)|Feb 19, 2025|
 |**Meta**|[Making a Large Island](https://www.fastprep.io/problems/meta-making-a-large-island)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-making-a-large-island)|Feb 19, 2025|
-|**Meta**|[Randomly Select a Maximum-Value Index](https://www.fastprep.io/problems/meta-random-maximum-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-random-maximum-index)|Feb 19, 2025|
-|**Google**|[Maximum Subarray](https://www.fastprep.io/problems/google-maximum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray)|Feb 13, 2025|
 <a id="bottom"></a>
