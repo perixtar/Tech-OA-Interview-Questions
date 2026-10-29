@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Catch Fish with Reusable Baits](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|Sep 10, 2026|
+|**TikTok**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|Sep 10, 2026|
+|**Akuna Capital**|[Delivery Management System](https://www.fastprep.io/problems/akuna-delivery-management-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-delivery-management-system)|Sep 10, 2026|
+|**Akuna Capital**|[Binary Circuit](https://www.fastprep.io/problems/akuna-get-max-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-get-max-cost)|Sep 10, 2026|
 |**Akuna Capital**|[K Smallest Substring](https://www.fastprep.io/problems/akuna-get-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-get-substring)|Sep 10, 2026|
 |**Stripe**|[Build a Task and Subtask Hierarchy](https://www.fastprep.io/problems/stripe-unordered-task-subtask-hierarchy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-unordered-task-subtask-hierarchy)|Sep 10, 2026|
 |**Snap Inc.**|[Sort Characters by Frequency](https://www.fastprep.io/problems/snap-inc-sort-characters-by-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-sort-characters-by-frequency)|Sep 10, 2026|
@@ -1759,8 +1763,4 @@
 |**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
 |**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
 |**SpaceX**|[Speed to Pressure Lookup](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Mar 13, 2025|
-|**Datadog**|[Count Repeated Words](https://www.fastprep.io/problems/datadog-count-repeated-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-repeated-words)|Mar 13, 2025|
-|**Datadog**|[Maximum Depth of a Rooted Tree](https://www.fastprep.io/problems/datadog-maximum-tree-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-maximum-tree-depth)|Mar 13, 2025|
-|**Atlassian**|[Crossword Hint Delivery](https://www.fastprep.io/system-design/crossword-hint-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crossword-hint-delivery)|Mar 12, 2025|
-|**Confluent / Wayfair / Atlassian**|[Diagnose and Scale a Multi-Region Cloud Service](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|Mar 12, 2025|
 <a id="bottom"></a>

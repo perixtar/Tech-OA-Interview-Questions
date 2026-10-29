@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,024 questions**
+**4,027 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Point72**|[Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count)|[![Practice][p]](https://www.fastprep.io/problems/point72-get-triplet-count)|Jul 02, 2026|
+|**Point72**|[Server Selection](https://www.fastprep.io/problems/point72-server-selection)|[![Practice][p]](https://www.fastprep.io/problems/point72-server-selection)|Jul 02, 2026|
+|**Amazon**|[Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Jun 30, 2026|
 |**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
 |**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
 |**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
@@ -1934,7 +1937,4 @@
 |**Benchling**|[Eight-Direction Keyboard Typing Time](https://www.fastprep.io/problems/benchling-eight-direction-keyboard-typing)|[![Practice][p]](https://www.fastprep.io/problems/benchling-eight-direction-keyboard-typing)|Apr 07, 2022|
 |**Vanguard**|[Maximum Occurring Character](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|Mar 30, 2022|
 |**Vanguard**|[Picking Tickets](https://www.fastprep.io/problems/vanguard-picking-tickets)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-picking-tickets)|Mar 30, 2022|
-|**SambaNova Systems**|[Parse Variable, Expression, and Application Trees](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Mar 28, 2022|
-|**Rippling**|[Palindrome Permutation](https://www.fastprep.io/problems/rippling-palindrome-permutation)|[![Practice][p]](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Mar 20, 2022|
-|**Rippling**|[Reverse Substrings Between Parentheses](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|[![Practice][p]](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|Mar 20, 2022|
 <a id="bottom"></a>

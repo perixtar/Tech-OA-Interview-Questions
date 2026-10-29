@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Datadog**|[Count Repeated Words](https://www.fastprep.io/problems/datadog-count-repeated-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-repeated-words)|Mar 13, 2025|
+|**Datadog**|[Maximum Depth of a Rooted Tree](https://www.fastprep.io/problems/datadog-maximum-tree-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-maximum-tree-depth)|Mar 13, 2025|
+|**Atlassian**|[Crossword Hint Delivery](https://www.fastprep.io/system-design/crossword-hint-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crossword-hint-delivery)|Mar 12, 2025|
+|**Confluent / Wayfair / Atlassian**|[Diagnose and Scale a Multi-Region Cloud Service](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|Mar 12, 2025|
 |**Datadog**|[Maximum Loot on a Line or Circle](https://www.fastprep.io/problems/datadog-house-loot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-house-loot)|Mar 07, 2025|
 |**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
 |**Chainalysis**|[Filter Team A Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Mar 06, 2025|
