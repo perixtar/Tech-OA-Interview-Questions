@@ -9,6 +9,20 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Find Maximum Length Of Non-Decreasing Subarray](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray)|Nov 12, 2024|
+|**Google**|[Maximum Good Triplet Distance](https://www.fastprep.io/problems/google-maximum-good-triplet-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-good-triplet-distance)|Nov 11, 2024|
+|**Google**|[Nth License Plate](https://www.fastprep.io/problems/google-nth-license-plate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-nth-license-plate)|Nov 11, 2024|
+|**Marshall Wace**|[Maximize Remaining Item Types After Clearing Consecutive Shelves](https://www.fastprep.io/problems/marshall-wace-remove-consecutive-shelves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-remove-consecutive-shelves)|Nov 10, 2024|
+|**Marshall Wace**|[Shortest String After Erasing Equal Pairs](https://www.fastprep.io/problems/marshall-wace-smallest-pair-erasure-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-smallest-pair-erasure-string)|Nov 10, 2024|
+|**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimized-identifiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimized-identifiers)|Nov 09, 2024|
+|**Google**|[Transform String](https://www.fastprep.io/problems/google-transform-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-transform-string)|Nov 09, 2024|
+|**Google**|[Build Maximum Integer](https://www.fastprep.io/problems/google-build-maximum-integer-from-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-build-maximum-integer-from-subarray)|Nov 09, 2024|
+|**AT&T**|[Counting Triplets Divisible by D](https://www.fastprep.io/problems/att-counting-triplets-divisible-by-d)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-counting-triplets-divisible-by-d)|Nov 08, 2024|
+|**AT&T**|[Project Estimates](https://www.fastprep.io/problems/att-project-estimates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-project-estimates)|Nov 08, 2024|
+|**AT&T**|[Advertising System Failures Report](https://www.fastprep.io/problems/att-advertising-system-failures-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/att-advertising-system-failures-report)|Nov 08, 2024|
+|**Stripe**|[Register and Transfer Brazilian Receivables](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Nov 08, 2024|
+|**Stripe**|[Brazilian Receivables Part 3 — Partial Contracts](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Nov 08, 2024|
+|**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 |**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
 |**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
 |**Clipboard Health**|[Design a Dimmer and Connected Bulbs System](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Oct 31, 2024|

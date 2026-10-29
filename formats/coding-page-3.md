@@ -2,12 +2,25 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,843 questions**
+**3,857 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Benchling**|[Similar DNA Under Rotation and Substitution](https://www.fastprep.io/problems/benchling-similar-dna-rotations)|[![Practice][p]](https://www.fastprep.io/problems/benchling-similar-dna-rotations)|Sep 05, 2020|
+|**Benchling**|[Unique DNA Sequences Under Circular Rotation](https://www.fastprep.io/problems/benchling-unique-dna-rotations)|[![Practice][p]](https://www.fastprep.io/problems/benchling-unique-dna-rotations)|Sep 05, 2020|
+|**Postman**|[Minimum Swaps to Sort an Array](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort)|[![Practice][p]](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort)|Aug 27, 2020|
+|**Postman**|[Validate IP Address](https://www.fastprep.io/problems/postman-validate-ip-address)|[![Practice][p]](https://www.fastprep.io/problems/postman-validate-ip-address)|Aug 27, 2020|
+|**Bloomberg LP**|[Largest Same-Letter Grid Component](https://www.fastprep.io/problems/bloomberg-largest-letter-grid-component)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-letter-grid-component)|Aug 20, 2020|
+|**Bloomberg LP**|[Stable Odd-First Partition](https://www.fastprep.io/problems/bloomberg-stable-odd-first-partition)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-stable-odd-first-partition)|Aug 20, 2020|
+|**Arcesium**|[K-th Character in an Infinite String](https://www.fastprep.io/problems/arcesium-kth-character-in-infinite-string)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-kth-character-in-infinite-string)|Aug 08, 2020|
+|**Bloomberg LP**|[Capacity-Bounded Browser History](https://www.fastprep.io/problems/bloomberg-capacity-bounded-browser-history)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-capacity-bounded-browser-history)|Aug 07, 2020|
+|**Bloomberg LP**|[Complex Number Class](https://www.fastprep.io/problems/bloomberg-complex-number-class)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-complex-number-class)|Aug 07, 2020|
+|**Bloomberg LP**|[Directional Distance to Mines and Boundaries](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Aug 07, 2020|
+|**Bloomberg LP**|[Find K Closest Elements in a Sorted Array](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Jul 30, 2020|
+|**Bloomberg LP**|[Integer Square Root with Error Checks](https://www.fastprep.io/problems/bloomberg-integer-square-root)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Jul 30, 2020|
+|**Bloomberg LP**|[Clicked One-Dimensional Candy Crush](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Jul 20, 2020|
 |**Bloomberg LP**|[Print Unique Numbers](https://www.fastprep.io/problems/bloomberg-print-unique-numbers)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-print-unique-numbers)|Jul 05, 2020|
 |**Bloomberg LP**|[Sum of Mutated Array Closest to Target](https://www.fastprep.io/problems/bloomberg-sum-mutated-array-closest-target)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sum-mutated-array-closest-target)|Jul 05, 2020|
 |**Bloomberg LP**|[Build a Tree from Preorder and Inorder Traversals](https://www.fastprep.io/problems/bloomberg-construct-binary-tree-from-preorder-and-inorder-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-construct-binary-tree-from-preorder-and-inorder-traversal)|Jun 13, 2020|
