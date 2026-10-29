@@ -2,16 +2,24 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**81 questions**
+**85 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Pelatro**|[Records Created or Updated in a Time Window](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|[![Practice][p]](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|🔥 Oct 26, 2026|
+|**Birla Pivot**|[Bond Holders Above the Cash Flow Threshold](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|🔥 Oct 26, 2026|
+|**Birla Pivot**|[Students and Their Subjects](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|🔥 Oct 26, 2026|
 |**Dell Technologies**|[Departments Without Employees](https://www.fastprep.io/problems/dell-departments-without-employees)|[![Practice][p]](https://www.fastprep.io/problems/dell-departments-without-employees)|🔥 Oct 20, 2026|
 |**Chubb**|[Second-Highest Salary](https://www.fastprep.io/problems/chubb-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/chubb-second-highest-salary)|🔥 Oct 19, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🔥 Oct 15, 2026|
-|**Salesforce**|[Find Rows Common to Two Tables](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|🔥 Oct 14, 2026|
+|**Salesforce**|[Find Rows Common to Two Tables](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|🆕 Oct 14, 2026|
+|**Capital One**|[Analyze House and Viewing Metrics](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|🆕 Oct 11, 2026|
+|**Capital One**|[Build House Viewing Features](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|🆕 Oct 11, 2026|
+|**Capital One**|[Prepare House Price Regression Data](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|🆕 Oct 11, 2026|
+|**Capital One**|[Predict House Prices](https://www.fastprep.io/problems/capital-one-predict-house-prices)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-house-prices)|🆕 Oct 11, 2026|
+|**Capital One**|[Count Records Present in A but Not B](https://www.fastprep.io/problems/capital-one-count-records-in-a-not-b)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-records-in-a-not-b)|🆕 Oct 10, 2026|
 |**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🆕 Oct 08, 2026|
 |**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🆕 Oct 08, 2026|
 |**Apple**|[Customer Order Count Distribution by Country](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|[![Practice][p]](https://www.fastprep.io/problems/apple-customer-order-count-distribution)|🆕 Oct 08, 2026|
@@ -27,10 +35,6 @@
 |**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|🆕 Oct 01, 2026|
 |**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|🆕 Oct 01, 2026|
 |**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|🆕 Oct 01, 2026|
-|**Capital One**|[Analyze House and Viewing Metrics](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|🆕 Sep 30, 2026|
-|**Capital One**|[Build House Viewing Features](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|🆕 Sep 30, 2026|
-|**Capital One**|[Prepare House Price Regression Data](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|🆕 Sep 30, 2026|
-|**Capital One**|[Predict House Prices](https://www.fastprep.io/problems/capital-one-predict-house-prices)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-house-prices)|🆕 Sep 30, 2026|
 |**Mygate**|[Employees Earning More Than Their Manager](https://www.fastprep.io/problems/mygate-employees-over-manager)|[![Practice][p]](https://www.fastprep.io/problems/mygate-employees-over-manager)|🆕 Sep 26, 2026|
 |**Mygate**|[Users Active in Both January and February](https://www.fastprep.io/problems/mygate-users-active-january-february)|[![Practice][p]](https://www.fastprep.io/problems/mygate-users-active-january-february)|🆕 Sep 26, 2026|
 |**Intuit**|[Oldest and Youngest Employees](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|[![Practice][p]](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|🆕 Sep 22, 2026|
@@ -38,27 +42,27 @@
 |**IBM**|[Customer Resource Usage Analysis](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|[![Practice][p]](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|🆕 Sep 18, 2026|
 |**IBM**|[Social Network Relationship Statistics](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|[![Practice][p]](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|🆕 Sep 16, 2026|
 |**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|🆕 Sep 14, 2026|
-|**JPMorgan Chase**|[Employees Above Average Salary](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|🆕 Sep 13, 2026|
-|**JPMorgan Chase**|[Highest-Earning Employees By Department](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|🆕 Sep 13, 2026|
-|**Lenskart**|[Most Recent Active User Per Department](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|🆕 Sep 13, 2026|
-|**Lenskart**|[Test Execution Success Rate](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|🆕 Sep 13, 2026|
-|**Lenskart**|[First Duplicate Transaction Within Ten Minutes](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|🆕 Sep 13, 2026|
-|**SquadStack.ai**|[Find the Dominant Seller](https://www.fastprep.io/problems/squadstack-dominant-seller)|[![Practice][p]](https://www.fastprep.io/problems/squadstack-dominant-seller)|🆕 Sep 12, 2026|
-|**Kickdrum**|[Students and Instructors for Database Systems](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|🆕 Sep 11, 2026|
-|**Oracle**|[Classify Tree Nodes with SQL](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|[![Practice][p]](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|🆕 Sep 10, 2026|
-|**Infosys**|[Daily Successful Transactions Per Department](https://www.fastprep.io/problems/infosys-daily-department-successful-transactions)|[![Practice][p]](https://www.fastprep.io/problems/infosys-daily-department-successful-transactions)|🆕 Sep 09, 2026|
-|**ZS**|[Top Salaries By Department](https://www.fastprep.io/problems/zs-top-salaries-by-department)|[![Practice][p]](https://www.fastprep.io/problems/zs-top-salaries-by-department)|🆕 Sep 09, 2026|
-|**ZS**|[Fifth Highest Salary In A Department](https://www.fastprep.io/problems/zs-fifth-highest-salary-in-department)|[![Practice][p]](https://www.fastprep.io/problems/zs-fifth-highest-salary-in-department)|🆕 Sep 09, 2026|
-|**ZS**|[Find Duplicate Email Addresses](https://www.fastprep.io/problems/zs-duplicate-email-addresses)|[![Practice][p]](https://www.fastprep.io/problems/zs-duplicate-email-addresses)|🆕 Sep 09, 2026|
-|**Millennium**|[Debug the Tape Cleaner](https://www.fastprep.io/problems/millennium-debug-tape-cleaner)|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-tape-cleaner)|🆕 Sep 09, 2026|
-|**Millennium**|[Regression Hedge](https://www.fastprep.io/problems/millennium-regression-hedge)|[![Practice][p]](https://www.fastprep.io/problems/millennium-regression-hedge)|🆕 Sep 09, 2026|
-|**Millennium**|[Client Markout Analysis](https://www.fastprep.io/problems/millennium-client-markout-analysis)|[![Practice][p]](https://www.fastprep.io/problems/millennium-client-markout-analysis)|🆕 Sep 09, 2026|
-|**Millennium**|[Clean the Tape](https://www.fastprep.io/problems/millennium-clean-the-tape)|[![Practice][p]](https://www.fastprep.io/problems/millennium-clean-the-tape)|🆕 Sep 09, 2026|
-|**Millennium**|[Measure Liquidity](https://www.fastprep.io/problems/millennium-measure-liquidity)|[![Practice][p]](https://www.fastprep.io/problems/millennium-measure-liquidity)|🆕 Sep 09, 2026|
-|**Millennium**|[Debug Fair-Value Lookup](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)|🆕 Sep 09, 2026|
-|**Millennium**|[Track the Book and Mark Final PnL](https://www.fastprep.io/problems/millennium-track-the-book)|[![Practice][p]](https://www.fastprep.io/problems/millennium-track-the-book)|🆕 Sep 09, 2026|
-|**Millennium**|[Hedge Inventory with Return Covariance](https://www.fastprep.io/problems/millennium-hedge-inventory)|[![Practice][p]](https://www.fastprep.io/problems/millennium-hedge-inventory)|🆕 Sep 09, 2026|
-|**TikTok**|[Analyze Taxi Driver and Ride Metrics](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|🆕 Sep 08, 2026|
+|**JPMorgan Chase**|[Employees Above Average Salary](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|Sep 13, 2026|
+|**JPMorgan Chase**|[Highest-Earning Employees By Department](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|Sep 13, 2026|
+|**Lenskart**|[Most Recent Active User Per Department](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|Sep 13, 2026|
+|**Lenskart**|[Test Execution Success Rate](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|Sep 13, 2026|
+|**Lenskart**|[First Duplicate Transaction Within Ten Minutes](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|[![Practice][p]](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|Sep 13, 2026|
+|**SquadStack.ai**|[Find the Dominant Seller](https://www.fastprep.io/problems/squadstack-dominant-seller)|[![Practice][p]](https://www.fastprep.io/problems/squadstack-dominant-seller)|Sep 12, 2026|
+|**Kickdrum**|[Students and Instructors for Database Systems](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|Sep 11, 2026|
+|**Oracle**|[Classify Tree Nodes with SQL](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|[![Practice][p]](https://www.fastprep.io/problems/oracle-classify-tree-nodes-sql)|Sep 10, 2026|
+|**Infosys**|[Daily Successful Transactions Per Department](https://www.fastprep.io/problems/infosys-daily-department-successful-transactions)|[![Practice][p]](https://www.fastprep.io/problems/infosys-daily-department-successful-transactions)|Sep 09, 2026|
+|**ZS**|[Top Salaries By Department](https://www.fastprep.io/problems/zs-top-salaries-by-department)|[![Practice][p]](https://www.fastprep.io/problems/zs-top-salaries-by-department)|Sep 09, 2026|
+|**ZS**|[Fifth Highest Salary In A Department](https://www.fastprep.io/problems/zs-fifth-highest-salary-in-department)|[![Practice][p]](https://www.fastprep.io/problems/zs-fifth-highest-salary-in-department)|Sep 09, 2026|
+|**ZS**|[Find Duplicate Email Addresses](https://www.fastprep.io/problems/zs-duplicate-email-addresses)|[![Practice][p]](https://www.fastprep.io/problems/zs-duplicate-email-addresses)|Sep 09, 2026|
+|**Millennium**|[Debug the Tape Cleaner](https://www.fastprep.io/problems/millennium-debug-tape-cleaner)|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-tape-cleaner)|Sep 09, 2026|
+|**Millennium**|[Regression Hedge](https://www.fastprep.io/problems/millennium-regression-hedge)|[![Practice][p]](https://www.fastprep.io/problems/millennium-regression-hedge)|Sep 09, 2026|
+|**Millennium**|[Client Markout Analysis](https://www.fastprep.io/problems/millennium-client-markout-analysis)|[![Practice][p]](https://www.fastprep.io/problems/millennium-client-markout-analysis)|Sep 09, 2026|
+|**Millennium**|[Clean the Tape](https://www.fastprep.io/problems/millennium-clean-the-tape)|[![Practice][p]](https://www.fastprep.io/problems/millennium-clean-the-tape)|Sep 09, 2026|
+|**Millennium**|[Measure Liquidity](https://www.fastprep.io/problems/millennium-measure-liquidity)|[![Practice][p]](https://www.fastprep.io/problems/millennium-measure-liquidity)|Sep 09, 2026|
+|**Millennium**|[Debug Fair-Value Lookup](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)|Sep 09, 2026|
+|**Millennium**|[Track the Book and Mark Final PnL](https://www.fastprep.io/problems/millennium-track-the-book)|[![Practice][p]](https://www.fastprep.io/problems/millennium-track-the-book)|Sep 09, 2026|
+|**Millennium**|[Hedge Inventory with Return Covariance](https://www.fastprep.io/problems/millennium-hedge-inventory)|[![Practice][p]](https://www.fastprep.io/problems/millennium-hedge-inventory)|Sep 09, 2026|
+|**TikTok**|[Analyze Taxi Driver and Ride Metrics](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|Sep 08, 2026|
 |**Wolverine Trading**|[Market Share Ticker with Imbalance](https://www.fastprep.io/problems/wolverine-trading-market-share-and-imbalance)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-market-share-and-imbalance)|Aug 30, 2026|
 |**Wolverine Trading**|[Hedges Outperforming Their Trades](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades)|Aug 30, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|Aug 17, 2026|
