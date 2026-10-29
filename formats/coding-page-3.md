@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,934 questions**
+**3,935 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Benchling**|[Generate Proteins from Contiguous Named Sequences](https://www.fastprep.io/problems/benchling-generate-named-proteins)|[![Practice][p]](https://www.fastprep.io/problems/benchling-generate-named-proteins)|Aug 06, 2021|
 |**PeopleStrong**|[Permutation in a String](https://www.fastprep.io/problems/peoplestrong-permutation-in-string)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-permutation-in-string)|Aug 02, 2021|
 |**PeopleStrong**|[Minimum Travel Time with Flashing Traffic Lights](https://www.fastprep.io/problems/peoplestrong-minimum-traffic-light-travel-time)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-traffic-light-travel-time)|Aug 02, 2021|
 |**PeopleStrong**|[Rat in a Maze: All Simple Paths](https://www.fastprep.io/problems/peoplestrong-rat-in-a-maze)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-rat-in-a-maze)|Aug 02, 2021|
