@@ -2,12 +2,28 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,857 questions**
+**3,872 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Time Needed to Rearrange a Binary String](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|May 19, 2026|
+|**Infosys**|[Minimum Path Sum With Grid Switches](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|[![Practice][p]](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|May 19, 2026|
+|**Snowflake**|[Effective Role Privileges](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|May 19, 2026|
+|**Ramp**|[Cloud Storage System, Part 1: File Operations](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|May 18, 2026|
+|**Ramp**|[Cloud Storage System, Part 2: Largest Files](https://www.fastprep.io/problems/ramp-cloud-storage-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-2)|May 18, 2026|
+|**Ramp**|[Cloud Storage System, Part 3: Users and Capacity](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|May 18, 2026|
+|**Ramp**|[Cloud Storage System, Part 4: Backup and Restore](https://www.fastprep.io/problems/ramp-cloud-storage-system)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-system)|May 18, 2026|
+|**Pinterest**|[Assign Pins to the Shortest Column](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|May 18, 2026|
+|**OpenAI**|[Grid Infection Spread Until Stable](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|May 16, 2026|
+|**OpenAI**|[Grid Infection with Immune Cells Until Stable](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|May 16, 2026|
+|**ZipRecruiter**|[Neighboring Record IDs](https://www.fastprep.io/problems/ziprecruiter-neighboring-record-ids)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-neighboring-record-ids)|May 15, 2026|
+|**OpenAI**|[Chat Event Counts](https://www.fastprep.io/problems/openai-chat-event-counts)|[![Practice][p]](https://www.fastprep.io/problems/openai-chat-event-counts)|May 13, 2026|
+|**Amazon**|[Unique Pairs With Target Sum](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|May 13, 2026|
+|**Uber**|[Convex Function Minimization](https://www.fastprep.io/problems/uber-convex-function-minimization)|[![Practice][p]](https://www.fastprep.io/problems/uber-convex-function-minimization)|May 13, 2026|
+|**Hudson River Trading**|[Integer to String Without Built-ins](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|May 13, 2026|
+|**Waymo**|[Decode Repeated Groups](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|[![Practice][p]](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|May 13, 2026|
 |**Deloitte**|[Seventh Nearest Palindrome](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|May 12, 2026|
 |**Uber**|[Maximal Square Area](https://www.fastprep.io/problems/uber-maximal-square-area)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximal-square-area)|May 11, 2026|
 |**Snowflake**|[Closest Bathroom / Desk on a Grid](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|May 11, 2026|
@@ -1918,20 +1934,4 @@
 |**Bloomberg LP**|[Find Peak Element](https://www.fastprep.io/problems/bloomberg-find-peak-element)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-peak-element)|Nov 05, 2020|
 |**Bloomberg LP**|[Shortest Bridge](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|Nov 05, 2020|
 |**Bloomberg LP**|[Monotonic Array](https://www.fastprep.io/problems/bloomberg-monotonic-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-monotonic-array)|Oct 28, 2020|
-|**Bloomberg LP**|[Remove Invalid Parentheses](https://www.fastprep.io/problems/bloomberg-remove-invalid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-invalid-parentheses)|Oct 23, 2020|
-|**Bloomberg LP**|[Intersection of Two Arrays](https://www.fastprep.io/problems/bloomberg-intersection-of-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-intersection-of-two-arrays)|Oct 22, 2020|
-|**IMC**|[Hidden Artifacts](https://www.fastprep.io/problems/imc-hidden-artifacts)|[![Practice][p]](https://www.fastprep.io/problems/imc-hidden-artifacts)|Oct 20, 2020|
-|**SambaNova Systems**|[Peak Index in a Mountain Array](https://www.fastprep.io/problems/sambanova-peak-index-mountain-array)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-peak-index-mountain-array)|Oct 19, 2020|
-|**Bloomberg LP**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/bloomberg-best-time-to-buy-and-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-best-time-to-buy-and-sell-stock)|Sep 30, 2020|
-|**Bloomberg LP**|[Delete Node in a BST](https://www.fastprep.io/problems/bloomberg-delete-node-in-bst)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-delete-node-in-bst)|Sep 30, 2020|
-|**Bloomberg LP**|[Group Anagrams](https://www.fastprep.io/problems/bloomberg-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-anagrams)|Sep 30, 2020|
-|**Figma**|[Document and Layer Operations](https://www.fastprep.io/problems/figma-document-layer-operations)|[![Practice][p]](https://www.fastprep.io/problems/figma-document-layer-operations)|Sep 26, 2020|
-|**Wells Fargo**|[Matrix Path Existence](https://www.fastprep.io/problems/wellsfargo-matrix-path-existence)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-matrix-path-existence)|Sep 26, 2020|
-|**Postman**|[Configuration System](https://www.fastprep.io/problems/postman-configuration-system)|[![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system)|Sep 23, 2020|
-|**Postman**|[Large Responses](https://www.fastprep.io/problems/postman-large-responses)|[![Practice][p]](https://www.fastprep.io/problems/postman-large-responses)|Sep 23, 2020|
-|**Bloomberg LP**|[Palindrome Number](https://www.fastprep.io/problems/bloomberg-palindrome-number)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Sep 18, 2020|
-|**Bloomberg LP**|[Traverse an Up-Down-Right Pointer Structure](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|Sep 18, 2020|
-|**Wells Fargo**|[Longest Balanced Bitonic Subsequence](https://www.fastprep.io/problems/wellsfargo-longest-balanced-bitonic-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-balanced-bitonic-subsequence)|Sep 15, 2020|
-|**Wells Fargo**|[Most Negative Number in Each Window](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|Sep 08, 2020|
-|**Wells Fargo**|[Single-Nested Valid Bracket Substrings](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|Sep 08, 2020|
 <a id="bottom"></a>
