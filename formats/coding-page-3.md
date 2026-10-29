@@ -2,12 +2,26 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,029 questions**
+**4,043 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Datadog**|[Find the Most Frequent Word](https://www.fastprep.io/problems/datadog-most-frequent-word)|[![Practice][p]](https://www.fastprep.io/problems/datadog-most-frequent-word)|May 27, 2022|
+|**Persona**|[Treasure Hunter](https://www.fastprep.io/problems/persona-treasure-hunter)|[![Practice][p]](https://www.fastprep.io/problems/persona-treasure-hunter)|May 21, 2022|
+|**Alchemy**|[Equal-Sum Digit Partitions](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|[![Practice][p]](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|May 18, 2022|
+|**Bloomberg LP**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|May 13, 2022|
+|**Figma**|[Shell Path Autocomplete](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|[![Practice][p]](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|May 07, 2022|
+|**ZipRecruiter**|[Count Words Formable from Letters](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Apr 27, 2022|
+|**ZipRecruiter**|[Interleave Two Strings](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Apr 27, 2022|
+|**ZipRecruiter**|[Prefix Longest Consecutive-Value Runs](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Apr 27, 2022|
+|**Bloomberg LP**|[Sort by Variable-Length Alphabet Tokens](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Apr 24, 2022|
+|**Bloomberg LP**|[Word Ladder](https://www.fastprep.io/problems/bloomberg-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-ladder)|Apr 24, 2022|
+|**Airbnb**|[Cheapest Flight with Its Path](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Apr 18, 2022|
+|**ZipRecruiter**|[Starting Value with the Longest Collatz Chain](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Apr 18, 2022|
+|**ZipRecruiter**|[Rotate a Square Matrix 90 Degrees Clockwise](https://www.fastprep.io/problems/ziprecruiter-rotate-image)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotate-image)|Apr 08, 2022|
+|**ZipRecruiter**|[Sort an Integer Array in Ascending Order](https://www.fastprep.io/problems/ziprecruiter-sort-integers-ascending)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sort-integers-ascending)|Apr 08, 2022|
 |**Benchling**|[Eight-Direction Keyboard Typing Time](https://www.fastprep.io/problems/benchling-eight-direction-keyboard-typing)|[![Practice][p]](https://www.fastprep.io/problems/benchling-eight-direction-keyboard-typing)|Apr 07, 2022|
 |**Vanguard**|[Maximum Occurring Character](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|Mar 30, 2022|
 |**Vanguard**|[Picking Tickets](https://www.fastprep.io/problems/vanguard-picking-tickets)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-picking-tickets)|Mar 30, 2022|
