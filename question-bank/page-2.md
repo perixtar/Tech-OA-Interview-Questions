@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Millennium**|[Quote One Request](https://www.fastprep.io/problems/millennium-quote-one-request)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-quote-one-request)|Sep 09, 2026|
 |**Millennium**|[Debug the Impact Model](https://www.fastprep.io/problems/millennium-debug-impact-model)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-impact-model)|Sep 09, 2026|
 |**Millennium**|[Track the Book and Mark Final PnL](https://www.fastprep.io/problems/millennium-track-the-book)|SQL|[![Practice][p]](https://www.fastprep.io/problems/millennium-track-the-book)|Sep 09, 2026|
 |**Millennium**|[Risk Limits and Inventory Skew](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)|Sep 09, 2026|
@@ -1763,5 +1764,4 @@
 |**Quora**|[Count Powers Of K](https://www.fastprep.io/problems/quora-count-powers-of-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quora-count-powers-of-k)|Dec 06, 2024|
 |**Quora**|[Determine the Elimination Order](https://www.fastprep.io/problems/quora-determine-the-elimination-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quora-determine-the-elimination-order)|Dec 06, 2024|
 |**Wells Fargo**|[Get Min Length](https://www.fastprep.io/problems/wellsfargo-get-min-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-min-length)|Dec 06, 2024|
-|**Duolingo**|[Bouncing Square Reaches a Screen Corner](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|Dec 05, 2024|
 <a id="bottom"></a>

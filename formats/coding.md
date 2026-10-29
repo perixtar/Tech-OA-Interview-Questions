@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,890 questions**
+**3,891 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -287,6 +287,7 @@
 |**Susquehanna International Group (SIG)**|[Count Equal or One-Swap Number Pairs](https://www.fastprep.io/problems/susquehanna-count-one-swap-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-count-one-swap-number-pairs)|🆕 Oct 09, 2026|
 |**Susquehanna International Group (SIG)**|[Split a Matrix by Nonnegative Region Averages](https://www.fastprep.io/problems/susquehanna-partition-matrix-by-nonnegative-averages)|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-partition-matrix-by-nonnegative-averages)|🆕 Oct 09, 2026|
 |**Decagon**|[Count Complete Tic-Tac-Toe Games](https://www.fastprep.io/problems/decagon-count-complete-tic-tac-toe-games)|[![Practice][p]](https://www.fastprep.io/problems/decagon-count-complete-tic-tac-toe-games)|🆕 Oct 09, 2026|
+|**Ramp**|[Cloud Storage Compression and Decompression](https://www.fastprep.io/problems/ramp-cloud-storage-compression)|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-compression)|🆕 Oct 09, 2026|
 |**Sierra**|[Paginate Retained Conversation History](https://www.fastprep.io/problems/sierra-paginate-retained-conversation-history)|[![Practice][p]](https://www.fastprep.io/problems/sierra-paginate-retained-conversation-history)|🆕 Oct 08, 2026|
 |**Sierra**|[Compact Conversation History by Token Budget](https://www.fastprep.io/problems/sierra-compact-conversation-history-by-token-budget)|[![Practice][p]](https://www.fastprep.io/problems/sierra-compact-conversation-history-by-token-budget)|🆕 Oct 08, 2026|
 |**Sierra**|[Compact Conversations by Unique Listings](https://www.fastprep.io/problems/sierra-compact-conversations-by-unique-listings)|[![Practice][p]](https://www.fastprep.io/problems/sierra-compact-conversations-by-unique-listings)|🆕 Oct 08, 2026|
@@ -1825,5 +1826,4 @@
 |**Uber**|[Jump Game with Prime-3 Steps](https://www.fastprep.io/problems/uber-jump-game-prime-3-steps)|[![Practice][p]](https://www.fastprep.io/problems/uber-jump-game-prime-3-steps)|Jun 01, 2026|
 |**Uber**|[Total Palindrome Substring Cost](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|[![Practice][p]](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|Jun 01, 2026|
 |**Capital One**|[Count Numbers with Even Number of Digits](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|May 31, 2026|
-|**Capital One**|[Longest Same-Character Substring](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|May 31, 2026|
 <a id="bottom"></a>

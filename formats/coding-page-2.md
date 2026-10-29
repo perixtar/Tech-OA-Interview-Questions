@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,890 questions**
+**3,891 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Capital One**|[Longest Same-Character Substring](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|May 31, 2026|
 |**Capital One**|[Count House Segments After Destruction](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|May 31, 2026|
 |**Capital One**|[Laser Robot Safe Path](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|May 31, 2026|
 |**NVIDIA**|[Real-Number Calculator](https://www.fastprep.io/problems/nvidia-real-number-calculator)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-real-number-calculator)|May 31, 2026|
@@ -1932,5 +1933,4 @@
 |**Bloomberg LP**|[Target Sum Across Two Sorted Arrays](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Jan 17, 2021|
 |**Bloomberg LP**|[Coin Change II](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Jan 12, 2021|
 |**Scale AI**|[Adjacent Order-Statistic Gap Distributions](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Jan 08, 2021|
-|**Bloomberg LP**|[Decode a Binary Tree by Vertical Traversal](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Dec 23, 2020|
 <a id="bottom"></a>

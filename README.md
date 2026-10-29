@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,890)](formats/coding.md) · [SQL (84)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (197)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,891)](formats/coding.md) · [SQL (84)](formats/sql.md) · [System design (637)](formats/system-design.md) · [Low-level design (197)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -472,6 +472,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Susquehanna International Group (SIG)**|[Count Equal or One-Swap Number Pairs](https://www.fastprep.io/problems/susquehanna-count-one-swap-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-count-one-swap-number-pairs)|🆕 Oct 09, 2026|
 |**Susquehanna International Group (SIG)**|[Split a Matrix by Nonnegative Region Averages](https://www.fastprep.io/problems/susquehanna-partition-matrix-by-nonnegative-averages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-partition-matrix-by-nonnegative-averages)|🆕 Oct 09, 2026|
 |**Decagon**|[Count Complete Tic-Tac-Toe Games](https://www.fastprep.io/problems/decagon-count-complete-tic-tac-toe-games)|Coding|[![Practice][p]](https://www.fastprep.io/problems/decagon-count-complete-tic-tac-toe-games)|🆕 Oct 09, 2026|
+|**Ramp**|[Cloud Storage Compression and Decompression](https://www.fastprep.io/problems/ramp-cloud-storage-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-compression)|🆕 Oct 09, 2026|
 |**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🆕 Oct 08, 2026|
 |**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|SQL|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🆕 Oct 08, 2026|
 |**NxtPe**|[Implement Mandate Details and Provider Authentication](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|🆕 Oct 08, 2026|
@@ -1688,5 +1689,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Millennium**|[Measure Liquidity](https://www.fastprep.io/problems/millennium-measure-liquidity)|SQL|[![Practice][p]](https://www.fastprep.io/problems/millennium-measure-liquidity)|Sep 09, 2026|
 |**Millennium**|[Debug Fair-Value Lookup](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)|SQL|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-fair-value-lookup)|Sep 09, 2026|
 |**Millennium**|[Calculate the Half Spread](https://www.fastprep.io/problems/millennium-calculate-half-spread)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-calculate-half-spread)|Sep 09, 2026|
-|**Millennium**|[Quote One Request](https://www.fastprep.io/problems/millennium-quote-one-request)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-quote-one-request)|Sep 09, 2026|
 <a id="bottom"></a>

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Duolingo**|[Bouncing Square Reaches a Screen Corner](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|Dec 05, 2024|
 |**Amazon**|[Data Dependence Sum](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|Dec 03, 2024|
 |**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-get-min-operations2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-operations2)|Dec 03, 2024|
 |**TikTok**|[Interesting Watch Sequence](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Dec 03, 2024|
