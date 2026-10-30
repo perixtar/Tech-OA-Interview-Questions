@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
+|**Amazon**|[Cinema Shows](https://www.fastprep.io/problems/amazon-cinema-shows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cinema-shows)|Mar 31, 2025|
 |**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|System design|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Mar 31, 2025|
 |**Amazon**|[Find Replacement](https://www.fastprep.io/problems/amazon-find-min-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-replacements)|Mar 29, 2025|
 |**IBM**|[Bitonic Subarray](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|Mar 29, 2025|

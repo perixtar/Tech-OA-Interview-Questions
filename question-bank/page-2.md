@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Wayfair**|[Design a Rental Product Circulation Domain](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Sep 11, 2026|
 |**Charta Health**|[Concurrent Token-Bucket Rate Limiter](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Sep 11, 2026|
 |**ByteDance**|[Delete K Values to Balance Index Sums](https://www.fastprep.io/problems/bytedance-delete-k-balance-index-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-delete-k-balance-index-sums)|Sep 11, 2026|
 |**Charta Health**|[Inorder Successor in a Binary Search Tree](https://www.fastprep.io/problems/charta-bst-inorder-successor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/charta-bst-inorder-successor)|Sep 11, 2026|
@@ -1757,6 +1758,4 @@
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
 |**Atlassian**|[Optimize an Appointment Waitlist Offer Service](https://www.fastprep.io/system-design/appointment-waitlist-offer-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/appointment-waitlist-offer-management)|Apr 01, 2025|
-|**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
-|**Amazon**|[Cinema Shows](https://www.fastprep.io/problems/amazon-cinema-shows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cinema-shows)|Mar 31, 2025|
 <a id="bottom"></a>

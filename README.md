@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,088)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (641)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (123)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,088)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (641)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (124)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -53,6 +53,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn / Rippling**|[Design a Recent User-Activity Query System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|🔥 Oct 29, 2026|
 |**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|🔥 Oct 29, 2026|
 |**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Oct 29, 2026|
+|**Citadel**|[Merge Single-Parent Jobs in an Async Job DAG](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|🔥 Oct 29, 2026|
 |**Amazon**|[Are Two People Relatives in a Family Tree?](https://www.fastprep.io/problems/amazon-family-tree-relatives)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-family-tree-relatives)|🔥 Oct 28, 2026|
 |**Apple**|[Design a Food Rating System](https://www.fastprep.io/problems/apple-food-rating-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-food-rating-system)|🔥 Oct 28, 2026|
 |**eBay**|[Count Staircases with Strictly Increasing Steps](https://www.fastprep.io/problems/ebay-count-distinct-height-staircases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ebay-count-distinct-height-staircases)|🔥 Oct 28, 2026|
@@ -1686,5 +1687,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**FlexTrade**|[Diagnose a Three-Stage Data Pipeline Latency Regression](https://www.fastprep.io/system-design/three-stage-pipeline-latency-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-stage-pipeline-latency-diagnosis)|Sep 11, 2026|
 |**FlexTrade**|[Diagnose Memory Growth in a Long-Running Process](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|Sep 11, 2026|
 |**Goldman Sachs**|[Minimum Distinct Prefix Cost](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Sep 11, 2026|
-|**Wayfair**|[Design a Rental Product Circulation Domain](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Sep 11, 2026|
 <a id="bottom"></a>
