@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,088 questions**
+**4,091 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1111,6 +1111,9 @@
 |**Bloomberg**|[Shuffle All the Decks](https://www.fastprep.io/problems/bloomberg-shuffle-all-decks)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shuffle-all-decks)|Sep 16, 2024|
 |**ZipRecruiter**|[Most Frequent Word across Grouped Arrays](https://www.fastprep.io/problems/ziprecruiter-most-frequent-grouped-word)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-most-frequent-grouped-word)|Sep 16, 2024|
 |**Scale AI**|[Running Through Walls with Limited Energy](https://www.fastprep.io/problems/scale-ai-running-through-walls)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-running-through-walls)|Sep 16, 2024|
+|**Adobe**|[Minimum Project Bid Cost](https://www.fastprep.io/problems/adobe-minimum-project-bid-cost)|[![Practice][p]](https://www.fastprep.io/problems/adobe-minimum-project-bid-cost)|Sep 15, 2024|
+|**Adobe**|[Count Players Who Level Up](https://www.fastprep.io/problems/adobe-players-who-level-up)|[![Practice][p]](https://www.fastprep.io/problems/adobe-players-who-level-up)|Sep 15, 2024|
+|**Adobe**|[Nested Dictionary Path Lookup](https://www.fastprep.io/problems/adobe-dictionary-path-lookup)|[![Practice][p]](https://www.fastprep.io/problems/adobe-dictionary-path-lookup)|Sep 15, 2024|
 |**ZipRecruiter**|[Place a Lamp to Cover the Most Objects](https://www.fastprep.io/problems/ziprecruiter-best-lamp-coordinate)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-best-lamp-coordinate)|Sep 14, 2024|
 |**ZipRecruiter**|[Count Colliding Object Pairs](https://www.fastprep.io/problems/ziprecruiter-count-colliding-center-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-colliding-center-pairs)|Sep 14, 2024|
 |**ZipRecruiter**|[Eliminate Drivers by Slowest Personal Best](https://www.fastprep.io/problems/ziprecruiter-driver-elimination)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-driver-elimination)|Sep 14, 2024|
@@ -1937,7 +1940,4 @@
 |**Alpaca**|[Aggregate a Large Dataset With GROUP BY](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|[![Practice][p]](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|Sep 04, 2022|
 |**Skydio**|[Overlap-Safe Memory Copy](https://www.fastprep.io/problems/skydio-overlap-safe-memory-copy)|[![Practice][p]](https://www.fastprep.io/problems/skydio-overlap-safe-memory-copy)|Aug 29, 2022|
 |**Cashfree Payments**|[Largest Subsequences](https://www.fastprep.io/problems/cashfree-largest-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/cashfree-largest-subsequences)|Aug 24, 2022|
-|**Cashfree Payments**|[Minimum Server Vulnerability](https://www.fastprep.io/problems/cashfree-minimum-server-vulnerability)|[![Practice][p]](https://www.fastprep.io/problems/cashfree-minimum-server-vulnerability)|Aug 24, 2022|
-|**Motive**|[Enumerate Grid Paths](https://www.fastprep.io/problems/motive-enumerate-grid-paths)|[![Practice][p]](https://www.fastprep.io/problems/motive-enumerate-grid-paths)|Aug 20, 2022|
-|**Bloomberg LP**|[All Paths From Source to Target](https://www.fastprep.io/problems/bloomberg-all-paths-from-source-to-target)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-paths-from-source-to-target)|Jul 28, 2022|
 <a id="bottom"></a>
