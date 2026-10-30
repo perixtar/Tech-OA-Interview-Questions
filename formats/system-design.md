@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**640 questions**
+**641 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**DoorDash**|[Design Payments for a Short High-Traffic Event](https://www.fastprep.io/system-design/high-traffic-event-payment-flow)|[![Practice][p]](https://www.fastprep.io/system-design/high-traffic-event-payment-flow)|🔥 Oct 30, 2026|
+|**Microsoft**|[Design a Financial Records Dashboard and History Table](https://www.fastprep.io/system-design/financial-records-dashboard-and-history-table)|[![Practice][p]](https://www.fastprep.io/system-design/financial-records-dashboard-and-history-table)|🔥 Oct 30, 2026|
 |**Rippling**|[Design a Multi-Tenant Employee Leave Management System](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|🔥 Oct 29, 2026|
 |**Google / Microsoft / LinkedIn**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|🔥 Oct 29, 2026|
 |**Rippling / Google**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|🔥 Oct 28, 2026|
