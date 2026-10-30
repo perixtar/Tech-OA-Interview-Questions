@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**90 questions**
+**91 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Daily USD Totals with Effective-Dated Exchange Rates](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|🔥 Oct 30, 2026|
 |**Pelatro**|[Records Created or Updated in a Time Window](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|[![Practice][p]](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|🔥 Oct 26, 2026|
 |**Birla Pivot**|[Bond Holders Above the Cash Flow Threshold](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|🔥 Oct 26, 2026|
 |**Birla Pivot**|[Students and Their Subjects](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|🔥 Oct 26, 2026|
