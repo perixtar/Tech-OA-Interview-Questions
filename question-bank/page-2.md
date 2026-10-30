@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snorkel AI**|[Snapshot Map with Sparse Version History](https://www.fastprep.io/problems/snorkel-ai-snapshot-map-sparse-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snorkel-ai-snapshot-map-sparse-history)|Sep 11, 2026|
+|**Wayfair**|[Container With Most Water](https://www.fastprep.io/problems/wayfair-container-with-most-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-container-with-most-water)|Sep 11, 2026|
 |**Wayfair**|[Assign Distinct Letter Values to Minimize XOR](https://www.fastprep.io/problems/wayfair-distinct-letter-values-minimum-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-distinct-letter-values-minimum-xor)|Sep 11, 2026|
 |**Wayfair**|[Moving Cost by Volume and Category](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|Sep 11, 2026|
 |**Waymo**|[Shortest Paths to Multiple Targets](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|Sep 11, 2026|
@@ -1299,6 +1301,7 @@
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
 |**Stripe**|[Filter Contacts by Email Domain](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Jan 16, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
+|**Citadel**|[Four-Exit Roundabout Simulator](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Jan 16, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Motive**|[Group Anagrams](https://www.fastprep.io/problems/motive-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-group-anagrams)|Jan 15, 2026|
 |**Motive**|[Longest Equal-Zero-One Subarray](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Jan 15, 2026|
@@ -1757,7 +1760,4 @@
 |**Tesla**|[Shoe Factory](https://www.fastprep.io/problems/tesla-shoe-factory)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-shoe-factory)|Mar 24, 2025|
 |**Tesla**|[Encrypt](https://www.fastprep.io/problems/tesla-encrypt)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-encrypt)|Mar 24, 2025|
 |**Fortinet**|[Beautiful Strings](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|Mar 24, 2025|
-|**Amazon**|[Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Mar 23, 2025|
-|**Amazon**|[Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|Mar 23, 2025|
-|**TikTok**|[Min Adjustment](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|Mar 23, 2025|
 <a id="bottom"></a>

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**200 questions**
+**201 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -149,6 +149,7 @@
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
+|**Citadel**|[Four-Exit Roundabout Simulator](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|[![Practice][p]](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Jan 16, 2026|
 |**Stable Money**|[Design a Feature Configuration Personalization Service](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|[![Practice][p]](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Jan 15, 2026|
 |**Ziina**|[Design Contact Sync and Prospective User Discovery](https://www.fastprep.io/low-level-design/contact-sync-and-prospective-users)|[![Practice][p]](https://www.fastprep.io/low-level-design/contact-sync-and-prospective-users)|Jan 15, 2026|
 |**Navan**|[Design Booking Comments and Administrative Updates](https://www.fastprep.io/low-level-design/booking-comment-administration)|[![Practice][p]](https://www.fastprep.io/low-level-design/booking-comment-administration)|Dec 22, 2025|

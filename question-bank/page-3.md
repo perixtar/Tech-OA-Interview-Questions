@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Mar 23, 2025|
+|**Amazon**|[Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|Mar 23, 2025|
+|**TikTok**|[Min Adjustment](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|Mar 23, 2025|
 |**TikTok**|[Shopping Cost](https://www.fastprep.io/problems/tiktok-calculate-tiktok-shopping-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-tiktok-shopping-cost)|Mar 23, 2025|
 |**Instacart**|[Bird Collects Sticks](https://www.fastprep.io/problems/instacart-collect-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-collect-sticks)|Mar 23, 2025|
 |**Instacart**|[Pop Bubbles](https://www.fastprep.io/problems/instacart-pop-bubbles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-pop-bubbles)|Mar 23, 2025|
@@ -1320,7 +1323,6 @@
 |**Figma**|[Shell Path Autocomplete](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
-|**Google / Microsoft**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|Apr 28, 2022|
 |**ZipRecruiter**|[Count Words Formable from Letters](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Apr 27, 2022|
 |**ZipRecruiter**|[Interleave Two Strings](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Apr 27, 2022|
 |**ZipRecruiter**|[Prefix Longest Consecutive-Value Runs](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Apr 27, 2022|
