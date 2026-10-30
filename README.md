@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,043)](formats/coding.md) · [SQL (86)](formats/sql.md) · [System design (640)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,080)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (641)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (122)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -35,6 +35,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | :-- | :-- | :-- | :-: | :-- |
 |**DoorDash**|[Integrate Three Profile Services](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🔥 Oct 30, 2026|
 |**DoorDash**|[Design Payments for a Short High-Traffic Event](https://www.fastprep.io/system-design/high-traffic-event-payment-flow)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-traffic-event-payment-flow)|🔥 Oct 30, 2026|
+|**Microsoft**|[Design a Financial Records Dashboard and History Table](https://www.fastprep.io/system-design/financial-records-dashboard-and-history-table)|System design|[![Practice][p]](https://www.fastprep.io/system-design/financial-records-dashboard-and-history-table)|🔥 Oct 30, 2026|
 |**Rippling**|[In-Memory Priority Task Scheduler](https://www.fastprep.io/problems/rippling-priority-task-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-priority-task-scheduler)|🔥 Oct 29, 2026|
 |**Nykaa / Navi / Atlys / Rippling**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 29, 2026|
 |**Rippling**|[Design a Multi-Tenant Employee Leave Management System](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|🔥 Oct 29, 2026|
@@ -1686,5 +1687,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Lyft**|[Globally Versioned Key-Value Store](https://www.fastprep.io/problems/lyft-globally-versioned-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/lyft-globally-versioned-key-value-store)|Sep 11, 2026|
 |**Nextdoor**|[In-Memory Database with Transactions and Savepoints](https://www.fastprep.io/problems/nextdoor-in-memory-database-savepoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nextdoor-in-memory-database-savepoints)|Sep 11, 2026|
 |**Pure Storage**|[Rasterize a Circle with Integer Pixels](https://www.fastprep.io/problems/pure-storage-midpoint-circle-pixels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pure-storage-midpoint-circle-pixels)|Sep 11, 2026|
-|**Pure Storage**|[One-Shot Callback Event Dispatch](https://www.fastprep.io/problems/pure-storage-one-shot-callback-event)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pure-storage-one-shot-callback-event)|Sep 11, 2026|
 <a id="bottom"></a>

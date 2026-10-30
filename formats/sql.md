@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**86 questions**
+**90 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -78,7 +78,11 @@
 |**Notion**|[Event Type with the Most Events](https://www.fastprep.io/problems/notion-event-type-with-most-events)|[![Practice][p]](https://www.fastprep.io/problems/notion-event-type-with-most-events)|Mar 26, 2026|
 |**Notion**|[Percentage of Blocks Never Edited](https://www.fastprep.io/problems/notion-percentage-blocks-never-edited)|[![Practice][p]](https://www.fastprep.io/problems/notion-percentage-blocks-never-edited)|Mar 26, 2026|
 |**Notion**|[Most Popular Active Plan for the Top Event Type](https://www.fastprep.io/problems/notion-popular-plan-for-top-event-type)|[![Practice][p]](https://www.fastprep.io/problems/notion-popular-plan-for-top-event-type)|Mar 26, 2026|
+|**Intuit**|[Grouped Totals in Report Order](https://www.fastprep.io/problems/intuit-grouped-aggregate-report)|[![Practice][p]](https://www.fastprep.io/problems/intuit-grouped-aggregate-report)|Feb 11, 2026|
+|**Intuit**|[Convert M/B Amount Strings to Numbers](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|[![Practice][p]](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|Jan 30, 2026|
+|**Intuit**|[Transaction Totals and Ranked Failure Reasons](https://www.fastprep.io/problems/intuit-transaction-status-report)|[![Practice][p]](https://www.fastprep.io/problems/intuit-transaction-status-report)|Dec 26, 2025|
 |**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
+|**Intuit**|[Return Duplicate Records](https://www.fastprep.io/problems/intuit-duplicate-records)|[![Practice][p]](https://www.fastprep.io/problems/intuit-duplicate-records)|Nov 19, 2025|
 |**PeopleStrong**|[Maximum Employee Salary for a Company](https://www.fastprep.io/problems/peoplestrong-company-maximum-salary)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-company-maximum-salary)|Sep 20, 2025|
 |**Marshall Wace**|[Successful Logins from Multiple Countries](https://www.fastprep.io/problems/marshall-wace-successful-logins-multiple-countries)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-successful-logins-multiple-countries)|Aug 13, 2025|
 |**Chainalysis**|[Block Transaction Count Trends](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|Mar 06, 2025|
