@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Lyft**|[Globally Versioned Key-Value Store](https://www.fastprep.io/problems/lyft-globally-versioned-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/lyft-globally-versioned-key-value-store)|Sep 11, 2026|
+|**Nextdoor**|[In-Memory Database with Transactions and Savepoints](https://www.fastprep.io/problems/nextdoor-in-memory-database-savepoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nextdoor-in-memory-database-savepoints)|Sep 11, 2026|
+|**Pure Storage**|[Rasterize a Circle with Integer Pixels](https://www.fastprep.io/problems/pure-storage-midpoint-circle-pixels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pure-storage-midpoint-circle-pixels)|Sep 11, 2026|
 |**Pure Storage**|[One-Shot Callback Event Dispatch](https://www.fastprep.io/problems/pure-storage-one-shot-callback-event)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pure-storage-one-shot-callback-event)|Sep 11, 2026|
 |**Snorkel AI**|[Snapshot Map with Sparse Version History](https://www.fastprep.io/problems/snorkel-ai-snapshot-map-sparse-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snorkel-ai-snapshot-map-sparse-history)|Sep 11, 2026|
 |**Wayfair**|[Container With Most Water](https://www.fastprep.io/problems/wayfair-container-with-most-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-container-with-most-water)|Sep 11, 2026|
@@ -28,7 +31,6 @@
 |**Apple**|[Design Predictive File Storage-Tier Placement](https://www.fastprep.io/system-design/file-storage-tier-selection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/file-storage-tier-selection)|Sep 10, 2026|
 |**Snap Inc.**|[Build a Persistent Chat Backend](https://www.fastprep.io/project-coding/persistent-chat-backend)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/persistent-chat-backend)|Sep 10, 2026|
 |**Snap Inc.**|[Design a Pre-Login Risk Challenge Service](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|Sep 10, 2026|
-|**LinkedIn / Rippling**|[Design a Recent User-Activity Query System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|Sep 10, 2026|
 |**Anthropic**|[Implement Concurrent Image Transformations](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|Sep 10, 2026|
 |**TikTok**|[Catch Fish with Reusable Baits](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|Sep 10, 2026|
 |**TikTok**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|Sep 10, 2026|
@@ -675,7 +677,6 @@
 |**Citadel**|[Limit Order Book Matching Engine](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Jul 26, 2026|
 |**Hudson River Trading**|[Market Data Signal Watcher](https://www.fastprep.io/problems/hudson-river-market-data-signal-watcher)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-market-data-signal-watcher)|Jul 26, 2026|
 |**Amazon**|[Shortest Distance on a Circular Bus Route](https://www.fastprep.io/problems/amazon-shortest-distance-circular-bus-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-shortest-distance-circular-bus-route)|Jul 26, 2026|
-|**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|Jul 26, 2026|
 |**Stripe**|[Rule-Driven Transaction Fraud Detection](https://www.fastprep.io/problems/stripe-rule-driven-transaction-fraud-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-rule-driven-transaction-fraud-detection)|Jul 25, 2026|
 |**Databricks**|[Design a Chat Application Cache Architecture](https://www.fastprep.io/system-design/chat-application-cache-architecture)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-application-cache-architecture)|Jul 25, 2026|
 |**Salesforce**|[Optimal Account Balancing](https://www.fastprep.io/problems/salesforce-optimal-account-balancing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-optimal-account-balancing)|Jul 25, 2026|
@@ -1758,5 +1759,4 @@
 |**HSBC**|[Flower Bouquets](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks)|Mar 28, 2025|
 |**HSBC**|[Max House Area](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Mar 28, 2025|
 |**Yahoo**|[Count Substring](https://www.fastprep.io/problems/yahoo-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-substring-count)|Mar 28, 2025|
-|**Yahoo**|[Get String](https://www.fastprep.io/problems/yahoo-get-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-string)|Mar 28, 2025|
 <a id="bottom"></a>

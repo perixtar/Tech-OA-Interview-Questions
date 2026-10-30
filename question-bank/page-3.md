@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Yahoo**|[Get String](https://www.fastprep.io/problems/yahoo-get-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-string)|Mar 28, 2025|
 |**Mastercard**|[Design a Grounded Bank Portal Information Assistant](https://www.fastprep.io/system-design/bank-portal-information-extraction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/bank-portal-information-extraction)|Mar 28, 2025|
 |**Mastercard**|[Design an Account Health Scoring Platform](https://www.fastprep.io/system-design/account-health-scoring-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/account-health-scoring-platform)|Mar 28, 2025|
 |**Amazon**|[Max Sum of Non-overlapping Intervals](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|Mar 27, 2025|
