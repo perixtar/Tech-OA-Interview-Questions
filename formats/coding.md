@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,080 questions**
+**4,088 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Totals from a Tiered Rate Table](https://www.fastprep.io/problems/microsoft-tiered-rate-totals)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-tiered-rate-totals)|🔥 Oct 30, 2026|
+|**Microsoft**|[Coin Change](https://www.fastprep.io/problems/microsoft-coin-change)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-coin-change)|🔥 Oct 30, 2026|
+|**Tower Research Capital**|[Maximum Signal Walk in a Server Tree](https://www.fastprep.io/problems/tower-research-capital-maximum-signal-walk-server-tree)|[![Practice][p]](https://www.fastprep.io/problems/tower-research-capital-maximum-signal-walk-server-tree)|🔥 Oct 29, 2026|
+|**Procol**|[Max Frequency Tracker](https://www.fastprep.io/problems/procol-max-frequency-tracker)|[![Practice][p]](https://www.fastprep.io/problems/procol-max-frequency-tracker)|🔥 Oct 29, 2026|
+|**Procol**|[Remove K Digits](https://www.fastprep.io/problems/procol-remove-k-digits)|[![Practice][p]](https://www.fastprep.io/problems/procol-remove-k-digits)|🔥 Oct 29, 2026|
 |**Rippling**|[In-Memory Priority Task Scheduler](https://www.fastprep.io/problems/rippling-priority-task-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/rippling-priority-task-scheduler)|🔥 Oct 29, 2026|
 |**Amazon**|[Are Two People Relatives in a Family Tree?](https://www.fastprep.io/problems/amazon-family-tree-relatives)|[![Practice][p]](https://www.fastprep.io/problems/amazon-family-tree-relatives)|🔥 Oct 28, 2026|
 |**Apple**|[Design a Food Rating System](https://www.fastprep.io/problems/apple-food-rating-system)|[![Practice][p]](https://www.fastprep.io/problems/apple-food-rating-system)|🔥 Oct 28, 2026|
@@ -1816,9 +1821,4 @@
 |**Mercor**|[Top K With a Deterministically Noisy Comparator (MLE)](https://www.fastprep.io/problems/mercor-top-k-with-deterministically-noisy-comparator)|[![Practice][p]](https://www.fastprep.io/problems/mercor-top-k-with-deterministically-noisy-comparator)|Jul 08, 2026|
 |**Reddit**|[Reconstruct Billing Status](https://www.fastprep.io/problems/reddit-reconstruct-billing-status)|[![Practice][p]](https://www.fastprep.io/problems/reddit-reconstruct-billing-status)|Jul 08, 2026|
 |**Apple**|[Product Except Self With Zeros](https://www.fastprep.io/problems/apple-product-except-self-with-zeros)|[![Practice][p]](https://www.fastprep.io/problems/apple-product-except-self-with-zeros)|Jul 08, 2026|
-|**Apple**|[Validate Completed Sudoku](https://www.fastprep.io/problems/apple-validate-completed-sudoku)|[![Practice][p]](https://www.fastprep.io/problems/apple-validate-completed-sudoku)|Jul 08, 2026|
-|**Figma**|[Rich Text Parser Part 3 (Depth Tokens)](https://www.fastprep.io/problems/figma-rich-text-parser)|[![Practice][p]](https://www.fastprep.io/problems/figma-rich-text-parser)|Jul 08, 2026|
-|**Zomato / Eternal**|[Flipping Matrix](https://www.fastprep.io/problems/zomato-flipping-matrix)|[![Practice][p]](https://www.fastprep.io/problems/zomato-flipping-matrix)|Jul 08, 2026|
-|**Zomato / Eternal**|[Special Keyboard](https://www.fastprep.io/problems/zomato-special-keyboard)|[![Practice][p]](https://www.fastprep.io/problems/zomato-special-keyboard)|Jul 08, 2026|
-|**NatWest**|[Remove Duplicate Characters](https://www.fastprep.io/problems/natwest-remove-duplicate-characters)|[![Practice][p]](https://www.fastprep.io/problems/natwest-remove-duplicate-characters)|Jul 08, 2026|
 <a id="bottom"></a>
