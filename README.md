@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,088)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (641)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (124)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,088)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (643)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (125)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**AMD**|[AI-Assisted Device Automation Workflow](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|🔥 Oct 31, 2026|
 |**Microsoft**|[Totals from a Tiered Rate Table](https://www.fastprep.io/problems/microsoft-tiered-rate-totals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-tiered-rate-totals)|🔥 Oct 30, 2026|
 |**Microsoft**|[Coin Change](https://www.fastprep.io/problems/microsoft-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-coin-change)|🔥 Oct 30, 2026|
 |**Microsoft**|[Daily USD Totals with Effective-Dated Exchange Rates](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|SQL|[![Practice][p]](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|🔥 Oct 30, 2026|
@@ -1102,7 +1103,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Wayve / Waabi**|[Driving Log Ingestion and Query Platform](https://www.fastprep.io/system-design/driving-log-ingestion-query-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/driving-log-ingestion-query-platform)|🆕 Sep 26, 2026|
 |**Supabase**|[Global Edge Functions Platform](https://www.fastprep.io/system-design/global-edge-functions-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-edge-functions-platform)|🆕 Sep 26, 2026|
 |**Lambda**|[High-Throughput ML Object Store](https://www.fastprep.io/system-design/high-throughput-ml-object-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-ml-object-store)|🆕 Sep 26, 2026|
-|**Lambda**|[Kubernetes GPU Workload Control Plane](https://www.fastprep.io/system-design/kubernetes-gpu-control-plane)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-gpu-control-plane)|🆕 Sep 26, 2026|
+|**Lambda / AMD**|[Kubernetes GPU Workload Control Plane](https://www.fastprep.io/system-design/kubernetes-gpu-control-plane)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-gpu-control-plane)|🆕 Sep 26, 2026|
 |**Modal Learning**|[Large Model Artifact Cache](https://www.fastprep.io/system-design/model-artifact-cache)|System design|[![Practice][p]](https://www.fastprep.io/system-design/model-artifact-cache)|🆕 Sep 26, 2026|
 |**LangChain**|[LLM Observability and Alerting Platform](https://www.fastprep.io/system-design/llm-observability-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-observability-platform)|🆕 Sep 26, 2026|
 |**Lambda**|[Multi-Tenant GPU Cluster Scheduler](https://www.fastprep.io/system-design/multi-tenant-gpu-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-gpu-scheduler)|🆕 Sep 26, 2026|
@@ -1132,7 +1133,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Character.AI**|[Spreadsheet With Dependent Cells](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|🆕 Sep 25, 2026|
 |**Clay**|[Hierarchical In-Memory File System](https://www.fastprep.io/problems/clay-hierarchical-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clay-hierarchical-file-system)|🆕 Sep 25, 2026|
 |**Clay**|[Workspace File System With Folders and Tables](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|🆕 Sep 25, 2026|
-|**Alpaca**|[Large-Scale Messaging Application](https://www.fastprep.io/system-design/large-scale-messaging-application)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-messaging-application)|🆕 Sep 25, 2026|
 |**Hudson River Trading**|[Sort Matrix Borders](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|🆕 Sep 25, 2026|
 |**Hudson River Trading**|[Rearrange String by Alternating Ends](https://www.fastprep.io/problems/hrt-rearrange-string-by-alternating-ends)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-rearrange-string-by-alternating-ends)|🆕 Sep 25, 2026|
 |**Hudson River Trading**|[Rectangle Fit Queries](https://www.fastprep.io/problems/hrt-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-rectangle-fit-queries)|🆕 Sep 25, 2026|
