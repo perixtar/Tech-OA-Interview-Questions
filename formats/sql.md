@@ -2,19 +2,23 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**91 questions**
+**93 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Microsoft**|[Daily USD Totals with Effective-Dated Exchange Rates](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|🔥 Oct 30, 2026|
+|**Intuit**|[Employee Promotion Opportunities](https://www.fastprep.io/problems/intuit-employee-promotion-opportunities)|[![Practice][p]](https://www.fastprep.io/problems/intuit-employee-promotion-opportunities)|🔥 Oct 28, 2026|
 |**Pelatro**|[Records Created or Updated in a Time Window](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|[![Practice][p]](https://www.fastprep.io/problems/pelatro-records-created-or-updated-in-window)|🔥 Oct 26, 2026|
 |**Birla Pivot**|[Bond Holders Above the Cash Flow Threshold](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-bond-holder-total-cash-flow)|🔥 Oct 26, 2026|
 |**Birla Pivot**|[Students and Their Subjects](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|[![Practice][p]](https://www.fastprep.io/problems/birla-pivot-students-and-subjects)|🔥 Oct 26, 2026|
 |**Straive**|[Department Employee Counts and Running Total](https://www.fastprep.io/problems/straive-department-employee-running-counts)|[![Practice][p]](https://www.fastprep.io/problems/straive-department-employee-running-counts)|🔥 Oct 24, 2026|
+|**AT&T**|[Companies with Average Salary Above 40000](https://www.fastprep.io/problems/att-companies-with-average-salary-above-40000)|[![Practice][p]](https://www.fastprep.io/problems/att-companies-with-average-salary-above-40000)|🔥 Oct 24, 2026|
 |**Dell Technologies**|[Departments Without Employees](https://www.fastprep.io/problems/dell-departments-without-employees)|[![Practice][p]](https://www.fastprep.io/problems/dell-departments-without-employees)|🔥 Oct 20, 2026|
 |**Chubb**|[Second-Highest Salary](https://www.fastprep.io/problems/chubb-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/chubb-second-highest-salary)|🔥 Oct 19, 2026|
+|**Boston Consulting Group**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|🔥 Oct 19, 2026|
+|**Boston Consulting Group**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|🔥 Oct 19, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🆕 Oct 15, 2026|
 |**Salesforce**|[Find Rows Common to Two Tables](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|🆕 Oct 14, 2026|
 |**Capital One**|[Analyze House and Viewing Metrics](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|🆕 Oct 11, 2026|
@@ -28,8 +32,6 @@
 |**Apple**|[iPhone Model Sales Share by Country](https://www.fastprep.io/problems/apple-iphone-model-sales-share)|[![Practice][p]](https://www.fastprep.io/problems/apple-iphone-model-sales-share)|🆕 Oct 08, 2026|
 |**Apple**|[Top Five Countries by Product Revenue](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|[![Practice][p]](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|🆕 Oct 08, 2026|
 |**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🆕 Oct 08, 2026|
-|**Boston Consulting Group**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|🆕 Oct 08, 2026|
-|**Boston Consulting Group**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|🆕 Oct 08, 2026|
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🆕 Oct 08, 2026|
 |**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🆕 Oct 07, 2026|
 |**Infosys**|[Tenth-Highest Distinct Salary](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|[![Practice][p]](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|🆕 Oct 07, 2026|
