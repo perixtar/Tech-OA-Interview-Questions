@@ -1,0 +1,84 @@
+{
+  "v": 2,
+  "id": "microsoft-coin-change",
+  "hasSignature": true,
+  "title": "Coin Change",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->The report says the hiring manager round had &quot;a minimum-count variant of a classic &#x27;make an exact total from given sizes, return -1 if impossible&#x27; problem.&quot; It also warns: &quot;Watch for integer overflow in your DP array.&quot;</p><p class=\"fp-source-note__source\">The report does not give the input format, the limits, whether each size can be used more than once, or the answer for a total of 0. Here, the sizes are coin values, every coin can be used any number of times, a total of 0 needs 0 coins, and coin values can be as large as 2^31 - 1.</p><p class=\"fp-source-note__source\">The judged task matches the report at about 90%.</p></aside><div class=\"fp-prose2\"><p>You are given an integer array <code>coins</code>, where each value is the worth of one kind of coin, and an integer <code>amount</code>. You have an unlimited number of coins of every kind.</p><p>Return the fewest number of coins whose values add up to exactly <code>amount</code>. If no combination of coins adds up to <code>amount</code>, return <code>-1</code>.</p><p>A total of <code>0</code> needs no coins. A value may appear more than once in <code>coins</code>; repeated values are the same kind of coin.</p></div></div>",
+  "statementText": "Problem statement Source note: The report says the hiring manager round had \"a minimum-count variant of a classic 'make an exact total from given sizes, return -1 if impossible' problem.\" It also warns: \"Watch for integer overflow in your DP array.\" The report does not give the input format, the limits, whether each size can be used more than once, or the answer for a total of 0. Here, the sizes are coin values, every coin can be used any number of times, a total of 0 needs 0 coins, and coin values can be as large as 2^31 - 1. The judged task matches the report at about 90%. You are given an integer array coins , where each value is the worth of one kind of coin, and an integer amount . You have an unlimited number of coins of every kind. Return the fewest number of coins whose values add up to exactly amount . If no combination of coins adds up to amount , return -1 . A total of 0 needs no coins. A value may appear more than once in coins ; repeated values are the same kind of coin.",
+  "functionName": "coinChange",
+  "signature": "coinChange(coins: int[], amount: int) → int",
+  "parameters": [
+    {
+      "name": "coins",
+      "type": "int[]"
+    },
+    {
+      "name": "amount",
+      "type": "int"
+    }
+  ],
+  "returnType": "int",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "coins = [2,5,10]\namount = 27",
+      "expectedRaw": "4",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "coins = [1,3,4]\namount = 6",
+      "expectedRaw": "2",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "coins = [4,6]\namount = 9",
+      "expectedRaw": "-1",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "inputRaw": "coins = [7]\namount = 0",
+      "expectedRaw": "0",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "coins = [2,5,10]\namount = 27",
+      "expectedRaw": "4",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "coins = [1,3,4]\namount = 6",
+      "expectedRaw": "2",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "coins = [4,6]\namount = 9",
+      "expectedRaw": "-1",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "inputRaw": "coins = [7]\namount = 0",
+      "expectedRaw": "0",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "1 <= coins.length <= 12",
+    "1 <= coins[i] <= 2^31 - 1",
+    "0 <= amount <= 10^4"
+  ],
+  "starterCodes": {
+    "python": "def coinChange(coins, amount):\n    # Write your solution here\n    pass\n",
+    "javascript": "function coinChange(coins, amount) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int coinChange() {\n        return 0;\n    }\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement coinChange\n};\n"
+  }
+}
