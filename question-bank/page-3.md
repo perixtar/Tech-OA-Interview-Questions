@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**DTCC**|[Find Reciprocal](https://www.fastprep.io/problems/dtcc-find-reciprocal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dtcc-find-reciprocal)|Apr 13, 2025|
 |**Chainalysis**|[Meeting Rooms](https://www.fastprep.io/problems/chainalysis-meeting-rooms)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-meeting-rooms)|Apr 11, 2025|
 |**Chainalysis**|[Meeting Rooms II](https://www.fastprep.io/problems/chainalysis-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-meeting-rooms-ii)|Apr 11, 2025|
 |**WhatNot**|[Merge Keyed 2D Arrays](https://www.fastprep.io/problems/whatnot-merge-keyed-2d-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-merge-keyed-2d-arrays)|Apr 11, 2025|

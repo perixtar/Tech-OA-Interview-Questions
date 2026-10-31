@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,101 questions**
+**4,102 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -83,6 +83,10 @@
 |**Stripe**|[Transaction Fee Calculator — Parts 1–2: Basic Fee Calculation and Conditional Fee Rules](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-part1)|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-part1)|🔥 Oct 27, 2026|
 |**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|🔥 Oct 27, 2026|
 |**NVIDIA**|[Query a Header-Encoded Matrix](https://www.fastprep.io/problems/nvidia-query-header-encoded-matrix)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-query-header-encoded-matrix)|🔥 Oct 27, 2026|
+|**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Oct 27, 2026|
+|**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Oct 27, 2026|
+|**OpenAI**|[Digit-Sum Sequence Join Point](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|[![Practice][p]](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|🔥 Oct 27, 2026|
+|**OpenAI**|[Password Clues and the Next Command](https://www.fastprep.io/problems/openai-password-clues-next-command)|[![Practice][p]](https://www.fastprep.io/problems/openai-password-clues-next-command)|🔥 Oct 27, 2026|
 |**Amazon**|[Longest Equal-Value Run](https://www.fastprep.io/problems/amazon-longest-equal-value-run)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-equal-value-run)|🔥 Oct 26, 2026|
 |**The D.E. Shaw Group**|[Rearrange a String So No Neighbors Match](https://www.fastprep.io/problems/de-shaw-rearrange-string-adjacent-differ)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-rearrange-string-adjacent-differ)|🔥 Oct 26, 2026|
 |**The D.E. Shaw Group**|[Top K Largest Values from a Stream](https://www.fastprep.io/problems/de-shaw-top-k-largest-from-stream)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-top-k-largest-from-stream)|🔥 Oct 26, 2026|
@@ -435,7 +439,6 @@
 |**Google**|[Binary Tree Right Side View](https://www.fastprep.io/problems/google-binary-tree-right-side-view)|[![Practice][p]](https://www.fastprep.io/problems/google-binary-tree-right-side-view)|🆕 Oct 08, 2026|
 |**Google**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/google-longest-substring-without-repeating-characters)|[![Practice][p]](https://www.fastprep.io/problems/google-longest-substring-without-repeating-characters)|🆕 Oct 08, 2026|
 |**Anthropic**|[Trace Events from Stable Whole-Stack States](https://www.fastprep.io/problems/anthropic-stable-stack-state-trace-events)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-stable-stack-state-trace-events)|🆕 Oct 08, 2026|
-|**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🆕 Oct 07, 2026|
 |**OpenAI**|[Largest Microorganism After Consumption](https://www.fastprep.io/problems/openai-largest-microorganism)|[![Practice][p]](https://www.fastprep.io/problems/openai-largest-microorganism)|🆕 Oct 07, 2026|
 |**JP Morgan Chase**|[Maximize Minimum Deployment Difficulty](https://www.fastprep.io/problems/jpmorgan-maximize-minimum-deployment-difficulty)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-maximize-minimum-deployment-difficulty)|🆕 Oct 07, 2026|
 |**Google**|[Count Visible People to the Left](https://www.fastprep.io/problems/google-count-visible-people-to-the-left)|[![Practice][p]](https://www.fastprep.io/problems/google-count-visible-people-to-the-left)|🆕 Oct 07, 2026|
@@ -466,7 +469,6 @@
 |**AMD**|[Sort a Binary Array](https://www.fastprep.io/problems/amd-sort-binary-array)|[![Practice][p]](https://www.fastprep.io/problems/amd-sort-binary-array)|🆕 Oct 07, 2026|
 |**Kotak Mahindra Bank**|[Longest Common Prefix](https://www.fastprep.io/problems/kotak-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/kotak-longest-common-prefix)|🆕 Oct 07, 2026|
 |**Kotak Mahindra Bank**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/kotak-search-in-rotated-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/kotak-search-in-rotated-sorted-array)|🆕 Oct 07, 2026|
-|**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🆕 Oct 07, 2026|
 |**Google**|[Priority-Aware Dependent Task Order](https://www.fastprep.io/problems/google-priority-dependent-task-order)|[![Practice][p]](https://www.fastprep.io/problems/google-priority-dependent-task-order)|🆕 Oct 06, 2026|
 |**Google**|[Shortest Path Between BST Nodes](https://www.fastprep.io/problems/google-shortest-path-between-bst-nodes)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-between-bst-nodes)|🆕 Oct 06, 2026|
 |**Google**|[Find the Town Judge](https://www.fastprep.io/problems/google-find-the-town-judge)|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-town-judge)|🆕 Oct 06, 2026|
@@ -1818,6 +1820,4 @@
 |**Rupeek**|[Trapping Rain Water](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|[![Practice][p]](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Jul 08, 2026|
 |**OpenAI**|[DSA Round: Maximum Score Grid Path](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|[![Practice][p]](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Jul 08, 2026|
 |**Amazon**|[Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date)|[![Practice][p]](https://www.fastprep.io/problems/amazon-closest-version-date)|Jul 08, 2026|
-|**Amazon**|[Maximum Concurrent Processes (Bar Raiser Round)](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Jul 08, 2026|
-|**Amazon**|[Package Dependency Order](https://www.fastprep.io/problems/amazon-package-dependency-order)|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-dependency-order)|Jul 08, 2026|
 <a id="bottom"></a>
