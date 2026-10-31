@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Minimum Distinct Prefix Cost](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Sep 11, 2026|
 |**Wayfair**|[Design a Rental Product Circulation Domain](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Sep 11, 2026|
 |**Charta Health**|[Concurrent Token-Bucket Rate Limiter](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Sep 11, 2026|
 |**ByteDance**|[Delete K Values to Balance Index Sums](https://www.fastprep.io/problems/bytedance-delete-k-balance-index-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-delete-k-balance-index-sums)|Sep 11, 2026|
@@ -1757,5 +1758,4 @@
 |**Character.AI**|[Time-Based Key-Value Map With Floor and Ceiling Queries](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|Apr 07, 2025|
 |**SpaceX**|[Design a Browser-to-Backend Request Lifecycle](https://www.fastprep.io/system-design/browser-to-backend-request-lifecycle)|System design|[![Practice][p]](https://www.fastprep.io/system-design/browser-to-backend-request-lifecycle)|Apr 06, 2025|
 |**SpaceX**|[DNA Sequence Match](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Apr 05, 2025|
-|**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 <a id="bottom"></a>

@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**125 questions**
+**126 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**AMD**|[Create an HTML Input and Submit Form](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|[![Practice][p]](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|🔥 Oct 31, 2026|
 |**DoorDash**|[Integrate Three Profile Services](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🔥 Oct 30, 2026|
 |**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Oct 29, 2026|
 |**Citadel**|[Merge Single-Parent Jobs in an Async Job DAG](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|🔥 Oct 29, 2026|

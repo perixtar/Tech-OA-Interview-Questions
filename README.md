@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,088)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (643)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (125)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,088)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (643)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (126)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**AMD**|[AI-Assisted Device Automation Workflow](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|🔥 Oct 31, 2026|
+|**AMD**|[Create an HTML Input and Submit Form](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amd-html-input-submit-form)|🔥 Oct 31, 2026|
 |**Microsoft**|[Totals from a Tiered Rate Table](https://www.fastprep.io/problems/microsoft-tiered-rate-totals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-tiered-rate-totals)|🔥 Oct 30, 2026|
 |**Microsoft**|[Coin Change](https://www.fastprep.io/problems/microsoft-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-coin-change)|🔥 Oct 30, 2026|
 |**Microsoft**|[Daily USD Totals with Effective-Dated Exchange Rates](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|SQL|[![Practice][p]](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|🔥 Oct 30, 2026|
@@ -1686,5 +1687,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**FlexTrade**|[Design Fault Localization for a Large Function Graph](https://www.fastprep.io/system-design/fault-localization-for-large-function-graph)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fault-localization-for-large-function-graph)|Sep 11, 2026|
 |**FlexTrade**|[Diagnose a Three-Stage Data Pipeline Latency Regression](https://www.fastprep.io/system-design/three-stage-pipeline-latency-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-stage-pipeline-latency-diagnosis)|Sep 11, 2026|
 |**FlexTrade**|[Diagnose Memory Growth in a Long-Running Process](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|Sep 11, 2026|
-|**Goldman Sachs**|[Minimum Distinct Prefix Cost](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Sep 11, 2026|
 <a id="bottom"></a>

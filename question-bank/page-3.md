@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
 |**Atlassian**|[Optimize an Appointment Waitlist Offer Service](https://www.fastprep.io/system-design/appointment-waitlist-offer-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/appointment-waitlist-offer-management)|Apr 01, 2025|
