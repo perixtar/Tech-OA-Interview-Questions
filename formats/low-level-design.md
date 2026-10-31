@@ -8,6 +8,8 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**The D.E. Shaw Group**|[Design a Snakes and Ladders Game](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|🔥 Oct 30, 2026|
+|**The D.E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🔥 Oct 30, 2026|
 |**Nykaa / Navi / Atlys / Rippling**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 29, 2026|
 |**Autodesk**|[Design a Shape Transformation Engine](https://www.fastprep.io/low-level-design/shape-transformation-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-transformation-engine)|🔥 Oct 29, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Oct 29, 2026|
@@ -16,7 +18,6 @@
 |**Google / The D.E. Shaw Group**|[Design and Implement a Meeting-Room Scheduler](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/meeting-room-scheduler)|🔥 Oct 26, 2026|
 |**Amazon**|[Design a Train Ticket Booking Service](https://www.fastprep.io/low-level-design/train-ticket-booking-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/train-ticket-booking-service)|🔥 Oct 26, 2026|
 |**The D.E. Shaw Group**|[Design a Round-Based Tactical Shooter Match](https://www.fastprep.io/low-level-design/tactical-shooter-match-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/tactical-shooter-match-domain)|🔥 Oct 26, 2026|
-|**The D.E. Shaw Group**|[Design a Snakes and Ladders Game](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|🔥 Oct 26, 2026|
 |**Decagon**|[Design an AI Agent Rule Configuration Domain](https://www.fastprep.io/low-level-design/ai-agent-rule-configuration)|[![Practice][p]](https://www.fastprep.io/low-level-design/ai-agent-rule-configuration)|🔥 Oct 25, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 24, 2026|
 |**Amazon**|[Design an Agentic Chatbot Domain](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|🔥 Oct 24, 2026|
@@ -62,7 +63,6 @@
 |**Urban Company**|[Design and Implement Partner Slot Routing](https://www.fastprep.io/low-level-design/partner-customer-slot-routing-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/partner-customer-slot-routing-domain)|🆕 Sep 30, 2026|
 |**amo**|[Design a Concurrent Multi-Producer Multi-Consumer Queue](https://www.fastprep.io/low-level-design/concurrent-mpmc-queue-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-mpmc-queue-domain)|🆕 Sep 30, 2026|
 |**Navi**|[Design and Implement a Shared Expense Tracker](https://www.fastprep.io/low-level-design/shared-expense-tracker-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-tracker-domain)|🆕 Sep 30, 2026|
-|**The D.E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🆕 Sep 29, 2026|
 |**Uber Freight**|[Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system)|🆕 Sep 29, 2026|
 |**Bloomberg LP / PhonePe**|[Design a To-do List with External Completion Status](https://www.fastprep.io/low-level-design/to-do-list-with-completion-checker)|[![Practice][p]](https://www.fastprep.io/low-level-design/to-do-list-with-completion-checker)|🆕 Sep 29, 2026|
 |**PhonePe**|[Design and Implement a To-Do Workflow Application](https://www.fastprep.io/low-level-design/to-do-workflow-application)|[![Practice][p]](https://www.fastprep.io/low-level-design/to-do-workflow-application)|🆕 Sep 29, 2026|

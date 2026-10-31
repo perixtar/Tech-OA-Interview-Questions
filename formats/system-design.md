@@ -9,6 +9,7 @@
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**AMD**|[AI-Assisted Device Automation Workflow](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|🔥 Oct 31, 2026|
+|**Stripe / PhonePe / Broccoli AI**|[Design a Feature Flag Platform](https://www.fastprep.io/system-design/feature-flag-platform)|[![Practice][p]](https://www.fastprep.io/system-design/feature-flag-platform)|🔥 Oct 31, 2026|
 |**DoorDash**|[Design Payments for a Short High-Traffic Event](https://www.fastprep.io/system-design/high-traffic-event-payment-flow)|[![Practice][p]](https://www.fastprep.io/system-design/high-traffic-event-payment-flow)|🔥 Oct 30, 2026|
 |**Microsoft**|[Design a Financial Records Dashboard and History Table](https://www.fastprep.io/system-design/financial-records-dashboard-and-history-table)|[![Practice][p]](https://www.fastprep.io/system-design/financial-records-dashboard-and-history-table)|🔥 Oct 30, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc.**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Oct 30, 2026|
@@ -113,7 +114,6 @@
 |**Atlassian**|[Design a Responsive Product Catalog Search Frontend](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|[![Practice][p]](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|🆕 Oct 12, 2026|
 |**Amazon**|[Design Agentic Security Stream Detection](https://www.fastprep.io/system-design/agentic-security-stream-detection)|[![Practice][p]](https://www.fastprep.io/system-design/agentic-security-stream-detection)|🆕 Oct 11, 2026|
 |**Amazon**|[Design a Smart Thermostat Telemetry Platform](https://www.fastprep.io/system-design/smart-thermostat-telemetry-platform)|[![Practice][p]](https://www.fastprep.io/system-design/smart-thermostat-telemetry-platform)|🆕 Oct 11, 2026|
-|**Stripe / PhonePe**|[Design a Feature Flag Platform](https://www.fastprep.io/system-design/feature-flag-platform)|[![Practice][p]](https://www.fastprep.io/system-design/feature-flag-platform)|🆕 Oct 10, 2026|
 |**Apple**|[Design Consumer-Outage Backlog Recovery](https://www.fastprep.io/system-design/kafka-consumer-outage-backlog-recovery)|[![Practice][p]](https://www.fastprep.io/system-design/kafka-consumer-outage-backlog-recovery)|🆕 Oct 10, 2026|
 |**Valon**|[Design Loan Repayment and Investor Distribution](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|[![Practice][p]](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|🆕 Oct 10, 2026|
 |**Attentive**|[Design a Third-Party Data Pull Platform](https://www.fastprep.io/system-design/third-party-data-pull-platform)|[![Practice][p]](https://www.fastprep.io/system-design/third-party-data-pull-platform)|🆕 Oct 09, 2026|
