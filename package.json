@@ -1,0 +1,22 @@
+{
+  "name": "tech-oa-practice",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/server.ts",
+    "start": "bun run src/server.ts",
+    "sync": "bun run src/questions.ts",
+    "test": "bun test",
+    "precache": "bun run scripts/cache-top-problems.ts"
+  },
+  "dependencies": {
+    "ace-builds": "^1.44.0",
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "prismjs": "^1.30.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6"
+  }
+}

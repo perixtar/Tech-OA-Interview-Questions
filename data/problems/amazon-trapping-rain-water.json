@@ -1,0 +1,53 @@
+{
+  "id": "amazon-trapping-rain-water",
+  "title": "Trapping Rain Water",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->The report names Trapping Rain Water as a follow-up to Container With Most Water. The judged core task matches the visible source at about 99%; numeric bounds and judged examples are specified for practice.</p></aside><div class=\"fp-prose2\"><p>You are given an integer array <code>height</code> of length <code>n</code>. <code>n</code> vertical bars stand on the x-axis. The <code>i</code>-th bar has width <code>1</code> and height <code>height[i]</code>.</p><p>Compute how many units of water the bars can trap after rain.</p><p>Water sits above a bar only when both a strictly taller left boundary and a strictly taller right boundary exist. The water depth at index <code>i</code> is <code>max(0, min(leftMax[i], rightMax[i]) - height[i])</code>, where <code>leftMax[i]</code> is the tallest bar at an index <code>< i</code> and <code>rightMax[i]</code> is the tallest bar at an index <code>> i</code>.</p></div></div>",
+  "statementText": "Problem statement Source note: The report names Trapping Rain Water as a follow-up to Container With Most Water. The judged core task matches the visible source at about 99%; numeric bounds and judged examples are specified for practice. You are given an integer array height of length n . n vertical bars stand on the x-axis. The i -th bar has width 1 and height height[i] . Compute how many units of water the bars can trap after rain. Water sits above a bar only when both a strictly taller left boundary and a strictly taller right boundary exist. The water depth at index i is max(0, min(leftMax[i], rightMax[i]) - height[i]) , where leftMax[i] is the tallest bar at an index and rightMax[i] is the tallest bar at an index > i .",
+  "functionName": "trap",
+  "signature": "trap(height: int[]) → int",
+  "parameters": [
+    {
+      "name": "height",
+      "type": "int[]"
+    }
+  ],
+  "returnType": "int",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "height = [0,1,0,2,1,0,1,3,2,1,2,1]",
+      "expectedRaw": "6",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "height = [4,2,0,3,2,5]",
+      "expectedRaw": "9",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "height = [0,1,0,2,1,0,1,3,2,1,2,1]",
+      "expectedRaw": "6",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "height = [4,2,0,3,2,5]",
+      "expectedRaw": "9",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "1 <= height.length <= 2 * 10^4.",
+    "0 <= height[i] <= 10^5."
+  ],
+  "starterCodes": {
+    "python": "def trap(height):\n    # Write your solution here\n    pass\n",
+    "javascript": "function trap(height) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int trap(int[] height) {\n  // Write your code here.\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement trap\n};\n"
+  }
+}

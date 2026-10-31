@@ -1,2 +1,6 @@
 __pycache__/
 *.py[cod]
+.env
+node_modules/
+bun.lock
+data/.cache/

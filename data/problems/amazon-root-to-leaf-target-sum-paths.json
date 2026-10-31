@@ -1,0 +1,70 @@
+{
+  "id": "amazon-root-to-leaf-target-sum-paths",
+  "title": "Root-to-Leaf Paths with a Target Sum",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->Reported in an Amazon new-grad onsite interview as Path Sum II. The source does not specify a tree encoding, empty-tree behavior, output order, or input bounds; this practice version uses a nullable level-order tree, returns matching paths in left-to-right depth-first order, and caps trees at 500 nodes with bounded node and target values. Problem match confidence: approximately 99%.</p></aside><div class=\"fp-prose2\"><p>Given the root of a binary tree and an integer <code>targetSum</code>, return every root-to-leaf path whose node values add up to <code>targetSum</code>.</p><p>A leaf has no children. Return paths in left-to-right depth-first order, with each path listed from the root to its leaf.</p></div></div>",
+  "statementText": "Problem statement Source note: Reported in an Amazon new-grad onsite interview as Path Sum II. The source does not specify a tree encoding, empty-tree behavior, output order, or input bounds; this practice version uses a nullable level-order tree, returns matching paths in left-to-right depth-first order, and caps trees at 500 nodes with bounded node and target values. Problem match confidence: approximately 99%. Given the root of a binary tree and an integer targetSum , return every root-to-leaf path whose node values add up to targetSum . A leaf has no children. Return paths in left-to-right depth-first order, with each path listed from the root to its leaf.",
+  "functionName": "pathSum",
+  "signature": "pathSum(root: TreeNode, targetSum: int) → int[][]",
+  "parameters": [
+    {
+      "name": "root",
+      "type": "TreeNode"
+    },
+    {
+      "name": "targetSum",
+      "type": "int"
+    }
+  ],
+  "returnType": "int[][]",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "root = [5,4,8,11,null,13,4,7,2,null,null,5,1]\ntargetSum = 22",
+      "expectedRaw": "[[5,4,11,2],[5,8,4,5]]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "root = [1,2,3]\ntargetSum = 5",
+      "expectedRaw": "[]",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "root = []\ntargetSum = 0",
+      "expectedRaw": "[]",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "root = [5,4,8,11,null,13,4,7,2,null,null,5,1]\ntargetSum = 22",
+      "expectedRaw": "[[5,4,11,2],[5,8,4,5]]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "root = [1,2,3]\ntargetSum = 5",
+      "expectedRaw": "[]",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "root = []\ntargetSum = 0",
+      "expectedRaw": "[]",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "The tree contains between 0 and 500 nodes.",
+    "-1000 <= Node.val <= 1000.",
+    "-10^9 <= targetSum <= 10^9."
+  ],
+  "starterCodes": {
+    "python": "def pathSum(root, targetSum):\n    # Write your solution here\n    pass\n",
+    "javascript": "function pathSum(root, targetSum) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int[][] pathSum(TreeNode root, int targetSum) {\n    // write your code here\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement pathSum\n};\n"
+  }
+}

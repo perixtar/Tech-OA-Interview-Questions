@@ -1,0 +1,83 @@
+{
+  "id": "roblox-rate-limiter-sliding-window-per-entity",
+  "title": "Rate Limiter Sliding Window With Per-Entity Limits",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->The judged task is backed by nine earlier author-written Roblox interview reports and a Sep 2, 2026 source slide. The slide directly supports simultaneous per-user and per-experience limits, one shared cap, accepted-only accounting, and exclusion of denied requests. It omits the exact window-endpoint convention, so the practice uses (t - windowLength, t]; its boolean result is represented as 1/0 integers by the runner. The judged task matches the available source at about 95%.</p></aside><div class=\"fp-prose2\"><p>You are given a stream of requests in chronological order. Each request has a timestamp, a user id, and an experience id.</p><p>A request is accepted only when both of these limits still have capacity:</p><ul><li>the number of accepted requests for the same user inside the active sliding window</li><li>the number of accepted requests for the same experience inside the active sliding window</li></ul><p>Only accepted requests count toward future capacity. Denied requests are not stored. For a request at timestamp <code>t</code>, the active window is <code>(t - windowLength, t]</code>, so accepted requests at timestamps less than or equal to <code>t - windowLength</code> are expired before checking the new request.</p><p>Return an integer array where <code>1</code> means the corresponding request is accepted and <code>0</code> means it is denied.</p></div></div>",
+  "statementText": "Problem statement Source note: The judged task is backed by nine earlier author-written Roblox interview reports and a Sep 2, 2026 source slide. The slide directly supports simultaneous per-user and per-experience limits, one shared cap, accepted-only accounting, and exclusion of denied requests. It omits the exact window-endpoint convention, so the practice uses (t - windowLength, t]; its boolean result is represented as 1/0 integers by the runner. The judged task matches the available source at about 95%. You are given a stream of requests in chronological order. Each request has a timestamp, a user id, and an experience id. A request is accepted only when both of these limits still have capacity: the number of accepted requests for the same user inside the active sliding window the number of accepted requests for the same experience inside the active sliding window Only accepted requests count toward future capacity. Denied requests are not stored. For a request at timestamp t , the active window is (t - windowLength, t] , so accepted requests at timestamps less than or equal to t - windowLength are expired before checking the new request. Return an integer array where 1 means the corresponding request is accepted and 0 means it is denied.",
+  "functionName": "rateLimiter",
+  "signature": "rateLimiter(requestTimestamps: int[], userIds: int[], experienceIds: String[], windowLength: int, maxRequests: int) → int[]",
+  "parameters": [
+    {
+      "name": "requestTimestamps",
+      "type": "int[]"
+    },
+    {
+      "name": "userIds",
+      "type": "int[]"
+    },
+    {
+      "name": "experienceIds",
+      "type": "String[]"
+    },
+    {
+      "name": "windowLength",
+      "type": "int"
+    },
+    {
+      "name": "maxRequests",
+      "type": "int"
+    }
+  ],
+  "returnType": "int[]",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "requestTimestamps = [1, 2, 3, 4, 5]\nuserIds = [1, 1, 2, 1, 2]\nexperienceIds = [\"A\", \"A\", \"A\", \"A\", \"B\"]\nwindowLength = 3\nmaxRequests = 1",
+      "expectedRaw": "[1, 0, 0, 1, 1]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "requestTimestamps = [10, 11]\nuserIds = [1, 2]\nexperienceIds = [\"game-1\", \"game-1\"]\nwindowLength = 10\nmaxRequests = 1",
+      "expectedRaw": "[1, 0]",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "requestTimestamps = [1, 2, 3, 4]\nuserIds = [7, 7, 7, 7]\nexperienceIds = [\"A\", \"A\", \"A\", \"A\"]\nwindowLength = 3\nmaxRequests = 2",
+      "expectedRaw": "[1, 1, 0, 1]",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "requestTimestamps = [1, 2, 3, 4, 5]\nuserIds = [1, 1, 2, 1, 2]\nexperienceIds = [\"A\", \"A\", \"A\", \"A\", \"B\"]\nwindowLength = 3\nmaxRequests = 1",
+      "expectedRaw": "[1, 0, 0, 1, 1]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "requestTimestamps = [10, 11]\nuserIds = [1, 2]\nexperienceIds = [\"game-1\", \"game-1\"]\nwindowLength = 10\nmaxRequests = 1",
+      "expectedRaw": "[1, 0]",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "requestTimestamps = [1, 2, 3, 4]\nuserIds = [7, 7, 7, 7]\nexperienceIds = [\"A\", \"A\", \"A\", \"A\"]\nwindowLength = 3\nmaxRequests = 2",
+      "expectedRaw": "[1, 1, 0, 1]",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "requestTimestamps.length == userIds.length == experienceIds.length",
+    "requestTimestamps is sorted in nondecreasing order.",
+    "windowLength > 0",
+    "maxRequests > 0"
+  ],
+  "starterCodes": {
+    "python": "def rateLimiter(requestTimestamps, userIds, experienceIds, windowLength, maxRequests):\n    # Write your solution here\n    pass\n",
+    "javascript": "function rateLimiter(requestTimestamps, userIds, experienceIds, windowLength, maxRequests) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int[] rateLimiter(int[] requestTimestamps, int[] userIds, String[] experienceIds, int windowLength, int maxRequests) {\n  // write your code here\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement rateLimiter\n};\n"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "amazon-container-with-most-water",
+  "title": "Container With Most Water",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->The report names Container With Most Water and the two-pointer solution. The judged core task matches the visible source at about 99%; numeric bounds and judged examples are specified for practice.</p></aside><div class=\"fp-prose2\"><p>You are given an integer array <code>height</code> of length <code>n</code>. There are <code>n</code> vertical lines drawn such that the two endpoints of the <code>i</code>-th line are <code>(i, 0)</code> and <code>(i, height[i])</code>.</p><p>Find two lines that, together with the x-axis, form a container so that the container holds the most water.</p><p>Return the maximum amount of water a container can store.</p><p>You may not slant the container.</p></div></div>",
+  "statementText": "Problem statement Source note: The report names Container With Most Water and the two-pointer solution. The judged core task matches the visible source at about 99%; numeric bounds and judged examples are specified for practice. You are given an integer array height of length n . There are n vertical lines drawn such that the two endpoints of the i -th line are (i, 0) and (i, height[i]) . Find two lines that, together with the x-axis, form a container so that the container holds the most water. Return the maximum amount of water a container can store. You may not slant the container.",
+  "functionName": "maxArea",
+  "signature": "maxArea(height: int[]) → int",
+  "parameters": [
+    {
+      "name": "height",
+      "type": "int[]"
+    }
+  ],
+  "returnType": "int",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "height = [1,8,6,2,5,4,8,3,7]",
+      "expectedRaw": "49",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "height = [1,1]",
+      "expectedRaw": "1",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "height = [1,8,6,2,5,4,8,3,7]",
+      "expectedRaw": "49",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "height = [1,1]",
+      "expectedRaw": "1",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "2 <= height.length <= 10^5.",
+    "0 <= height[i] <= 10^4."
+  ],
+  "starterCodes": {
+    "python": "def maxArea(height):\n    # Write your solution here\n    pass\n",
+    "javascript": "function maxArea(height) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int maxArea(int[] height) {\n  // Write your code here.\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement maxArea\n};\n"
+  }
+}

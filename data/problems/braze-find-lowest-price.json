@@ -1,0 +1,45 @@
+{
+  "id": "braze-find-lowest-price",
+  "title": "Shopping Cart Billing 🌻",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><div class=\"fp-prose2\"><p>\n    An e-commerce company is currently celebrating ten years in business. They are having a sale to honor their privileged members, those who have been using their services for the past five years. They receive the best discounts indicated by any discount tags attached to the product. Determine the minimum cost to purchase all products listed. As each potential price is calculated, truncate it to its integer part before adding it to the total. Return the cost to purchase all items as an integer.\n    </p><p>\n    There are three types of discount tags:\n  \n      </p><ul><li>Type 0: discounted price, the item is sold for a given price.</li><li>Type 1: percentage discount, the customer is given a fixed percentage discount from the retail price.</li><li>Type 2: fixed discount, the customer is given a fixed amount off from the retail price.</li></ul></div></div>",
+  "statementText": "Problem statement An e-commerce company is currently celebrating ten years in business. They are having a sale to honor their privileged members, those who have been using their services for the past five years. They receive the best discounts indicated by any discount tags attached to the product. Determine the minimum cost to purchase all products listed. As each potential price is calculated, truncate it to its integer part before adding it to the total. Return the cost to purchase all items as an integer. There are three types of discount tags: Type 0: discounted price, the item is sold for a given price. Type 1: percentage discount, the customer is given a fixed percentage discount from the retail price. Type 2: fixed discount, the customer is given a fixed amount off from the retail price.",
+  "functionName": "findLowestPrice",
+  "signature": "findLowestPrice(products: String[][], discounts: String[][]) → int",
+  "parameters": [
+    {
+      "name": "products",
+      "type": "String[][]"
+    },
+    {
+      "name": "discounts",
+      "type": "String[][]"
+    }
+  ],
+  "returnType": "int",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "products = [[\"10\", \"d0\", \"d1\"], [\"15\", \"EMPTY\", \"EMPTY\"], [\"20\", \"d1\", \"EMPTY\"]]\ndiscounts = [[\"d0\",\"1\",\"27\"],[\"d1\", \"2\", \"5\"]]",
+      "expectedRaw": "35",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "products = [[\"10\", \"d0\", \"d1\"], [\"15\", \"EMPTY\", \"EMPTY\"], [\"20\", \"d1\", \"EMPTY\"]]\ndiscounts = [[\"d0\",\"1\",\"27\"],[\"d1\", \"2\", \"5\"]]",
+      "expectedRaw": "35",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "1 ≤ n, m, d ≤ 1000",
+    "tags are not unique"
+  ],
+  "starterCodes": {
+    "python": "def findLowestPrice(products, discounts):\n    # Write your solution here\n    pass\n",
+    "javascript": "function findLowestPrice(products, discounts) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int findLowestPrice(String[][] products, String[][] discounts) {\n    // write your code here\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement findLowestPrice\n};\n"
+  }
+}

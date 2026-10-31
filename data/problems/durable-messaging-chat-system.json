@@ -1,0 +1,26 @@
+{
+  "id": "durable-messaging-chat-system",
+  "title": "Preparing your design workspace",
+  "statementHtml": "<p>Problem statement not available.</p>",
+  "statementText": "Problem statement not available.",
+  "functionName": "solve",
+  "signature": "solve() -> any",
+  "parameters": [],
+  "returnType": "any",
+  "examples": [],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "input = []",
+      "expectedRaw": "0",
+      "explanation": "Sample test case"
+    }
+  ],
+  "constraints": [],
+  "starterCodes": {
+    "python": "def solve():\n    # Write your solution here\n    pass\n",
+    "javascript": "function solve() {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int solve() {\n        return 0;\n    }\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement solve\n};\n"
+  }
+}

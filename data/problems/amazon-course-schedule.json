@@ -1,0 +1,54 @@
+{
+  "id": "amazon-course-schedule",
+  "title": "Course Schedule",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->This problem is backed by a real Amazon onsite interview report. The report named Course Schedule and discussed graph modeling, topological sorting, and cycle detection, but it did not say whether the requested result was feasibility or an ordering and did not include a function interface, examples, or constraints. This judged version uses the feasibility form, so the core task match is about 85%.</p></aside><div class=\"fp-prose2\"><p>There are <code>numCourses</code> courses labeled from <code>0</code> to <code>numCourses - 1</code>. Each pair <code>[course, prerequisite]</code> means the prerequisite must be completed before the course.</p><p>Return <code>true</code> if all courses can be completed, or <code>false</code> if the prerequisite graph contains a cycle.</p><h3>Interview Follow-up</h3><p>The interviewer asked follow-up questions about alternative solutions, edge cases, and complexity analysis.</p></div></div>",
+  "statementText": "Problem statement Source note: This problem is backed by a real Amazon onsite interview report. The report named Course Schedule and discussed graph modeling, topological sorting, and cycle detection, but it did not say whether the requested result was feasibility or an ordering and did not include a function interface, examples, or constraints. This judged version uses the feasibility form, so the core task match is about 85%. There are numCourses courses labeled from 0 to numCourses - 1 . Each pair [course, prerequisite] means the prerequisite must be completed before the course. Return true if all courses can be completed, or false if the prerequisite graph contains a cycle. Interview Follow-up The interviewer asked follow-up questions about alternative solutions, edge cases, and complexity analysis.",
+  "functionName": "canFinish",
+  "signature": "canFinish(numCourses: int, prerequisites: int[][]) → boolean",
+  "parameters": [
+    {
+      "name": "numCourses",
+      "type": "int"
+    },
+    {
+      "name": "prerequisites",
+      "type": "int[][]"
+    }
+  ],
+  "returnType": "boolean",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "numCourses = 2\nprerequisites = [[1,0]]",
+      "expectedRaw": "true",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "numCourses = 2\nprerequisites = [[1,0],[0,1]]",
+      "expectedRaw": "false",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "numCourses = 2\nprerequisites = [[1,0]]",
+      "expectedRaw": "true",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "numCourses = 2\nprerequisites = [[1,0],[0,1]]",
+      "expectedRaw": "false",
+      "explanation": ""
+    }
+  ],
+  "constraints": [],
+  "starterCodes": {
+    "python": "def canFinish(numCourses, prerequisites):\n    # Write your solution here\n    pass\n",
+    "javascript": "function canFinish(numCourses, prerequisites) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public boolean canFinish(int numCourses, int[][] prerequisites) {\n  // write your code here\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement canFinish\n};\n"
+  }
+}

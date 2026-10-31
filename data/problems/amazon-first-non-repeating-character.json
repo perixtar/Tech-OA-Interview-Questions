@@ -1,0 +1,65 @@
+{
+  "id": "amazon-first-non-repeating-character",
+  "title": "First Non-Repeating Character",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->Reported in an Amazon new-grad onsite interview as finding the first non-repeating character. The source omits whether to return a character or index and gives no absent-result, character-domain, case, or size rule; this practice version returns the character, uses the empty string when absent, compares case-sensitive printable ASCII, and limits input length to 100,000. Problem match confidence: approximately 88%.</p></aside><div class=\"fp-prose2\"><p>Given a non-empty string <code>s</code>, return the first character whose total frequency in the string is exactly one.</p><p>If no such character exists, return the empty string. Character comparisons are case-sensitive.</p></div></div>",
+  "statementText": "Problem statement Source note: Reported in an Amazon new-grad onsite interview as finding the first non-repeating character. The source omits whether to return a character or index and gives no absent-result, character-domain, case, or size rule; this practice version returns the character, uses the empty string when absent, compares case-sensitive printable ASCII, and limits input length to 100,000. Problem match confidence: approximately 88%. Given a non-empty string s , return the first character whose total frequency in the string is exactly one. If no such character exists, return the empty string. Character comparisons are case-sensitive.",
+  "functionName": "firstNonRepeating",
+  "signature": "firstNonRepeating(s: String) → String",
+  "parameters": [
+    {
+      "name": "s",
+      "type": "String"
+    }
+  ],
+  "returnType": "String",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "s = \"swiss\"",
+      "expectedRaw": "\"w\"",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "s = \"aabbc\"",
+      "expectedRaw": "\"c\"",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "s = \"aabb\"",
+      "expectedRaw": "\"\"",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "s = \"swiss\"",
+      "expectedRaw": "\"w\"",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "s = \"aabbc\"",
+      "expectedRaw": "\"c\"",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "s = \"aabb\"",
+      "expectedRaw": "\"\"",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "1 <= s.length <= 100000.",
+    "s contains printable ASCII characters."
+  ],
+  "starterCodes": {
+    "python": "def firstNonRepeating(s):\n    # Write your solution here\n    pass\n",
+    "javascript": "function firstNonRepeating(s) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public String firstNonRepeating(String s) {\n    // write your code here\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement firstNonRepeating\n};\n"
+  }
+}

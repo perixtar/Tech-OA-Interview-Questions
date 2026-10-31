@@ -1,0 +1,65 @@
+{
+  "id": "amazon-reorganize-string",
+  "title": "Reorganize a String",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->The reported task allows any valid arrangement. This judged version adds a deterministic tie rule and matches the core task at about 94%.</p></aside><div class=\"fp-prose2\"><p>Rearrange a lowercase string so that no two adjacent characters are equal. If no such arrangement exists, return the empty string.</p><p>To make the judged result deterministic, construct the answer with this rule: at each position, select the eligible character with the greatest remaining frequency. The previously placed character is not eligible. If several eligible characters have the same frequency, select the lexicographically smallest one.</p></div></div>",
+  "statementText": "Problem statement Source note: The reported task allows any valid arrangement. This judged version adds a deterministic tie rule and matches the core task at about 94%. Rearrange a lowercase string so that no two adjacent characters are equal. If no such arrangement exists, return the empty string. To make the judged result deterministic, construct the answer with this rule: at each position, select the eligible character with the greatest remaining frequency. The previously placed character is not eligible. If several eligible characters have the same frequency, select the lexicographically smallest one.",
+  "functionName": "reorganizeString",
+  "signature": "reorganizeString(s: String) → String",
+  "parameters": [
+    {
+      "name": "s",
+      "type": "String"
+    }
+  ],
+  "returnType": "String",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "s = \"aab\"",
+      "expectedRaw": "\"aba\"",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "s = \"aaab\"",
+      "expectedRaw": "\"\"",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "s = \"aabbcc\"",
+      "expectedRaw": "\"abcabc\"",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "s = \"aab\"",
+      "expectedRaw": "\"aba\"",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "s = \"aaab\"",
+      "expectedRaw": "\"\"",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "s = \"aabbcc\"",
+      "expectedRaw": "\"abcabc\"",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "1 <= s.length <= 10^5",
+    "s contains only lowercase English letters."
+  ],
+  "starterCodes": {
+    "python": "def reorganizeString(s):\n    # Write your solution here\n    pass\n",
+    "javascript": "function reorganizeString(s) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public String reorganizeString(String s) {\n    // Write your solution here.\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement reorganizeString\n};\n"
+  }
+}

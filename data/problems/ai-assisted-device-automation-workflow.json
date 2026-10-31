@@ -1,0 +1,28 @@
+{
+  "v": 2,
+  "id": "ai-assisted-device-automation-workflow",
+  "hasSignature": false,
+  "title": "AI-Assisted Device Automation Workflow",
+  "statementHtml": "<p>Design a workflow that turns device observations into validated AI proposals and controlled hardware actions. Work through this guided system design…</p>",
+  "statementText": "Design a workflow that turns device observations into validated AI proposals and controlled hardware actions. Work through this guided system design…",
+  "functionName": "solve",
+  "signature": "solve() -> any",
+  "parameters": [],
+  "returnType": "any",
+  "examples": [],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "input = []",
+      "expectedRaw": "0",
+      "explanation": "Sample test case"
+    }
+  ],
+  "constraints": [],
+  "starterCodes": {
+    "python": "def solve():\n    # Write your solution here\n    pass\n",
+    "javascript": "function solve() {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int solve() {\n        return 0;\n    }\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement solve\n};\n"
+  }
+}

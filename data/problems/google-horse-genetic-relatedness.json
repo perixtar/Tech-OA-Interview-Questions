@@ -1,0 +1,96 @@
+{
+  "id": "google-horse-genetic-relatedness",
+  "title": "Determine Whether Two Horses Are Genetically Related",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->The source leaves the data representation and some edge rules open. The judged core task matches the visible source at about 90%.</p></aside><div class=\"fp-prose2\"><p>The International Horse Racing Committee maintains birth-certificate data for a collection of horses. Each record identifies a horse and, when known, its mother and father.</p><p>Each position <code>i</code> describes one horse:</p><ul><li><code>horseIds[i]</code> is the horse's identifier.</li><li><code>motherIds[i]</code> is its mother's identifier, or the empty string <code>\"\"</code> when the mother is unknown.</li><li><code>fatherIds[i]</code> is its father's identifier, or the empty string <code>\"\"</code> when the father is unknown.</li></ul><h3>Relationship rule</h3><p>For this exercise, assume every non-empty parent entry creates an undirected relationship edge between the horse and that parent. Two horses are genetically related when a path of one or more such parent-child edges connects them. A horse is also related to itself.</p><p>A non-empty parent identifier may refer to a horse that does not have its own record in <code>horseIds</code>.</p><h3>Required result</h3><p>Return <code>true</code> when <code>horseA</code> and <code>horseB</code> belong to the same connected component of this relationship graph. Otherwise, return <code>false</code>.</p></div></div>",
+  "statementText": "Problem statement Source note: The source leaves the data representation and some edge rules open. The judged core task matches the visible source at about 90%. The International Horse Racing Committee maintains birth-certificate data for a collection of horses. Each record identifies a horse and, when known, its mother and father. Each position i describes one horse: horseIds[i] is the horse's identifier. motherIds[i] is its mother's identifier, or the empty string \"\" when the mother is unknown. fatherIds[i] is its father's identifier, or the empty string \"\" when the father is unknown. Relationship rule For this exercise, assume every non-empty parent entry creates an undirected relationship edge between the horse and that parent. Two horses are genetically related when a path of one or more such parent-child edges connects them. A horse is also related to itself. A non-empty parent identifier may refer to a horse that does not have its own record in horseIds . Required result Return true when horseA and horseB belong to the same connected component of this relationship graph. Otherwise, return false .",
+  "functionName": "areHorsesRelated",
+  "signature": "areHorsesRelated(horseIds: String[], motherIds: String[], fatherIds: String[], horseA: String, horseB: String) → boolean",
+  "parameters": [
+    {
+      "name": "horseIds",
+      "type": "String[]"
+    },
+    {
+      "name": "motherIds",
+      "type": "String[]"
+    },
+    {
+      "name": "fatherIds",
+      "type": "String[]"
+    },
+    {
+      "name": "horseA",
+      "type": "String"
+    },
+    {
+      "name": "horseB",
+      "type": "String"
+    }
+  ],
+  "returnType": "boolean",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "horseIds = [\"Nova\",\"Comet\",\"Blaze\"]\nmotherIds = [\"\",\"Nova\",\"\"]\nfatherIds = [\"\",\"\",\"\"]\nhorseA = \"Nova\"\nhorseB = \"Comet\"",
+      "expectedRaw": "true",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "horseIds = [\"Atlas\",\"Bella\",\"Colt\"]\nmotherIds = [\"\",\"\",\"Atlas\"]\nfatherIds = [\"\",\"\",\"Bella\"]\nhorseA = \"Atlas\"\nhorseB = \"Bella\"",
+      "expectedRaw": "true",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "horseIds = [\"A\",\"B\",\"C\",\"D\"]\nmotherIds = [\"\",\"A\",\"\",\"C\"]\nfatherIds = [\"\",\"\",\"\",\"\"]\nhorseA = \"B\"\nhorseB = \"D\"",
+      "expectedRaw": "false",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "inputRaw": "horseIds = [\"Solo\"]\nmotherIds = [\"\"]\nfatherIds = [\"\"]\nhorseA = \"Solo\"\nhorseB = \"Solo\"",
+      "expectedRaw": "true",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "horseIds = [\"Nova\",\"Comet\",\"Blaze\"]\nmotherIds = [\"\",\"Nova\",\"\"]\nfatherIds = [\"\",\"\",\"\"]\nhorseA = \"Nova\"\nhorseB = \"Comet\"",
+      "expectedRaw": "true",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "horseIds = [\"Atlas\",\"Bella\",\"Colt\"]\nmotherIds = [\"\",\"\",\"Atlas\"]\nfatherIds = [\"\",\"\",\"Bella\"]\nhorseA = \"Atlas\"\nhorseB = \"Bella\"",
+      "expectedRaw": "true",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "horseIds = [\"A\",\"B\",\"C\",\"D\"]\nmotherIds = [\"\",\"A\",\"\",\"C\"]\nfatherIds = [\"\",\"\",\"\",\"\"]\nhorseA = \"B\"\nhorseB = \"D\"",
+      "expectedRaw": "false",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "inputRaw": "horseIds = [\"Solo\"]\nmotherIds = [\"\"]\nfatherIds = [\"\"]\nhorseA = \"Solo\"\nhorseB = \"Solo\"",
+      "expectedRaw": "true",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "1 <= horseIds.length <= 100,000.",
+    "motherIds.length == horseIds.length and fatherIds.length == horseIds.length.",
+    "Every value in horseIds is a unique, non-empty identifier with length from 1 to 50.",
+    "Every value in motherIds and fatherIds is either the empty string or an identifier with length from 1 to 50.",
+    "horseA and horseB both appear in horseIds."
+  ],
+  "starterCodes": {
+    "python": "def areHorsesRelated(horseIds, motherIds, fatherIds, horseA, horseB):\n    # Write your solution here\n    pass\n",
+    "javascript": "function areHorsesRelated(horseIds, motherIds, fatherIds, horseA, horseB) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public boolean areHorsesRelated(String[] horseIds, String[] motherIds, String[] fatherIds, String horseA, String horseB) {\n    // write your code here\n\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement areHorsesRelated\n};\n"
+  }
+}

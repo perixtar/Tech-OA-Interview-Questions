@@ -1,0 +1,54 @@
+{
+  "id": "uber-first-unique-ip-hitting-server",
+  "title": "First Unique IP Hitting the Server",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><div class=\"fp-prose2\"><p>Your server receives a stream of IP hit events. Design a data structure that supports two operations:</p><ul><li><code>ADD ip</code>: record one hit from <code>ip</code></li><li><code>FIRST_UNIQUE</code>: return the earliest IP address that has appeared exactly once so far, or an empty string if none exists</li></ul><p>Process all commands in order and return the outputs produced by the <code>FIRST_UNIQUE</code> commands.</p></div></div>",
+  "statementText": "Problem statement Your server receives a stream of IP hit events. Design a data structure that supports two operations: ADD ip : record one hit from ip FIRST_UNIQUE : return the earliest IP address that has appeared exactly once so far, or an empty string if none exists Process all commands in order and return the outputs produced by the FIRST_UNIQUE commands.",
+  "functionName": "processFirstUniqueIpCommands",
+  "signature": "processFirstUniqueIpCommands(commands: String[]) → String[]",
+  "parameters": [
+    {
+      "name": "commands",
+      "type": "String[]"
+    }
+  ],
+  "returnType": "String[]",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "commands = [\"ADD 1.1.1.1\", \"ADD 2.2.2.2\", \"ADD 1.1.1.1\", \"FIRST_UNIQUE\"]",
+      "expectedRaw": "[\"2.2.2.2\"]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "commands = [\"ADD 1.1.1.1\", \"ADD 2.2.2.2\", \"ADD 1.1.1.1\", \"ADD 3.3.3.3\", \"FIRST_UNIQUE\", \"ADD 2.2.2.2\", \"FIRST_UNIQUE\"]",
+      "expectedRaw": "[\"2.2.2.2\", \"3.3.3.3\"]",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "commands = [\"ADD 1.1.1.1\", \"ADD 2.2.2.2\", \"ADD 1.1.1.1\", \"FIRST_UNIQUE\"]",
+      "expectedRaw": "[\"2.2.2.2\"]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "commands = [\"ADD 1.1.1.1\", \"ADD 2.2.2.2\", \"ADD 1.1.1.1\", \"ADD 3.3.3.3\", \"FIRST_UNIQUE\", \"ADD 2.2.2.2\", \"FIRST_UNIQUE\"]",
+      "expectedRaw": "[\"2.2.2.2\", \"3.3.3.3\"]",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "The total number of events can be as large as 10^7.",
+    "The number of distinct IPs can be as large as 10^6.",
+    "IP strings should be treated as opaque strings; validation is not required."
+  ],
+  "starterCodes": {
+    "python": "def processFirstUniqueIpCommands(commands):\n    # Write your solution here\n    pass\n",
+    "javascript": "function processFirstUniqueIpCommands(commands) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public String[] processFirstUniqueIpCommands(String[] commands) {\n    // write your code here\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement processFirstUniqueIpCommands\n};\n"
+  }
+}

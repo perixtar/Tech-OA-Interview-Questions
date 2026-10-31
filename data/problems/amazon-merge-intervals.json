@@ -1,0 +1,66 @@
+{
+  "id": "amazon-merge-intervals",
+  "title": "Merge Intervals",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><div class=\"fp-prose2\"><p>Given an array of closed intervals where <code>intervals[i] = [start_i, end_i]</code>, merge every pair of overlapping intervals.</p><p>Return the non-overlapping intervals that cover every interval in the input, sorted by start time. Intervals that share an endpoint are considered overlapping.</p></div></div>",
+  "statementText": "Problem statement Given an array of closed intervals where intervals[i] = [start_i, end_i] , merge every pair of overlapping intervals. Return the non-overlapping intervals that cover every interval in the input, sorted by start time. Intervals that share an endpoint are considered overlapping.",
+  "functionName": "merge",
+  "signature": "merge(intervals: int[][]) → int[][]",
+  "parameters": [
+    {
+      "name": "intervals",
+      "type": "int[][]"
+    }
+  ],
+  "returnType": "int[][]",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "intervals = [[1,3],[2,6],[8,10],[15,18]]",
+      "expectedRaw": "[[1,6],[8,10],[15,18]]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "intervals = [[1,4],[4,5]]",
+      "expectedRaw": "[[1,5]]",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "intervals = [[8,10],[1,4],[2,3],[15,18],[6,9],[3,7],[17,20],[12,12]]",
+      "expectedRaw": "[[1,10],[12,12],[15,20]]",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "intervals = [[1,3],[2,6],[8,10],[15,18]]",
+      "expectedRaw": "[[1,6],[8,10],[15,18]]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "intervals = [[1,4],[4,5]]",
+      "expectedRaw": "[[1,5]]",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "intervals = [[8,10],[1,4],[2,3],[15,18],[6,9],[3,7],[17,20],[12,12]]",
+      "expectedRaw": "[[1,10],[12,12],[15,20]]",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "1 <= intervals.length <= 10^4",
+    "intervals[i].length == 2",
+    "0 <= start_i <= end_i <= 10^4"
+  ],
+  "starterCodes": {
+    "python": "def merge(intervals):\n    # Write your solution here\n    pass\n",
+    "javascript": "function merge(intervals) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int[][] merge(int[][] intervals) {\n  // write your code here\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement merge\n};\n"
+  }
+}
