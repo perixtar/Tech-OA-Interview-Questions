@@ -5,8 +5,12 @@ export interface TestCase {
   explanation?: string;
 }
 
+export const EXTRACTOR_VERSION = 2;
+
 export interface ProblemDetail {
+  v: number;
   id: string;
+  hasSignature: boolean;
   title: string;
   company?: string;
   format?: string;
@@ -30,23 +34,59 @@ export interface ProblemDetail {
 function decodeEntities(str: string): string {
   return str
     .replace(/&quot;/g, '"')
-    .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&le;/g, '<=')
     .replace(/&ge;/g, '>=')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, ' ');
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(parseInt(dec, 10)))
+    .replace(/&amp;/g, '&');
+}
+
+function metaContent(html: string, key: string): string {
+  const m = html.match(new RegExp(`<meta (?:name|property)="${key}" content="([^"]*)"`));
+  return m ? decodeEntities(m[1]).trim() : '';
+}
+
+function escapeHtml(str: string): string {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+// Splits on commas that are not nested inside <...>, [...] or (...).
+function splitTopLevel(str: string): string[] {
+  const parts: string[] = [];
+  let depth = 0;
+  let start = 0;
+  for (let i = 0; i < str.length; i++) {
+    const c = str[i];
+    if ('<[('.includes(c)) depth++;
+    else if ('>])'.includes(c)) depth--;
+    else if (c === ',' && depth === 0) {
+      parts.push(str.slice(start, i));
+      start = i + 1;
+    }
+  }
+  parts.push(str.slice(start));
+  return parts.map(p => p.trim()).filter(Boolean);
 }
 
 export function parseProblemHtml(id: string, html: string): ProblemDetail {
-  // Title
+  // Title: client-rendered pages (system design) ship a placeholder <h1>, so prefer og:title there.
   const titleMatch = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/);
-  const title = titleMatch ? decodeEntities(titleMatch[1].replace(/<[^>]+>/g, '').trim()) : id;
+  let title = titleMatch ? decodeEntities(titleMatch[1].replace(/<[^>]+>/g, '').trim()) : '';
+  if (!title || /^preparing your/i.test(title)) {
+    title = metaContent(html, 'og:title').replace(/\s+[—-]\s+.*Practice$/, '') || id;
+  }
 
-  // Statement
+  // Statement HTML stays entity-encoded; the browser decodes it when rendering.
   const statementMatch = html.match(/<section class="fp-statement-section"[^>]*>([\s\S]*?)<\/section>/);
-  const statementHtml = statementMatch ? decodeEntities(statementMatch[1].trim()) : '<p>Problem statement not available.</p>';
+  const description = metaContent(html, 'description');
+  const statementHtml = statementMatch
+    ? statementMatch[1].trim()
+    : description && !/^FastPrep helps/i.test(description)
+      ? `<p>${escapeHtml(description)}</p>`
+      : '';
   const statementText = decodeEntities(statementHtml.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim());
 
   // Function signature
@@ -58,15 +98,14 @@ export function parseProblemHtml(id: string, html: string): ProblemDetail {
 
   if (funcMatch) {
     signatureRaw = decodeEntities(funcMatch[1].replace(/<[^>]+>/g, '').trim());
-    const sigParse = signatureRaw.match(/([a-zA-Z0-9_]+)\s*\((.*?)\)\s*(?:→|->)\s*([a-zA-Z0-9_\[\]]+)/);
+    const sigParse = signatureRaw.match(/([a-zA-Z0-9_]+)\s*\((.*)\)\s*(?:→|->)\s*(.+)$/);
     if (sigParse) {
       functionName = sigParse[1].trim();
       const paramsStr = sigParse[2].trim();
       returnType = sigParse[3].trim();
 
       if (paramsStr) {
-        const paramParts = paramsStr.split(',');
-        for (const part of paramParts) {
+        for (const part of splitTopLevel(paramsStr)) {
           const colonIdx = part.indexOf(':');
           if (colonIdx !== -1) {
             parameters.push({
@@ -156,7 +195,9 @@ export function parseProblemHtml(id: string, html: string): ProblemDetail {
   const cppStarter = `#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement ${functionName}\n};\n`;
 
   return {
+    v: EXTRACTOR_VERSION,
     id,
+    hasSignature: Boolean(funcMatch),
     title,
     statementHtml,
     statementText,

@@ -1,0 +1,34 @@
+name: Pull upstream question bank
+
+# Keeps this fork's default branch merged with perixtar/Tech-OA-Interview-Questions,
+# the same as clicking "Sync fork" on GitHub. The practice app also pulls the
+# question bank on its own every 30 minutes, so this is only about the repo itself.
+#
+# GitHub's token can't push changes to .github/workflows. If upstream ever edits a
+# workflow file this job fails; add a personal access token with the `workflow`
+# scope as the SYNC_TOKEN secret to cover that case.
+
+on:
+  schedule:
+    - cron: "41 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: false
+
+jobs:
+  merge-upstream:
+    if: github.repository != 'perixtar/Tech-OA-Interview-Questions'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge upstream into ${{ github.event.repository.default_branch }}
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_TOKEN || github.token }}
+          BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          gh api --method POST "repos/${GITHUB_REPOSITORY}/merge-upstream" -f branch="$BRANCH" \
+            --jq '"\(.merge_type): \(.message)"'

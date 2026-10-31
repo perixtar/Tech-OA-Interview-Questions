@@ -4,6 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "bun run src/server.ts",
+    "start": "bun run src/server.ts",
+    "sync": "bun run src/questions.ts",
     "test": "bun test",
     "precache": "bun run scripts/cache-top-problems.ts"
   },

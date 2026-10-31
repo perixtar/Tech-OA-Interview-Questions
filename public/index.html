@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <script>try{document.querySelector('meta[name="color-scheme"]').content=localStorage.getItem('oa_color_scheme')||'light dark'}catch(e){}</script>
+  <title>OA Prep</title>
+  <meta name="description" content="Practice recent tech online-assessment and interview questions, run code in the browser, and log your progress to Google Sheets.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
+  <div id="app" class="app">
+    <div class="boot"><span class="spinner" aria-hidden="true"></span>Loading problems…</div>
+  </div>
+
+  <dialog id="settings-dialog" class="dialog" aria-labelledby="settings-title" closedby="any">
+    <form method="dialog" class="dlg">
+      <header class="dlg-head">
+        <h2 id="settings-title">Settings</h2>
+        <button type="submit" value="close" class="icon-btn" aria-label="Close settings" formnovalidate>
+          <svg class="icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </header>
+
+      <section class="dlg-section" aria-labelledby="sheet-heading">
+        <h3 id="sheet-heading">Google Sheets</h3>
+        <p class="muted">When you solve a problem, its title, company, pattern, time, quality, date and notes are written to your sheet as one row. Re-solving updates the same row.</p>
+        <p class="status-line" id="sheet-status"></p>
+        <div class="field">
+          <label for="sheet-url">Apps Script web app URL</label>
+          <input id="sheet-url" type="url" inputmode="url" autocomplete="off" spellcheck="false">
+          <p class="hint">Leave this empty to use the URL in the server’s <code>.env</code>. Setup steps are at the top of <code>scripts/google-sheets-apps-script.js</code>.</p>
+        </div>
+        <label class="switch-row">
+          <input type="checkbox" id="auto-log" class="switch" role="switch">
+          <span>Log to the sheet automatically when I solve a problem</span>
+        </label>
+        <div class="btn-row">
+          <button type="button" class="btn" id="sheet-save">Save URL</button>
+          <button type="button" class="btn ghost" id="sheet-test">Test connection</button>
+          <button type="button" class="btn ghost" id="sheet-sync-all">Sync all solved</button>
+        </div>
+      </section>
+
+      <section class="dlg-section" aria-labelledby="bank-heading">
+        <h3 id="bank-heading">Question bank</h3>
+        <p class="muted">New problems are pulled automatically from <a id="bank-link" href="https://github.com/perixtar/Tech-OA-Interview-Questions" target="_blank" rel="noopener noreferrer"><span id="bank-source">perixtar/Tech-OA-Interview-Questions</span></a>.</p>
+        <p class="status-line" id="bank-status"></p>
+        <div class="btn-row">
+          <button type="button" class="btn ghost" id="bank-sync">Pull now</button>
+        </div>
+      </section>
+
+      <section class="dlg-section" aria-labelledby="look-heading">
+        <h3 id="look-heading">Appearance</h3>
+        <div class="setting-row">
+          <span id="theme-label">Theme</span>
+          <div class="segmented" role="radiogroup" aria-labelledby="theme-label">
+            <label><input type="radio" name="theme" value="light dark"><span>System</span></label>
+            <label><input type="radio" name="theme" value="light"><span>Light</span></label>
+            <label><input type="radio" name="theme" value="dark"><span>Dark</span></label>
+          </div>
+        </div>
+        <div class="setting-row">
+          <label for="font-size">Editor font size</label>
+          <select id="font-size">
+            <option value="12">12 px</option>
+            <option value="13">13 px</option>
+            <option value="14">14 px</option>
+            <option value="15">15 px</option>
+            <option value="16">16 px</option>
+            <option value="18">18 px</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="dlg-section" aria-labelledby="exec-heading">
+        <h3 id="exec-heading">Where your code runs</h3>
+        <ul class="exec-list">
+          <li><strong>JavaScript</strong> runs in a Web Worker in this tab.</li>
+          <li><strong>Python</strong> runs in this tab on Pyodide (CPython compiled to WebAssembly), downloaded once from jsDelivr.</li>
+          <li><strong>C++ and Java</strong> are sent to <a href="https://wandbox.org" target="_blank" rel="noopener noreferrer">wandbox.org</a>, a public compiler service, to compile and run.</li>
+        </ul>
+      </section>
+    </form>
+  </dialog>
+
+  <dialog id="solve-dialog" class="dialog" aria-labelledby="solve-title" closedby="any">
+    <form method="dialog" class="dlg" id="solve-form">
+      <header class="dlg-head">
+        <div>
+          <p class="eyebrow" id="solve-eyebrow">Accepted</p>
+          <h2 id="solve-title">Log this solve</h2>
+          <p class="muted" id="solve-problem"></p>
+        </div>
+        <button type="submit" value="" class="icon-btn" aria-label="Close" formnovalidate>
+          <svg class="icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </header>
+      <div id="solve-fields"></div>
+      <footer class="dlg-foot">
+        <button type="submit" value="cancel" class="btn ghost" formnovalidate>Not now</button>
+        <button type="submit" value="save" class="btn btn-primary" id="solve-save">Save</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <datalist id="pattern-list">
+    <option value="Arrays & Hashing"></option>
+    <option value="Two Pointers"></option>
+    <option value="Sliding Window"></option>
+    <option value="Stack"></option>
+    <option value="Binary Search"></option>
+    <option value="Linked List"></option>
+    <option value="Trees"></option>
+    <option value="Tries"></option>
+    <option value="Heap / Priority Queue"></option>
+    <option value="Backtracking"></option>
+    <option value="Graphs"></option>
+    <option value="BFS"></option>
+    <option value="DFS"></option>
+    <option value="Union Find"></option>
+    <option value="Dynamic Programming"></option>
+    <option value="Greedy"></option>
+    <option value="Intervals"></option>
+    <option value="Prefix Sum"></option>
+    <option value="Math & Geometry"></option>
+    <option value="Bit Manipulation"></option>
+    <option value="Simulation"></option>
+    <option value="Design"></option>
+    <option value="String Parsing"></option>
+    <option value="Sorting"></option>
+  </datalist>
+
+  <div id="toasts" class="toasts" popover="manual" aria-live="polite"></div>
+
+  <script src="/vendor/ace/ace.js"></script>
+  <script src="/vendor/ace/ext-language_tools.js"></script>
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>
