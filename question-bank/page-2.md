@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**FlexTrade**|[Diagnose Memory Growth in a Long-Running Process](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|Sep 11, 2026|
 |**Goldman Sachs**|[Minimum Distinct Prefix Cost](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Sep 11, 2026|
 |**Wayfair**|[Design a Rental Product Circulation Domain](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Sep 11, 2026|
 |**Charta Health**|[Concurrent Token-Bucket Rate Limiter](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Sep 11, 2026|
@@ -1635,7 +1636,6 @@
 |**Google**|[Count Subsequences Without Three Equal-Parity Elements in a Row](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|Jul 05, 2025|
 |**Notion**|[JSON Block Tree Operations](https://www.fastprep.io/problems/notion-json-block-tree-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-json-block-tree-operations)|Jul 05, 2025|
 |**EvenUp**|[Wordle Feedback](https://www.fastprep.io/problems/evenup-wordle-feedback)|Coding|[![Practice][p]](https://www.fastprep.io/problems/evenup-wordle-feedback)|Jul 04, 2025|
-|**Google**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|Jul 03, 2025|
 |**Meta**|[Signed Digit Partitions Reaching a Target](https://www.fastprep.io/problems/meta-signed-digit-partition-expressions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-signed-digit-partition-expressions)|Jul 03, 2025|
 |**Meta**|[Sliding Window Average (Meta Canada, E4/E5 :)](https://www.fastprep.io/problems/meta-sliding-window-average)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-sliding-window-average)|Jul 03, 2025|
 |**Meta**|[Add Decimal Strings Exactly](https://www.fastprep.io/problems/meta-exact-decimal-string-addition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-exact-decimal-string-addition)|Jul 03, 2025|
