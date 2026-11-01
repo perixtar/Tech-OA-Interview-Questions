@@ -9,6 +9,22 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Sep 12, 2026|
+|**Google / Microsoft**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Sep 12, 2026|
+|**ByteDance**|[Design an Advertiser Campaign Configuration Platform](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|Sep 12, 2026|
+|**Bobyard**|[Design an Asynchronous Random Image Generation Service](https://www.fastprep.io/system-design/asynchronous-random-image-generation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-random-image-generation-service)|Sep 12, 2026|
+|**Amazon**|[Word Search II](https://www.fastprep.io/problems/amazon-word-search-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-search-ii)|Sep 12, 2026|
+|**Amazon**|[Interleaving String](https://www.fastprep.io/problems/amazon-interleaving-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-interleaving-string)|Sep 12, 2026|
+|**Amazon**|[Dynamic Prefix Search Collection](https://www.fastprep.io/problems/amazon-prefix-search-collection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-prefix-search-collection)|Sep 12, 2026|
+|**Google**|[Read-Optimized Duplicate Windows](https://www.fastprep.io/problems/google-read-optimized-window-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-read-optimized-window-duplicates)|Sep 12, 2026|
+|**LinkedIn**|[Max Stack](https://www.fastprep.io/problems/linkedin-max-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-max-stack)|Sep 12, 2026|
+|**Optiver**|[Design and Implement an In-Memory Order Book](https://www.fastprep.io/low-level-design/in-memory-order-book)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-order-book)|Sep 12, 2026|
+|**The D.E. Shaw Group**|[Design a Ride-Hailing Class Model](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|Sep 11, 2026|
+|**FlexTrade**|[Extract Error Log Context](https://www.fastprep.io/problems/flextrade-extract-error-log-context)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-extract-error-log-context)|Sep 11, 2026|
+|**Blinkit**|[LRU Cache](https://www.fastprep.io/problems/blinkit-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blinkit-lru-cache)|Sep 11, 2026|
+|**Blinkit**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/blinkit-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blinkit-search-in-rotated-sorted-array)|Sep 11, 2026|
+|**Brex**|[Concurrent Discounted Card Purchases](https://www.fastprep.io/problems/brex-concurrent-discounted-card-purchases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/brex-concurrent-discounted-card-purchases)|Sep 11, 2026|
+|**The D. E. Shaw Group**|[Decode Ways](https://www.fastprep.io/problems/de-shaw-decode-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-decode-ways)|Sep 11, 2026|
 |**The D. E. Shaw Group**|[Remove K Digits](https://www.fastprep.io/problems/de-shaw-remove-k-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-remove-k-digits)|Sep 11, 2026|
 |**Kickdrum**|[Students and Instructors for Database Systems](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|SQL|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|Sep 11, 2026|
 |**Kickdrum**|[Undo/Redo Timeline State Engine](https://www.fastprep.io/problems/kickdrum-undo-redo-timeline-state-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-undo-redo-timeline-state-engine)|Sep 11, 2026|
@@ -1740,20 +1756,4 @@
 |**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
 |**Dell**|[Optimizing Resource Allocation](https://www.fastprep.io/problems/dell-find-optimal-resources)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-find-optimal-resources)|May 25, 2025|
 |**Dell**|[Count Binary Substrings](https://www.fastprep.io/problems/dell-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-get-substring-count)|May 25, 2025|
-|**Epify**|[Request Redirection](https://www.fastprep.io/problems/epifi-get-min-latency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epifi-get-min-latency)|May 25, 2025|
-|**Juspay**|[Converging Maze: Largest Sum Cycle](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|May 25, 2025|
-|**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
-|**Google**|[Design Personalized Private Email Search](https://www.fastprep.io/system-design/personalized-private-email-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-private-email-search)|May 23, 2025|
-|**Apple**|[Implement k-Nearest Neighbors](https://www.fastprep.io/problems/apple-knn-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-knn-classifier)|May 21, 2025|
-|**Apple**|[Implement Circular Padding](https://www.fastprep.io/problems/apple-circular-padding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-circular-padding)|May 21, 2025|
-|**Meta**|[Multi-Datacenter Kernel Upgrade Pipeline](https://www.fastprep.io/system-design/multi-datacenter-kernel-upgrade-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-datacenter-kernel-upgrade-pipeline)|May 20, 2025|
-|**Meta**|[Rank Bipedal Dinosaurs by Speed](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|May 20, 2025|
-|**Meta**|[Valid Palindrome](https://www.fastprep.io/problems/meta-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-palindrome)|May 20, 2025|
-|**Postman**|[Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model)|May 15, 2025|
-|**Postman**|[Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application)|May 15, 2025|
-|**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
-|**Scale AI**|[Design a Third-Party LLM Batch Job Orchestrator](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|May 12, 2025|
-|**Temporal**|[Delayed Task Executor Ordering](https://www.fastprep.io/problems/temporal-delayed-task-executor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-delayed-task-executor)|May 09, 2025|
-|**Scale AI**|[Design an LLM-Assisted Contributor Work Evaluation System](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|May 09, 2025|
-|**Shopify**|[Longest Increasing Subsequence](https://www.fastprep.io/problems/shopify-longest-increasing-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-longest-increasing-subsequence)|May 05, 2025|
 <a id="bottom"></a>
