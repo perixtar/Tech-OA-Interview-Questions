@@ -2,12 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,109 questions**
+**4,117 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**OpenAI**|[DSA Round: Maximum Score Grid Path](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|[![Practice][p]](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Jul 08, 2026|
+|**Amazon**|[Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date)|[![Practice][p]](https://www.fastprep.io/problems/amazon-closest-version-date)|Jul 08, 2026|
+|**Amazon**|[Maximum Concurrent Processes (Bar Raiser Round)](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Jul 08, 2026|
+|**Amazon**|[Package Dependency Order](https://www.fastprep.io/problems/amazon-package-dependency-order)|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-dependency-order)|Jul 08, 2026|
+|**Scale AI**|[Task Scheduler with Dependencies](https://www.fastprep.io/problems/scale-ai-task-scheduler-with-dependencies)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-scheduler-with-dependencies)|Jul 08, 2026|
+|**Salesforce**|[ATM Queue Exit Order](https://www.fastprep.io/problems/salesforce-atm-queue)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-atm-queue)|Jul 08, 2026|
+|**Salesforce**|[Good Ways to Split an Array](https://www.fastprep.io/problems/salesforce-good-ways-to-split-array)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-good-ways-to-split-array)|Jul 08, 2026|
+|**Salesforce**|[Generate Seen Binary Strings](https://www.fastprep.io/problems/salesforce-generate-seen-binary-strings)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-generate-seen-binary-strings)|Jul 08, 2026|
+|**Salesforce**|[Update Pod Counts From Logs](https://www.fastprep.io/problems/salesforce-update-pod-counts-from-logs)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-pod-counts-from-logs)|Jul 08, 2026|
 |**Agoda**|[Feasibility of Printing Within Given Days](https://www.fastprep.io/problems/agoda-printing-within-days)|[![Practice][p]](https://www.fastprep.io/problems/agoda-printing-within-days)|Jul 08, 2026|
 |**Agoda**|[Minimum Daily Printing Limit](https://www.fastprep.io/problems/agoda-minimum-daily-printing-limit)|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-daily-printing-limit)|Jul 08, 2026|
 |**Google**|[String Pattern Replacement](https://www.fastprep.io/problems/google-string-pattern-replacement)|[![Practice][p]](https://www.fastprep.io/problems/google-string-pattern-replacement)|Jul 08, 2026|
@@ -1932,12 +1941,4 @@
 |**ZipRecruiter**|[Count Circular Alternating Binary Windows](https://www.fastprep.io/problems/ziprecruiter-circular-alternating-windows)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-circular-alternating-windows)|Sep 30, 2022|
 |**ZipRecruiter**|[Center of the Largest Diagonal X](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Sep 30, 2022|
 |**ZipRecruiter**|[Rightmost Longest Character Run](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Sep 30, 2022|
-|**Bloomberg LP**|[Merge Multiple Sorted Streams](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Sep 26, 2022|
-|**Bloomberg LP**|[Populate Next Right Pointers](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Sep 26, 2022|
-|**ZipRecruiter**|[Longest Common File-System Path Prefix](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Sep 26, 2022|
-|**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
-|**ZipRecruiter**|[Sum All Ordered Decimal Concatenations](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Sep 24, 2022|
-|**Airbnb**|[Count Palindromic Substrings](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Sep 23, 2022|
-|**Duolingo**|[Rank Common Translation Mistakes](https://www.fastprep.io/problems/duolingo-counting-mistakes)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Sep 19, 2022|
-|**ZipRecruiter**|[Classify Reviews by Sentiment Word Occurrences](https://www.fastprep.io/problems/ziprecruiter-review-sentiment-occurrences)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-review-sentiment-occurrences)|Sep 19, 2022|
 <a id="bottom"></a>

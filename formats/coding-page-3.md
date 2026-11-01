@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,109 questions**
+**4,117 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Merge Multiple Sorted Streams](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Sep 26, 2022|
+|**Bloomberg LP**|[Populate Next Right Pointers](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Sep 26, 2022|
+|**ZipRecruiter**|[Longest Common File-System Path Prefix](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Sep 26, 2022|
+|**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
+|**ZipRecruiter**|[Sum All Ordered Decimal Concatenations](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Sep 24, 2022|
+|**Airbnb**|[Count Palindromic Substrings](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Sep 23, 2022|
+|**Duolingo**|[Rank Common Translation Mistakes](https://www.fastprep.io/problems/duolingo-counting-mistakes)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Sep 19, 2022|
+|**ZipRecruiter**|[Classify Reviews by Sentiment Word Occurrences](https://www.fastprep.io/problems/ziprecruiter-review-sentiment-occurrences)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-review-sentiment-occurrences)|Sep 19, 2022|
 |**ZipRecruiter**|[First Adjacent Same-Parity Pair](https://www.fastprep.io/problems/ziprecruiter-first-same-parity-adjacency)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-first-same-parity-adjacency)|Sep 18, 2022|
 |**ZipRecruiter**|[Maximum Common Decimal Prefix Across Arrays](https://www.fastprep.io/problems/ziprecruiter-maximum-common-decimal-prefix)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-maximum-common-decimal-prefix)|Sep 18, 2022|
 |**ZipRecruiter**|[Recursively Sum Identical Digit Runs](https://www.fastprep.io/problems/ziprecruiter-recursive-digit-run-sums)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-recursive-digit-run-sums)|Sep 16, 2022|
