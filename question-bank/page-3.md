@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Dell**|[Optimizing Resource Allocation](https://www.fastprep.io/problems/dell-find-optimal-resources)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-find-optimal-resources)|May 25, 2025|
+|**Dell**|[Count Binary Substrings](https://www.fastprep.io/problems/dell-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-get-substring-count)|May 25, 2025|
 |**Epify**|[Request Redirection](https://www.fastprep.io/problems/epifi-get-min-latency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epifi-get-min-latency)|May 25, 2025|
 |**Juspay**|[Converging Maze: Largest Sum Cycle](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|May 25, 2025|
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
