@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Apple**|[Validate Completed Sudoku](https://www.fastprep.io/problems/apple-validate-completed-sudoku)|[![Practice][p]](https://www.fastprep.io/problems/apple-validate-completed-sudoku)|Jul 08, 2026|
 |**Figma**|[Rich Text Parser Part 3 (Depth Tokens)](https://www.fastprep.io/problems/figma-rich-text-parser)|[![Practice][p]](https://www.fastprep.io/problems/figma-rich-text-parser)|Jul 08, 2026|
 |**Zomato / Eternal**|[Flipping Matrix](https://www.fastprep.io/problems/zomato-flipping-matrix)|[![Practice][p]](https://www.fastprep.io/problems/zomato-flipping-matrix)|Jul 08, 2026|
 |**Zomato / Eternal**|[Special Keyboard](https://www.fastprep.io/problems/zomato-special-keyboard)|[![Practice][p]](https://www.fastprep.io/problems/zomato-special-keyboard)|Jul 08, 2026|
@@ -1940,4 +1939,5 @@
 |**Cashfree Payments**|[Minimum Server Vulnerability](https://www.fastprep.io/problems/cashfree-minimum-server-vulnerability)|[![Practice][p]](https://www.fastprep.io/problems/cashfree-minimum-server-vulnerability)|Aug 24, 2022|
 |**Motive**|[Enumerate Grid Paths](https://www.fastprep.io/problems/motive-enumerate-grid-paths)|[![Practice][p]](https://www.fastprep.io/problems/motive-enumerate-grid-paths)|Aug 20, 2022|
 |**Bloomberg LP**|[All Paths From Source to Target](https://www.fastprep.io/problems/bloomberg-all-paths-from-source-to-target)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-paths-from-source-to-target)|Jul 28, 2022|
+|**Datadog**|[Build a Log Inverted Index](https://www.fastprep.io/problems/datadog-build-log-inverted-index)|[![Practice][p]](https://www.fastprep.io/problems/datadog-build-log-inverted-index)|Jul 28, 2022|
 <a id="bottom"></a>

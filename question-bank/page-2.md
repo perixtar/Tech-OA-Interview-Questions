@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**FlexTrade**|[Diagnose Memory Growth in a Long-Running Process](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|Sep 11, 2026|
 |**Goldman Sachs**|[Minimum Distinct Prefix Cost](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Sep 11, 2026|
 |**Wayfair**|[Design a Rental Product Circulation Domain](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/rental-product-circulation-domain)|Sep 11, 2026|
 |**Charta Health**|[Concurrent Token-Bucket Rate Limiter](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Sep 11, 2026|
@@ -1519,6 +1518,7 @@
 |**Maven Clinic**|[Configurable Valid Brackets](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Aug 28, 2025|
 |**Maven Clinic**|[Longest Valid Parentheses](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Aug 28, 2025|
 |**Maven Clinic**|[Meeting Rooms II](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Aug 28, 2025|
+|**Palantir**|[Design a Shared-Interest Connection App](https://www.fastprep.io/system-design/shared-interest-connection-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-interest-connection-app)|Aug 27, 2025|
 |**Apple**|[Binary Tree Zigzag Level Order](https://www.fastprep.io/problems/apple-binary-tree-zigzag-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-binary-tree-zigzag-level-order)|Aug 25, 2025|
 |**Apple**|[Middle of a Linked List](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Aug 25, 2025|
 |**Tennr**|[Top K Frequent Elements](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Aug 24, 2025|
