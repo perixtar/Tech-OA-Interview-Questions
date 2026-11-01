@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**91 questions**
+**92 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -69,6 +69,7 @@
 |**Wolverine Trading**|[Hedges Outperforming Their Trades](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades)|Aug 30, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|Aug 17, 2026|
 |**Capital One**|[Highest-Spend Advertisement](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement)|Aug 11, 2026|
+|**Deloitte**|[Second-Highest Distinct Salary](https://www.fastprep.io/problems/deloitte-second-highest-distinct-salary)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-second-highest-distinct-salary)|Jul 30, 2026|
 |**Wells Fargo**|[Overloaded Game Account Inventories](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|Jul 28, 2026|
 |**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
 |**Clickhouse**|[Top Three Sales per County and Year](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|[![Practice][p]](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|Jul 07, 2026|
