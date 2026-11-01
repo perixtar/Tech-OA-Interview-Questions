@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,109)](formats/coding.md) · [SQL (92)](formats/sql.md) · [System design (645)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (126)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,109)](formats/coding.md) · [SQL (92)](formats/sql.md) · [System design (646)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (126)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -40,6 +40,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Oct 31, 2026|
 |**DoorDash**|[Debug Two Routing Strategies](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Oct 31, 2026|
 |**Amazon / Meta / ByteDance / Harvey / Clio / Microsoft / Wayfair / Apple**|[Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage)|🔥 Oct 31, 2026|
+|**Apple**|[Design a Hardware Signal Sink to Object Storage](https://www.fastprep.io/system-design/hardware-signal-object-storage-sink)|System design|[![Practice][p]](https://www.fastprep.io/system-design/hardware-signal-object-storage-sink)|🔥 Oct 31, 2026|
 |**Microsoft**|[Totals from a Tiered Rate Table](https://www.fastprep.io/problems/microsoft-tiered-rate-totals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-tiered-rate-totals)|🔥 Oct 30, 2026|
 |**Microsoft**|[Coin Change](https://www.fastprep.io/problems/microsoft-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-coin-change)|🔥 Oct 30, 2026|
 |**Microsoft**|[Daily USD Totals with Effective-Dated Exchange Rates](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|SQL|[![Practice][p]](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|🔥 Oct 30, 2026|
@@ -52,6 +53,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**The D.E. Shaw Group**|[Design a Snakes and Ladders Game](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|🔥 Oct 30, 2026|
 |**The D.E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🔥 Oct 30, 2026|
 |**Zomato / Eternal / Amazon / Tekion / Motive / Capgemini / Booking.com**|[Design an Online Ordering Platform](https://www.fastprep.io/system-design/online-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-ordering-platform)|🔥 Oct 30, 2026|
+|**LinkedIn / Rippling**|[Design a Product Analytics System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|🔥 Oct 30, 2026|
+|**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Oct 30, 2026|
 |**Tower Research Capital**|[Maximum Signal Walk in a Server Tree](https://www.fastprep.io/problems/tower-research-capital-maximum-signal-walk-server-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tower-research-capital-maximum-signal-walk-server-tree)|🔥 Oct 29, 2026|
 |**Procol**|[Max Frequency Tracker](https://www.fastprep.io/problems/procol-max-frequency-tracker)|Coding|[![Practice][p]](https://www.fastprep.io/problems/procol-max-frequency-tracker)|🔥 Oct 29, 2026|
 |**Procol**|[Remove K Digits](https://www.fastprep.io/problems/procol-remove-k-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/procol-remove-k-digits)|🔥 Oct 29, 2026|
@@ -63,9 +66,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Oct 29, 2026|
 |**Databricks**|[Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform)|🔥 Oct 29, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Oct 29, 2026|
-|**LinkedIn / Rippling**|[Design a Recent User-Activity Query System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|🔥 Oct 29, 2026|
 |**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|🔥 Oct 29, 2026|
-|**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Oct 29, 2026|
 |**Citadel**|[Merge Single-Parent Jobs in an Async Job DAG](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|🔥 Oct 29, 2026|
 |**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Oct 29, 2026|
 |**Amazon**|[Are Two People Relatives in a Family Tree?](https://www.fastprep.io/problems/amazon-family-tree-relatives)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-family-tree-relatives)|🔥 Oct 28, 2026|
@@ -1687,5 +1688,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**FlexTrade**|[Design Fault Localization for a Large Function Graph](https://www.fastprep.io/system-design/fault-localization-for-large-function-graph)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fault-localization-for-large-function-graph)|Sep 11, 2026|
 |**FlexTrade**|[Diagnose a Three-Stage Data Pipeline Latency Regression](https://www.fastprep.io/system-design/three-stage-pipeline-latency-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-stage-pipeline-latency-diagnosis)|Sep 11, 2026|
 |**FlexTrade**|[Diagnose Memory Growth in a Long-Running Process](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|Sep 11, 2026|
-|**Goldman Sachs**|[Minimum Distinct Prefix Cost](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Sep 11, 2026|
 <a id="bottom"></a>
