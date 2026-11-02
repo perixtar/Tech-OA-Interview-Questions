@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,185 questions**
+**4,200 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -828,6 +828,8 @@
 |**Amazon**|[Optimal Level](https://www.fastprep.io/problems/amazon-find-optimal-level)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-optimal-level)|Mar 21, 2025|
 |**Amazon**|[Min Operation](https://www.fastprep.io/problems/amazon-min-operation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-min-operation)|Mar 21, 2025|
 |**Amazon**|[All About Rewards](https://www.fastprep.io/problems/amazon-all-about-rewards)|[![Practice][p]](https://www.fastprep.io/problems/amazon-all-about-rewards)|Mar 20, 2025|
+|**Expedia**|[Count Increasing Stock Periods](https://www.fastprep.io/problems/expedia-count-increasing-stock-periods)|[![Practice][p]](https://www.fastprep.io/problems/expedia-count-increasing-stock-periods)|Mar 18, 2025|
+|**Expedia**|[Count Equal-Frequency Subsequences](https://www.fastprep.io/problems/expedia-count-equal-frequency-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/expedia-count-equal-frequency-subsequences)|Mar 18, 2025|
 |**Amazon**|[Inventory Processes Survival Possibility](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|Mar 18, 2025|
 |**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
 |**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
@@ -1049,6 +1051,8 @@
 |**Expedia**|[Get Max Efficiency](https://www.fastprep.io/problems/expedia-get-max-efficiency)|[![Practice][p]](https://www.fastprep.io/problems/expedia-get-max-efficiency)|Oct 04, 2024|
 |**Expedia**|[Calculate the Sum](https://www.fastprep.io/problems/expedia-calculate-the-sum)|[![Practice][p]](https://www.fastprep.io/problems/expedia-calculate-the-sum)|Oct 04, 2024|
 |**Headlands Technologies**|[Merge K Sorted Sequences](https://www.fastprep.io/problems/headlands-merge-k-sorted-sequences)|[![Practice][p]](https://www.fastprep.io/problems/headlands-merge-k-sorted-sequences)|Oct 04, 2024|
+|**Expedia**|[Minimum Machines for Tasks](https://www.fastprep.io/problems/expedia-minimum-machines-for-tasks)|[![Practice][p]](https://www.fastprep.io/problems/expedia-minimum-machines-for-tasks)|Oct 03, 2024|
+|**Expedia**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/expedia-longest-subsequence-that-is-substring)|[![Practice][p]](https://www.fastprep.io/problems/expedia-longest-subsequence-that-is-substring)|Oct 03, 2024|
 |**Rubrik**|[Enhance Luminescence](https://www.fastprep.io/problems/rubrik-enhance-luminescence)|[![Practice][p]](https://www.fastprep.io/problems/rubrik-enhance-luminescence)|Sep 29, 2024|
 |**Rubrik**|[Maximize Stellar Gradient](https://www.fastprep.io/problems/rubrik-maximize-stellar-gradient)|[![Practice][p]](https://www.fastprep.io/problems/rubrik-maximize-stellar-gradient)|Sep 29, 2024|
 |**Rubrik**|[Salvage Humankind](https://www.fastprep.io/problems/rubrik-salvage-humankind)|[![Practice][p]](https://www.fastprep.io/problems/rubrik-salvage-humankind)|Sep 29, 2024|
@@ -1932,16 +1936,12 @@
 |**Marshall Wace**|[Maximum Unique-Tagged Points in an Origin-Centred Circle](https://www.fastprep.io/problems/marshall-wace-unique-tags-circle)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-unique-tags-circle)|Feb 19, 2023|
 |**ZipRecruiter**|[Format a Centered Paragraph in a Star Frame](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|Feb 07, 2023|
 |**ZipRecruiter**|[Count Prefix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Feb 07, 2023|
+|**Expedia**|[Finding Integers](https://www.fastprep.io/problems/expedia-finding-integers)|[![Practice][p]](https://www.fastprep.io/problems/expedia-finding-integers)|Feb 01, 2023|
+|**Expedia**|[Data Updates](https://www.fastprep.io/problems/expedia-data-updates)|[![Practice][p]](https://www.fastprep.io/problems/expedia-data-updates)|Feb 01, 2023|
 |**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**WhatNot**|[Group Anagram Names](https://www.fastprep.io/problems/whatnot-group-anagram-names)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-group-anagram-names)|Jan 10, 2023|
 |**Vanguard**|[Binge Watching](https://www.fastprep.io/problems/vanguard-binge-watching)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-binge-watching)|Jan 02, 2023|
 |**ZipRecruiter**|[K-Group Digit-Sum Compression](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Dec 28, 2022|
 |**ZipRecruiter**|[Render Wrapped Two-Party Chat Lines](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|Dec 28, 2022|
-|**Bloomberg LP**|[Index of the First Non-Repeating Character](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|Dec 15, 2022|
-|**Bloomberg LP**|[Most-Frequent Next-Word Predictor](https://www.fastprep.io/problems/bloomberg-most-common-next-word)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-most-common-next-word)|Dec 15, 2022|
-|**Old Mission**|[Implement an Unordered Map](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Dec 13, 2022|
-|**Chainalysis**|[Course Schedule II](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|Dec 10, 2022|
-|**Chainalysis**|[Longest Common Suffix](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Dec 10, 2022|
-|**Bloomberg LP**|[Next Permutation](https://www.fastprep.io/problems/bloomberg-next-permutation)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-next-permutation)|Nov 28, 2022|
 <a id="bottom"></a>
