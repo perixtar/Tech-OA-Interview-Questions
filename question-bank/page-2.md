@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Running Delivery Time Medians](https://www.fastprep.io/problems/amazon-running-delivery-time-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-running-delivery-time-medians)|Sep 13, 2026|
+|**Amazon**|[Maximum Non-Adjacent House Value](https://www.fastprep.io/problems/amazon-maximum-non-adjacent-house-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-non-adjacent-house-value)|Sep 13, 2026|
+|**Amazon**|[Employee Ratings Management System](https://www.fastprep.io/problems/amazon-employee-ratings-data-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-employee-ratings-data-structure)|Sep 13, 2026|
+|**Amazon**|[Binary Tree Cameras](https://www.fastprep.io/problems/amazon-binary-tree-cameras)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-binary-tree-cameras)|Sep 13, 2026|
+|**Amazon**|[Remove Duplicate Letters for the Largest Result](https://www.fastprep.io/problems/amazon-largest-lexicographic-unique-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-largest-lexicographic-unique-letters)|Sep 13, 2026|
+|**Amazon**|[Merge k Sorted Lists](https://www.fastprep.io/problems/amazon-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-merge-k-sorted-lists)|Sep 13, 2026|
+|**Amazon**|[Nodes at a Given N-ary Tree Level](https://www.fastprep.io/problems/amazon-nary-tree-nodes-at-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-nary-tree-nodes-at-level)|Sep 13, 2026|
+|**Amazon**|[Max Consecutive Ones III](https://www.fastprep.io/problems/amazon-max-consecutive-ones-iii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-consecutive-ones-iii)|Sep 13, 2026|
+|**Amazon**|[Maximum Profit in Job Scheduling](https://www.fastprep.io/problems/amazon-maximum-profit-job-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-profit-job-scheduling)|Sep 13, 2026|
 |**Amazon**|[All Anagram Start Indices](https://www.fastprep.io/problems/amazon-anagram-start-indices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-anagram-start-indices)|Sep 13, 2026|
 |**Amazon**|[Count Islands with Eight-Direction Adjacency](https://www.fastprep.io/problems/amazon-islands-eight-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-islands-eight-direction)|Sep 13, 2026|
 |**Amazon**|[Maximum Saw Height for At Least M Cut Length](https://www.fastprep.io/problems/amazon-woodcut-saw-height)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-woodcut-saw-height)|Sep 13, 2026|
@@ -726,7 +735,6 @@
 |**Airbnb**|[Parcel Event Tracking](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|Jul 27, 2026|
 |**Apple**|[Group Transitive String Aliases](https://www.fastprep.io/problems/apple-transitive-alias-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-transitive-alias-groups)|Jul 27, 2026|
 |**Coinbase**|[In-Memory Database](https://www.fastprep.io/problems/coinbase-in-memory-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coinbase-in-memory-database)|Jul 27, 2026|
-|**Shopify**|[Deterministic Secret Santa Assignment](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|Jul 27, 2026|
 |**OpenAI**|[Durable String Key-Value Store](https://www.fastprep.io/problems/openai-durable-string-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-string-key-value-store)|Jul 27, 2026|
 |**Google**|[Ad Score Scheduler With Delay](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|Jul 27, 2026|
 |**Google**|[Alternating-Color Binary Tree Roots](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|Jul 27, 2026|
@@ -1050,7 +1058,6 @@
 |**Mercor**|[Design an External Career Data Analytics Platform](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|Jun 15, 2026|
 |**Scale AI**|[Task Processor: Dependencies and Deadlines](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Jun 14, 2026|
 |**Profound**|[Design an LLM Brand Exposure Analytics Platform](https://www.fastprep.io/system-design/llm-brand-exposure-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-brand-exposure-analytics-platform)|Jun 14, 2026|
-|**Shopify**|[Mars Rover Robot Controller](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|Jun 13, 2026|
 |**Luma AI**|[Center Crop a Grayscale Image](https://www.fastprep.io/problems/luma-ai-center-crop)|Coding|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-center-crop)|Jun 12, 2026|
 |**Luma AI**|[Rotate a Rectangular Image Clockwise](https://www.fastprep.io/problems/luma-ai-rotate-image-clockwise)|Coding|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-rotate-image-clockwise)|Jun 12, 2026|
 |**Luma AI**|[Numerically Stable Softmax](https://www.fastprep.io/problems/luma-ai-stable-softmax)|Coding|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-stable-softmax)|Jun 12, 2026|
@@ -1747,10 +1754,4 @@
 |**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
 |**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
 |**Klaviyo**|[File Storage with User Quotas, Merging, Backups, and Restore](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Jun 09, 2025|
-|**Postman**|[Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Jun 07, 2025|
-|**Postman**|[Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Jun 07, 2025|
-|**Datadog**|[Deduplicated Query Registration](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Jun 01, 2025|
-|**Datadog**|[Return a Minimum-Coin Change Breakdown](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Jun 01, 2025|
-|**Datadog**|[Find Repeated Substrings Ignoring Case](https://www.fastprep.io/problems/datadog-repeated-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-repeated-substrings)|Jun 01, 2025|
-|**Amazon**|[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)|May 31, 2025|
 <a id="bottom"></a>
