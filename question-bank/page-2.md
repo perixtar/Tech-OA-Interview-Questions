@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|Sep 12, 2026|
 |**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Sep 12, 2026|
 |**Google / Microsoft**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Sep 12, 2026|
 |**ByteDance**|[Design an Advertiser Campaign Configuration Platform](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|Sep 12, 2026|
@@ -1755,4 +1754,6 @@
 |**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|
 |**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
 |**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
+|**Dell**|[Optimizing Resource Allocation](https://www.fastprep.io/problems/dell-find-optimal-resources)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-find-optimal-resources)|May 25, 2025|
+|**Dell**|[Count Binary Substrings](https://www.fastprep.io/problems/dell-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-get-substring-count)|May 25, 2025|
 <a id="bottom"></a>
