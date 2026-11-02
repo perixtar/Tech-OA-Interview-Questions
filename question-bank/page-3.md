@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
+|**Atlassian**|[Migrate an Ethernet Appliance to a Microcontroller](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|May 31, 2025|
+|**PeopleStrong**|[Shortest Subarray with an Exact Target Sum](https://www.fastprep.io/problems/peoplestrong-minimum-exact-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-exact-sum-subarray)|May 28, 2025|
+|**PeopleStrong**|[Number of Provinces](https://www.fastprep.io/problems/peoplestrong-number-of-provinces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-number-of-provinces)|May 28, 2025|
+|**PeopleStrong**|[Detect a Cycle in a Linked List](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|May 28, 2025|
+|**PeopleStrong**|[First Nonrepeating Character](https://www.fastprep.io/problems/peoplestrong-first-non-repeating-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-first-non-repeating-character)|May 28, 2025|
+|**PeopleStrong**|[Lowest Common Ancestor in a BST](https://www.fastprep.io/problems/peoplestrong-lowest-common-ancestor-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-lowest-common-ancestor-bst)|May 28, 2025|
+|**PeopleStrong**|[Longest Subarray with a Target Sum](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|May 28, 2025|
+|**Wells Fargo**|[Canonical Euler Trail](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|May 26, 2025|
 |**Wells Fargo**|[Compare Calendar Dates](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|May 26, 2025|
 |**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
 |**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
