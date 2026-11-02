@@ -536,6 +536,7 @@
 |**Spotify**|[Design a Personalized Session Playlist Ranking System](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|Aug 14, 2026|
 |**Adobe**|[Count Parent Nodes With a Target Sum](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|Aug 14, 2026|
 |**Adobe**|[Largest Binary Number by Concatenation](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|Aug 14, 2026|
+|**Replit**|[Build a Kubernetes Operator](https://www.fastprep.io/project-coding/replit-kubernetes-operator)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/replit-kubernetes-operator)|Aug 14, 2026|
 |**Headlands Technologies**|[As-Of Join](https://www.fastprep.io/problems/headlands-asof-join)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-asof-join)|Aug 13, 2026|
 |**Anthropic**|[Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|Aug 13, 2026|
 |**OpenAI**|[Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|Aug 13, 2026|
@@ -1753,5 +1754,4 @@
 |**Kalshi**|[Maximum Frequency Stack](https://www.fastprep.io/problems/kalshi-maximum-frequency-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kalshi-maximum-frequency-stack)|Jun 14, 2025|
 |**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
 |**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
-|**Klaviyo**|[File Storage with User Quotas, Merging, Backups, and Restore](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Jun 09, 2025|
 <a id="bottom"></a>

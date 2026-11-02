@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,165)](formats/coding.md) · [SQL (95)](formats/sql.md) · [System design (649)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (126)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,165)](formats/coding.md) · [SQL (95)](formats/sql.md) · [System design (649)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (127)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -52,7 +52,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Oct 31, 2026|
 |**DoorDash**|[Random Dasher Set Operations](https://www.fastprep.io/problems/doordash-random-dasher-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-random-dasher-set)|🔥 Oct 31, 2026|
 |**Shopify**|[Deterministic Secret Santa Assignment](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|🔥 Oct 31, 2026|
-|**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Oct 31, 2026|
+|**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Oct 31, 2026|
 |**Airbnb**|[Banking System with Accepted Transfers, Part 4: Account Merging and Balance History](https://www.fastprep.io/problems/airbnb-banking-accepted-transfers-level-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-banking-accepted-transfers-level-4)|🔥 Oct 30, 2026|
 |**Susquehanna International Group (SIG)**|[Find Median from Data Stream](https://www.fastprep.io/problems/susquehanna-find-median-from-data-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-find-median-from-data-stream)|🔥 Oct 30, 2026|
 |**EPAM**|[Detect a Loop in a Linked List](https://www.fastprep.io/problems/epam-linked-list-cycle-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-linked-list-cycle-detection)|🔥 Oct 30, 2026|

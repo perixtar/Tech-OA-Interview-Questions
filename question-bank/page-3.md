@@ -1,7 +1,7 @@
 # Question Bank — Page 3
 
 <!-- question-pages:start -->
-<sub>[← Previous](page-2.md) · Page 3</sub>
+<sub>[← Previous](page-2.md) · Page 3 · [Next →](page-4.md)</sub>
 <!-- question-pages:end -->
 
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Klaviyo**|[File Storage with User Quotas, Merging, Backups, and Restore](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Jun 09, 2025|
 |**Postman**|[Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Jun 07, 2025|
 |**Postman**|[Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Jun 07, 2025|
 |**Datadog**|[Deduplicated Query Registration](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Jun 01, 2025|
@@ -1846,5 +1847,4 @@
 |**Intuit**|[Minimum Insertions to Make a Palindrome](https://www.fastprep.io/problems/intuit-minimum-palindrome-insertions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-minimum-palindrome-insertions)|Feb 08, 2016|
 |**Intuit**|[Count Pasture Animal Arrangements](https://www.fastprep.io/problems/intuit-pasture-animal-arrangements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-pasture-animal-arrangements)|Feb 08, 2016|
 |**Morgan Stanley**|[Design Employee Username and Birth Date Rules](https://www.fastprep.io/low-level-design/employee-username-birthdate-rules)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/employee-username-birthdate-rules)|Oct 10, 2015|
-|**Morgan Stanley**|[Design Stateful Shopping Cart Lines](https://www.fastprep.io/low-level-design/stateful-shopping-cart-lines)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/stateful-shopping-cart-lines)|Sep 14, 2014|
 <a id="bottom"></a>

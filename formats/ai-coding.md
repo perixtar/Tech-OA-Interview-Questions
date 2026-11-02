@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**126 questions**
+**127 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -78,6 +78,7 @@
 |**Amazon**|[Repair Dashboard Issue Creation](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|Sep 01, 2026|
 |**Amazon**|[Repair Event Listing Filters, Pagination, and Caching](https://www.fastprep.io/project-coding/amazon-repair-event-listing-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-event-listing-cache)|Aug 27, 2026|
 |**Meta**|[Build an In-Memory Cloud Storage System](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|[![Practice][p]](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|Aug 19, 2026|
+|**Replit**|[Build a Kubernetes Operator](https://www.fastprep.io/project-coding/replit-kubernetes-operator)|[![Practice][p]](https://www.fastprep.io/project-coding/replit-kubernetes-operator)|Aug 14, 2026|
 |**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|Aug 12, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|Aug 12, 2026|
 |**Anthropic**|[Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|Aug 06, 2026|
