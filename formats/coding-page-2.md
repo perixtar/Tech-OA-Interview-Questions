@@ -2,12 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,150 questions**
+**4,159 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Zomato / Eternal**|[Jump Game IV](https://www.fastprep.io/problems/zomato-jump-game-iv)|[![Practice][p]](https://www.fastprep.io/problems/zomato-jump-game-iv)|Jul 12, 2026|
+|**IndiaMART**|[Reverse a String](https://www.fastprep.io/problems/indiamart-reverse-string)|[![Practice][p]](https://www.fastprep.io/problems/indiamart-reverse-string)|Jul 12, 2026|
+|**Moody's**|[Longest Subarray with At Most Two Distinct Values](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|[![Practice][p]](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|Jul 12, 2026|
+|**MulticoreWare**|[Minimum Coin Change](https://www.fastprep.io/problems/multicoreware-minimum-coin-change)|[![Practice][p]](https://www.fastprep.io/problems/multicoreware-minimum-coin-change)|Jul 12, 2026|
+|**MulticoreWare**|[Second Distinct Largest Element](https://www.fastprep.io/problems/multicoreware-second-distinct-largest-element)|[![Practice][p]](https://www.fastprep.io/problems/multicoreware-second-distinct-largest-element)|Jul 12, 2026|
+|**Shipsy**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/shipsy-largest-rectangle-in-histogram)|[![Practice][p]](https://www.fastprep.io/problems/shipsy-largest-rectangle-in-histogram)|Jul 12, 2026|
+|**Stryker**|[Squares of a Sorted Array](https://www.fastprep.io/problems/stryker-squares-of-a-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/stryker-squares-of-a-sorted-array)|Jul 12, 2026|
+|**Hive**|[Validate a Directed Edge Addition](https://www.fastprep.io/problems/hive-validate-directed-edge-addition)|[![Practice][p]](https://www.fastprep.io/problems/hive-validate-directed-edge-addition)|Jul 12, 2026|
+|**Robinhood**|[Word Frequency in a Large Text](https://www.fastprep.io/problems/robinhood-word-frequency-in-large-text)|[![Practice][p]](https://www.fastprep.io/problems/robinhood-word-frequency-in-large-text)|Jul 12, 2026|
+|**Cisco**|[Drone Delivery with Battery Swap Stations](https://www.fastprep.io/problems/cisco-drone-delivery-battery-swaps)|[![Practice][p]](https://www.fastprep.io/problems/cisco-drone-delivery-battery-swaps)|Jul 11, 2026|
 |**Cisco**|[Auction Sniping Window Minimum](https://www.fastprep.io/problems/cisco-auction-sniping-window-minimum)|[![Practice][p]](https://www.fastprep.io/problems/cisco-auction-sniping-window-minimum)|Jul 11, 2026|
 |**Target**|[Minimum Edit-Distance String for Each Query](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|[![Practice][p]](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|Jul 11, 2026|
 |**Target**|[Count Lucky Numbers in a Range](https://www.fastprep.io/problems/target-lucky-numbers-floor-square-root)|[![Practice][p]](https://www.fastprep.io/problems/target-lucky-numbers-floor-square-root)|Jul 11, 2026|
@@ -464,7 +474,6 @@
 |**Google**|[Run-Length Encode a String](https://www.fastprep.io/problems/google-run-length-encode-string)|[![Practice][p]](https://www.fastprep.io/problems/google-run-length-encode-string)|Dec 04, 2025|
 |**Bloomberg LP**|[Deepest Nested Substrings](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Dec 03, 2025|
 |**EPAM**|[Recursive Binary Search](https://www.fastprep.io/problems/epam-recursive-binary-search)|[![Practice][p]](https://www.fastprep.io/problems/epam-recursive-binary-search)|Nov 29, 2025|
-|**EPAM**|[Valid Parentheses](https://www.fastprep.io/problems/epam-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/epam-valid-parentheses)|Nov 29, 2025|
 |**EPAM**|[Nonzero Totals by Name](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|[![Practice][p]](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Nov 29, 2025|
 |**Agoda**|[Special Diameter Endpoints](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|[![Practice][p]](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Nov 29, 2025|
 |**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
@@ -1934,13 +1943,4 @@
 |**Scale AI**|[Platform Referral Rewards](https://www.fastprep.io/problems/scale-ai-platform-referral-rewards)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-platform-referral-rewards)|Nov 01, 2022|
 |**Bloomberg LP**|[Collatz Conjecture with Shared Memoization](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|Oct 27, 2022|
 |**ZipRecruiter**|[Alternating Signed Digit Sum](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|Oct 26, 2022|
-|**ZipRecruiter**|[Count Distinct Message Mentions](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|Oct 26, 2022|
-|**ZipRecruiter**|[Replace Each Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|Oct 26, 2022|
-|**ZipRecruiter**|[Difference between Even- and Odd-Index Sums](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|Oct 25, 2022|
-|**ZipRecruiter**|[Minimum Difference Across Cyclic Rotations](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|Oct 25, 2022|
-|**Bloomberg LP**|[Add Two Numbers](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|Oct 24, 2022|
-|**Bloomberg LP**|[Merge Sorted Array](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|Oct 24, 2022|
-|**Optiver**|[Dynamic Future Pricing](https://www.fastprep.io/problems/optiver-future-pricing)|[![Practice][p]](https://www.fastprep.io/problems/optiver-future-pricing)|Oct 21, 2022|
-|**ZipRecruiter**|[Check a Cyclic Next-Character String](https://www.fastprep.io/problems/ziprecruiter-next-character-string)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-next-character-string)|Oct 21, 2022|
-|**ZipRecruiter**|[Number-Line Obstacles and Block Checks](https://www.fastprep.io/problems/ziprecruiter-number-line-obstacles)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-number-line-obstacles)|Oct 21, 2022|
 <a id="bottom"></a>

@@ -2,12 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,150 questions**
+**4,159 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Count Distinct Message Mentions](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|Oct 26, 2022|
+|**ZipRecruiter**|[Replace Each Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|Oct 26, 2022|
+|**ZipRecruiter**|[Difference between Even- and Odd-Index Sums](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|Oct 25, 2022|
+|**ZipRecruiter**|[Minimum Difference Across Cyclic Rotations](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|Oct 25, 2022|
+|**Bloomberg LP**|[Add Two Numbers](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|Oct 24, 2022|
+|**Bloomberg LP**|[Merge Sorted Array](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|Oct 24, 2022|
+|**Optiver**|[Dynamic Future Pricing](https://www.fastprep.io/problems/optiver-future-pricing)|[![Practice][p]](https://www.fastprep.io/problems/optiver-future-pricing)|Oct 21, 2022|
+|**ZipRecruiter**|[Check a Cyclic Next-Character String](https://www.fastprep.io/problems/ziprecruiter-next-character-string)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-next-character-string)|Oct 21, 2022|
+|**ZipRecruiter**|[Number-Line Obstacles and Block Checks](https://www.fastprep.io/problems/ziprecruiter-number-line-obstacles)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-number-line-obstacles)|Oct 21, 2022|
 |**ZipRecruiter**|[Square Matrix Rotation and Reflections](https://www.fastprep.io/problems/ziprecruiter-square-matrix-transforms)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-square-matrix-transforms)|Oct 21, 2022|
 |**Bloomberg LP**|[Implement Stack Using Two Queues](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|Oct 19, 2022|
 |**ZipRecruiter**|[Running Union Length after Interval Uploads](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|Oct 18, 2022|

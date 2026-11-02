@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Maximum Saw Height for At Least M Cut Length](https://www.fastprep.io/problems/amazon-woodcut-saw-height)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-woodcut-saw-height)|Sep 13, 2026|
+|**Amazon**|[Unique Pairs in a 2D Matrix Summing to Target](https://www.fastprep.io/problems/amazon-unique-pairs-2d-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-pairs-2d-target)|Sep 13, 2026|
+|**Amazon**|[First Missing Positive](https://www.fastprep.io/problems/amazon-first-missing-positive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-missing-positive)|Sep 13, 2026|
+|**Amazon**|[Word Break II](https://www.fastprep.io/problems/amazon-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-break-ii)|Sep 13, 2026|
+|**Amazon**|[Binary Tree Right View](https://www.fastprep.io/problems/amazon-binary-tree-right-view)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-binary-tree-right-view)|Sep 13, 2026|
+|**Amazon**|[Next Permutation](https://www.fastprep.io/problems/amazon-next-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-next-permutation)|Sep 13, 2026|
+|**Amazon**|[Construct a Tree from Level-Order and Inorder Traversals](https://www.fastprep.io/problems/amazon-construct-tree-level-inorder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-construct-tree-level-inorder)|Sep 13, 2026|
+|**Amazon**|[Longest Happy Prefix](https://www.fastprep.io/problems/amazon-longest-happy-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-happy-prefix)|Sep 13, 2026|
+|**Google**|[Balanced Parentheses with Sequential Left Deletions](https://www.fastprep.io/problems/google-balanced-parentheses-left-deletions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-balanced-parentheses-left-deletions)|Sep 13, 2026|
 |**Amazon**|[Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values)|Sep 13, 2026|
 |**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|Sep 13, 2026|
 |**Scribd**|[Design an External-Model Document Enrichment Pipeline](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|Sep 13, 2026|
@@ -523,6 +532,8 @@
 |**Agoda**|[Resilient Hotel Search Frontend](https://www.fastprep.io/system-design/resilient-hotel-search-frontend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-hotel-search-frontend)|Aug 13, 2026|
 |**IMC**|[Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping)|Aug 13, 2026|
 |**IMC**|[Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal)|Aug 13, 2026|
+|**Salesforce**|[Minimum Window Substring](https://www.fastprep.io/problems/salesforce-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-window-substring)|Aug 12, 2026|
+|**Salesforce**|[Meeting Rooms II](https://www.fastprep.io/problems/salesforce-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-meeting-rooms-ii)|Aug 12, 2026|
 |**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|Aug 12, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|Aug 12, 2026|
 |**Figma**|[Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments)|Aug 12, 2026|
@@ -1453,7 +1464,6 @@
 |**Stripe**|[Complete a Paginated API Synchronization](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|Dec 04, 2025|
 |**Bloomberg LP**|[Deepest Nested Substrings](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Dec 03, 2025|
 |**EPAM**|[Recursive Binary Search](https://www.fastprep.io/problems/epam-recursive-binary-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-recursive-binary-search)|Nov 29, 2025|
-|**EPAM**|[Valid Parentheses](https://www.fastprep.io/problems/epam-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-valid-parentheses)|Nov 29, 2025|
 |**EPAM**|[Nonzero Totals by Name](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Nov 29, 2025|
 |**Agoda**|[Special Diameter Endpoints](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Nov 29, 2025|
 |**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|SQL|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
@@ -1744,13 +1754,4 @@
 |**Amazon**|[Count Special Substrings](https://www.fastprep.io/problems/amazon-count-special-substrs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-special-substrs)|May 31, 2025|
 |**Amazon**|[Get Maximum Count](https://www.fastprep.io/problems/amazon-get-maximum-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-count)|May 31, 2025|
 |**Cloudflare**|[Determine Min Partitions Required](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|May 31, 2025|
-|**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
-|**Atlassian**|[Migrate an Ethernet Appliance to a Microcontroller](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|May 31, 2025|
-|**PeopleStrong**|[Shortest Subarray with an Exact Target Sum](https://www.fastprep.io/problems/peoplestrong-minimum-exact-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-exact-sum-subarray)|May 28, 2025|
-|**PeopleStrong**|[Number of Provinces](https://www.fastprep.io/problems/peoplestrong-number-of-provinces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-number-of-provinces)|May 28, 2025|
-|**PeopleStrong**|[Detect a Cycle in a Linked List](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|May 28, 2025|
-|**PeopleStrong**|[First Nonrepeating Character](https://www.fastprep.io/problems/peoplestrong-first-non-repeating-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-first-non-repeating-character)|May 28, 2025|
-|**PeopleStrong**|[Lowest Common Ancestor in a BST](https://www.fastprep.io/problems/peoplestrong-lowest-common-ancestor-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-lowest-common-ancestor-bst)|May 28, 2025|
-|**PeopleStrong**|[Longest Subarray with a Target Sum](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|May 28, 2025|
-|**Wells Fargo**|[Canonical Euler Trail](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|May 26, 2025|
 <a id="bottom"></a>
