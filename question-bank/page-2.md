@@ -1038,6 +1038,7 @@
 |**HSBC**|[Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Jun 21, 2026|
 |**HSBC**|[Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Jun 21, 2026|
 |**Amazon**|[Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Jun 19, 2026|
+|**The Walt Disney Company**|[Design a Ranked Social Network Platform](https://www.fastprep.io/system-design/ranked-social-network-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ranked-social-network-platform)|Jun 19, 2026|
 |**Meesho**|[Efficient Deployments](https://www.fastprep.io/problems/meesho-efficient-deployments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meesho-efficient-deployments)|Jun 18, 2026|
 |**Google**|[Minimum Tree Value After Leaf Relocations](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Jun 18, 2026|
 |**Hebbia**|[Multi-Agent Financial Research Assistant](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|Jun 18, 2026|
@@ -1752,5 +1753,4 @@
 |**Datadog**|[Return a Minimum-Coin Change Breakdown](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Jun 01, 2025|
 |**Datadog**|[Find Repeated Substrings Ignoring Case](https://www.fastprep.io/problems/datadog-repeated-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-repeated-substrings)|Jun 01, 2025|
 |**Amazon**|[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)|May 31, 2025|
-|**Amazon**|[Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|May 31, 2025|
 <a id="bottom"></a>

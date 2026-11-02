@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|May 31, 2025|
 |**Amazon**|[Find Minimum Machine Sizes](https://www.fastprep.io/problems/amazon-find-minimum-machines-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-machines-size)|May 31, 2025|
 |**Amazon**|[Count Special Substrings](https://www.fastprep.io/problems/amazon-count-special-substrs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-special-substrs)|May 31, 2025|
 |**Amazon**|[Get Maximum Count](https://www.fastprep.io/problems/amazon-get-maximum-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-count)|May 31, 2025|
@@ -70,6 +71,7 @@
 |**Ramp**|[Convert Snake Case Variables to Camel Case](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|Apr 20, 2025|
 |**Checkr**|[Design a Background-Check Processing Platform](https://www.fastprep.io/system-design/background-check-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/background-check-processing-platform)|Apr 19, 2025|
 |**Checkr**|[Candidate Alias Name Matching](https://www.fastprep.io/problems/checkr-name-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/checkr-name-matching)|Apr 19, 2025|
+|**The Walt Disney Company**|[Design an Airport Runway Task Scheduler](https://www.fastprep.io/system-design/airport-runway-task-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/airport-runway-task-scheduler)|Apr 17, 2025|
 |**Datadog**|[Find Streams with All Keywords](https://www.fastprep.io/problems/datadog-mutual-keyword-streams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-mutual-keyword-streams)|Apr 14, 2025|
 |**Datadog**|[List Every Root-to-Leaf Path](https://www.fastprep.io/problems/datadog-root-leaf-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-root-leaf-paths)|Apr 14, 2025|
 |**Amazon**|[Min Num Unique Distribution Hubs](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers)|Apr 13, 2025|
@@ -1681,6 +1683,7 @@
 |**IMC**|[Transaction Balance Over Threshold](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|SQL|[![Practice][p]](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|Sep 12, 2020|
 |**Wells Fargo**|[Most Negative Number in Each Window](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|Sep 08, 2020|
 |**Wells Fargo**|[Single-Nested Valid Bracket Substrings](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|Sep 08, 2020|
+|**The Walt Disney Company**|[Design a Physical DVD Rental and Delivery Platform](https://www.fastprep.io/system-design/physical-dvd-rental-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/physical-dvd-rental-delivery)|Sep 08, 2020|
 |**Bloomberg LP**|[Design Object Storage with Strict Recent Reads](https://www.fastprep.io/system-design/strict-read-after-write-object-storage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/strict-read-after-write-object-storage)|Sep 06, 2020|
 |**Benchling**|[Similar DNA Under Rotation and Substitution](https://www.fastprep.io/problems/benchling-similar-dna-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-similar-dna-rotations)|Sep 05, 2020|
 |**Benchling**|[Unique DNA Sequences Under Circular Rotation](https://www.fastprep.io/problems/benchling-unique-dna-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-unique-dna-rotations)|Sep 05, 2020|

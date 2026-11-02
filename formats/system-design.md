@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**646 questions**
+**649 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -475,6 +475,7 @@
 |**Meta / Decagon**|[Design a Live-Session Conversational Chatbot](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|Jun 30, 2026|
 |**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
 |**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
+|**The Walt Disney Company**|[Design a Ranked Social Network Platform](https://www.fastprep.io/system-design/ranked-social-network-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ranked-social-network-platform)|Jun 19, 2026|
 |**Hebbia**|[Multi-Agent Financial Research Assistant](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|Jun 18, 2026|
 |**Amazon / Wayfair**|[Design a Vending Machine Fleet](https://www.fastprep.io/system-design/vending-machine-fleet)|[![Practice][p]](https://www.fastprep.io/system-design/vending-machine-fleet)|Jun 15, 2026|
 |**Mercor**|[Design an External Career Data Analytics Platform](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|Jun 15, 2026|
@@ -556,6 +557,7 @@
 |**ElevenLabs**|[Collaborative Dubbing Review Platform](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|May 01, 2025|
 |**Zip**|[Design Personalized Customer Document Search](https://www.fastprep.io/system-design/personalized-customer-document-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-customer-document-search)|Apr 21, 2025|
 |**Checkr**|[Design a Background-Check Processing Platform](https://www.fastprep.io/system-design/background-check-processing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/background-check-processing-platform)|Apr 19, 2025|
+|**The Walt Disney Company**|[Design an Airport Runway Task Scheduler](https://www.fastprep.io/system-design/airport-runway-task-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/airport-runway-task-scheduler)|Apr 17, 2025|
 |**Google**|[Design an Online Four-Candidate Ranker](https://www.fastprep.io/system-design/contextual-four-candidate-ranker)|[![Practice][p]](https://www.fastprep.io/system-design/contextual-four-candidate-ranker)|Apr 08, 2025|
 |**SpaceX**|[Design a Browser-to-Backend Request Lifecycle](https://www.fastprep.io/system-design/browser-to-backend-request-lifecycle)|[![Practice][p]](https://www.fastprep.io/system-design/browser-to-backend-request-lifecycle)|Apr 06, 2025|
 |**Bloomberg LP / The Walt Disney Company**|[Design a Shoe E-Commerce Marketplace](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|[![Practice][p]](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|Apr 05, 2025|
@@ -638,6 +640,7 @@
 |**Bloomberg LP**|[Design ML Customer-Service Routing](https://www.fastprep.io/system-design/ml-customer-service-routing)|[![Practice][p]](https://www.fastprep.io/system-design/ml-customer-service-routing)|Oct 23, 2020|
 |**Bloomberg LP**|[Design an Airport Operations Coordination System](https://www.fastprep.io/system-design/airport-operations-coordination)|[![Practice][p]](https://www.fastprep.io/system-design/airport-operations-coordination)|Oct 20, 2020|
 |**Microsoft**|[Design a Self-Driving Perception Model](https://www.fastprep.io/system-design/self-driving-perception-model)|[![Practice][p]](https://www.fastprep.io/system-design/self-driving-perception-model)|Sep 17, 2020|
+|**The Walt Disney Company**|[Design a Physical DVD Rental and Delivery Platform](https://www.fastprep.io/system-design/physical-dvd-rental-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/physical-dvd-rental-delivery)|Sep 08, 2020|
 |**Bloomberg LP**|[Design Object Storage with Strict Recent Reads](https://www.fastprep.io/system-design/strict-read-after-write-object-storage)|[![Practice][p]](https://www.fastprep.io/system-design/strict-read-after-write-object-storage)|Sep 06, 2020|
 |**Bloomberg LP**|[Design Low-Latency Stock Information Queries](https://www.fastprep.io/system-design/low-latency-stock-information-query)|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-stock-information-query)|Jul 13, 2020|
 |**Bloomberg LP**|[Design a Punctuation-Prediction Experiment](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|[![Practice][p]](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|Jul 05, 2020|
