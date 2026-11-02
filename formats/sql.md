@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**93 questions**
+**94 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -44,7 +44,7 @@
 |**Intuit**|[Oldest and Youngest Employees](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|[![Practice][p]](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|🆕 Sep 22, 2026|
 |**Capital One**|[Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|🆕 Sep 19, 2026|
 |**IBM**|[Customer Resource Usage Analysis](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|[![Practice][p]](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|🆕 Sep 18, 2026|
-|**IBM**|[Social Network Relationship Statistics](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|[![Practice][p]](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|🆕 Sep 16, 2026|
+|**IBM**|[Social Network Relationship Statistics](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|[![Practice][p]](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|Sep 16, 2026|
 |**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|Sep 14, 2026|
 |**JPMorgan Chase**|[Employees Above Average Salary](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|Sep 13, 2026|
 |**JPMorgan Chase**|[Highest-Earning Employees By Department](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-highest-earner-per-department)|Sep 13, 2026|
@@ -71,6 +71,7 @@
 |**Wolverine Trading**|[Hedges Outperforming Their Trades](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades)|Aug 30, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|Aug 17, 2026|
 |**Capital One**|[Highest-Spend Advertisement](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement)|Aug 11, 2026|
+|**Deloitte**|[Second-Highest Distinct Salary](https://www.fastprep.io/problems/deloitte-second-highest-distinct-salary)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-second-highest-distinct-salary)|Jul 30, 2026|
 |**Wells Fargo**|[Overloaded Game Account Inventories](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|Jul 28, 2026|
 |**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
 |**Clickhouse**|[Top Three Sales per County and Year](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|[![Practice][p]](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|Jul 07, 2026|
