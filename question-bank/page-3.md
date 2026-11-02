@@ -9,6 +9,25 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Wells Fargo**|[Compare Calendar Dates](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|May 26, 2025|
+|**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
+|**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
+|**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
+|**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
+|**Juniper Square**|[Reverse Odd-Position Words](https://www.fastprep.io/problems/juniper-square-reverse-odd-position-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juniper-square-reverse-odd-position-words)|May 26, 2025|
+|**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
+|**Meesho**|[Distinct Moves](https://www.fastprep.io/problems/meesho-distinct-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meesho-distinct-moves)|May 25, 2025|
+|**Agoda**|[Unique Digits in Range](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|May 25, 2025|
+|**Agoda**|[Two-Core Process Assignment](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|May 25, 2025|
+|**Agoda**|[Team Formation](https://www.fastprep.io/problems/agoda-team-formation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-team-formation)|May 25, 2025|
+|**IBM**|[Get Min Increment](https://www.fastprep.io/problems/ibm-get-minimum-increment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-increment)|May 25, 2025|
+|**IBM**|[Get Min Operations](https://www.fastprep.io/problems/ibm-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-operations)|May 25, 2025|
+|**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
+|**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|
+|**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
+|**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
+|**Dell**|[Optimizing Resource Allocation](https://www.fastprep.io/problems/dell-find-optimal-resources)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-find-optimal-resources)|May 25, 2025|
+|**Dell**|[Count Binary Substrings](https://www.fastprep.io/problems/dell-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-get-substring-count)|May 25, 2025|
 |**Epify**|[Request Redirection](https://www.fastprep.io/problems/epifi-get-min-latency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epifi-get-min-latency)|May 25, 2025|
 |**Juspay**|[Converging Maze: Largest Sum Cycle](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|May 25, 2025|
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|

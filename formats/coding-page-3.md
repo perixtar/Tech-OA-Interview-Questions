@@ -2,12 +2,27 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,136 questions**
+**4,150 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Square Matrix Rotation and Reflections](https://www.fastprep.io/problems/ziprecruiter-square-matrix-transforms)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-square-matrix-transforms)|Oct 21, 2022|
+|**Bloomberg LP**|[Implement Stack Using Two Queues](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|Oct 19, 2022|
+|**ZipRecruiter**|[Running Union Length after Interval Uploads](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|Oct 18, 2022|
+|**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
+|**Intuit**|[Longest Anchored Song Chain](https://www.fastprep.io/problems/intuit-longest-song-chain)|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-song-chain)|Oct 16, 2022|
+|**Intuit**|[Race a Friend to a Shared Home](https://www.fastprep.io/problems/intuit-race-friend-home)|[![Practice][p]](https://www.fastprep.io/problems/intuit-race-friend-home)|Oct 15, 2022|
+|**Intuit**|[Can You Finish All Courses?](https://www.fastprep.io/problems/intuit-course-schedule-feasibility)|[![Practice][p]](https://www.fastprep.io/problems/intuit-course-schedule-feasibility)|Oct 14, 2022|
+|**Bloomberg LP**|[Maximize Circular Rover Travel](https://www.fastprep.io/problems/bloomberg-maximize-circular-rover-travel)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximize-circular-rover-travel)|Oct 11, 2022|
+|**ZipRecruiter**|[Circular Server Scheduling with Recovery](https://www.fastprep.io/problems/ziprecruiter-circular-server-recovery)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-circular-server-recovery)|Oct 11, 2022|
+|**ZipRecruiter**|[Distribute Values by Distance from Current Averages](https://www.fastprep.io/problems/ziprecruiter-distribute-by-average-distance)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-distribute-by-average-distance)|Oct 11, 2022|
+|**ZipRecruiter**|[House Segments After Removals](https://www.fastprep.io/problems/ziprecruiter-house-segments-after-removals)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-house-segments-after-removals)|Oct 11, 2022|
+|**ZipRecruiter**|[Rearrange a String Outside In](https://www.fastprep.io/problems/ziprecruiter-outside-in-string)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-outside-in-string)|Oct 10, 2022|
+|**ZipRecruiter**|[Query Box Inside Every Saved Rectangle](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|Oct 10, 2022|
+|**ZipRecruiter**|[Sliding Window Rate Limiter](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Oct 09, 2022|
+|**ZipRecruiter**|[Find a Symbolic Pattern in a Numeric Matrix](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|Oct 09, 2022|
 |**Intuit**|[Nearest Different Maze Exit for a Snake](https://www.fastprep.io/problems/intuit-nearest-snake-exit)|[![Practice][p]](https://www.fastprep.io/problems/intuit-nearest-snake-exit)|Oct 07, 2022|
 |**Bloomberg LP**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Oct 06, 2022|
 |**Bloomberg LP**|[Kill Process](https://www.fastprep.io/problems/bloomberg-kill-process)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-kill-process)|Oct 06, 2022|

@@ -2,12 +2,32 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,136 questions**
+**4,150 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Cisco**|[Auction Sniping Window Minimum](https://www.fastprep.io/problems/cisco-auction-sniping-window-minimum)|[![Practice][p]](https://www.fastprep.io/problems/cisco-auction-sniping-window-minimum)|Jul 11, 2026|
+|**Target**|[Minimum Edit-Distance String for Each Query](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|[![Practice][p]](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|Jul 11, 2026|
+|**Target**|[Count Lucky Numbers in a Range](https://www.fastprep.io/problems/target-lucky-numbers-floor-square-root)|[![Practice][p]](https://www.fastprep.io/problems/target-lucky-numbers-floor-square-root)|Jul 11, 2026|
+|**Target**|[First-Available Seat Booking](https://www.fastprep.io/problems/target-first-available-seat-booking)|[![Practice][p]](https://www.fastprep.io/problems/target-first-available-seat-booking)|Jul 11, 2026|
+|**OpenAI**|[Message Event Aggregation](https://www.fastprep.io/problems/openai-message-event-aggregation)|[![Practice][p]](https://www.fastprep.io/problems/openai-message-event-aggregation)|Jul 10, 2026|
+|**OpenAI**|[Streaming Entropy, Part 1: Batch Entropy](https://www.fastprep.io/problems/openai-streaming-entropy-part-1)|[![Practice][p]](https://www.fastprep.io/problems/openai-streaming-entropy-part-1)|Jul 10, 2026|
+|**OpenAI**|[Streaming Entropy, Part 2: Numerically Stable Entropy](https://www.fastprep.io/problems/openai-streaming-entropy-part-2)|[![Practice][p]](https://www.fastprep.io/problems/openai-streaming-entropy-part-2)|Jul 10, 2026|
+|**OpenAI**|[Streaming Entropy, Part 3: Block-wise Entropy](https://www.fastprep.io/problems/openai-streaming-entropy-part-3)|[![Practice][p]](https://www.fastprep.io/problems/openai-streaming-entropy-part-3)|Jul 10, 2026|
+|**OpenAI**|[Streaming Entropy, Part 4: Stable Streaming Entropy](https://www.fastprep.io/problems/openai-streaming-entropy-part-4)|[![Practice][p]](https://www.fastprep.io/problems/openai-streaming-entropy-part-4)|Jul 10, 2026|
+|**OpenAI**|[Versioned Social Network](https://www.fastprep.io/problems/openai-versioned-social-network)|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-social-network)|Jul 10, 2026|
+|**Anthropic**|[Banking System, Part 2: Top Spenders](https://www.fastprep.io/problems/anthropic-banking-system-part-2)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-banking-system-part-2)|Jul 10, 2026|
+|**Anthropic**|[Banking System, Part 3: Scheduled Payments](https://www.fastprep.io/problems/anthropic-banking-system-part-3)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-banking-system-part-3)|Jul 10, 2026|
+|**Anthropic**|[Banking System, Part 4: Merging and Balance History](https://www.fastprep.io/problems/anthropic-banking-system-part-4)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-banking-system-part-4)|Jul 10, 2026|
+|**Amazon**|[Number of Atoms](https://www.fastprep.io/problems/amazon-number-of-atoms)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-atoms)|Jul 10, 2026|
+|**Amazon**|[Minimum Redistribution Cost](https://www.fastprep.io/problems/amazon-minimum-redistribution-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-redistribution-cost)|Jul 10, 2026|
+|**Amazon**|[Domain Weight Calculation](https://www.fastprep.io/problems/amazon-domain-weight-calculation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-domain-weight-calculation)|Jul 10, 2026|
+|**Amazon**|[Minimum Contiguous Replacements](https://www.fastprep.io/problems/amazon-minimum-contiguous-replacements)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-contiguous-replacements)|Jul 10, 2026|
+|**Walmart**|[K-Capable Model Costs](https://www.fastprep.io/problems/walmart-k-capable-model-costs)|[![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-costs)|Jul 10, 2026|
+|**Google**|[Ad Rotation Scheduler With Cooldown](https://www.fastprep.io/problems/google-ad-rotation-scheduler-with-cooldown)|[![Practice][p]](https://www.fastprep.io/problems/google-ad-rotation-scheduler-with-cooldown)|Jul 10, 2026|
+|**Google**|[Consolidated On-Call Rotations](https://www.fastprep.io/problems/google-consolidated-on-call-rotations)|[![Practice][p]](https://www.fastprep.io/problems/google-consolidated-on-call-rotations)|Jul 10, 2026|
 |**Google**|[Count Connected Point Clusters](https://www.fastprep.io/problems/google-count-connected-point-clusters)|[![Practice][p]](https://www.fastprep.io/problems/google-count-connected-point-clusters)|Jul 10, 2026|
 |**Google**|[Longest Target Run After Replacements](https://www.fastprep.io/problems/google-longest-target-run-after-replacements)|[![Practice][p]](https://www.fastprep.io/problems/google-longest-target-run-after-replacements)|Jul 10, 2026|
 |**Hudson River Trading**|[Backtick Identifier Converter](https://www.fastprep.io/problems/hrt-backtick-identifier-converter)|[![Practice][p]](https://www.fastprep.io/problems/hrt-backtick-identifier-converter)|Jul 10, 2026|
@@ -306,7 +326,6 @@
 |**Maven Clinic**|[Shortest Currency Conversion with Three-Decimal Rate](https://www.fastprep.io/problems/maven-clinic-shortest-currency-conversion)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-shortest-currency-conversion)|Mar 11, 2026|
 |**Datadog**|[Filter Words by Stored Prefixes](https://www.fastprep.io/problems/datadog-prefix-filter)|[![Practice][p]](https://www.fastprep.io/problems/datadog-prefix-filter)|Mar 10, 2026|
 |**OpenAI**|[Cogwheel Rotation Directions](https://www.fastprep.io/problems/openai-cogwheel-rotation-directions)|[![Practice][p]](https://www.fastprep.io/problems/openai-cogwheel-rotation-directions)|Mar 09, 2026|
-|**OpenAI**|[Digit-Sum Sequence Join Point](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|[![Practice][p]](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|Mar 09, 2026|
 |**OpenAI**|[Minimum Dining Table Rotations](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|[![Practice][p]](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|Mar 09, 2026|
 |**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
@@ -612,10 +631,6 @@
 |**TikTok**|[Check Monotonic Triples](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Jul 26, 2025|
 |**TikTok**|[Shift Every K-th Consonant](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Jul 26, 2025|
 |**Together AI**|[Find GPU Capacity and Drain a Node](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|[![Practice][p]](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Jul 26, 2025|
-|**Virtu Financial**|[Count Substrings With Identical Characters](https://www.fastprep.io/problems/virtu-count-identical-character-substrings)|[![Practice][p]](https://www.fastprep.io/problems/virtu-count-identical-character-substrings)|Jul 26, 2025|
-|**Virtu Financial**|[HexSpeak](https://www.fastprep.io/problems/virtu-hexspeak)|[![Practice][p]](https://www.fastprep.io/problems/virtu-hexspeak)|Jul 26, 2025|
-|**Virtu Financial**|[Maximum Apples That Fit in a Box](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|[![Practice][p]](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|Jul 26, 2025|
-|**Virtu Financial**|[Minimum Steps to a Fibonacci Number](https://www.fastprep.io/problems/virtu-minimum-steps-to-fibonacci)|[![Practice][p]](https://www.fastprep.io/problems/virtu-minimum-steps-to-fibonacci)|Jul 26, 2025|
 |**Zoox**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|Jul 26, 2025|
 |**Arcesium**|[City Infection Number](https://www.fastprep.io/problems/arcesium-city-infection-number)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-city-infection-number)|Jul 23, 2025|
 |**Arcesium**|[Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Jul 23, 2025|
@@ -1928,19 +1943,4 @@
 |**Optiver**|[Dynamic Future Pricing](https://www.fastprep.io/problems/optiver-future-pricing)|[![Practice][p]](https://www.fastprep.io/problems/optiver-future-pricing)|Oct 21, 2022|
 |**ZipRecruiter**|[Check a Cyclic Next-Character String](https://www.fastprep.io/problems/ziprecruiter-next-character-string)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-next-character-string)|Oct 21, 2022|
 |**ZipRecruiter**|[Number-Line Obstacles and Block Checks](https://www.fastprep.io/problems/ziprecruiter-number-line-obstacles)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-number-line-obstacles)|Oct 21, 2022|
-|**ZipRecruiter**|[Square Matrix Rotation and Reflections](https://www.fastprep.io/problems/ziprecruiter-square-matrix-transforms)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-square-matrix-transforms)|Oct 21, 2022|
-|**Bloomberg LP**|[Implement Stack Using Two Queues](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|Oct 19, 2022|
-|**ZipRecruiter**|[Running Union Length after Interval Uploads](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|Oct 18, 2022|
-|**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
-|**Intuit**|[Longest Anchored Song Chain](https://www.fastprep.io/problems/intuit-longest-song-chain)|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-song-chain)|Oct 16, 2022|
-|**Intuit**|[Race a Friend to a Shared Home](https://www.fastprep.io/problems/intuit-race-friend-home)|[![Practice][p]](https://www.fastprep.io/problems/intuit-race-friend-home)|Oct 15, 2022|
-|**Intuit**|[Can You Finish All Courses?](https://www.fastprep.io/problems/intuit-course-schedule-feasibility)|[![Practice][p]](https://www.fastprep.io/problems/intuit-course-schedule-feasibility)|Oct 14, 2022|
-|**Bloomberg LP**|[Maximize Circular Rover Travel](https://www.fastprep.io/problems/bloomberg-maximize-circular-rover-travel)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximize-circular-rover-travel)|Oct 11, 2022|
-|**ZipRecruiter**|[Circular Server Scheduling with Recovery](https://www.fastprep.io/problems/ziprecruiter-circular-server-recovery)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-circular-server-recovery)|Oct 11, 2022|
-|**ZipRecruiter**|[Distribute Values by Distance from Current Averages](https://www.fastprep.io/problems/ziprecruiter-distribute-by-average-distance)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-distribute-by-average-distance)|Oct 11, 2022|
-|**ZipRecruiter**|[House Segments After Removals](https://www.fastprep.io/problems/ziprecruiter-house-segments-after-removals)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-house-segments-after-removals)|Oct 11, 2022|
-|**ZipRecruiter**|[Rearrange a String Outside In](https://www.fastprep.io/problems/ziprecruiter-outside-in-string)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-outside-in-string)|Oct 10, 2022|
-|**ZipRecruiter**|[Query Box Inside Every Saved Rectangle](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|Oct 10, 2022|
-|**ZipRecruiter**|[Sliding Window Rate Limiter](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Oct 09, 2022|
-|**ZipRecruiter**|[Find a Symbolic Pattern in a Numeric Matrix](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|Oct 09, 2022|
 <a id="bottom"></a>
