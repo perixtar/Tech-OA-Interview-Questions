@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,200 questions**
+**4,236 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -138,6 +138,19 @@
 |**HSBC**|[Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Jun 21, 2026|
 |**HSBC**|[Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Jun 21, 2026|
 |**Amazon**|[Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Jun 19, 2026|
+|**The Walt Disney Company**|[Coin Change](https://www.fastprep.io/problems/the-walt-disney-company-coin-change)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-coin-change)|Jun 19, 2026|
+|**The Walt Disney Company**|[Design Linked List](https://www.fastprep.io/problems/the-walt-disney-company-design-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-design-linked-list)|Jun 19, 2026|
+|**The Walt Disney Company**|[Generate Parentheses](https://www.fastprep.io/problems/the-walt-disney-company-generate-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-generate-parentheses)|Jun 19, 2026|
+|**The Walt Disney Company**|[Meeting Rooms II](https://www.fastprep.io/problems/the-walt-disney-company-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-meeting-rooms-ii)|Jun 19, 2026|
+|**The Walt Disney Company**|[Merge K Sorted Linked Lists](https://www.fastprep.io/problems/the-walt-disney-company-merge-k-sorted-lists)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-merge-k-sorted-lists)|Jun 19, 2026|
+|**The Walt Disney Company**|[Merge Two Sorted Lists](https://www.fastprep.io/problems/the-walt-disney-company-merge-two-sorted-lists)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-merge-two-sorted-lists)|Jun 19, 2026|
+|**The Walt Disney Company**|[Next Greater Element III](https://www.fastprep.io/problems/the-walt-disney-company-next-greater-element-iii)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-next-greater-element-iii)|Jun 19, 2026|
+|**The Walt Disney Company**|[Queue Using Two Stacks](https://www.fastprep.io/problems/the-walt-disney-company-queue-using-stacks)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-queue-using-stacks)|Jun 19, 2026|
+|**The Walt Disney Company**|[Ransom Note](https://www.fastprep.io/problems/the-walt-disney-company-ransom-note)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-ransom-note)|Jun 19, 2026|
+|**The Walt Disney Company**|[Reverse Linked List](https://www.fastprep.io/problems/the-walt-disney-company-reverse-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-reverse-linked-list)|Jun 19, 2026|
+|**The Walt Disney Company**|[Reverse String In Place](https://www.fastprep.io/problems/the-walt-disney-company-reverse-string)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-reverse-string)|Jun 19, 2026|
+|**The Walt Disney Company**|[Two Sum](https://www.fastprep.io/problems/the-walt-disney-company-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-two-sum)|Jun 19, 2026|
+|**The Walt Disney Company**|[Valid Palindrome](https://www.fastprep.io/problems/the-walt-disney-company-valid-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-valid-palindrome)|Jun 19, 2026|
 |**Meesho**|[Efficient Deployments](https://www.fastprep.io/problems/meesho-efficient-deployments)|[![Practice][p]](https://www.fastprep.io/problems/meesho-efficient-deployments)|Jun 18, 2026|
 |**Google**|[Minimum Tree Value After Leaf Relocations](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Jun 18, 2026|
 |**Maven Clinic**|[Minimum Appointment Cancellations with a Required Break](https://www.fastprep.io/problems/maven-clinic-minimum-appointment-cancellations)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-minimum-appointment-cancellations)|Jun 18, 2026|
@@ -439,6 +452,8 @@
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
 |**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
+|**The Walt Disney Company**|[LRU Cache](https://www.fastprep.io/problems/the-walt-disney-company-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-lru-cache)|Jan 12, 2026|
+|**The Walt Disney Company**|[Single-Rule Ad Filter](https://www.fastprep.io/problems/the-walt-disney-company-single-rule-ad-filter)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-single-rule-ad-filter)|Jan 12, 2026|
 |**PeopleStrong**|[Level of the Minimum-Sum Subtree](https://www.fastprep.io/problems/peoplestrong-minimum-sum-subtree-level)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-sum-subtree-level)|Jan 10, 2026|
 |**Amazon**|[Longest Arithmetic Subarray After One Change](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Jan 06, 2026|
 |**Amazon**|[Replace Values and Return Sums](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|[![Practice][p]](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|Jan 06, 2026|
@@ -461,6 +476,7 @@
 |**HackerRank**|[Ball Passing at Time K](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Dec 17, 2025|
 |**HackerRank**|[Longest Equal Binary Subarray](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Dec 17, 2025|
 |**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|
+|**The Walt Disney Company**|[Meeting of Points Moving Toward Initial Successors](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Dec 17, 2025|
 |**Zip**|[Maximum Nonadjacent Sum in a General Tree](https://www.fastprep.io/problems/zip-tree-independent-set)|[![Practice][p]](https://www.fastprep.io/problems/zip-tree-independent-set)|Dec 16, 2025|
 |**Visa**|[Previous Bus Departure](https://www.fastprep.io/problems/visa-previous-bus-departure)|[![Practice][p]](https://www.fastprep.io/problems/visa-previous-bus-departure)|Dec 16, 2025|
 |**Zopsmart**|[Base36 Square Root](https://www.fastprep.io/problems/zopsmart-base36-square-root)|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Dec 16, 2025|
@@ -531,6 +547,7 @@
 |**Bloomberg LP**|[Design Search Autocomplete System](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|Oct 28, 2025|
 |**Bloomberg LP**|[Deep Copy a Random-Pointer List](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|Oct 28, 2025|
 |**Mastercard**|[Container With Most Water](https://www.fastprep.io/problems/mastercard-container-with-most-water)|[![Practice][p]](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Oct 27, 2025|
+|**The Walt Disney Company**|[Integer to Binary Representation](https://www.fastprep.io/problems/the-walt-disney-company-integer-to-binary)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-integer-to-binary)|Oct 27, 2025|
 |**Rippling**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/rippling-merge-two-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-two-sorted-arrays)|Oct 25, 2025|
 |**NVIDIA**|[Count Splits with Larger Left Sum](https://www.fastprep.io/problems/nvidia-count-left-greater-splits)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-count-left-greater-splits)|Oct 25, 2025|
 |**Rippling**|[Maximum Parenthesis Nesting Depth](https://www.fastprep.io/problems/rippling-maximum-parenthesis-depth)|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-parenthesis-depth)|Oct 22, 2025|
@@ -576,10 +593,12 @@
 |**Apple**|[Implement Multi-Head Attention](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|[![Practice][p]](https://www.fastprep.io/problems/apple-multi-head-attention-forward)|Sep 13, 2025|
 |**Apple**|[Implement Beam Search Decoding](https://www.fastprep.io/problems/apple-fixed-length-beam-search)|[![Practice][p]](https://www.fastprep.io/problems/apple-fixed-length-beam-search)|Sep 13, 2025|
 |**PeopleStrong**|[Valid Parentheses](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|Sep 11, 2025|
+|**The Walt Disney Company**|[Flatten and Reconstruct an Ordered Tree](https://www.fastprep.io/problems/the-walt-disney-company-ordered-tree-flatten-reconstruct)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-ordered-tree-flatten-reconstruct)|Sep 09, 2025|
 |**Cerebras**|[Implement Binary Search From Scratch](https://www.fastprep.io/problems/cerebras-binary-search)|[![Practice][p]](https://www.fastprep.io/problems/cerebras-binary-search)|Sep 06, 2025|
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
 |**Goldman Sachs**|[Data Reorganization](https://www.fastprep.io/problems/goldman-get-minimum-value)|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-value)|Sep 06, 2025|
 |**Benchling**|[Future-Aware Cache Eviction](https://www.fastprep.io/problems/benchling-future-aware-cache-eviction)|[![Practice][p]](https://www.fastprep.io/problems/benchling-future-aware-cache-eviction)|Aug 29, 2025|
+|**The Walt Disney Company**|[Maximum Unique Substring Split](https://www.fastprep.io/problems/the-walt-disney-company-maximum-unique-substring-split)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-maximum-unique-substring-split)|Aug 29, 2025|
 |**Maven Clinic**|[Configurable Valid Brackets](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Aug 28, 2025|
 |**Maven Clinic**|[Longest Valid Parentheses](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Aug 28, 2025|
 |**Maven Clinic**|[Meeting Rooms II](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Aug 28, 2025|
@@ -590,6 +609,8 @@
 |**SpaceX**|[Rocket Component Cost](https://www.fastprep.io/problems/spacex-rocket-component-cost)|[![Practice][p]](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Aug 22, 2025|
 |**Shopify**|[Filter Words Containing a Letter](https://www.fastprep.io/problems/shopify-filter-words-containing-letter)|[![Practice][p]](https://www.fastprep.io/problems/shopify-filter-words-containing-letter)|Aug 22, 2025|
 |**Shopify**|[Paint House](https://www.fastprep.io/problems/shopify-paint-house)|[![Practice][p]](https://www.fastprep.io/problems/shopify-paint-house)|Aug 22, 2025|
+|**The Walt Disney Company**|[Sorted Two Sum: All Index Pairs](https://www.fastprep.io/problems/the-walt-disney-company-sorted-two-sum-all-index-pairs)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-sorted-two-sum-all-index-pairs)|Aug 22, 2025|
+|**The Walt Disney Company**|[Three Sum](https://www.fastprep.io/problems/the-walt-disney-company-three-sum)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-three-sum)|Aug 22, 2025|
 |**Rippling**|[Median Across N Sorted Arrays](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|Aug 18, 2025|
 |**Apple**|[Top K Frequent Elements](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|[![Practice][p]](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|Aug 15, 2025|
 |**Apple**|[Coin Change](https://www.fastprep.io/problems/apple-coin-change)|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change)|Aug 14, 2025|
@@ -715,6 +736,7 @@
 |**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
 |**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
 |**Klaviyo**|[File Storage with User Quotas, Merging, Backups, and Restore](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Jun 09, 2025|
+|**The Walt Disney Company**|[Rank Vectors by Dot-Product Similarity](https://www.fastprep.io/problems/the-walt-disney-company-rank-vectors-by-dot-product)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-rank-vectors-by-dot-product)|Jun 06, 2025|
 |**Datadog**|[Deduplicated Query Registration](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|[![Practice][p]](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Jun 01, 2025|
 |**Datadog**|[Return a Minimum-Coin Change Breakdown](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|[![Practice][p]](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Jun 01, 2025|
 |**Datadog**|[Find Repeated Substrings Ignoring Case](https://www.fastprep.io/problems/datadog-repeated-substrings)|[![Practice][p]](https://www.fastprep.io/problems/datadog-repeated-substrings)|Jun 01, 2025|
@@ -787,6 +809,7 @@
 |**SpaceX**|[DNA Sequence Match](https://www.fastprep.io/problems/spacex-dna-sequence-match)|[![Practice][p]](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Apr 05, 2025|
 |**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
+|**The Walt Disney Company**|[Remove All Adjacent Duplicates in String II](https://www.fastprep.io/problems/the-walt-disney-company-remove-adjacent-duplicates-ii)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-remove-adjacent-duplicates-ii)|Apr 05, 2025|
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
 |**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
 |**Amazon**|[Cinema Shows](https://www.fastprep.io/problems/amazon-cinema-shows)|[![Practice][p]](https://www.fastprep.io/problems/amazon-cinema-shows)|Mar 31, 2025|
@@ -1020,6 +1043,7 @@
 |**TikTok**|[Server Network Optimizations](https://www.fastprep.io/problems/tiktok-server-network-optimization)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-server-network-optimization)|Oct 20, 2024|
 |**Amazon**|[Get Max Programs](https://www.fastprep.io/problems/amazon-get-max-programs)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-programs)|Oct 19, 2024|
 |**Amazon**|[Find Minimum Time](https://www.fastprep.io/problems/amazon-find-minimum-time)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time)|Oct 19, 2024|
+|**The Walt Disney Company**|[Longest Substring Without Repeated Characters](https://www.fastprep.io/problems/the-walt-disney-company-longest-substring-without-repeats)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-longest-substring-without-repeats)|Oct 18, 2024|
 |**Rippling**|[Single-Source Shortest Paths](https://www.fastprep.io/problems/rippling-single-source-shortest-paths)|[![Practice][p]](https://www.fastprep.io/problems/rippling-single-source-shortest-paths)|Oct 15, 2024|
 |**Rippling**|[Top K Frequent Elements](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|[![Practice][p]](https://www.fastprep.io/problems/rippling-top-k-frequent-elements)|Oct 15, 2024|
 |**Google**|[Count Distinct Values in a Sorted Array](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|[![Practice][p]](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|Oct 14, 2024|
@@ -1331,6 +1355,7 @@
 |**TikTok**|[Find Good Subarray](https://www.fastprep.io/problems/tiktok-find-good-subarray)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-good-subarray)|Aug 10, 2024|
 |**TikTok**|[Card Packets](https://www.fastprep.io/problems/tiktok-card-packets)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-card-packets)|Aug 10, 2024|
 |**Databricks**|[Count Pairs](https://www.fastprep.io/problems/dd-count-pairs)|[![Practice][p]](https://www.fastprep.io/problems/dd-count-pairs)|Aug 10, 2024|
+|**The Walt Disney Company**|[Find Maximal Uncovered Ranges](https://www.fastprep.io/problems/the-walt-disney-company-maximal-uncovered-ranges)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-maximal-uncovered-ranges)|Aug 09, 2024|
 |**Google**|[Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right)|[![Practice][p]](https://www.fastprep.io/problems/google-move-bits-to-right)|Aug 08, 2024|
 |**Eat Club**|[Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|[![Practice][p]](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Aug 08, 2024|
 |**Eat Club**|[Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|[![Practice][p]](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Aug 08, 2024|
@@ -1470,6 +1495,7 @@
 |**Motive**|[Maximum Product of Three Numbers](https://www.fastprep.io/problems/motive-maximum-product-of-three-numbers)|[![Practice][p]](https://www.fastprep.io/problems/motive-maximum-product-of-three-numbers)|May 24, 2024|
 |**Motive**|[Chunked Round-Robin Row Traversal](https://www.fastprep.io/problems/motive-round-robin-row-iterator)|[![Practice][p]](https://www.fastprep.io/problems/motive-round-robin-row-iterator)|May 24, 2024|
 |**Postman**|[Encode and Decode a String Stream](https://www.fastprep.io/problems/postman-transform-string-stream)|[![Practice][p]](https://www.fastprep.io/problems/postman-transform-string-stream)|May 17, 2024|
+|**The Walt Disney Company**|[Number of Islands](https://www.fastprep.io/problems/the-walt-disney-company-number-of-islands)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-number-of-islands)|May 16, 2024|
 |**Amazon**|[Get Experience](https://www.fastprep.io/problems/amazon-get-exp)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-exp)|May 13, 2024|
 |**Uber**|[Maximize XOR for Each Query](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query)|May 13, 2024|
 |**Microsoft**|[Find Min Num Moves](https://www.fastprep.io/problems/microsoft-find-min-num-moves)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-min-num-moves)|May 13, 2024|
@@ -1737,6 +1763,7 @@
 |**Oracle**|[Get Discounted Price](https://www.fastprep.io/problems/oracle-get-discounted-price)|[![Practice][p]](https://www.fastprep.io/problems/oracle-get-discounted-price)|Feb 14, 2024|
 |**Oracle**|[Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort)|[![Practice][p]](https://www.fastprep.io/problems/oracle-cardinality-sort)|Feb 14, 2024|
 |**Navan**|[Snake-Case Iterator to Camel Case](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|[![Practice][p]](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|Feb 10, 2024|
+|**The Walt Disney Company**|[Three Word Suggestions for Every Prefix](https://www.fastprep.io/problems/the-walt-disney-company-word-suggestions-by-prefix)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-word-suggestions-by-prefix)|Feb 09, 2024|
 |**Meta**|[Combine Two Vectors of Intervals (MLE) 🙌](https://www.fastprep.io/problems/mt-combine-two-vectors-of-intervals)|[![Practice][p]](https://www.fastprep.io/problems/mt-combine-two-vectors-of-intervals)|Feb 08, 2024|
 |**IBM**|[Find Missing Integers](https://www.fastprep.io/problems/ibm-find-missing-integer)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-missing-integer)|Feb 08, 2024|
 |**IBM**|[Merge Arrays](https://www.fastprep.io/problems/ibm-merge-arrays)|[![Practice][p]](https://www.fastprep.io/problems/ibm-merge-arrays)|Feb 08, 2024|
@@ -1801,6 +1828,9 @@
 |**Goldman Sachs**|[Longest Subarray](https://www.fastprep.io/problems/longest-subarray)|[![Practice][p]](https://www.fastprep.io/problems/longest-subarray)|Jan 09, 2024|
 |**Vanguard**|[Check String Permutation](https://www.fastprep.io/problems/vanguard-check-string-permutation)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-check-string-permutation)|Jan 09, 2024|
 |**ZipRecruiter**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Jan 08, 2024|
+|**The Walt Disney Company**|[Hub Vertices Within a Radius](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|Jan 08, 2024|
+|**The Walt Disney Company**|[Generate a Connected Graph and Find a Shortest Path](https://www.fastprep.io/problems/the-walt-disney-company-random-connected-graph-shortest-path)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-random-connected-graph-shortest-path)|Jan 08, 2024|
+|**The Walt Disney Company**|[Song Duration Pairs Divisible by 60](https://www.fastprep.io/problems/the-walt-disney-company-song-duration-index-pairs)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-song-duration-index-pairs)|Jan 08, 2024|
 |**Amazon**|[Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups)|[![Practice][p]](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Jan 07, 2024|
 |**Cisco**|[Maximum Chocolates from Jars](https://www.fastprep.io/problems/cisco-maximum-chocolates-from-jars)|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-chocolates-from-jars)|Jan 02, 2024|
 |**Headlands Technologies**|[Exclusive Function Execution Times](https://www.fastprep.io/problems/headlands-exclusive-function-execution-times)|[![Practice][p]](https://www.fastprep.io/problems/headlands-exclusive-function-execution-times)|Jan 01, 2024|
@@ -1890,6 +1920,7 @@
 |**Odoo**|[HTML Elements Single-Tag Correction](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|[![Practice][p]](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Sep 18, 2023|
 |**WhatNot**|[Detect Blocked Chat Messages](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|Sep 15, 2023|
 |**Figma**|[Sparse Canvas Paint History](https://www.fastprep.io/problems/figma-canvas-paint-history)|[![Practice][p]](https://www.fastprep.io/problems/figma-canvas-paint-history)|Sep 13, 2023|
+|**The Walt Disney Company**|[Movie Recommendations by Jaccard Similarity](https://www.fastprep.io/problems/the-walt-disney-company-movie-jaccard-recommendations)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-movie-jaccard-recommendations)|Sep 06, 2023|
 |**Optiver**|[Numbers Station Message Decoder](https://www.fastprep.io/problems/optiver-numbers-station)|[![Practice][p]](https://www.fastprep.io/problems/optiver-numbers-station)|Sep 05, 2023|
 |**Amazon**|[Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count)|[![Practice][p]](https://www.fastprep.io/problems/get-mean-rank-count)|Aug 31, 2023|
 |**Amazon**|[Count Spikes](https://www.fastprep.io/problems/count-spikes)|[![Practice][p]](https://www.fastprep.io/problems/count-spikes)|Aug 31, 2023|
@@ -1908,40 +1939,4 @@
 |**Datadog**|[Encoded String Match](https://www.fastprep.io/problems/datadog-encoded-string-match)|[![Practice][p]](https://www.fastprep.io/problems/datadog-encoded-string-match)|Aug 03, 2023|
 |**Optiver**|[Worst Trade Reporter](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|[![Practice][p]](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Jul 25, 2023|
 |**Optiver**|[Truck Position Subscriber](https://www.fastprep.io/problems/optiver-truck-positions)|[![Practice][p]](https://www.fastprep.io/problems/optiver-truck-positions)|Jul 25, 2023|
-|**WhatNot**|[Sorted Squares in Descending Order](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|Jul 25, 2023|
-|**Marshall Wace**|[Smallest Larger Integer with Twice the Digit Sum](https://www.fastprep.io/problems/marshall-wace-double-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-double-digit-sum)|Jul 23, 2023|
-|**Marshall Wace**|[Maximum Frog Separation with One Upward Jump (Practice Reconstruction)](https://www.fastprep.io/problems/marshall-wace-one-jump-frog-separation)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-jump-frog-separation)|Jul 23, 2023|
-|**Marshall Wace**|[Minimum Deletions Before Rearranging into a Palindrome](https://www.fastprep.io/problems/marshall-wace-palindrome-rearrangement-deletions)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-palindrome-rearrangement-deletions)|Jul 23, 2023|
-|**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
-|**Headlands Technologies**|[Decode a Run-Length Stream](https://www.fastprep.io/problems/headlands-stream-decoder)|[![Practice][p]](https://www.fastprep.io/problems/headlands-stream-decoder)|Jun 03, 2023|
-|**Motive**|[Basic Calculator](https://www.fastprep.io/problems/motive-basic-calculator)|[![Practice][p]](https://www.fastprep.io/problems/motive-basic-calculator)|Jun 01, 2023|
-|**Motive**|[All Anagram Start Indices](https://www.fastprep.io/problems/motive-find-all-anagram-start-indices)|[![Practice][p]](https://www.fastprep.io/problems/motive-find-all-anagram-start-indices)|Jun 01, 2023|
-|**Motive**|[Palindrome Permutation](https://www.fastprep.io/problems/motive-palindrome-permutation)|[![Practice][p]](https://www.fastprep.io/problems/motive-palindrome-permutation)|Jun 01, 2023|
-|**Motive**|[Valid Anagram](https://www.fastprep.io/problems/motive-valid-anagram)|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-anagram)|Jun 01, 2023|
-|**Motive**|[Valid Palindrome](https://www.fastprep.io/problems/motive-valid-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-palindrome)|Jun 01, 2023|
-|**Airbnb**|[Validate BST Node Descriptions](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|May 17, 2023|
-|**Datadog**|[Count Repetitions for Each Word](https://www.fastprep.io/problems/datadog-per-word-repetition-counts)|[![Practice][p]](https://www.fastprep.io/problems/datadog-per-word-repetition-counts)|May 16, 2023|
-|**Navan**|[Lexicographically Largest Distinct-Letter Subsequence](https://www.fastprep.io/problems/navan-lexicographically-largest-distinct-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/navan-lexicographically-largest-distinct-subsequence)|May 11, 2023|
-|**Datadog**|[Buffered Reading with a Read4-Style Stream](https://www.fastprep.io/problems/datadog-buffered-read4-stream)|[![Practice][p]](https://www.fastprep.io/problems/datadog-buffered-read4-stream)|May 06, 2023|
-|**Airbnb**|[Minimum Cost to Remove Stones](https://www.fastprep.io/problems/airbnb-minimum-cost-to-remove-stones)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-cost-to-remove-stones)|Apr 09, 2023|
-|**Airbyte**|[Minesweeper Board Update](https://www.fastprep.io/problems/airbyte-minesweeper-board-update)|[![Practice][p]](https://www.fastprep.io/problems/airbyte-minesweeper-board-update)|Mar 29, 2023|
-|**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
-|**Coalition**|[Evaluate Reverse Polish Notation](https://www.fastprep.io/problems/coalition-evaluate-reverse-polish-notation)|[![Practice][p]](https://www.fastprep.io/problems/coalition-evaluate-reverse-polish-notation)|Mar 17, 2023|
-|**WhatNot**|[Word Search](https://www.fastprep.io/problems/whatnot-word-search)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-word-search)|Mar 07, 2023|
-|**Bloomberg LP**|[Bank Operating-Hours Coverage](https://www.fastprep.io/problems/bloomberg-bank-interval-coverage)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-bank-interval-coverage)|Feb 22, 2023|
-|**Bloomberg LP**|[Count Teams Outscoring a Target Team](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|Feb 22, 2023|
-|**Bloomberg LP**|[Number of Islands](https://www.fastprep.io/problems/bloomberg-number-of-islands)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Feb 22, 2023|
-|**Marshall Wace**|[Maximum Separation of Two Frogs on Adjacent Blocks](https://www.fastprep.io/problems/marshall-wace-frog-separation)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-frog-separation)|Feb 19, 2023|
-|**Marshall Wace**|[Count Soldiers with a Next-Rank Superior](https://www.fastprep.io/problems/marshall-wace-soldiers-next-rank)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-soldiers-next-rank)|Feb 19, 2023|
-|**Marshall Wace**|[Maximum Unique-Tagged Points in an Origin-Centred Circle](https://www.fastprep.io/problems/marshall-wace-unique-tags-circle)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-unique-tags-circle)|Feb 19, 2023|
-|**ZipRecruiter**|[Format a Centered Paragraph in a Star Frame](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|Feb 07, 2023|
-|**ZipRecruiter**|[Count Prefix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Feb 07, 2023|
-|**Expedia**|[Finding Integers](https://www.fastprep.io/problems/expedia-finding-integers)|[![Practice][p]](https://www.fastprep.io/problems/expedia-finding-integers)|Feb 01, 2023|
-|**Expedia**|[Data Updates](https://www.fastprep.io/problems/expedia-data-updates)|[![Practice][p]](https://www.fastprep.io/problems/expedia-data-updates)|Feb 01, 2023|
-|**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
-|**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
-|**WhatNot**|[Group Anagram Names](https://www.fastprep.io/problems/whatnot-group-anagram-names)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-group-anagram-names)|Jan 10, 2023|
-|**Vanguard**|[Binge Watching](https://www.fastprep.io/problems/vanguard-binge-watching)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-binge-watching)|Jan 02, 2023|
-|**ZipRecruiter**|[K-Group Digit-Sum Compression](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Dec 28, 2022|
-|**ZipRecruiter**|[Render Wrapped Two-Party Chat Lines](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|Dec 28, 2022|
 <a id="bottom"></a>

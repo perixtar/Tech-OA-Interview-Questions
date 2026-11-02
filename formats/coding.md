@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,200 questions**
+**4,236 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1159,9 +1159,9 @@
 |**Applied Intuition**|[Merge Overlapping Closed Intervals](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Sep 14, 2026|
 |**LinkedIn**|[Restricted Decimal Number Validator](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Sep 14, 2026|
 |**LinkedIn**|[Second Minimum in a Tournament Tree](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Sep 14, 2026|
-|**The Walt Disney Company**|[Resizable Array-Backed Integer Set](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Sep 14, 2026|
 |**Google**|[Find the Duplicate Number Without Modifying the Array](https://www.fastprep.io/problems/google-find-the-duplicate-number)|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Sep 14, 2026|
 |**Google**|[Set Matrix Zeroes](https://www.fastprep.io/problems/google-set-matrix-zeroes)|[![Practice][p]](https://www.fastprep.io/problems/google-set-matrix-zeroes)|Sep 14, 2026|
+|**The Walt Disney Company**|[Resizable Array-Backed Integer Set](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Sep 13, 2026|
 |**Citadel**|[Exchange BBO and Market-Wide NBBO](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Sep 13, 2026|
 |**Google**|[Determine Whether Two Horses Are Genetically Related](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|[![Practice][p]](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Sep 13, 2026|
 |**Juspay**|[Sum Dynamic Weighted Tree Distances](https://www.fastprep.io/problems/juspay-dynamic-weighted-tree-distance-sum)|[![Practice][p]](https://www.fastprep.io/problems/juspay-dynamic-weighted-tree-distance-sum)|Sep 13, 2026|
