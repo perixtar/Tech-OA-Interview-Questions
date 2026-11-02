@@ -9,6 +9,20 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Mygate**|[Merge Sorted Arrays with Duplicates](https://www.fastprep.io/problems/mygate-merge-arrays-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-merge-arrays-duplicates)|Jan 19, 2019|
+|**Datadog**|[Longest Common URL History Run](https://www.fastprep.io/problems/datadog-longest-common-url-run)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-longest-common-url-run)|Jan 15, 2019|
+|**Datadog**|[Subdomain Visit Counts](https://www.fastprep.io/problems/datadog-subdomain-visit-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-subdomain-visit-counts)|Jan 15, 2019|
+|**Intuit**|[Earliest Hour with Frequent Badge Access](https://www.fastprep.io/problems/intuit-earliest-frequent-access-hour)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-earliest-frequent-access-hour)|Dec 30, 2018|
+|**Intuit**|[Resolve Inherited Server Configuration](https://www.fastprep.io/problems/intuit-inherited-server-configuration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-inherited-server-configuration)|Nov 03, 2018|
+|**Intuit**|[Longest Common Contiguous String Sequence](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Sep 29, 2018|
+|**AMD**|[AND Gate with Multiplexers](https://www.fastprep.io/problems/amd-and-gate-with-mux)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-and-gate-with-mux)|Jul 10, 2018|
+|**AMD**|[XOR Gate with Multiplexers](https://www.fastprep.io/problems/amd-xor-gate-with-mux)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-xor-gate-with-mux)|Jul 10, 2018|
+|**Apple**|[Next Leaf in an Ordered Tree](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|May 17, 2018|
+|**Bloomberg LP**|[Group Values into Equivalence Classes](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|May 16, 2018|
+|**Bloomberg LP**|[Implement a Dynamic Array Vector](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|May 16, 2018|
+|**Bloomberg LP**|[Longest Palindromic Substring](https://www.fastprep.io/problems/bloomberg-longest-palindromic-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-palindromic-substring)|May 16, 2018|
+|**Morgan Stanley**|[Design a Company Payroll Allocation Database](https://www.fastprep.io/system-design/company-payroll-allocation-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/company-payroll-allocation-database)|May 11, 2018|
+|**Bloomberg LP**|[Latest Top 100 News Stories](https://www.fastprep.io/problems/bloomberg-latest-top-100-news-stories)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-latest-top-100-news-stories)|May 07, 2018|
 |**Bloomberg LP**|[Furthest Episode Meeting a Completion Threshold](https://www.fastprep.io/problems/bloomberg-series-episode-completion-threshold)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-series-episode-completion-threshold)|May 07, 2018|
 |**Headlands Technologies**|[Design an Incremental Lattice Coverage Tracker](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|Apr 17, 2018|
 |**Intuit**|[Earliest Concurrent Workflow Stages](https://www.fastprep.io/problems/intuit-earliest-workflow-stages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-earliest-workflow-stages)|Nov 02, 2017|

@@ -2,19 +2,34 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,185 questions**
+**4,200 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Index of the First Non-Repeating Character](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|Dec 15, 2022|
+|**Bloomberg LP**|[Most-Frequent Next-Word Predictor](https://www.fastprep.io/problems/bloomberg-most-common-next-word)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-most-common-next-word)|Dec 15, 2022|
+|**Old Mission**|[Implement an Unordered Map](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Dec 13, 2022|
+|**Chainalysis**|[Course Schedule II](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|Dec 10, 2022|
+|**Chainalysis**|[Longest Common Suffix](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Dec 10, 2022|
+|**Expedia**|[Two Sum](https://www.fastprep.io/problems/expedia-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/expedia-two-sum)|Dec 06, 2022|
+|**Expedia**|[Maximum Even Subsequence Sum](https://www.fastprep.io/problems/expedia-maximum-even-subsequence-sum)|[![Practice][p]](https://www.fastprep.io/problems/expedia-maximum-even-subsequence-sum)|Nov 28, 2022|
+|**Expedia**|[Palindrome-Rearrangeable Pairs](https://www.fastprep.io/problems/expedia-count-palindrome-rearrangeable-pairs)|[![Practice][p]](https://www.fastprep.io/problems/expedia-count-palindrome-rearrangeable-pairs)|Nov 28, 2022|
+|**Bloomberg LP**|[Next Permutation](https://www.fastprep.io/problems/bloomberg-next-permutation)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-next-permutation)|Nov 28, 2022|
+|**Expedia**|[Partition into Equal-Sum Subsets](https://www.fastprep.io/problems/expedia-partition-equal-subset-sum)|[![Practice][p]](https://www.fastprep.io/problems/expedia-partition-equal-subset-sum)|Nov 24, 2022|
+|**Expedia**|[Efficient Teams](https://www.fastprep.io/problems/expedia-efficient-teams)|[![Practice][p]](https://www.fastprep.io/problems/expedia-efficient-teams)|Nov 15, 2022|
 |**Bloomberg LP**|[Knight Dialer Sequences](https://www.fastprep.io/problems/bloomberg-knight-dialer)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Nov 14, 2022|
 |**Bloomberg LP**|[Emit an Out-of-Order Packet Stream in Order](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Nov 14, 2022|
 |**ZipRecruiter**|[Alternate through Forest Positions until 100](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|Nov 11, 2022|
 |**ZipRecruiter**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|Nov 11, 2022|
 |**Bloomberg LP**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Nov 09, 2022|
+|**Expedia**|[Min Stack](https://www.fastprep.io/problems/expedia-min-stack)|[![Practice][p]](https://www.fastprep.io/problems/expedia-min-stack)|Nov 08, 2022|
+|**Expedia**|[Assign Cookies](https://www.fastprep.io/problems/expedia-assign-cookies)|[![Practice][p]](https://www.fastprep.io/problems/expedia-assign-cookies)|Nov 08, 2022|
+|**Expedia**|[Merge Two Sorted Linked Lists](https://www.fastprep.io/problems/expedia-merge-two-sorted-linked-lists)|[![Practice][p]](https://www.fastprep.io/problems/expedia-merge-two-sorted-linked-lists)|Nov 08, 2022|
 |**Bloomberg LP**|[Count Unhappy Friends](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|Nov 02, 2022|
 |**Scale AI**|[Platform Referral Rewards](https://www.fastprep.io/problems/scale-ai-platform-referral-rewards)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-platform-referral-rewards)|Nov 01, 2022|
+|**Expedia**|[Kth Smallest Value in a BST](https://www.fastprep.io/problems/expedia-kth-smallest-in-bst)|[![Practice][p]](https://www.fastprep.io/problems/expedia-kth-smallest-in-bst)|Oct 31, 2022|
 |**Bloomberg LP**|[Collatz Conjecture with Shared Memoization](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|Oct 27, 2022|
 |**ZipRecruiter**|[Alternating Signed Digit Sum](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|Oct 26, 2022|
 |**ZipRecruiter**|[Count Distinct Message Mentions](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|Oct 26, 2022|
