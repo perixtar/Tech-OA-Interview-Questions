@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Minimize Malware Spread in a Facility Network](https://www.fastprep.io/problems/amazon-minimize-malware-facility-network)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-malware-facility-network)|Sep 13, 2026|
 |**Amazon**|[Running Delivery Time Medians](https://www.fastprep.io/problems/amazon-running-delivery-time-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-running-delivery-time-medians)|Sep 13, 2026|
 |**Amazon**|[Maximum Non-Adjacent House Value](https://www.fastprep.io/problems/amazon-maximum-non-adjacent-house-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-non-adjacent-house-value)|Sep 13, 2026|
 |**Amazon**|[Employee Ratings Management System](https://www.fastprep.io/problems/amazon-employee-ratings-data-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-employee-ratings-data-structure)|Sep 13, 2026|
@@ -71,7 +72,6 @@
 |**Kickdrum**|[Students and Instructors for Database Systems](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|SQL|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-students-and-instructors-for-database-systems)|Sep 11, 2026|
 |**Kickdrum**|[Undo/Redo Timeline State Engine](https://www.fastprep.io/problems/kickdrum-undo-redo-timeline-state-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-undo-redo-timeline-state-engine)|Sep 11, 2026|
 |**Kickdrum**|[Wormhole Spacecraft Overtakes](https://www.fastprep.io/problems/kickdrum-wormhole-spacecraft-overtakes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-wormhole-spacecraft-overtakes)|Sep 11, 2026|
-|**Replit**|[Compress Editor Actions into Operational Transform Operations](https://www.fastprep.io/problems/replit-compress-editor-actions-to-ot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/replit-compress-editor-actions-to-ot)|Sep 11, 2026|
 |**Toptal**|[Valid Times on a Digital Clock](https://www.fastprep.io/problems/toptal-valid-times-on-a-digital-clock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toptal-valid-times-on-a-digital-clock)|Sep 11, 2026|
 |**FlexTrade**|[Design Fault Localization for a Large Function Graph](https://www.fastprep.io/system-design/fault-localization-for-large-function-graph)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fault-localization-for-large-function-graph)|Sep 11, 2026|
 |**FlexTrade**|[Diagnose a Three-Stage Data Pipeline Latency Regression](https://www.fastprep.io/system-design/three-stage-pipeline-latency-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-stage-pipeline-latency-diagnosis)|Sep 11, 2026|

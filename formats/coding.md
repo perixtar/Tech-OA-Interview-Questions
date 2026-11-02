@@ -165,6 +165,7 @@
 |**Nielsen**|[Preorder of a Special Binary Tree](https://www.fastprep.io/problems/nielsen-special-bst-preorder)|[![Practice][p]](https://www.fastprep.io/problems/nielsen-special-bst-preorder)|🔥 Oct 25, 2026|
 |**NVIDIA**|[Minimize Task Resource Consumption](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|🔥 Oct 25, 2026|
 |**NVIDIA**|[Minimum Project Bid Cost](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|🔥 Oct 25, 2026|
+|**Replit**|[Compress Editor Actions into Operational Transform Operations](https://www.fastprep.io/problems/replit-compress-editor-actions-to-ot)|[![Practice][p]](https://www.fastprep.io/problems/replit-compress-editor-actions-to-ot)|🔥 Oct 25, 2026|
 |**Amazon**|[Reorganize a String](https://www.fastprep.io/problems/amazon-reorganize-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-reorganize-string)|🔥 Oct 24, 2026|
 |**CARS24**|[Daily Temperatures](https://www.fastprep.io/problems/cars24-daily-temperatures)|[![Practice][p]](https://www.fastprep.io/problems/cars24-daily-temperatures)|🔥 Oct 24, 2026|
 |**CARS24**|[LRU Cache Operation Sequence](https://www.fastprep.io/problems/cars24-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/cars24-lru-cache)|🔥 Oct 24, 2026|
@@ -1247,7 +1248,6 @@
 |**The D. E. Shaw Group**|[Remove K Digits](https://www.fastprep.io/problems/de-shaw-remove-k-digits)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-remove-k-digits)|Sep 11, 2026|
 |**Kickdrum**|[Undo/Redo Timeline State Engine](https://www.fastprep.io/problems/kickdrum-undo-redo-timeline-state-engine)|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-undo-redo-timeline-state-engine)|Sep 11, 2026|
 |**Kickdrum**|[Wormhole Spacecraft Overtakes](https://www.fastprep.io/problems/kickdrum-wormhole-spacecraft-overtakes)|[![Practice][p]](https://www.fastprep.io/problems/kickdrum-wormhole-spacecraft-overtakes)|Sep 11, 2026|
-|**Replit**|[Compress Editor Actions into Operational Transform Operations](https://www.fastprep.io/problems/replit-compress-editor-actions-to-ot)|[![Practice][p]](https://www.fastprep.io/problems/replit-compress-editor-actions-to-ot)|Sep 11, 2026|
 |**Toptal**|[Valid Times on a Digital Clock](https://www.fastprep.io/problems/toptal-valid-times-on-a-digital-clock)|[![Practice][p]](https://www.fastprep.io/problems/toptal-valid-times-on-a-digital-clock)|Sep 11, 2026|
 |**Goldman Sachs**|[Minimum Distinct Prefix Cost](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost)|Sep 11, 2026|
 |**Charta Health**|[Concurrent Token-Bucket Rate Limiter](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/charta-health-concurrent-token-bucket-rate-limiter)|Sep 11, 2026|
