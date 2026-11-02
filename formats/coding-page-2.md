@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,159 questions**
+**4,165 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Rippling**|[Camel Cards](https://www.fastprep.io/problems/rippling-camel-cards)|[![Practice][p]](https://www.fastprep.io/problems/rippling-camel-cards)|Jul 12, 2026|
+|**Rippling**|[Article Vote Tracker](https://www.fastprep.io/problems/rippling-article-vote-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-article-vote-tracker)|Jul 12, 2026|
+|**Rippling**|[Employee Resource Access Management](https://www.fastprep.io/problems/rippling-employee-access-management)|[![Practice][p]](https://www.fastprep.io/problems/rippling-employee-access-management)|Jul 12, 2026|
+|**Rippling**|[Lexicographically Minimum Stack Encryption](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|Jul 12, 2026|
+|**Rippling**|[Minimum Account Settlements](https://www.fastprep.io/problems/rippling-minimum-account-settlements)|[![Practice][p]](https://www.fastprep.io/problems/rippling-minimum-account-settlements)|Jul 12, 2026|
+|**Rippling**|[Matrix Region Sum](https://www.fastprep.io/problems/rippling-matrix-block-sum)|[![Practice][p]](https://www.fastprep.io/problems/rippling-matrix-block-sum)|Jul 12, 2026|
+|**Rippling**|[Maximum XOR Elimination Score](https://www.fastprep.io/problems/rippling-maximum-xor-elimination-score)|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-xor-elimination-score)|Jul 12, 2026|
+|**Rippling**|[Prime Tree City Labelings](https://www.fastprep.io/problems/rippling-prime-tree-labelings)|[![Practice][p]](https://www.fastprep.io/problems/rippling-prime-tree-labelings)|Jul 12, 2026|
 |**Zomato / Eternal**|[Jump Game IV](https://www.fastprep.io/problems/zomato-jump-game-iv)|[![Practice][p]](https://www.fastprep.io/problems/zomato-jump-game-iv)|Jul 12, 2026|
 |**IndiaMART**|[Reverse a String](https://www.fastprep.io/problems/indiamart-reverse-string)|[![Practice][p]](https://www.fastprep.io/problems/indiamart-reverse-string)|Jul 12, 2026|
 |**Moody's**|[Longest Subarray with At Most Two Distinct Values](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|[![Practice][p]](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|Jul 12, 2026|
@@ -137,7 +145,6 @@
 |**Visa**|[Transform Binary Matrix](https://www.fastprep.io/problems/visa-transform-binary-matrix)|[![Practice][p]](https://www.fastprep.io/problems/visa-transform-binary-matrix)|Jun 17, 2026|
 |**Walmart**|[K-Capable Model Selection](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|[![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|Jun 16, 2026|
 |**Scale AI**|[Task Processor: Dependencies and Deadlines](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Jun 14, 2026|
-|**Shopify**|[Mars Rover Robot Controller](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|[![Practice][p]](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|Jun 13, 2026|
 |**Luma AI**|[Center Crop a Grayscale Image](https://www.fastprep.io/problems/luma-ai-center-crop)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-center-crop)|Jun 12, 2026|
 |**Luma AI**|[Rotate a Rectangular Image Clockwise](https://www.fastprep.io/problems/luma-ai-rotate-image-clockwise)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-rotate-image-clockwise)|Jun 12, 2026|
 |**Luma AI**|[Numerically Stable Softmax](https://www.fastprep.io/problems/luma-ai-stable-softmax)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-stable-softmax)|Jun 12, 2026|
@@ -1937,10 +1944,4 @@
 |**Bloomberg LP**|[Knight Dialer Sequences](https://www.fastprep.io/problems/bloomberg-knight-dialer)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Nov 14, 2022|
 |**Bloomberg LP**|[Emit an Out-of-Order Packet Stream in Order](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Nov 14, 2022|
 |**ZipRecruiter**|[Alternate through Forest Positions until 100](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|Nov 11, 2022|
-|**ZipRecruiter**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|Nov 11, 2022|
-|**Bloomberg LP**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Nov 09, 2022|
-|**Bloomberg LP**|[Count Unhappy Friends](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|Nov 02, 2022|
-|**Scale AI**|[Platform Referral Rewards](https://www.fastprep.io/problems/scale-ai-platform-referral-rewards)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-platform-referral-rewards)|Nov 01, 2022|
-|**Bloomberg LP**|[Collatz Conjecture with Shared Memoization](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|Oct 27, 2022|
-|**ZipRecruiter**|[Alternating Signed Digit Sum](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|Oct 26, 2022|
 <a id="bottom"></a>

@@ -2,12 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,159 questions**
+**4,165 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|Nov 11, 2022|
+|**Bloomberg LP**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Nov 09, 2022|
+|**Bloomberg LP**|[Count Unhappy Friends](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|Nov 02, 2022|
+|**Scale AI**|[Platform Referral Rewards](https://www.fastprep.io/problems/scale-ai-platform-referral-rewards)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-platform-referral-rewards)|Nov 01, 2022|
+|**Bloomberg LP**|[Collatz Conjecture with Shared Memoization](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|Oct 27, 2022|
+|**ZipRecruiter**|[Alternating Signed Digit Sum](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|Oct 26, 2022|
 |**ZipRecruiter**|[Count Distinct Message Mentions](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|Oct 26, 2022|
 |**ZipRecruiter**|[Replace Each Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|Oct 26, 2022|
 |**ZipRecruiter**|[Difference between Even- and Odd-Index Sums](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|Oct 25, 2022|

@@ -2,14 +2,23 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,159 questions**
+**4,165 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**eBay**|[Meeting Rooms II](https://www.fastprep.io/problems/ebay-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/ebay-meeting-rooms-ii)|🔥 Oct 31, 2026|
 |**Wells Fargo**|[Count Phrases Formed by Anagram Replacement](https://www.fastprep.io/problems/wellsfargo-count-anagram-phrases)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-anagram-phrases)|🔥 Oct 31, 2026|
 |**Wells Fargo**|[Student and Course Enrollment](https://www.fastprep.io/problems/wellsfargo-student-course-enrollment)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-student-course-enrollment)|🔥 Oct 31, 2026|
+|**Stripe**|[Subscription and Usage-Based Billing Calculator](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)|[![Practice][p]](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)|🔥 Oct 31, 2026|
+|**DoorDash**|[Dasher Pay with Store Waits and Peak Hours](https://www.fastprep.io/problems/doordash-dasher-pay)|[![Practice][p]](https://www.fastprep.io/problems/doordash-dasher-pay)|🔥 Oct 31, 2026|
+|**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🔥 Oct 31, 2026|
+|**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Oct 31, 2026|
+|**DoorDash**|[Random Dasher Set Operations](https://www.fastprep.io/problems/doordash-random-dasher-set)|[![Practice][p]](https://www.fastprep.io/problems/doordash-random-dasher-set)|🔥 Oct 31, 2026|
+|**Shopify**|[Deterministic Secret Santa Assignment](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|[![Practice][p]](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|🔥 Oct 31, 2026|
+|**Airbnb**|[Banking System with Accepted Transfers, Part 4: Account Merging and Balance History](https://www.fastprep.io/problems/airbnb-banking-accepted-transfers-level-4)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-banking-accepted-transfers-level-4)|🔥 Oct 30, 2026|
+|**Susquehanna International Group (SIG)**|[Find Median from Data Stream](https://www.fastprep.io/problems/susquehanna-find-median-from-data-stream)|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-find-median-from-data-stream)|🔥 Oct 30, 2026|
 |**EPAM**|[Detect a Loop in a Linked List](https://www.fastprep.io/problems/epam-linked-list-cycle-detection)|[![Practice][p]](https://www.fastprep.io/problems/epam-linked-list-cycle-detection)|🔥 Oct 30, 2026|
 |**Booking.com**|[Maximum Intervals Overlapping a Fixed-Length Window](https://www.fastprep.io/problems/booking-maximum-intervals-overlapping-fixed-window)|[![Practice][p]](https://www.fastprep.io/problems/booking-maximum-intervals-overlapping-fixed-window)|🔥 Oct 30, 2026|
 |**The D.E. Shaw Group**|[Remove the Fewest Magic Beans](https://www.fastprep.io/problems/de-shaw-minimum-magic-beans-removal)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-minimum-magic-beans-removal)|🔥 Oct 30, 2026|
@@ -33,6 +42,7 @@
 |**Pinterest**|[Minimum Value After Parenthesizing a Sum](https://www.fastprep.io/problems/pinterest-minimum-value-after-parenthesizing-sum)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimum-value-after-parenthesizing-sum)|🔥 Oct 30, 2026|
 |**Pinterest**|[Cosine K-Means Final Labels](https://www.fastprep.io/problems/pinterest-cosine-k-means-final-labels)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-cosine-k-means-final-labels)|🔥 Oct 30, 2026|
 |**EPAM**|[Valid Parentheses](https://www.fastprep.io/problems/epam-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/epam-valid-parentheses)|🔥 Oct 30, 2026|
+|**Shopify**|[Mars Rover Robot Controller](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|[![Practice][p]](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|🔥 Oct 30, 2026|
 |**Microsoft**|[Fewest Buses with the Full Route](https://www.fastprep.io/problems/microsoft-bus-routes-full-route)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-bus-routes-full-route)|🔥 Oct 29, 2026|
 |**Microsoft**|[Pizza Price Calculator](https://www.fastprep.io/problems/microsoft-pizza-price-calculator)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-pizza-price-calculator)|🔥 Oct 29, 2026|
 |**Oracle**|[Maximum Bouquet Value](https://www.fastprep.io/problems/oracle-maximum-bouquet-value)|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-bouquet-value)|🔥 Oct 29, 2026|
@@ -107,7 +117,6 @@
 |**Google**|[Minimum Product Path in a Directed Graph](https://www.fastprep.io/problems/google-minimum-product-path)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-product-path)|🔥 Oct 27, 2026|
 |**Google**|[Longest Duplicate Substring](https://www.fastprep.io/problems/google-longest-duplicate-substring)|[![Practice][p]](https://www.fastprep.io/problems/google-longest-duplicate-substring)|🔥 Oct 27, 2026|
 |**Rippling**|[Stateful Log Transform and Search](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search)|[![Practice][p]](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search)|🔥 Oct 27, 2026|
-|**Stripe**|[Subscription and Usage-Based Billing Calculator](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)|[![Practice][p]](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)|🔥 Oct 27, 2026|
 |**Affirm**|[Count Distinct Underwriting PII Values](https://www.fastprep.io/problems/affirm-count-distinct-underwriting-pii)|[![Practice][p]](https://www.fastprep.io/problems/affirm-count-distinct-underwriting-pii)|🔥 Oct 27, 2026|
 |**Affirm**|[Propagating Fraud Detector](https://www.fastprep.io/problems/affirm-propagating-fraud-detector)|[![Practice][p]](https://www.fastprep.io/problems/affirm-propagating-fraud-detector)|🔥 Oct 27, 2026|
 |**Lyft**|[Minimum Window Substring](https://www.fastprep.io/problems/lyft-minimum-window-substring)|[![Practice][p]](https://www.fastprep.io/problems/lyft-minimum-window-substring)|🔥 Oct 27, 2026|
@@ -186,6 +195,7 @@
 |**Google**|[Maximum Subarray Endpoint Score](https://www.fastprep.io/problems/google-maximum-subarray-endpoint-score)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray-endpoint-score)|🔥 Oct 22, 2026|
 |**LinkedIn**|[Valid Number with Exponents](https://www.fastprep.io/problems/linkedin-valid-number-with-exponents)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-valid-number-with-exponents)|🔥 Oct 22, 2026|
 |**McKinsey & Company**|[Count Repeated Request IDs (Data Science OA)](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|🔥 Oct 22, 2026|
+|**Headlands Technologies**|[Integer Compression Offset](https://www.fastprep.io/problems/headlands-integer-compression-offset)|[![Practice][p]](https://www.fastprep.io/problems/headlands-integer-compression-offset)|🔥 Oct 21, 2026|
 |**Roblox**|[Topological Sort with Secondary Ordering](https://www.fastprep.io/problems/roblox-topological-sort-with-secondary-ordering)|[![Practice][p]](https://www.fastprep.io/problems/roblox-topological-sort-with-secondary-ordering)|🔥 Oct 21, 2026|
 |**Pinterest**|[Decision Tree Classifier from Scratch (Machine Learning OA)](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|🔥 Oct 21, 2026|
 |**Google**|[First-Fit Memory Allocator](https://www.fastprep.io/problems/google-first-fit-memory-allocator)|[![Practice][p]](https://www.fastprep.io/problems/google-first-fit-memory-allocator)|🔥 Oct 21, 2026|
@@ -247,7 +257,6 @@
 |**Microsoft**|[Minimum Changes for a Beautiful String](https://www.fastprep.io/problems/microsoft-minimum-beautiful-string-operations)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-beautiful-string-operations)|🆕 Oct 16, 2026|
 |**Rippling**|[Comment Word and Substring Search](https://www.fastprep.io/problems/rippling-comment-word-and-substring-search)|[![Practice][p]](https://www.fastprep.io/problems/rippling-comment-word-and-substring-search)|🆕 Oct 16, 2026|
 |**OpenAI**|[Durable Work Queue Operations](https://www.fastprep.io/problems/openai-durable-work-queue-operations)|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-work-queue-operations)|🆕 Oct 16, 2026|
-|**DoorDash**|[Dasher Pay with Store Waits and Peak Hours](https://www.fastprep.io/problems/doordash-dasher-pay)|[![Practice][p]](https://www.fastprep.io/problems/doordash-dasher-pay)|🆕 Oct 16, 2026|
 |**Google**|[Route Pattern Matcher](https://www.fastprep.io/problems/google-route-pattern-matcher)|[![Practice][p]](https://www.fastprep.io/problems/google-route-pattern-matcher)|🆕 Oct 16, 2026|
 |**Amazon**|[Dense Matrix Multiplication](https://www.fastprep.io/problems/amazon-dense-matrix-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/amazon-dense-matrix-multiplication)|🆕 Oct 16, 2026|
 |**Apple**|[Count Nodes in a Chain](https://www.fastprep.io/problems/apple-count-chain-nodes)|[![Practice][p]](https://www.fastprep.io/problems/apple-count-chain-nodes)|🆕 Oct 16, 2026|
@@ -276,8 +285,6 @@
 |**TikTok**|[Correct Sensor Readings](https://www.fastprep.io/problems/tiktok-correct-sensor-readings)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-correct-sensor-readings)|🆕 Oct 15, 2026|
 |**TikTok**|[Bouncing Diagonal Weights](https://www.fastprep.io/problems/tiktok-bouncing-diagonal-weights)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bouncing-diagonal-weights)|🆕 Oct 15, 2026|
 |**TikTok**|[Arithmetic Triplets After Queries](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-arithmetic-triplets-after-queries)|🆕 Oct 15, 2026|
-|**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🆕 Oct 15, 2026|
-|**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🆕 Oct 15, 2026|
 |**ByteDance**|[Implement Multi-Head Attention](https://www.fastprep.io/problems/bytedance-implement-multi-head-attention)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-implement-multi-head-attention)|🆕 Oct 15, 2026|
 |**Harvey**|[Spreadsheet Formula Evaluator](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|[![Practice][p]](https://www.fastprep.io/problems/harvey-spreadsheet-formula-evaluator)|🆕 Oct 15, 2026|
 |**Meta**|[Valid Word Abbreviation](https://www.fastprep.io/problems/meta-valid-word-abbreviation)|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-word-abbreviation)|🆕 Oct 15, 2026|
@@ -682,6 +689,7 @@
 |**Paytm**|[Detect a Linked-List Cycle](https://www.fastprep.io/problems/paytm-linked-list-cycle)|[![Practice][p]](https://www.fastprep.io/problems/paytm-linked-list-cycle)|🆕 Sep 30, 2026|
 |**Paytm**|[Minimum Coins for a Target](https://www.fastprep.io/problems/paytm-minimum-coins-for-target)|[![Practice][p]](https://www.fastprep.io/problems/paytm-minimum-coins-for-target)|🆕 Sep 30, 2026|
 |**Securonix**|[Meeting Rooms II](https://www.fastprep.io/problems/securonix-minimum-meeting-rooms)|[![Practice][p]](https://www.fastprep.io/problems/securonix-minimum-meeting-rooms)|🆕 Sep 30, 2026|
+|**Apple**|[Thread-Safe Concurrent Linked List](https://www.fastprep.io/problems/apple-thread-safe-concurrent-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/apple-thread-safe-concurrent-linked-list)|🆕 Sep 29, 2026|
 |**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🆕 Sep 29, 2026|
 |**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🆕 Sep 29, 2026|
 |**OpenAI**|[Invert or Blur an Image](https://www.fastprep.io/problems/openai-invert-or-blur-image)|[![Practice][p]](https://www.fastprep.io/problems/openai-invert-or-blur-image)|🆕 Sep 29, 2026|
@@ -1095,7 +1103,6 @@
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|Sep 16, 2026|
 |**IBM**|[Minimum Additions to Make a Valid ABC String](https://www.fastprep.io/problems/ibm-minimum-additions-to-make-valid-abc-string)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-additions-to-make-valid-abc-string)|Sep 16, 2026|
 |**Salesforce**|[LFU Cache](https://www.fastprep.io/problems/salesforce-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-lfu-cache)|Sep 16, 2026|
-|**DoorDash**|[Random Dasher Set Operations](https://www.fastprep.io/problems/doordash-random-dasher-set)|[![Practice][p]](https://www.fastprep.io/problems/doordash-random-dasher-set)|Sep 16, 2026|
 |**Salesforce**|[Run-Length String Compression](https://www.fastprep.io/problems/salesforce-run-length-string-compression)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-run-length-string-compression)|Sep 16, 2026|
 |**Anthropic**|[Profiling Events from Consecutive Stack Samples](https://www.fastprep.io/problems/anthropic-consecutive-stack-sample-trace-events)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-consecutive-stack-sample-trace-events)|Sep 16, 2026|
 |**Pinterest**|[Time-Ordered Elevator Dispatch](https://www.fastprep.io/problems/pinterest-time-ordered-elevator-dispatch)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-time-ordered-elevator-dispatch)|Sep 16, 2026|
@@ -1133,6 +1140,7 @@
 |**OpenAI**|[Dependency-Aware Agent Task Scheduler](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|Sep 15, 2026|
 |**Robinhood**|[Transitive Employee Referral Counts](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|[![Practice][p]](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Sep 15, 2026|
 |**Google**|[Detect Duplicate Trace IDs in a Linked List](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Sep 15, 2026|
+|**Apple**|[3D Grid Diagonal Walk Probability](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|[![Practice][p]](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Sep 14, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|Sep 14, 2026|
 |**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|Sep 14, 2026|
@@ -1674,7 +1682,6 @@
 |**Airbnb**|[Parcel Event Tracking](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|Jul 27, 2026|
 |**Apple**|[Group Transitive String Aliases](https://www.fastprep.io/problems/apple-transitive-alias-groups)|[![Practice][p]](https://www.fastprep.io/problems/apple-transitive-alias-groups)|Jul 27, 2026|
 |**Coinbase**|[In-Memory Database](https://www.fastprep.io/problems/coinbase-in-memory-database)|[![Practice][p]](https://www.fastprep.io/problems/coinbase-in-memory-database)|Jul 27, 2026|
-|**Shopify**|[Deterministic Secret Santa Assignment](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|[![Practice][p]](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|Jul 27, 2026|
 |**OpenAI**|[Durable String Key-Value Store](https://www.fastprep.io/problems/openai-durable-string-key-value-store)|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-string-key-value-store)|Jul 27, 2026|
 |**Google**|[Ad Score Scheduler With Delay](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|[![Practice][p]](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|Jul 27, 2026|
 |**Google**|[Alternating-Color Binary Tree Roots](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|[![Practice][p]](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|Jul 27, 2026|
@@ -1811,12 +1818,4 @@
 |**DRW**|[Minimize Maximum Group Difference](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|[![Practice][p]](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|Jul 12, 2026|
 |**Goldman Sachs**|[Cheapest Flights Within K Stops](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|Jul 12, 2026|
 |**Goldman Sachs**|[Word Ladder](https://www.fastprep.io/problems/goldman-sachs-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-word-ladder)|Jul 12, 2026|
-|**Rippling**|[Camel Cards](https://www.fastprep.io/problems/rippling-camel-cards)|[![Practice][p]](https://www.fastprep.io/problems/rippling-camel-cards)|Jul 12, 2026|
-|**Rippling**|[Article Vote Tracker](https://www.fastprep.io/problems/rippling-article-vote-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-article-vote-tracker)|Jul 12, 2026|
-|**Rippling**|[Employee Resource Access Management](https://www.fastprep.io/problems/rippling-employee-access-management)|[![Practice][p]](https://www.fastprep.io/problems/rippling-employee-access-management)|Jul 12, 2026|
-|**Rippling**|[Lexicographically Minimum Stack Encryption](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|Jul 12, 2026|
-|**Rippling**|[Minimum Account Settlements](https://www.fastprep.io/problems/rippling-minimum-account-settlements)|[![Practice][p]](https://www.fastprep.io/problems/rippling-minimum-account-settlements)|Jul 12, 2026|
-|**Rippling**|[Matrix Region Sum](https://www.fastprep.io/problems/rippling-matrix-block-sum)|[![Practice][p]](https://www.fastprep.io/problems/rippling-matrix-block-sum)|Jul 12, 2026|
-|**Rippling**|[Maximum XOR Elimination Score](https://www.fastprep.io/problems/rippling-maximum-xor-elimination-score)|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-xor-elimination-score)|Jul 12, 2026|
-|**Rippling**|[Prime Tree City Labelings](https://www.fastprep.io/problems/rippling-prime-tree-labelings)|[![Practice][p]](https://www.fastprep.io/problems/rippling-prime-tree-labelings)|Jul 12, 2026|
 <a id="bottom"></a>
