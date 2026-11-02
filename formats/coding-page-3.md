@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,133 questions**
+**4,136 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Intuit**|[Nearest Different Maze Exit for a Snake](https://www.fastprep.io/problems/intuit-nearest-snake-exit)|[![Practice][p]](https://www.fastprep.io/problems/intuit-nearest-snake-exit)|Oct 07, 2022|
+|**Bloomberg LP**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Oct 06, 2022|
 |**Bloomberg LP**|[Kill Process](https://www.fastprep.io/problems/bloomberg-kill-process)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-kill-process)|Oct 06, 2022|
 |**Bloomberg LP**|[Min Stack](https://www.fastprep.io/problems/bloomberg-min-stack)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-min-stack)|Oct 06, 2022|
 |**Intuit**|[Count Courses Without Taking One Course](https://www.fastprep.io/problems/intuit-courses-without-avoided-course)|[![Practice][p]](https://www.fastprep.io/problems/intuit-courses-without-avoided-course)|Oct 06, 2022|
