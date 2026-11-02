@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**96 questions**
+**98 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -90,6 +90,8 @@
 |**Intuit**|[Return Duplicate Records](https://www.fastprep.io/problems/intuit-duplicate-records)|[![Practice][p]](https://www.fastprep.io/problems/intuit-duplicate-records)|Nov 19, 2025|
 |**PeopleStrong**|[Maximum Employee Salary for a Company](https://www.fastprep.io/problems/peoplestrong-company-maximum-salary)|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-company-maximum-salary)|Sep 20, 2025|
 |**Marshall Wace**|[Successful Logins from Multiple Countries](https://www.fastprep.io/problems/marshall-wace-successful-logins-multiple-countries)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-successful-logins-multiple-countries)|Aug 13, 2025|
+|**The Walt Disney Company**|[Contest Participants with Long Totals and Short Questions](https://www.fastprep.io/problems/the-walt-disney-company-contest-participants-time-limits)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-contest-participants-time-limits)|Apr 15, 2025|
+|**The Walt Disney Company**|[Count Buggy and Bug-Free Submissions per Employee](https://www.fastprep.io/problems/the-walt-disney-company-employee-bug-submission-counts)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-employee-bug-submission-counts)|Apr 15, 2025|
 |**Chainalysis**|[Block Transaction Count Trends](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|Mar 06, 2025|
 |**AT&T**|[Advertising System Failures Report](https://www.fastprep.io/problems/att-advertising-system-failures-report)|[![Practice][p]](https://www.fastprep.io/problems/att-advertising-system-failures-report)|Nov 08, 2024|
 |**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
