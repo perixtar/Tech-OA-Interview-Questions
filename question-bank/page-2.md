@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[All Anagram Start Indices](https://www.fastprep.io/problems/amazon-anagram-start-indices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-anagram-start-indices)|Sep 13, 2026|
 |**Amazon**|[Count Islands with Eight-Direction Adjacency](https://www.fastprep.io/problems/amazon-islands-eight-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-islands-eight-direction)|Sep 13, 2026|
 |**Amazon**|[Maximum Saw Height for At Least M Cut Length](https://www.fastprep.io/problems/amazon-woodcut-saw-height)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-woodcut-saw-height)|Sep 13, 2026|
 |**Amazon**|[Unique Pairs in a 2D Matrix Summing to Target](https://www.fastprep.io/problems/amazon-unique-pairs-2d-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-pairs-2d-target)|Sep 13, 2026|
@@ -1752,5 +1753,4 @@
 |**Datadog**|[Find Repeated Substrings Ignoring Case](https://www.fastprep.io/problems/datadog-repeated-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-repeated-substrings)|Jun 01, 2025|
 |**Amazon**|[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)|May 31, 2025|
 |**Amazon**|[Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|May 31, 2025|
-|**Amazon**|[Find Minimum Machine Sizes](https://www.fastprep.io/problems/amazon-find-minimum-machines-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-machines-size)|May 31, 2025|
 <a id="bottom"></a>

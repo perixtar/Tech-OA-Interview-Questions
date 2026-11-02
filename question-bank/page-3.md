@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Find Minimum Machine Sizes](https://www.fastprep.io/problems/amazon-find-minimum-machines-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-machines-size)|May 31, 2025|
 |**Amazon**|[Count Special Substrings](https://www.fastprep.io/problems/amazon-count-special-substrs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-special-substrs)|May 31, 2025|
 |**Amazon**|[Get Maximum Count](https://www.fastprep.io/problems/amazon-get-maximum-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-count)|May 31, 2025|
 |**Cloudflare**|[Determine Min Partitions Required](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|May 31, 2025|
@@ -90,6 +91,7 @@
 |**SpaceX**|[DNA Sequence Match](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Apr 05, 2025|
 |**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
+|**Bloomberg LP / The Walt Disney Company**|[Design a Shoe E-Commerce Marketplace](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|Apr 05, 2025|
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
 |**Atlassian**|[Optimize an Appointment Waitlist Offer Service](https://www.fastprep.io/system-design/appointment-waitlist-offer-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/appointment-waitlist-offer-management)|Apr 01, 2025|
 |**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
@@ -1177,7 +1179,6 @@
 |**ZipRecruiter**|[Count Paired Subarrays Reaching a Target](https://www.fastprep.io/problems/ziprecruiter-paired-subarray-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-paired-subarray-sums)|Dec 12, 2023|
 |**Navan**|[Design a Flight Booking Orchestrator](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Dec 08, 2023|
 |**Amazon**|[Get Priorities After Execution](https://www.fastprep.io/problems/get-priorities-after-execution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-priorities-after-execution)|Dec 06, 2023|
-|**Bloomberg LP**|[Design a Shoe E-Commerce Marketplace](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|Dec 05, 2023|
 |**Bloomberg LP**|[Design Browser History](https://www.fastprep.io/problems/bloomberg-design-browser-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-browser-history)|Dec 05, 2023|
 |**Stripe**|[Resolve Visible User Features](https://www.fastprep.io/problems/stripe-user-feature-visibility)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-user-feature-visibility)|Nov 30, 2023|
 |**Stripe**|[Weighted Server Load Balancer with TTL](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Nov 30, 2023|
