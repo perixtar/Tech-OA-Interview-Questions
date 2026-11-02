@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**95 questions**
+**96 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -100,6 +100,7 @@
 |**Agoda**|[Convert a Purchase at Its Historical Exchange Rate](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|[![Practice][p]](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|Oct 27, 2023|
 |**Agoda**|[Summarize Customer Records](https://www.fastprep.io/problems/agoda-customer-csv-summary)|[![Practice][p]](https://www.fastprep.io/problems/agoda-customer-csv-summary)|Oct 27, 2023|
 |**Klaviyo**|[Conditionally Insert or Update Records](https://www.fastprep.io/problems/klaviyo-conditional-record-upsert)|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-conditional-record-upsert)|Jul 14, 2022|
+|**AMD**|[Employees with Matching Departments](https://www.fastprep.io/problems/amd-employees-with-matching-departments)|[![Practice][p]](https://www.fastprep.io/problems/amd-employees-with-matching-departments)|Jun 14, 2022|
 |**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
 |**IMC**|[Account Balance Over Threshold](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|[![Practice][p]](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|Sep 12, 2020|
 |**IMC**|[Transaction Balance Over Threshold](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|[![Practice][p]](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|Sep 12, 2020|

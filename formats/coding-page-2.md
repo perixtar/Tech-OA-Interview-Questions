@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,165 questions**
+**4,185 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -552,6 +552,7 @@
 |**AT&T**|[Break a Palindrome](https://www.fastprep.io/problems/att-break-a-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/att-break-a-palindrome)|Oct 07, 2025|
 |**AT&T**|[3Sum](https://www.fastprep.io/problems/att-three-sum)|[![Practice][p]](https://www.fastprep.io/problems/att-three-sum)|Oct 07, 2025|
 |**Meta**|[Canonical Directory After CD Commands](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|[![Practice][p]](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Oct 06, 2025|
+|**AMD**|[Matrix Multiplication and Parallel Partitions](https://www.fastprep.io/problems/amd-matrix-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/amd-matrix-multiplication)|Oct 05, 2025|
 |**NVIDIA**|[Best Graphics Card](https://www.fastprep.io/problems/nvidia-best-graphics-card)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Oct 04, 2025|
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
 |**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
@@ -870,6 +871,8 @@
 |**Mygate**|[Frog Jump: Minimum Energy](https://www.fastprep.io/problems/mygate-frog-jump)|[![Practice][p]](https://www.fastprep.io/problems/mygate-frog-jump)|Jan 07, 2025|
 |**Mygate**|[Left View of a Binary Tree](https://www.fastprep.io/problems/mygate-left-view-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/mygate-left-view-binary-tree)|Jan 07, 2025|
 |**Mygate**|[Elements Occurring More Than n/3 Times](https://www.fastprep.io/problems/mygate-majority-over-n-third)|[![Practice][p]](https://www.fastprep.io/problems/mygate-majority-over-n-third)|Jan 07, 2025|
+|**AMD**|[Copy Non-overlapping Byte Buffers](https://www.fastprep.io/problems/amd-copy-nonoverlapping-bytes)|[![Practice][p]](https://www.fastprep.io/problems/amd-copy-nonoverlapping-bytes)|Jan 06, 2025|
+|**AMD**|[Two Sum](https://www.fastprep.io/problems/amd-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/amd-two-sum)|Jan 06, 2025|
 |**Amazon**|[Find Max Value](https://www.fastprep.io/problems/amazon-find-max-value)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-max-value)|Jan 05, 2025|
 |**Amazon**|[Get Max Events](https://www.fastprep.io/problems/amazon-get-maximum-events)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-events)|Jan 05, 2025|
 |**TikTok**|[TikTok Spam Filter](https://www.fastprep.io/problems/tiktok-get-spam-comments)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Jan 04, 2025|
@@ -1941,7 +1944,4 @@
 |**Chainalysis**|[Course Schedule II](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|Dec 10, 2022|
 |**Chainalysis**|[Longest Common Suffix](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Dec 10, 2022|
 |**Bloomberg LP**|[Next Permutation](https://www.fastprep.io/problems/bloomberg-next-permutation)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-next-permutation)|Nov 28, 2022|
-|**Bloomberg LP**|[Knight Dialer Sequences](https://www.fastprep.io/problems/bloomberg-knight-dialer)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Nov 14, 2022|
-|**Bloomberg LP**|[Emit an Out-of-Order Packet Stream in Order](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Nov 14, 2022|
-|**ZipRecruiter**|[Alternate through Forest Positions until 100](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|Nov 11, 2022|
 <a id="bottom"></a>

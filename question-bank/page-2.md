@@ -1572,6 +1572,7 @@
 |**AT&T**|[3Sum](https://www.fastprep.io/problems/att-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-three-sum)|Oct 07, 2025|
 |**Apple**|[Complete a DAG Task Pipeline](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|Oct 07, 2025|
 |**Meta**|[Canonical Directory After CD Commands](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Oct 06, 2025|
+|**AMD**|[Matrix Multiplication and Parallel Partitions](https://www.fastprep.io/problems/amd-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-matrix-multiplication)|Oct 05, 2025|
 |**NVIDIA**|[Best Graphics Card](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Oct 04, 2025|
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
 |**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
@@ -1753,5 +1754,4 @@
 |**Agoda**|[Jump Game with Prime-3 Steps](https://www.fastprep.io/problems/agoda-jump-game-prime-3-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-jump-game-prime-3-steps)|Jun 17, 2025|
 |**Kalshi**|[Maximum Frequency Stack](https://www.fastprep.io/problems/kalshi-maximum-frequency-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kalshi-maximum-frequency-stack)|Jun 14, 2025|
 |**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
-|**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
 <a id="bottom"></a>
