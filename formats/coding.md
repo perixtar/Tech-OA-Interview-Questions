@@ -10,6 +10,7 @@
 | :-- | :-- | :-: | :-- |
 |**Scale AI**|[Part 1: The Narrowest Key](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Nov 03, 2026|
 |**Scale AI**|[Part 2: Batch Access Review](https://www.fastprep.io/problems/scale-ai-batch-access-review)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-batch-access-review)|🔥 Nov 03, 2026|
+|**Amazon**|[Group Students](https://www.fastprep.io/problems/amazon-group-students)|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-students)|🔥 Nov 03, 2026|
 |**Squarepoint Capital**|[Three Points in a Semicircle: Monte Carlo Estimate](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|🔥 Nov 01, 2026|
 |**Squarepoint Capital**|[Probability of Consecutive Heads](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|🔥 Nov 01, 2026|
 |**Google**|[Serialize and Deserialize a Binary Tree](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|🔥 Nov 01, 2026|
@@ -1818,5 +1819,4 @@
 |**Upstart**|[Increase Exclamations and Convert Periods](https://www.fastprep.io/problems/upstart-transform-punctuation)|[![Practice][p]](https://www.fastprep.io/problems/upstart-transform-punctuation)|Jul 12, 2026|
 |**Upstart**|[Interleave Equal-Length Strings by Column](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|[![Practice][p]](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|Jul 12, 2026|
 |**Upstart**|[Scale Ingredient Quantities](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|[![Practice][p]](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Jul 12, 2026|
-|**IDFC**|[Find All People With Secret](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|[![Practice][p]](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Jul 12, 2026|
 <a id="bottom"></a>
