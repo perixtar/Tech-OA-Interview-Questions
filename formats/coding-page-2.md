@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,236 questions**
+**4,241 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**DRW**|[Maximum Even-Sum Neighboring Pairs](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|[![Practice][p]](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|Jul 12, 2026|
+|**DRW**|[Minimize Maximum Group Difference](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|[![Practice][p]](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|Jul 12, 2026|
+|**Goldman Sachs**|[Cheapest Flights Within K Stops](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|Jul 12, 2026|
+|**Goldman Sachs**|[Word Ladder](https://www.fastprep.io/problems/goldman-sachs-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-word-ladder)|Jul 12, 2026|
+|**Rippling**|[Camel Cards](https://www.fastprep.io/problems/rippling-camel-cards)|[![Practice][p]](https://www.fastprep.io/problems/rippling-camel-cards)|Jul 12, 2026|
 |**Rippling**|[Article Vote Tracker](https://www.fastprep.io/problems/rippling-article-vote-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-article-vote-tracker)|Jul 12, 2026|
 |**Rippling**|[Employee Resource Access Management](https://www.fastprep.io/problems/rippling-employee-access-management)|[![Practice][p]](https://www.fastprep.io/problems/rippling-employee-access-management)|Jul 12, 2026|
 |**Rippling**|[Lexicographically Minimum Stack Encryption](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|Jul 12, 2026|
@@ -1934,9 +1939,4 @@
 |**Sentry**|[Word Wrap with Even Justification](https://www.fastprep.io/problems/sentry-word-wrap-justification)|[![Practice][p]](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Aug 17, 2023|
 |**Headlands Technologies**|[Checked Recursive Sum](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|[![Practice][p]](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|Aug 10, 2023|
 |**Arcesium**|[Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Aug 05, 2023|
-|**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
-|**Datadog**|[Encoded String Match](https://www.fastprep.io/problems/datadog-encoded-string-match)|[![Practice][p]](https://www.fastprep.io/problems/datadog-encoded-string-match)|Aug 03, 2023|
-|**Optiver**|[Worst Trade Reporter](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|[![Practice][p]](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Jul 25, 2023|
-|**Optiver**|[Truck Position Subscriber](https://www.fastprep.io/problems/optiver-truck-positions)|[![Practice][p]](https://www.fastprep.io/problems/optiver-truck-positions)|Jul 25, 2023|
-|**WhatNot**|[Sorted Squares in Descending Order](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|Jul 25, 2023|
 <a id="bottom"></a>
