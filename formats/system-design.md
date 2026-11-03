@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**651 questions**
+**652 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge / NVIDIA**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Nov 02, 2026|
+|**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 02, 2026|
+|**Anthropic / Reddit**|[Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability)|[![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability)|🔥 Nov 01, 2026|
+|**Reddit**|[Design a BigQuery Analytics Agent](https://www.fastprep.io/system-design/bigquery-analytics-agent)|[![Practice][p]](https://www.fastprep.io/system-design/bigquery-analytics-agent)|🔥 Nov 01, 2026|
 |**AMD**|[AI-Assisted Device Automation Workflow](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|🔥 Oct 31, 2026|
 |**Stripe / PhonePe / Broccoli AI / The Walt Disney Company**|[Design a Feature Flag Platform](https://www.fastprep.io/system-design/feature-flag-platform)|[![Practice][p]](https://www.fastprep.io/system-design/feature-flag-platform)|🔥 Oct 31, 2026|
 |**Amazon / Meta / ByteDance / Harvey / Clio / Microsoft / Wayfair / Apple**|[Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage)|🔥 Oct 31, 2026|
@@ -52,7 +56,6 @@
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix / slice / Decagon**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 23, 2026|
 |**LinkedIn**|[Design Sliding-Window Exception Rankings](https://www.fastprep.io/system-design/sliding-window-exception-rankings)|[![Practice][p]](https://www.fastprep.io/system-design/sliding-window-exception-rankings)|🔥 Oct 23, 2026|
 |**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|🔥 Oct 22, 2026|
-|**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge / NVIDIA**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Oct 22, 2026|
 |**Keka HR**|[Design an Admin Trip Assignment System](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|[![Practice][p]](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|🔥 Oct 22, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🔥 Oct 21, 2026|
 |**Amazon / OpenAI / Anthropic / eBay**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Oct 21, 2026|
@@ -297,7 +300,6 @@
 |**Apple**|[Design Predictive File Storage-Tier Placement](https://www.fastprep.io/system-design/file-storage-tier-selection)|[![Practice][p]](https://www.fastprep.io/system-design/file-storage-tier-selection)|Sep 10, 2026|
 |**Snap Inc.**|[Design a Pre-Login Risk Challenge Service](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|[![Practice][p]](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|Sep 10, 2026|
 |**Syfe**|[Design Flash-Sale Notification Fanout](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|[![Practice][p]](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|Sep 09, 2026|
-|**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|Sep 09, 2026|
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|Sep 09, 2026|
 |**Nuro / Motive**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|Sep 09, 2026|
@@ -407,7 +409,6 @@
 |**Uber**|[Design a Driver Review Leaderboard](https://www.fastprep.io/system-design/driver-review-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/driver-review-leaderboard)|Aug 10, 2026|
 |**Oracle**|[Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service)|[![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service)|Aug 10, 2026|
 |**Spotify**|[Design a Weekly User Activity Prediction System](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|[![Practice][p]](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|Aug 10, 2026|
-|**Anthropic**|[Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability)|[![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability)|Aug 10, 2026|
 |**Amazon**|[Design Group Purchase Contributions and Settlement](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|[![Practice][p]](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|Aug 10, 2026|
 |**Abridge**|[Streaming Transcription Service](https://www.fastprep.io/system-design/streaming-transcription-service)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-transcription-service)|Aug 10, 2026|
 |**Apple**|[Design an On-Prem Media Transfer for Cloud GPU Training](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training)|[![Practice][p]](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training)|Aug 09, 2026|

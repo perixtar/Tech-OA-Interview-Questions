@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Vanta**|[Implement uniq: Unique Lines](https://www.fastprep.io/problems/vanta-unique-lines-command)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-unique-lines-command)|Sep 14, 2026|
+|**Airwallex**|[Paginated K-Way Unique Merge](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Sep 14, 2026|
+|**Applied Intuition**|[Merge Overlapping Closed Intervals](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Sep 14, 2026|
 |**LinkedIn**|[Restricted Decimal Number Validator](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Sep 14, 2026|
 |**LinkedIn**|[Second Minimum in a Tournament Tree](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Sep 14, 2026|
 |**Google**|[Find the Duplicate Number Without Modifying the Array](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Sep 14, 2026|
@@ -237,7 +240,6 @@
 |**Syfe**|[Design Flash-Sale Notification Fanout](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|Sep 09, 2026|
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Sep 09, 2026|
 |**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Sep 09, 2026|
-|**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|Sep 09, 2026|
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|Sep 09, 2026|
 |**Nuro / Motive**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|Sep 09, 2026|
@@ -622,7 +624,6 @@
 |**Oracle**|[Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service)|Aug 10, 2026|
 |**Pinterest / Bloomberg LP**|[Design a Blackjack Table Game](https://www.fastprep.io/low-level-design/blackjack-table-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/blackjack-table-game)|Aug 10, 2026|
 |**Spotify**|[Design a Weekly User Activity Prediction System](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|Aug 10, 2026|
-|**Anthropic**|[Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability)|System design|[![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability)|Aug 10, 2026|
 |**Amazon**|[Design Group Purchase Contributions and Settlement](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|Aug 10, 2026|
 |**Abridge**|[Streaming Transcription Service](https://www.fastprep.io/system-design/streaming-transcription-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/streaming-transcription-service)|Aug 10, 2026|
 |**Adobe**|[Hall of Shifting Tiles](https://www.fastprep.io/problems/adobe-hall-of-shifting-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-hall-of-shifting-tiles)|Aug 09, 2026|
@@ -1747,5 +1748,4 @@
 |**Google**|[Minimum-Weight Top-to-Bottom Grid Path](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Jul 26, 2025|
 |**Google**|[Priority Job Scheduler with Cooldowns](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Jul 26, 2025|
 |**Illumio**|[Time-Based Key-Value Database](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Jul 26, 2025|
-|**Meta**|[Count Fully Used Batteries](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Jul 26, 2025|
 <a id="bottom"></a>
