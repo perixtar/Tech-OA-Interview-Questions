@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**BAMTECH Media**|[Climbing Stairs](https://www.fastprep.io/problems/bamtech-media-climbing-stairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-climbing-stairs)|Oct 03, 2019|
+|**BAMTECH Media**|[Combination Sum](https://www.fastprep.io/problems/bamtech-media-combination-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-combination-sum)|Oct 03, 2019|
+|**BAMTECH Media**|[Top K Largest Values with Constant Auxiliary Space](https://www.fastprep.io/problems/bamtech-media-top-k-largest-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-top-k-largest-constant-space)|Sep 29, 2019|
+|**BAMTECH Media**|[Valid Parentheses](https://www.fastprep.io/problems/bamtech-media-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-valid-parentheses)|Sep 29, 2019|
+|**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**JP Morgan Chase**|[Low-Cost Access to a File Archive](https://www.fastprep.io/system-design/low-cost-file-archive-access)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-cost-file-archive-access)|Sep 23, 2019|
 |**JP Morgan Chase**|[Telephone Verification for Village Teaching Visits](https://www.fastprep.io/system-design/telephone-volunteer-teaching-verification)|System design|[![Practice][p]](https://www.fastprep.io/system-design/telephone-volunteer-teaching-verification)|Sep 23, 2019|
 |**Vanguard**|[Remove Duplicate Anagrams](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-remove-duplicate-anagrams)|Sep 16, 2019|

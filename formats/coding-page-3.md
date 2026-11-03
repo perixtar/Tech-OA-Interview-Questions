@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,236 questions**
+**4,241 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
+|**Datadog**|[Encoded String Match](https://www.fastprep.io/problems/datadog-encoded-string-match)|[![Practice][p]](https://www.fastprep.io/problems/datadog-encoded-string-match)|Aug 03, 2023|
+|**Optiver**|[Worst Trade Reporter](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|[![Practice][p]](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Jul 25, 2023|
+|**Optiver**|[Truck Position Subscriber](https://www.fastprep.io/problems/optiver-truck-positions)|[![Practice][p]](https://www.fastprep.io/problems/optiver-truck-positions)|Jul 25, 2023|
+|**WhatNot**|[Sorted Squares in Descending Order](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|Jul 25, 2023|
 |**Marshall Wace**|[Smallest Larger Integer with Twice the Digit Sum](https://www.fastprep.io/problems/marshall-wace-double-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-double-digit-sum)|Jul 23, 2023|
 |**Marshall Wace**|[Maximum Frog Separation with One Upward Jump (Practice Reconstruction)](https://www.fastprep.io/problems/marshall-wace-one-jump-frog-separation)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-jump-frog-separation)|Jul 23, 2023|
 |**Marshall Wace**|[Minimum Deletions Before Rearranging into a Palindrome](https://www.fastprep.io/problems/marshall-wace-palindrome-rearrangement-deletions)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-palindrome-rearrangement-deletions)|Jul 23, 2023|

@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|
+|**SpaceX**|[Pressure Chamber Linear Interpolation](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Jun 26, 2025|
+|**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
+|**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
+|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
 |**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 |**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
 |**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
@@ -1844,9 +1849,4 @@
 |**Airbnb**|[Resolve Battles](https://www.fastprep.io/problems/airbnb-resolve-battles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-resolve-battles)|Oct 16, 2019|
 |**Intuit**|[Merge Meeting Intervals](https://www.fastprep.io/problems/intuit-merge-meeting-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-merge-meeting-intervals)|Oct 16, 2019|
 |**Marshall Wace**|[Count Squares of Any Orientation](https://www.fastprep.io/problems/marshall-wace-count-squares-any-orientation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-count-squares-any-orientation)|Oct 15, 2019|
-|**BAMTECH Media**|[Climbing Stairs](https://www.fastprep.io/problems/bamtech-media-climbing-stairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-climbing-stairs)|Oct 03, 2019|
-|**BAMTECH Media**|[Combination Sum](https://www.fastprep.io/problems/bamtech-media-combination-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-combination-sum)|Oct 03, 2019|
-|**BAMTECH Media**|[Top K Largest Values with Constant Auxiliary Space](https://www.fastprep.io/problems/bamtech-media-top-k-largest-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-top-k-largest-constant-space)|Sep 29, 2019|
-|**BAMTECH Media**|[Valid Parentheses](https://www.fastprep.io/problems/bamtech-media-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-valid-parentheses)|Sep 29, 2019|
-|**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 <a id="bottom"></a>

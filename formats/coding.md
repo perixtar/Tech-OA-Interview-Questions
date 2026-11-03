@@ -2,12 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,236 questions**
+**4,241 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Squarepoint Capital**|[Three Points in a Semicircle: Monte Carlo Estimate](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|🔥 Nov 01, 2026|
+|**Squarepoint Capital**|[Probability of Consecutive Heads](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|🔥 Nov 01, 2026|
+|**Google**|[Serialize and Deserialize a Binary Tree](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|🔥 Nov 01, 2026|
+|**Snowflake**|[LFU Cache](https://www.fastprep.io/problems/snowflake-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-lfu-cache)|🔥 Nov 01, 2026|
+|**Stripe**|[Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system)|[![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system)|🔥 Nov 01, 2026|
+|**Citadel**|[Square Root Function](https://www.fastprep.io/problems/citadel-square-root)|[![Practice][p]](https://www.fastprep.io/problems/citadel-square-root)|🔥 Oct 31, 2026|
 |**eBay**|[Meeting Rooms II](https://www.fastprep.io/problems/ebay-meeting-rooms-ii)|[![Practice][p]](https://www.fastprep.io/problems/ebay-meeting-rooms-ii)|🔥 Oct 31, 2026|
 |**Wells Fargo**|[Count Phrases Formed by Anagram Replacement](https://www.fastprep.io/problems/wellsfargo-count-anagram-phrases)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-anagram-phrases)|🔥 Oct 31, 2026|
 |**Wells Fargo**|[Student and Course Enrollment](https://www.fastprep.io/problems/wellsfargo-student-course-enrollment)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-student-course-enrollment)|🔥 Oct 31, 2026|
@@ -674,7 +680,6 @@
 |**TikTok**|[Count Even-Digit Numbers](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|🆕 Sep 30, 2026|
 |**TikTok**|[Rectangle Fit Queries](https://www.fastprep.io/problems/tiktok-rectangle-fit-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-rectangle-fit-queries)|🆕 Sep 30, 2026|
 |**TikTok**|[Construct WDL String](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|🆕 Sep 30, 2026|
-|**Stripe**|[Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system)|[![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system)|🆕 Sep 30, 2026|
 |**Capital One**|[Digit-Coded Card Validation](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|🆕 Sep 30, 2026|
 |**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|🆕 Sep 30, 2026|
 |**Google**|[Target Interval Conflict](https://www.fastprep.io/problems/google-target-interval-conflict)|[![Practice][p]](https://www.fastprep.io/problems/google-target-interval-conflict)|🆕 Sep 30, 2026|
@@ -1814,9 +1819,4 @@
 |**Upstart**|[Scale Ingredient Quantities](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|[![Practice][p]](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Jul 12, 2026|
 |**IDFC**|[Find All People With Secret](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|[![Practice][p]](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Jul 12, 2026|
 |**DRW**|[Doctor Appointment Slot Assignment](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|[![Practice][p]](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|Jul 12, 2026|
-|**DRW**|[Maximum Even-Sum Neighboring Pairs](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|[![Practice][p]](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|Jul 12, 2026|
-|**DRW**|[Minimize Maximum Group Difference](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|[![Practice][p]](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|Jul 12, 2026|
-|**Goldman Sachs**|[Cheapest Flights Within K Stops](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|Jul 12, 2026|
-|**Goldman Sachs**|[Word Ladder](https://www.fastprep.io/problems/goldman-sachs-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-word-ladder)|Jul 12, 2026|
-|**Rippling**|[Camel Cards](https://www.fastprep.io/problems/rippling-camel-cards)|[![Practice][p]](https://www.fastprep.io/problems/rippling-camel-cards)|Jul 12, 2026|
 <a id="bottom"></a>

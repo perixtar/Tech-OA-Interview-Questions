@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Unique String Permutations](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Sep 13, 2026|
+|**Amazon**|[Three Sum Closest](https://www.fastprep.io/problems/amazon-three-sum-closest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-three-sum-closest)|Sep 13, 2026|
+|**Amazon**|[Product of Array Except Self](https://www.fastprep.io/problems/amazon-product-array-except-self)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-array-except-self)|Sep 13, 2026|
+|**Amazon**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|Sep 13, 2026|
+|**Amazon**|[Initial and Final Accounts in a Transfer Chain](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Sep 13, 2026|
 |**Amazon**|[Minimize Malware Spread in a Facility Network](https://www.fastprep.io/problems/amazon-minimize-malware-facility-network)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-malware-facility-network)|Sep 13, 2026|
 |**Amazon**|[Running Delivery Time Medians](https://www.fastprep.io/problems/amazon-running-delivery-time-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-running-delivery-time-medians)|Sep 13, 2026|
 |**Amazon**|[Maximum Non-Adjacent House Value](https://www.fastprep.io/problems/amazon-maximum-non-adjacent-house-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-non-adjacent-house-value)|Sep 13, 2026|
@@ -1744,9 +1749,4 @@
 |**Meta**|[Sliding Window Average (Meta Canada, E4/E5 :)](https://www.fastprep.io/problems/meta-sliding-window-average)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-sliding-window-average)|Jul 03, 2025|
 |**Meta**|[Add Decimal Strings Exactly](https://www.fastprep.io/problems/meta-exact-decimal-string-addition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-exact-decimal-string-addition)|Jul 03, 2025|
 |**Meta**|[Binary Tree Vertical Order with Stable Ties](https://www.fastprep.io/problems/meta-stable-vertical-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-stable-vertical-order-traversal)|Jul 03, 2025|
-|**Atlassian**|[Smart-Fridge Edge Processing Migration](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smart-fridge-edge-processing-migration)|Jul 01, 2025|
-|**SpaceX**|[Pressure Chamber Linear Interpolation](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Jun 26, 2025|
-|**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
-|**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
-|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
 <a id="bottom"></a>

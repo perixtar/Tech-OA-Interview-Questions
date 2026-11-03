@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,236)](formats/coding.md) · [SQL (98)](formats/sql.md) · [System design (650)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (127)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,241)](formats/coding.md) · [SQL (98)](formats/sql.md) · [System design (650)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (127)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,9 +33,15 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Squarepoint Capital**|[Three Points in a Semicircle: Monte Carlo Estimate](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|🔥 Nov 01, 2026|
+|**Squarepoint Capital**|[Probability of Consecutive Heads](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|🔥 Nov 01, 2026|
+|**Google**|[Serialize and Deserialize a Binary Tree](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|🔥 Nov 01, 2026|
+|**Snowflake**|[LFU Cache](https://www.fastprep.io/problems/snowflake-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-lfu-cache)|🔥 Nov 01, 2026|
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|🔥 Nov 01, 2026|
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🔥 Nov 01, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Nov 01, 2026|
+|**Stripe**|[Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system)|🔥 Nov 01, 2026|
+|**Citadel**|[Square Root Function](https://www.fastprep.io/problems/citadel-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-square-root)|🔥 Oct 31, 2026|
 |**eBay**|[Meeting Rooms II](https://www.fastprep.io/problems/ebay-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ebay-meeting-rooms-ii)|🔥 Oct 31, 2026|
 |**Wells Fargo**|[Count Phrases Formed by Anagram Replacement](https://www.fastprep.io/problems/wellsfargo-count-anagram-phrases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-anagram-phrases)|🔥 Oct 31, 2026|
 |**Wells Fargo**|[Bond Interest Summary Above 3%](https://www.fastprep.io/problems/wellsfargo-bond-interest-summary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-bond-interest-summary)|🔥 Oct 31, 2026|
@@ -985,7 +991,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Okta**|[Design a Production Paginated Record API](https://www.fastprep.io/system-design/production-paginated-record-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/production-paginated-record-api)|🆕 Sep 30, 2026|
 |**General Motors**|[Design a Resilient Dependency-Orchestrating Service](https://www.fastprep.io/system-design/resilient-dependency-orchestrating-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-dependency-orchestrating-service)|🆕 Sep 30, 2026|
 |**BNSF Railway / Hartford Financial Services**|[Design a Resilient High-Traffic Quote API](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|🆕 Sep 30, 2026|
-|**Stripe**|[Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system)|🆕 Sep 30, 2026|
 |**Capital One**|[Digit-Coded Card Validation](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|🆕 Sep 30, 2026|
 |**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|🆕 Sep 30, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🆕 Sep 30, 2026|
@@ -1682,9 +1687,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Kth Smallest Sum from Sorted Matrix Rows](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|Sep 13, 2026|
 |**Amazon**|[Meeting Room Scheduler](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Sep 13, 2026|
 |**Amazon**|[E-commerce Notification Router](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|Sep 13, 2026|
-|**Amazon**|[Unique String Permutations](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Sep 13, 2026|
-|**Amazon**|[Three Sum Closest](https://www.fastprep.io/problems/amazon-three-sum-closest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-three-sum-closest)|Sep 13, 2026|
-|**Amazon**|[Product of Array Except Self](https://www.fastprep.io/problems/amazon-product-array-except-self)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-array-except-self)|Sep 13, 2026|
-|**Amazon**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|Sep 13, 2026|
-|**Amazon**|[Initial and Final Accounts in a Transfer Chain](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Sep 13, 2026|
 <a id="bottom"></a>
