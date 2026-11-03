@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Dungeon Health](https://www.fastprep.io/problems/goldman-sachs-dungeon-health)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-dungeon-health)|Sep 14, 2026|
 |**Goldman Sachs**|[Least Recently Used Cache](https://www.fastprep.io/problems/goldman-sachs-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-lru-cache)|Sep 14, 2026|
 |**Vanta**|[Implement uniq: Unique Lines](https://www.fastprep.io/problems/vanta-unique-lines-command)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-unique-lines-command)|Sep 14, 2026|
 |**Airwallex**|[Paginated K-Way Unique Merge](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Sep 14, 2026|

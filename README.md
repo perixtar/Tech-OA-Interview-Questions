@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,241)](formats/coding.md) · [SQL (98)](formats/sql.md) · [System design (652)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (196)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,242)](formats/coding.md) · [SQL (98)](formats/sql.md) · [System design (652)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (196)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -40,6 +40,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Stripe**|[Jackson Debugging: Repair Nonfinite Number Policy](https://www.fastprep.io/project-coding/mock-stripe-jackson-infinity)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-jackson-infinity)|🔥 Nov 03, 2026|
 |**Stripe**|[Moshi Debugging: Repair JSONPath Array Positions](https://www.fastprep.io/project-coding/mock-stripe-moshi-jsonpath)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-moshi-jsonpath)|🔥 Nov 03, 2026|
 |**Stripe**|[SnakeYAML Debugging: Repair Boolean Resolution](https://www.fastprep.io/project-coding/mock-stripe-yaml-boolean-resolution)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-yaml-boolean-resolution)|🔥 Nov 03, 2026|
+|**Scale AI**|[Part 1: The Narrowest Key](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Nov 03, 2026|
+|**Scale AI**|[Part 2: Batch Access Review](https://www.fastprep.io/problems/scale-ai-batch-access-review)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-batch-access-review)|🔥 Nov 03, 2026|
 |**Alteryx**|[Build a Directory View](https://www.fastprep.io/project-coding/alteryx-directory-view)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/alteryx-directory-view)|🔥 Nov 02, 2026|
 |**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge / NVIDIA**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Nov 02, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 02, 2026|
@@ -322,7 +324,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🔥 Oct 22, 2026|
 |**Keka HR**|[Design an Admin Trip Assignment System](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/admin-trip-driver-assignment-system)|🔥 Oct 22, 2026|
 |**Keka HR**|[Review a Backend Search Endpoint](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/keka-secure-backend-code-review)|🔥 Oct 22, 2026|
-|**Scale AI**|[Lowest Common Ancestor in a General Tree](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Count Ideal Numbers in a Range](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Generate Bit Mask](https://www.fastprep.io/problems/nvidia-generate-bit-mask)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-generate-bit-mask)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Reconstruct an Array from Prefix XOR](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|🔥 Oct 22, 2026|
@@ -1680,5 +1681,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Airwallex**|[Design an Authoritative Grid Chase Game](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|System design|[![Practice][p]](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|Sep 14, 2026|
 |**Goldman Sachs**|[Staircase Search In A Sorted Matrix](https://www.fastprep.io/problems/goldman-sachs-staircase-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-staircase-search)|Sep 14, 2026|
 |**Goldman Sachs**|[Insert, Delete, And Get Random In Constant Time](https://www.fastprep.io/problems/goldman-sachs-insert-delete-getrandom-o1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-insert-delete-getrandom-o1)|Sep 14, 2026|
-|**Goldman Sachs**|[Dungeon Health](https://www.fastprep.io/problems/goldman-sachs-dungeon-health)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-dungeon-health)|Sep 14, 2026|
 <a id="bottom"></a>
