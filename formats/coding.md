@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,241 questions**
+**4,242 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Scale AI**|[Part 1: The Narrowest Key](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Nov 03, 2026|
+|**Scale AI**|[Part 2: Batch Access Review](https://www.fastprep.io/problems/scale-ai-batch-access-review)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-batch-access-review)|🔥 Nov 03, 2026|
 |**Squarepoint Capital**|[Three Points in a Semicircle: Monte Carlo Estimate](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|🔥 Nov 01, 2026|
 |**Squarepoint Capital**|[Probability of Consecutive Heads](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|🔥 Nov 01, 2026|
 |**Google**|[Serialize and Deserialize a Binary Tree](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|🔥 Nov 01, 2026|
@@ -189,7 +191,6 @@
 |**AT&T**|[Minimum Binary Swaps to a Palindrome](https://www.fastprep.io/problems/att-minimum-binary-swaps-to-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/att-minimum-binary-swaps-to-palindrome)|🔥 Oct 24, 2026|
 |**TikTok**|[Check Array Arithmetic Expressions](https://www.fastprep.io/problems/tiktok-check-array-arithmetic-expressions)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-array-arithmetic-expressions)|🔥 Oct 23, 2026|
 |**TikTok**|[Wait Until the Next Shuttle](https://www.fastprep.io/problems/tiktok-next-shuttle-wait-time)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-next-shuttle-wait-time)|🔥 Oct 23, 2026|
-|**Scale AI**|[Lowest Common Ancestor in a General Tree](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-lowest-common-ancestor-general-tree)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Count Ideal Numbers in a Range](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-count-ideal-numbers)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Generate Bit Mask](https://www.fastprep.io/problems/nvidia-generate-bit-mask)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-generate-bit-mask)|🔥 Oct 22, 2026|
 |**NVIDIA**|[Reconstruct an Array from Prefix XOR](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-reconstruct-array-from-prefix-xor)|🔥 Oct 22, 2026|
@@ -1818,5 +1819,4 @@
 |**Upstart**|[Interleave Equal-Length Strings by Column](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|[![Practice][p]](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|Jul 12, 2026|
 |**Upstart**|[Scale Ingredient Quantities](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|[![Practice][p]](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Jul 12, 2026|
 |**IDFC**|[Find All People With Secret](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|[![Practice][p]](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Jul 12, 2026|
-|**DRW**|[Doctor Appointment Slot Assignment](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|[![Practice][p]](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|Jul 12, 2026|
 <a id="bottom"></a>

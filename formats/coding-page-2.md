@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,241 questions**
+**4,242 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**DRW**|[Doctor Appointment Slot Assignment](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|[![Practice][p]](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|Jul 12, 2026|
 |**DRW**|[Maximum Even-Sum Neighboring Pairs](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|[![Practice][p]](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|Jul 12, 2026|
 |**DRW**|[Minimize Maximum Group Difference](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|[![Practice][p]](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|Jul 12, 2026|
 |**Goldman Sachs**|[Cheapest Flights Within K Stops](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|Jul 12, 2026|
@@ -1938,5 +1939,4 @@
 |**Sentry**|[Wildcard Bad-Word Filter](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|[![Practice][p]](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Aug 17, 2023|
 |**Sentry**|[Word Wrap with Even Justification](https://www.fastprep.io/problems/sentry-word-wrap-justification)|[![Practice][p]](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Aug 17, 2023|
 |**Headlands Technologies**|[Checked Recursive Sum](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|[![Practice][p]](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|Aug 10, 2023|
-|**Arcesium**|[Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Aug 05, 2023|
 <a id="bottom"></a>
