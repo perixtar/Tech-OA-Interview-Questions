@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Rippling**|[Camel Cards](https://www.fastprep.io/problems/rippling-camel-cards)|[![Practice][p]](https://www.fastprep.io/problems/rippling-camel-cards)|Jul 12, 2026|
 |**Rippling**|[Article Vote Tracker](https://www.fastprep.io/problems/rippling-article-vote-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-article-vote-tracker)|Jul 12, 2026|
 |**Rippling**|[Employee Resource Access Management](https://www.fastprep.io/problems/rippling-employee-access-management)|[![Practice][p]](https://www.fastprep.io/problems/rippling-employee-access-management)|Jul 12, 2026|
 |**Rippling**|[Lexicographically Minimum Stack Encryption](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|Jul 12, 2026|
@@ -1939,4 +1938,5 @@
 |**Datadog**|[Encoded String Match](https://www.fastprep.io/problems/datadog-encoded-string-match)|[![Practice][p]](https://www.fastprep.io/problems/datadog-encoded-string-match)|Aug 03, 2023|
 |**Optiver**|[Worst Trade Reporter](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|[![Practice][p]](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Jul 25, 2023|
 |**Optiver**|[Truck Position Subscriber](https://www.fastprep.io/problems/optiver-truck-positions)|[![Practice][p]](https://www.fastprep.io/problems/optiver-truck-positions)|Jul 25, 2023|
+|**WhatNot**|[Sorted Squares in Descending Order](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-descending-sorted-squares)|Jul 25, 2023|
 <a id="bottom"></a>

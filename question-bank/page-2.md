@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Amazon**|[Initial and Final Accounts in a Transfer Chain](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Sep 13, 2026|
 |**Amazon**|[Minimize Malware Spread in a Facility Network](https://www.fastprep.io/problems/amazon-minimize-malware-facility-network)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-malware-facility-network)|Sep 13, 2026|
 |**Amazon**|[Running Delivery Time Medians](https://www.fastprep.io/problems/amazon-running-delivery-time-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-running-delivery-time-medians)|Sep 13, 2026|
 |**Amazon**|[Maximum Non-Adjacent House Value](https://www.fastprep.io/problems/amazon-maximum-non-adjacent-house-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-non-adjacent-house-value)|Sep 13, 2026|
@@ -1749,4 +1748,5 @@
 |**SpaceX**|[Pressure Chamber Linear Interpolation](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Jun 26, 2025|
 |**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
 |**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
+|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
 <a id="bottom"></a>

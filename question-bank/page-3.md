@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
 |**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 |**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
 |**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
@@ -111,6 +110,7 @@
 |**The Walt Disney Company**|[Count Buggy and Bug-Free Submissions per Employee](https://www.fastprep.io/problems/the-walt-disney-company-employee-bug-submission-counts)|SQL|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-employee-bug-submission-counts)|Apr 15, 2025|
 |**Datadog**|[Find Streams with All Keywords](https://www.fastprep.io/problems/datadog-mutual-keyword-streams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-mutual-keyword-streams)|Apr 14, 2025|
 |**Datadog**|[List Every Root-to-Leaf Path](https://www.fastprep.io/problems/datadog-root-leaf-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-root-leaf-paths)|Apr 14, 2025|
+|**Palantir**|[Design an Organism Knowledge System](https://www.fastprep.io/system-design/exoplanet-organism-knowledge-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/exoplanet-organism-knowledge-system)|Apr 14, 2025|
 |**Amazon**|[Min Num Unique Distribution Hubs](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers)|Apr 13, 2025|
 |**Amazon**|[Use Minimum Tokens](https://www.fastprep.io/problems/amazon-use-minimum-tokens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-use-minimum-tokens)|Apr 13, 2025|
 |**Amazon**|[Next Perfect String](https://www.fastprep.io/problems/amazon-next-greater-perfect-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-next-greater-perfect-string)|Apr 13, 2025|
@@ -1849,5 +1849,4 @@
 |**BAMTECH Media**|[Top K Largest Values with Constant Auxiliary Space](https://www.fastprep.io/problems/bamtech-media-top-k-largest-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-top-k-largest-constant-space)|Sep 29, 2019|
 |**BAMTECH Media**|[Valid Parentheses](https://www.fastprep.io/problems/bamtech-media-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bamtech-media-valid-parentheses)|Sep 29, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
-|**JP Morgan Chase**|[Low-Cost Access to a File Archive](https://www.fastprep.io/system-design/low-cost-file-archive-access)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-cost-file-archive-access)|Sep 23, 2019|
 <a id="bottom"></a>

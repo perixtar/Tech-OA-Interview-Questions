@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**649 questions**
+**650 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -65,15 +65,15 @@
 |**Okta**|[Design a Device Status Collection Platform](https://www.fastprep.io/system-design/device-status-collection-platform)|[![Practice][p]](https://www.fastprep.io/system-design/device-status-collection-platform)|🔥 Oct 21, 2026|
 |**Zoox**|[Design Accurate Video View Counts](https://www.fastprep.io/system-design/video-view-count-analytics)|[![Practice][p]](https://www.fastprep.io/system-design/video-view-count-analytics)|🔥 Oct 21, 2026|
 |**Amazon / Instacart / Zip / Nykaa / Flipkart**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Oct 20, 2026|
-|**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🔥 Oct 19, 2026|
-|**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🔥 Oct 19, 2026|
-|**Snowflake**|[Design a Shared User Quota Authority](https://www.fastprep.io/system-design/shared-user-quota-authority)|[![Practice][p]](https://www.fastprep.io/system-design/shared-user-quota-authority)|🔥 Oct 19, 2026|
-|**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🔥 Oct 19, 2026|
-|**Snowflake**|[Design an Auditable Event Trail Service](https://www.fastprep.io/system-design/auditable-event-trail-service)|[![Practice][p]](https://www.fastprep.io/system-design/auditable-event-trail-service)|🔥 Oct 19, 2026|
-|**Snowflake**|[Fault-Tolerant Batch Dataflow Engine](https://www.fastprep.io/system-design/fault-tolerant-batch-dataflow-engine)|[![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-batch-dataflow-engine)|🔥 Oct 19, 2026|
-|**Snowflake**|[Resilient REST Call Abstraction](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|🔥 Oct 19, 2026|
-|**Snowflake**|[Versioned Query-DAG Result Cache](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|🔥 Oct 19, 2026|
-|**ByteDance**|[Design a Currency Conversion Service](https://www.fastprep.io/system-design/currency-conversion-service)|[![Practice][p]](https://www.fastprep.io/system-design/currency-conversion-service)|🔥 Oct 19, 2026|
+|**Snowflake**|[Declarative Cluster Control Plane](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|[![Practice][p]](https://www.fastprep.io/system-design/declarative-cluster-control-plane)|🆕 Oct 19, 2026|
+|**Snowflake**|[Design a Resilient Third-Party Token Client](https://www.fastprep.io/system-design/resilient-third-party-token-client)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-third-party-token-client)|🆕 Oct 19, 2026|
+|**Snowflake**|[Design a Shared User Quota Authority](https://www.fastprep.io/system-design/shared-user-quota-authority)|[![Practice][p]](https://www.fastprep.io/system-design/shared-user-quota-authority)|🆕 Oct 19, 2026|
+|**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🆕 Oct 19, 2026|
+|**Snowflake**|[Design an Auditable Event Trail Service](https://www.fastprep.io/system-design/auditable-event-trail-service)|[![Practice][p]](https://www.fastprep.io/system-design/auditable-event-trail-service)|🆕 Oct 19, 2026|
+|**Snowflake**|[Fault-Tolerant Batch Dataflow Engine](https://www.fastprep.io/system-design/fault-tolerant-batch-dataflow-engine)|[![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-batch-dataflow-engine)|🆕 Oct 19, 2026|
+|**Snowflake**|[Resilient REST Call Abstraction](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-rest-call-abstraction)|🆕 Oct 19, 2026|
+|**Snowflake**|[Versioned Query-DAG Result Cache](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-query-dag-result-cache)|🆕 Oct 19, 2026|
+|**ByteDance**|[Design a Currency Conversion Service](https://www.fastprep.io/system-design/currency-conversion-service)|[![Practice][p]](https://www.fastprep.io/system-design/currency-conversion-service)|🆕 Oct 19, 2026|
 |**Unattributed**|[Design a Medicine Delivery Platform](https://www.fastprep.io/system-design/medicine-delivery-platform)|[![Practice][p]](https://www.fastprep.io/system-design/medicine-delivery-platform)|🆕 Oct 18, 2026|
 |**Modular / Unity / Faire / The Walt Disney Company**|[Design a Machine Learning Feature Store](https://www.fastprep.io/system-design/machine-learning-feature-store)|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-feature-store)|🆕 Oct 18, 2026|
 |**Lambda / Faire**|[Cloud AI Inference Platform](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|🆕 Oct 18, 2026|
@@ -248,11 +248,11 @@
 |**Microsoft / Optiver**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|🆕 Sep 19, 2026|
 |**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|🆕 Sep 19, 2026|
 |**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|🆕 Sep 19, 2026|
-|**Amazon**|[Design a Large-Scale File Change Watcher](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|🆕 Sep 18, 2026|
-|**Amazon**|[Design Robot-Assisted Restaurant Orchestration](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|🆕 Sep 18, 2026|
-|**Amazon**|[Design an Employee Directory and Organization Hierarchy](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|[![Practice][p]](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|🆕 Sep 18, 2026|
-|**JioStar**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🆕 Sep 18, 2026|
-|**Uber**|[Large Structured Data Filesystem](https://www.fastprep.io/system-design/large-structured-data-filesystem)|[![Practice][p]](https://www.fastprep.io/system-design/large-structured-data-filesystem)|🆕 Sep 18, 2026|
+|**Amazon**|[Design a Large-Scale File Change Watcher](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|Sep 18, 2026|
+|**Amazon**|[Design Robot-Assisted Restaurant Orchestration](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|Sep 18, 2026|
+|**Amazon**|[Design an Employee Directory and Organization Hierarchy](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|[![Practice][p]](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|Sep 18, 2026|
+|**JioStar**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|Sep 18, 2026|
+|**Uber**|[Large Structured Data Filesystem](https://www.fastprep.io/system-design/large-structured-data-filesystem)|[![Practice][p]](https://www.fastprep.io/system-design/large-structured-data-filesystem)|Sep 18, 2026|
 |**Microsoft**|[Design Distributed LLM Embedding and Output Sharding](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|Sep 17, 2026|
 |**Fox Corporation**|[Design a Model-Version-Aware Derived-Data Cache](https://www.fastprep.io/system-design/model-version-aware-derived-cache)|[![Practice][p]](https://www.fastprep.io/system-design/model-version-aware-derived-cache)|Sep 17, 2026|
 |**Oracle**|[Design Data-Loss Prevention and Recovery for a Distributed Store](https://www.fastprep.io/system-design/distributed-data-loss-prevention-and-recovery)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-data-loss-prevention-and-recovery)|Sep 17, 2026|
@@ -558,6 +558,7 @@
 |**Zip**|[Design Personalized Customer Document Search](https://www.fastprep.io/system-design/personalized-customer-document-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-customer-document-search)|Apr 21, 2025|
 |**Checkr**|[Design a Background-Check Processing Platform](https://www.fastprep.io/system-design/background-check-processing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/background-check-processing-platform)|Apr 19, 2025|
 |**The Walt Disney Company**|[Design an Airport Runway Task Scheduler](https://www.fastprep.io/system-design/airport-runway-task-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/airport-runway-task-scheduler)|Apr 17, 2025|
+|**Palantir**|[Design an Organism Knowledge System](https://www.fastprep.io/system-design/exoplanet-organism-knowledge-system)|[![Practice][p]](https://www.fastprep.io/system-design/exoplanet-organism-knowledge-system)|Apr 14, 2025|
 |**Google**|[Design an Online Four-Candidate Ranker](https://www.fastprep.io/system-design/contextual-four-candidate-ranker)|[![Practice][p]](https://www.fastprep.io/system-design/contextual-four-candidate-ranker)|Apr 08, 2025|
 |**SpaceX**|[Design a Browser-to-Backend Request Lifecycle](https://www.fastprep.io/system-design/browser-to-backend-request-lifecycle)|[![Practice][p]](https://www.fastprep.io/system-design/browser-to-backend-request-lifecycle)|Apr 06, 2025|
 |**Bloomberg LP / The Walt Disney Company**|[Design a Shoe E-Commerce Marketplace](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|[![Practice][p]](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|Apr 05, 2025|
