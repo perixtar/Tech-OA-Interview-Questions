@@ -2,6 +2,8 @@
 """Focused regression tests for practice-format synchronization."""
 
 import importlib.util
+import io
+import json
 import shutil
 import subprocess
 import sys
@@ -10,6 +12,7 @@ import unittest
 from collections import Counter
 from datetime import date
 from pathlib import Path
+from unittest import mock
 
 
 SCRIPT = Path(__file__).with_name("sync-practice-formats.py")
@@ -233,6 +236,72 @@ class SyncPracticeFormatsTest(unittest.TestCase):
         self.assertEqual(counts["System design"], 1)
         self.assertEqual(counts["Low-level design"], 1)
         self.assertEqual(counts["AI coding"], 1)
+
+    def test_project_catalog_request_admits_every_published_runtime(self) -> None:
+        requests = {}
+
+        def fake_urlopen(request, timeout):
+            catalog_name = next(
+                name
+                for name, url in sync.CATALOG_ENDPOINTS.items()
+                if url == request.full_url
+            )
+            requests[catalog_name] = request
+            problems = (
+                []
+                if catalog_name == "coding"
+                else [managed_item(catalog_name, "route", "Title", [], [])]
+            )
+            payload = problems if catalog_name == "coding" else {"problems": problems}
+            return io.BytesIO(json.dumps(payload).encode("utf-8"))
+
+        with mock.patch.object(sync, "urlopen", fake_urlopen):
+            catalogs = sync.load_catalogs(None)
+
+        self.assertEqual(set(requests), set(sync.CATALOG_ENDPOINTS))
+        self.assertEqual(
+            requests["project_coding"].full_url,
+            "https://www.fastprep.io/api/project-coding/problems?responseVersion=8",
+        )
+        self.assertEqual(
+            requests["project_coding"].get_header("X-fastprep-catalog-capabilities"),
+            "project-runtime-pytorch-v1",
+        )
+        for catalog_name in set(requests) - {"project_coding"}:
+            self.assertIsNone(
+                requests[catalog_name].get_header("X-fastprep-catalog-capabilities")
+            )
+        for request in requests.values():
+            self.assertEqual(
+                request.get_header("User-agent"), "FastPrep-question-bank-sync/1"
+            )
+        self.assertEqual(len(catalogs["project_coding"]), 1)
+
+    def test_managed_rows_ignore_versioned_project_catalog_fields(self) -> None:
+        item = managed_item(
+            "project_coding", "browser-route", "Browser", ["Example"], ["2026-11-02"]
+        )
+        item.update(
+            summary="Summary text",
+            employmentTypes=["FULLTIME"],
+            assessmentPlatform="ExamplePlatform",
+            runtime={"profileId": "python-browser-pytest-v1"},
+            runtimeVariants={"java": {"profileId": "java21-browser-pytest-v1"}},
+        )
+
+        rows = sync.build_managed_rows({"project_coding": [item]})
+        route_url = "https://www.fastprep.io/project-coding/browser-route"
+
+        self.assertEqual(
+            rows[route_url],
+            sync.ManagedCatalogRow(
+                route_url=route_url,
+                label="AI coding",
+                title="Browser",
+                companies=("Example",),
+                latest_seen=date(2026, 11, 2),
+            ),
+        )
 
     def test_missing_public_attribution_uses_factual_fallbacks(self) -> None:
         managed_rows = sync.build_managed_rows(
