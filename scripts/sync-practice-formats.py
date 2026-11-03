@@ -62,7 +62,17 @@ CATALOG_ENDPOINTS = {
     "coding": "https://www.fastprep.io/api/problems?v=1",
     "system_design": "https://www.fastprep.io/api/system-design/problems",
     "low_level_design": "https://www.fastprep.io/api/low-level-design/problems",
-    "project_coding": "https://www.fastprep.io/api/project-coding/problems",
+    # Match the FastPrep browser's catalog request: older or absent versions and
+    # the missing capability hide published problems on newer runtimes. Raise the
+    # version with PROJECT_CODING_CATALOG_RESPONSE_VERSION in the FastPrep app.
+    "project_coding": (
+        "https://www.fastprep.io/api/project-coding/problems?responseVersion=8"
+    ),
+}
+CATALOG_REQUEST_HEADERS = {
+    "project_coding": {
+        "X-FastPrep-Catalog-Capabilities": "project-runtime-pytorch-v1",
+    },
 }
 OLD_TABLE_HEADER = "| Company | OA / Interview Question | Practice | Updated |"
 LEGACY_TABLE_HEADER = (
@@ -174,7 +184,10 @@ def load_catalogs(catalog_file: Path | None) -> dict[str, list[dict]]:
         for catalog_name, catalog_url in CATALOG_ENDPOINTS.items():
             request = Request(
                 catalog_url,
-                headers={"User-Agent": "FastPrep-question-bank-sync/1"},
+                headers={
+                    "User-Agent": "FastPrep-question-bank-sync/1",
+                    **CATALOG_REQUEST_HEADERS.get(catalog_name, {}),
+                },
             )
             try:
                 with urlopen(request, timeout=30) as response:
