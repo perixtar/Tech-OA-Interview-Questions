@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Two Sigma**|[Online No-Intercept Linear Regression](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Sep 14, 2026|
+|**Two Sigma**|[Linear Interpolator](https://www.fastprep.io/problems/two-sigma-linear-interpolator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-linear-interpolator)|Sep 14, 2026|
+|**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|SQL|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|Sep 14, 2026|
+|**Akuna Capital**|[Vowel Substring Game](https://www.fastprep.io/problems/akuna-vowel-substring-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-vowel-substring-game)|Sep 14, 2026|
+|**Rippling**|[Filter, Sort, and Deduplicate Scheduled Tasks](https://www.fastprep.io/problems/rippling-filter-sort-and-deduplicate-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-filter-sort-and-deduplicate-tasks)|Sep 14, 2026|
 |**Goldman Sachs**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|Sep 14, 2026|
 |**Airwallex**|[Design an Authoritative Grid Chase Game](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|System design|[![Practice][p]](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|Sep 14, 2026|
 |**Goldman Sachs**|[Staircase Search In A Sorted Matrix](https://www.fastprep.io/problems/goldman-sachs-staircase-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-staircase-search)|Sep 14, 2026|
@@ -1744,9 +1749,4 @@
 |**ByteDance**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Jul 26, 2025|
 |**ByteDance**|[QuickSelect Kth Smallest](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Jul 26, 2025|
 |**ByteDance**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Jul 26, 2025|
-|**Capillary Technologies**|[Delete a Linked-List Node Without the Head](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Jul 26, 2025|
-|**Capillary Technologies**|[Top View of a Binary Tree](https://www.fastprep.io/problems/capillary-top-view-of-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-top-view-of-binary-tree)|Jul 26, 2025|
-|**Cisco**|[Longest Non-Repeating Substring](https://www.fastprep.io/problems/cisco-longest-non-repeating-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-longest-non-repeating-substring)|Jul 26, 2025|
-|**Databricks**|[Durable Data Writer](https://www.fastprep.io/problems/databricks-durable-data-writer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-durable-data-writer)|Jul 26, 2025|
-|**Databricks**|[Snapshot Set Iterator](https://www.fastprep.io/problems/databricks-snapshot-set-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-snapshot-set-iterator)|Jul 26, 2025|
 <a id="bottom"></a>

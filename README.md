@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,247)](formats/coding.md) · [SQL (98)](formats/sql.md) · [System design (655)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (196)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,260)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (655)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (196)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -204,6 +204,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Intuit**|[Next Pascal Row Coefficient](https://www.fastprep.io/problems/intuit-next-pascal-row-coefficient)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-next-pascal-row-coefficient)|🔥 Oct 28, 2026|
 |**Intuit**|[Parse Router Logs](https://www.fastprep.io/problems/intuit-parse-router-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-parse-router-logs)|🔥 Oct 28, 2026|
 |**Reddit**|[Complete an Imbalanced Recommendation Feature Pipeline](https://www.fastprep.io/project-coding/imbalanced-recommendation-feature-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/imbalanced-recommendation-feature-pipeline)|🔥 Oct 28, 2026|
+|**Palantir**|[Map and Accumulate Learning Queries](https://www.fastprep.io/problems/palantir-map-accumulate-learning-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-map-accumulate-learning-queries)|🔥 Oct 28, 2026|
 |**Amazon**|[Fill One Exact-Length Binary Window](https://www.fastprep.io/problems/amazon-fill-exact-length-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-fill-exact-length-window)|🔥 Oct 27, 2026|
 |**Google**|[Fuel Route with Fewest Station Visits](https://www.fastprep.io/problems/google-fuel-route-fewest-stations-then-roads)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fuel-route-fewest-stations-then-roads)|🔥 Oct 27, 2026|
 |**ByteDance**|[Sparse Matrix Multiplication](https://www.fastprep.io/problems/bytedance-sparse-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-sparse-matrix-multiplication)|🔥 Oct 27, 2026|
@@ -1671,6 +1672,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**OpenAI**|[Dependency-Aware Agent Task Scheduler](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|Sep 15, 2026|
 |**Robinhood**|[Transitive Employee Referral Counts](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Sep 15, 2026|
 |**Google**|[Detect Duplicate Trace IDs in a Linked List](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Sep 15, 2026|
+|**Palantir**|[Basic Item Discounts](https://www.fastprep.io/problems/palantir-basic-item-discounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-basic-item-discounts)|Sep 15, 2026|
+|**Palantir**|[Optimize Discount Selection Under a Point Budget](https://www.fastprep.io/problems/palantir-optimize-discount-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-optimize-discount-selection)|Sep 15, 2026|
+|**Palantir**|[Stacked Item and Category Discounts](https://www.fastprep.io/problems/palantir-stacked-item-category-discounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-stacked-item-category-discounts)|Sep 15, 2026|
 |**Apple**|[3D Grid Diagonal Walk Probability](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Sep 14, 2026|
 |**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Sep 14, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Sep 14, 2026|
@@ -1678,9 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Unattributed**|[Design and Implement a Concurrency-Safe Wallet](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|Sep 14, 2026|
 |**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|Sep 14, 2026|
 |**Akuna Capital**|[Maximum Remaining Drone Power](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Sep 14, 2026|
-|**Two Sigma**|[Online No-Intercept Linear Regression](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Sep 14, 2026|
-|**Two Sigma**|[Linear Interpolator](https://www.fastprep.io/problems/two-sigma-linear-interpolator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-linear-interpolator)|Sep 14, 2026|
-|**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|SQL|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|Sep 14, 2026|
-|**Akuna Capital**|[Vowel Substring Game](https://www.fastprep.io/problems/akuna-vowel-substring-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-vowel-substring-game)|Sep 14, 2026|
-|**Rippling**|[Filter, Sort, and Deduplicate Scheduled Tasks](https://www.fastprep.io/problems/rippling-filter-sort-and-deduplicate-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-filter-sort-and-deduplicate-tasks)|Sep 14, 2026|
 <a id="bottom"></a>

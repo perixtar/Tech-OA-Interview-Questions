@@ -2,15 +2,28 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,247 questions**
+**4,260 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Palantir**|[Count Fit Records Across Pages](https://www.fastprep.io/problems/palantir-paginated-fit-count)|[![Practice][p]](https://www.fastprep.io/problems/palantir-paginated-fit-count)|Sep 07, 2023|
+|**The Walt Disney Company**|[Movie Recommendations by Jaccard Similarity](https://www.fastprep.io/problems/the-walt-disney-company-movie-jaccard-recommendations)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-movie-jaccard-recommendations)|Sep 06, 2023|
+|**Optiver**|[Numbers Station Message Decoder](https://www.fastprep.io/problems/optiver-numbers-station)|[![Practice][p]](https://www.fastprep.io/problems/optiver-numbers-station)|Sep 05, 2023|
+|**Amazon**|[Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count)|[![Practice][p]](https://www.fastprep.io/problems/get-mean-rank-count)|Aug 31, 2023|
+|**Amazon**|[Count Spikes](https://www.fastprep.io/problems/count-spikes)|[![Practice][p]](https://www.fastprep.io/problems/count-spikes)|Aug 31, 2023|
+|**Amazon**|[Get Minimum Costs](https://www.fastprep.io/problems/get-minimum-cost)|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-cost)|Aug 31, 2023|
+|**Amazon**|[Find Minimum Inefficiency](https://www.fastprep.io/problems/find-minimum-inefficiency)|[![Practice][p]](https://www.fastprep.io/problems/find-minimum-inefficiency)|Aug 31, 2023|
+|**Goldman Sachs**|[Encryption Valididy](https://www.fastprep.io/problems/encryption-validity)|[![Practice][p]](https://www.fastprep.io/problems/encryption-validity)|Aug 31, 2023|
+|**Goldman Sachs**|[Decoding String](https://www.fastprep.io/problems/decoding-string)|[![Practice][p]](https://www.fastprep.io/problems/decoding-string)|Aug 31, 2023|
+|**Goldman Sachs**|[Is Possible](https://www.fastprep.io/problems/is-possible)|[![Practice][p]](https://www.fastprep.io/problems/is-possible)|Aug 31, 2023|
+|**Arcesium**|[Add Digits](https://www.fastprep.io/problems/arcesium-add-digits)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-add-digits)|Aug 30, 2023|
 |**Arcesium**|[Binary Tree Maximum Path Sum](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|Aug 30, 2023|
 |**Sentry**|[Wildcard Bad-Word Filter](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|[![Practice][p]](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Aug 17, 2023|
 |**Sentry**|[Word Wrap with Even Justification](https://www.fastprep.io/problems/sentry-word-wrap-justification)|[![Practice][p]](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Aug 17, 2023|
+|**Palantir**|[Country Population Density](https://www.fastprep.io/problems/palantir-country-population-density)|[![Practice][p]](https://www.fastprep.io/problems/palantir-country-population-density)|Aug 11, 2023|
+|**Palantir**|[Extraordinary Substrings](https://www.fastprep.io/problems/palantir-extraordinary-substrings)|[![Practice][p]](https://www.fastprep.io/problems/palantir-extraordinary-substrings)|Aug 11, 2023|
 |**Headlands Technologies**|[Checked Recursive Sum](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|[![Practice][p]](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|Aug 10, 2023|
 |**Arcesium**|[Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Aug 05, 2023|
 |**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
@@ -81,6 +94,7 @@
 |**ZipRecruiter**|[Replace Each Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|Oct 26, 2022|
 |**ZipRecruiter**|[Difference between Even- and Odd-Index Sums](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|Oct 25, 2022|
 |**ZipRecruiter**|[Minimum Difference Across Cyclic Rotations](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|Oct 25, 2022|
+|**Palantir**|[Minimum Calls for Repeated API Lookups](https://www.fastprep.io/problems/palantir-minimum-repeated-api-calls)|[![Practice][p]](https://www.fastprep.io/problems/palantir-minimum-repeated-api-calls)|Oct 25, 2022|
 |**Bloomberg LP**|[Add Two Numbers](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|Oct 24, 2022|
 |**Bloomberg LP**|[Merge Sorted Array](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|Oct 24, 2022|
 |**Optiver**|[Dynamic Future Pricing](https://www.fastprep.io/problems/optiver-future-pricing)|[![Practice][p]](https://www.fastprep.io/problems/optiver-future-pricing)|Oct 21, 2022|
@@ -340,6 +354,7 @@
 |**Bloomberg LP**|[Search a Valley Array](https://www.fastprep.io/problems/bloomberg-search-valley-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-valley-array)|Nov 19, 2020|
 |**Bloomberg LP**|[Find Peak Element](https://www.fastprep.io/problems/bloomberg-find-peak-element)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-peak-element)|Nov 05, 2020|
 |**Bloomberg LP**|[Shortest Bridge](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|Nov 05, 2020|
+|**Palantir**|[Cumulative Typosquatting Detection](https://www.fastprep.io/problems/palantir-cumulative-typosquatting-detector)|[![Practice][p]](https://www.fastprep.io/problems/palantir-cumulative-typosquatting-detector)|Nov 05, 2020|
 |**Bloomberg LP**|[Monotonic Array](https://www.fastprep.io/problems/bloomberg-monotonic-array)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-monotonic-array)|Oct 28, 2020|
 |**Bloomberg LP**|[Remove Invalid Parentheses](https://www.fastprep.io/problems/bloomberg-remove-invalid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-invalid-parentheses)|Oct 23, 2020|
 |**Bloomberg LP**|[Intersection of Two Arrays](https://www.fastprep.io/problems/bloomberg-intersection-of-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-intersection-of-two-arrays)|Oct 22, 2020|
