@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**652 questions**
+**654 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -603,6 +603,8 @@
 |**Runway**|[Video Content Analysis Platform](https://www.fastprep.io/system-design/video-content-analysis-platform)|[![Practice][p]](https://www.fastprep.io/system-design/video-content-analysis-platform)|Apr 04, 2023|
 |**Bloomberg LP**|[Design Capacity-Weighted Cache Routing](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|[![Practice][p]](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|Nov 21, 2022|
 |**Microsoft**|[Design Website Classification with Crowd-Labeled Data](https://www.fastprep.io/system-design/website-classification-crowd-labels)|[![Practice][p]](https://www.fastprep.io/system-design/website-classification-crowd-labels)|Oct 31, 2022|
+|**Palantir**|[Design a Farm Pest Alert System](https://www.fastprep.io/system-design/farm-pest-alert-system)|[![Practice][p]](https://www.fastprep.io/system-design/farm-pest-alert-system)|Oct 25, 2022|
+|**Palantir**|[Design an Airline Aircraft Assignment Planner](https://www.fastprep.io/system-design/airline-aircraft-assignment-planner)|[![Practice][p]](https://www.fastprep.io/system-design/airline-aircraft-assignment-planner)|Oct 25, 2022|
 |**ZipRecruiter**|[Design Candidate Saved-Search Alerts](https://www.fastprep.io/system-design/candidate-saved-search-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/candidate-saved-search-alerts)|Oct 21, 2022|
 |**Klaviyo**|[Redesign a Multi-Tier Web Application for AWS](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tier-web-application-aws-redesign)|Oct 21, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|

@@ -1485,6 +1485,8 @@
 |**ZipRecruiter**|[Replace Each Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|Oct 26, 2022|
 |**ZipRecruiter**|[Difference between Even- and Odd-Index Sums](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|Oct 25, 2022|
 |**ZipRecruiter**|[Minimum Difference Across Cyclic Rotations](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|Oct 25, 2022|
+|**Palantir**|[Design a Farm Pest Alert System](https://www.fastprep.io/system-design/farm-pest-alert-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/farm-pest-alert-system)|Oct 25, 2022|
+|**Palantir**|[Design an Airline Aircraft Assignment Planner](https://www.fastprep.io/system-design/airline-aircraft-assignment-planner)|System design|[![Practice][p]](https://www.fastprep.io/system-design/airline-aircraft-assignment-planner)|Oct 25, 2022|
 |**Bloomberg LP**|[Add Two Numbers](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|Oct 24, 2022|
 |**Bloomberg LP**|[Merge Sorted Array](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|Oct 24, 2022|
 |**Optiver**|[Dynamic Future Pricing](https://www.fastprep.io/problems/optiver-future-pricing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-future-pricing)|Oct 21, 2022|
@@ -1848,6 +1850,4 @@
 |**Bloomberg LP**|[Integer Square Root with Error Checks](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Jul 30, 2020|
 |**Bloomberg LP**|[Clicked One-Dimensional Candy Crush](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Jul 20, 2020|
 |**Bloomberg LP**|[Design an iPod-Style Music Player](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Jul 17, 2020|
-|**Bloomberg LP**|[Design Low-Latency Stock Information Queries](https://www.fastprep.io/system-design/low-latency-stock-information-query)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-stock-information-query)|Jul 13, 2020|
-|**Bloomberg LP**|[Design a Punctuation-Prediction Experiment](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|Jul 05, 2020|
 <a id="bottom"></a>
