@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Sep 14, 2026|
+|**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|Sep 14, 2026|
 |**Unattributed**|[Design and Implement a Concurrency-Safe Wallet](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|Sep 14, 2026|
 |**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|Sep 14, 2026|
 |**Akuna Capital**|[Maximum Remaining Drone Power](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Sep 14, 2026|
@@ -617,8 +619,6 @@
 |**IMC**|[Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal)|Aug 13, 2026|
 |**Salesforce**|[Minimum Window Substring](https://www.fastprep.io/problems/salesforce-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-window-substring)|Aug 12, 2026|
 |**Salesforce**|[Meeting Rooms II](https://www.fastprep.io/problems/salesforce-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-meeting-rooms-ii)|Aug 12, 2026|
-|**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|Aug 12, 2026|
-|**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|Aug 12, 2026|
 |**Figma**|[Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments)|Aug 12, 2026|
 |**Goldman Sachs**|[Design a Live-Stream Chat System](https://www.fastprep.io/system-design/live-stream-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-stream-chat-system)|Aug 12, 2026|
 |**Mercor**|[Design a Unique Username Registration System](https://www.fastprep.io/system-design/unique-username-registration-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/unique-username-registration-system)|Aug 12, 2026|
