@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Minimum-Weight Top-to-Bottom Grid Path](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Jul 26, 2025|
+|**Google**|[Priority Job Scheduler with Cooldowns](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Jul 26, 2025|
 |**Illumio**|[Time-Based Key-Value Database](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Jul 26, 2025|
 |**Meta**|[Count Fully Used Batteries](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Jul 26, 2025|
 |**Meta**|[Count Key Changes](https://www.fastprep.io/problems/meta-count-key-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-count-key-changes)|Jul 26, 2025|
@@ -1848,6 +1850,4 @@
 |**Bloomberg LP**|[Directional Distance to Mines and Boundaries](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Aug 07, 2020|
 |**Bloomberg LP**|[Find K Closest Elements in a Sorted Array](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Jul 30, 2020|
 |**Bloomberg LP**|[Integer Square Root with Error Checks](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Jul 30, 2020|
-|**Bloomberg LP**|[Clicked One-Dimensional Candy Crush](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Jul 20, 2020|
-|**Bloomberg LP**|[Design an iPod-Style Music Player](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Jul 17, 2020|
 <a id="bottom"></a>
