@@ -16,6 +16,7 @@
 |**Pinterest**|[Find Local Maxima in Sensor Data (MLE OA)](https://www.fastprep.io/problems/pinterest-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Nov 03, 2026|
 |**The D.E. Shaw Group**|[Count Palindrome Addition Choices](https://www.fastprep.io/problems/de-shaw-palindrome-addition-choices)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-palindrome-addition-choices)|🔥 Nov 03, 2026|
 |**The D.E. Shaw Group**|[Count Lucky Tickets](https://www.fastprep.io/problems/de-shaw-count-lucky-tickets)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-count-lucky-tickets)|🔥 Nov 03, 2026|
+|**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|🔥 Nov 03, 2026|
 |**Temu**|[Subsets](https://www.fastprep.io/problems/temu-subsets)|[![Practice][p]](https://www.fastprep.io/problems/temu-subsets)|🔥 Nov 02, 2026|
 |**MongoDB**|[JSON Path Lookup with Implicit Array Wildcards](https://www.fastprep.io/problems/mongodb-json-path-lookup)|[![Practice][p]](https://www.fastprep.io/problems/mongodb-json-path-lookup)|🔥 Nov 02, 2026|
 |**Stripe**|[Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system)|[![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system)|🔥 Nov 02, 2026|
@@ -146,7 +147,6 @@
 |**Stripe**|[Transaction Fee Calculator — Parts 1–2: Basic Fee Calculation and Conditional Fee Rules](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-part1)|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-part1)|🔥 Oct 27, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Oct 27, 2026|
 |**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Oct 27, 2026|
-|**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|🔥 Oct 27, 2026|
 |**OpenAI**|[Digit-Sum Sequence Join Point](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|[![Practice][p]](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|🔥 Oct 27, 2026|
 |**NVIDIA**|[Query a Header-Encoded Matrix](https://www.fastprep.io/problems/nvidia-query-header-encoded-matrix)|[![Practice][p]](https://www.fastprep.io/problems/nvidia-query-header-encoded-matrix)|🔥 Oct 27, 2026|
 |**OpenAI**|[Password Clues and the Next Command](https://www.fastprep.io/problems/openai-password-clues-next-command)|[![Practice][p]](https://www.fastprep.io/problems/openai-password-clues-next-command)|🔥 Oct 27, 2026|
