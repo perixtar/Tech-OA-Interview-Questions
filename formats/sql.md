@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**98 questions**
+**101 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -98,9 +98,12 @@
 |**Mastercard**|[Brands With Continuously Increasing Sales](https://www.fastprep.io/problems/mastercard-brands-with-continuously-increasing-sales)|[![Practice][p]](https://www.fastprep.io/problems/mastercard-brands-with-continuously-increasing-sales)|Jul 22, 2024|
 |**Mastercard**|[Status Changes in Log Data](https://www.fastprep.io/problems/mastercard-log-status-change-events)|[![Practice][p]](https://www.fastprep.io/problems/mastercard-log-status-change-events)|Jul 22, 2024|
 |**Mastercard**|[Left and Right Join Results](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|[![Practice][p]](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|Jul 22, 2024|
+|**Palantir**|[Freelance Candidate Review](https://www.fastprep.io/problems/palantir-freelance-candidate-review)|[![Practice][p]](https://www.fastprep.io/problems/palantir-freelance-candidate-review)|Nov 13, 2023|
 |**Agoda**|[Process Airline Seat Requests](https://www.fastprep.io/problems/agoda-airline-seat-requests)|[![Practice][p]](https://www.fastprep.io/problems/agoda-airline-seat-requests)|Oct 27, 2023|
 |**Agoda**|[Convert a Purchase at Its Historical Exchange Rate](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|[![Practice][p]](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|Oct 27, 2023|
 |**Agoda**|[Summarize Customer Records](https://www.fastprep.io/problems/agoda-customer-csv-summary)|[![Practice][p]](https://www.fastprep.io/problems/agoda-customer-csv-summary)|Oct 27, 2023|
+|**Palantir**|[Benchmarking Tool Report](https://www.fastprep.io/problems/palantir-benchmarking-tool-report)|[![Practice][p]](https://www.fastprep.io/problems/palantir-benchmarking-tool-report)|Sep 07, 2023|
+|**Palantir**|[Employee Names With Access Records](https://www.fastprep.io/problems/palantir-employees-with-access-logs)|[![Practice][p]](https://www.fastprep.io/problems/palantir-employees-with-access-logs)|Aug 11, 2023|
 |**Klaviyo**|[Conditionally Insert or Update Records](https://www.fastprep.io/problems/klaviyo-conditional-record-upsert)|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-conditional-record-upsert)|Jul 14, 2022|
 |**AMD**|[Employees with Matching Departments](https://www.fastprep.io/problems/amd-employees-with-matching-departments)|[![Practice][p]](https://www.fastprep.io/problems/amd-employees-with-matching-departments)|Jun 14, 2022|
 |**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
