@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Akuna Capital**|[Maximum Remaining Drone Power](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Sep 14, 2026|
 |**Two Sigma**|[Online No-Intercept Linear Regression](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Sep 14, 2026|
 |**Two Sigma**|[Linear Interpolator](https://www.fastprep.io/problems/two-sigma-linear-interpolator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-linear-interpolator)|Sep 14, 2026|
 |**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|SQL|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|Sep 14, 2026|
@@ -744,7 +745,6 @@
 |**Susquehanna International Group (SIG)**|[Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Jul 30, 2026|
 |**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
 |**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|Jul 30, 2026|
-|**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|Jul 30, 2026|
 |**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
 |**TrueFoundry**|[Verify Words Sorted by a Custom Alphabet](https://www.fastprep.io/problems/truefoundry-verify-custom-alphabet-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/truefoundry-verify-custom-alphabet-order)|Jul 29, 2026|
 |**TrueFoundry**|[Versioned Array](https://www.fastprep.io/problems/truefoundry-versioned-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/truefoundry-versioned-array)|Jul 29, 2026|
