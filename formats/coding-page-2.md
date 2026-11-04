@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,245 questions**
+**4,247 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Upstart**|[Coordinate Bounding Box](https://www.fastprep.io/problems/upstart-coordinate-bounding-box)|[![Practice][p]](https://www.fastprep.io/problems/upstart-coordinate-bounding-box)|Jul 12, 2026|
+|**Upstart**|[Increase Exclamations and Convert Periods](https://www.fastprep.io/problems/upstart-transform-punctuation)|[![Practice][p]](https://www.fastprep.io/problems/upstart-transform-punctuation)|Jul 12, 2026|
 |**Upstart**|[Interleave Equal-Length Strings by Column](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|[![Practice][p]](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|Jul 12, 2026|
 |**Upstart**|[Scale Ingredient Quantities](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|[![Practice][p]](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Jul 12, 2026|
 |**IDFC**|[Find All People With Secret](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|[![Practice][p]](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Jul 12, 2026|
@@ -1937,6 +1939,4 @@
 |**Goldman Sachs**|[Decoding String](https://www.fastprep.io/problems/decoding-string)|[![Practice][p]](https://www.fastprep.io/problems/decoding-string)|Aug 31, 2023|
 |**Goldman Sachs**|[Is Possible](https://www.fastprep.io/problems/is-possible)|[![Practice][p]](https://www.fastprep.io/problems/is-possible)|Aug 31, 2023|
 |**Arcesium**|[Add Digits](https://www.fastprep.io/problems/arcesium-add-digits)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-add-digits)|Aug 30, 2023|
-|**Arcesium**|[Binary Tree Maximum Path Sum](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|Aug 30, 2023|
-|**Sentry**|[Wildcard Bad-Word Filter](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|[![Practice][p]](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Aug 17, 2023|
 <a id="bottom"></a>

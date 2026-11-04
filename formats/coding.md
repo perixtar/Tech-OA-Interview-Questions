@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,245 questions**
+**4,247 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -14,6 +14,8 @@
 |**Pinterest**|[Gradient Descent Linear Regression Predictions (MLE OA)](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|🔥 Nov 03, 2026|
 |**Pinterest**|[Cosine K-Means Final Labels (MLE OA)](https://www.fastprep.io/problems/pinterest-cosine-k-means-final-labels)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-cosine-k-means-final-labels)|🔥 Nov 03, 2026|
 |**Pinterest**|[Find Local Maxima in Sensor Data (MLE OA)](https://www.fastprep.io/problems/pinterest-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Nov 03, 2026|
+|**The D.E. Shaw Group**|[Count Palindrome Addition Choices](https://www.fastprep.io/problems/de-shaw-palindrome-addition-choices)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-palindrome-addition-choices)|🔥 Nov 03, 2026|
+|**The D.E. Shaw Group**|[Count Lucky Tickets](https://www.fastprep.io/problems/de-shaw-count-lucky-tickets)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-count-lucky-tickets)|🔥 Nov 03, 2026|
 |**Temu**|[Subsets](https://www.fastprep.io/problems/temu-subsets)|[![Practice][p]](https://www.fastprep.io/problems/temu-subsets)|🔥 Nov 02, 2026|
 |**MongoDB**|[JSON Path Lookup with Implicit Array Wildcards](https://www.fastprep.io/problems/mongodb-json-path-lookup)|[![Practice][p]](https://www.fastprep.io/problems/mongodb-json-path-lookup)|🔥 Nov 02, 2026|
 |**Stripe**|[Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system)|[![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system)|🔥 Nov 02, 2026|
@@ -1818,6 +1820,4 @@
 |**Agoda**|[3Sum](https://www.fastprep.io/problems/agoda-three-sum)|[![Practice][p]](https://www.fastprep.io/problems/agoda-three-sum)|Jul 12, 2026|
 |**JP Morgan**|[Bitwise XOR Subsequences](https://www.fastprep.io/problems/jpmorgan-bitwise-xor-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-bitwise-xor-subsequences)|Jul 12, 2026|
 |**TikTok**|[Obstacle Placement Queries](https://www.fastprep.io/problems/tiktok-obstacle-placement-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-obstacle-placement-queries)|Jul 12, 2026|
-|**Upstart**|[Coordinate Bounding Box](https://www.fastprep.io/problems/upstart-coordinate-bounding-box)|[![Practice][p]](https://www.fastprep.io/problems/upstart-coordinate-bounding-box)|Jul 12, 2026|
-|**Upstart**|[Increase Exclamations and Convert Periods](https://www.fastprep.io/problems/upstart-transform-punctuation)|[![Practice][p]](https://www.fastprep.io/problems/upstart-transform-punctuation)|Jul 12, 2026|
 <a id="bottom"></a>

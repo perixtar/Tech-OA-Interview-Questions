@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,245)](formats/coding.md) · [SQL (98)](formats/sql.md) · [System design (655)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (196)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,247)](formats/coding.md) · [SQL (98)](formats/sql.md) · [System design (655)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (196)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -51,6 +51,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Valon**|[Design Loan Repayment and Investor Distribution](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|🔥 Nov 03, 2026|
 |**Amazon / Postman / The Walt Disney Company / Okta**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Nov 03, 2026|
 |**Blinkit / Karat / Amazon**|[Design a Food Delivery Order Tracking System](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|🔥 Nov 03, 2026|
+|**The D.E. Shaw Group**|[Count Palindrome Addition Choices](https://www.fastprep.io/problems/de-shaw-palindrome-addition-choices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-palindrome-addition-choices)|🔥 Nov 03, 2026|
+|**The D.E. Shaw Group**|[Count Lucky Tickets](https://www.fastprep.io/problems/de-shaw-count-lucky-tickets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-count-lucky-tickets)|🔥 Nov 03, 2026|
 |**Temu**|[Subsets](https://www.fastprep.io/problems/temu-subsets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temu-subsets)|🔥 Nov 02, 2026|
 |**MongoDB**|[JSON Path Lookup with Implicit Array Wildcards](https://www.fastprep.io/problems/mongodb-json-path-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mongodb-json-path-lookup)|🔥 Nov 02, 2026|
 |**Alteryx**|[Build a Directory View](https://www.fastprep.io/project-coding/alteryx-directory-view)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/alteryx-directory-view)|🔥 Nov 02, 2026|
@@ -1681,6 +1683,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|SQL|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|Sep 14, 2026|
 |**Akuna Capital**|[Vowel Substring Game](https://www.fastprep.io/problems/akuna-vowel-substring-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-vowel-substring-game)|Sep 14, 2026|
 |**Rippling**|[Filter, Sort, and Deduplicate Scheduled Tasks](https://www.fastprep.io/problems/rippling-filter-sort-and-deduplicate-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-filter-sort-and-deduplicate-tasks)|Sep 14, 2026|
-|**Goldman Sachs**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|Sep 14, 2026|
-|**Airwallex**|[Design an Authoritative Grid Chase Game](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|System design|[![Practice][p]](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|Sep 14, 2026|
 <a id="bottom"></a>
