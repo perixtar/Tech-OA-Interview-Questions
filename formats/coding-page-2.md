@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,244 questions**
+**4,245 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -280,6 +280,7 @@
 |**Uber**|[Balanced Prefix Sets in a Permutation](https://www.fastprep.io/problems/uber-balanced-prefix-sets-in-permutation)|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-prefix-sets-in-permutation)|Apr 25, 2026|
 |**Uber**|[Minimum Edge Reversals to Root a Tree](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-edge-reversals-root)|Apr 25, 2026|
 |**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
+|**Amazon**|[Stable Robot Configurations](https://www.fastprep.io/problems/amazon-stable-robot-configurations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-stable-robot-configurations)|Apr 20, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
 |**Mistral AI**|[GPU Capacity With Limited Cluster Switching](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|[![Practice][p]](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|Apr 16, 2026|
@@ -1938,5 +1939,4 @@
 |**Arcesium**|[Add Digits](https://www.fastprep.io/problems/arcesium-add-digits)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-add-digits)|Aug 30, 2023|
 |**Arcesium**|[Binary Tree Maximum Path Sum](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|Aug 30, 2023|
 |**Sentry**|[Wildcard Bad-Word Filter](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|[![Practice][p]](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Aug 17, 2023|
-|**Sentry**|[Word Wrap with Even Justification](https://www.fastprep.io/problems/sentry-word-wrap-justification)|[![Practice][p]](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Aug 17, 2023|
 <a id="bottom"></a>
