@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,242 questions**
+**4,244 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Upstart**|[Interleave Equal-Length Strings by Column](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|[![Practice][p]](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|Jul 12, 2026|
+|**Upstart**|[Scale Ingredient Quantities](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|[![Practice][p]](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Jul 12, 2026|
 |**IDFC**|[Find All People With Secret](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|[![Practice][p]](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Jul 12, 2026|
 |**DRW**|[Doctor Appointment Slot Assignment](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|[![Practice][p]](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|Jul 12, 2026|
 |**DRW**|[Maximum Even-Sum Neighboring Pairs](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|[![Practice][p]](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|Jul 12, 2026|
@@ -71,7 +73,6 @@
 |**Rupeek**|[Trapping Rain Water](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|[![Practice][p]](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Jul 08, 2026|
 |**OpenAI**|[DSA Round: Maximum Score Grid Path](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|[![Practice][p]](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Jul 08, 2026|
 |**Amazon**|[Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date)|[![Practice][p]](https://www.fastprep.io/problems/amazon-closest-version-date)|Jul 08, 2026|
-|**Amazon**|[Maximum Concurrent Processes (Bar Raiser Round)](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Jul 08, 2026|
 |**Amazon**|[Package Dependency Order](https://www.fastprep.io/problems/amazon-package-dependency-order)|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-dependency-order)|Jul 08, 2026|
 |**Scale AI**|[Task Scheduler with Dependencies](https://www.fastprep.io/problems/scale-ai-task-scheduler-with-dependencies)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-scheduler-with-dependencies)|Jul 08, 2026|
 |**Salesforce**|[ATM Queue Exit Order](https://www.fastprep.io/problems/salesforce-atm-queue)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-atm-queue)|Jul 08, 2026|
@@ -1938,5 +1939,4 @@
 |**Arcesium**|[Binary Tree Maximum Path Sum](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|Aug 30, 2023|
 |**Sentry**|[Wildcard Bad-Word Filter](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|[![Practice][p]](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Aug 17, 2023|
 |**Sentry**|[Word Wrap with Even Justification](https://www.fastprep.io/problems/sentry-word-wrap-justification)|[![Practice][p]](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Aug 17, 2023|
-|**Headlands Technologies**|[Checked Recursive Sum](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|[![Practice][p]](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|Aug 10, 2023|
 <a id="bottom"></a>

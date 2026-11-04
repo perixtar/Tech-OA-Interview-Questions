@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Staircase Search In A Sorted Matrix](https://www.fastprep.io/problems/goldman-sachs-staircase-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-staircase-search)|Sep 14, 2026|
+|**Goldman Sachs**|[Insert, Delete, And Get Random In Constant Time](https://www.fastprep.io/problems/goldman-sachs-insert-delete-getrandom-o1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-insert-delete-getrandom-o1)|Sep 14, 2026|
 |**Goldman Sachs**|[Dungeon Health](https://www.fastprep.io/problems/goldman-sachs-dungeon-health)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-dungeon-health)|Sep 14, 2026|
 |**Goldman Sachs**|[Least Recently Used Cache](https://www.fastprep.io/problems/goldman-sachs-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-lru-cache)|Sep 14, 2026|
 |**Vanta**|[Implement uniq: Unique Lines](https://www.fastprep.io/problems/vanta-unique-lines-command)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-unique-lines-command)|Sep 14, 2026|
@@ -1018,7 +1020,6 @@
 |**Rupeek**|[Trapping Rain Water](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Jul 08, 2026|
 |**OpenAI**|[DSA Round: Maximum Score Grid Path](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Jul 08, 2026|
 |**Amazon**|[Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-closest-version-date)|Jul 08, 2026|
-|**Amazon**|[Maximum Concurrent Processes (Bar Raiser Round)](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Jul 08, 2026|
 |**Amazon**|[Package Dependency Order](https://www.fastprep.io/problems/amazon-package-dependency-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-dependency-order)|Jul 08, 2026|
 |**Scale AI**|[Task Scheduler with Dependencies](https://www.fastprep.io/problems/scale-ai-task-scheduler-with-dependencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-scheduler-with-dependencies)|Jul 08, 2026|
 |**Salesforce**|[ATM Queue Exit Order](https://www.fastprep.io/problems/salesforce-atm-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-atm-queue)|Jul 08, 2026|
@@ -1747,6 +1748,4 @@
 |**Google**|[Binary Matrix Top-to-Bottom Reachability](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|Jul 26, 2025|
 |**Google**|[Enumerate Top-to-Bottom Grid Paths](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|Jul 26, 2025|
 |**Google**|[Inclusive Rectangle Coverage Counts](https://www.fastprep.io/problems/google-inclusive-rectangle-coverage-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-inclusive-rectangle-coverage-counts)|Jul 26, 2025|
-|**Google**|[Minimum-Weight Top-to-Bottom Grid Path](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Jul 26, 2025|
-|**Google**|[Priority Job Scheduler with Cooldowns](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Jul 26, 2025|
 <a id="bottom"></a>
