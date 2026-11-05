@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Palantir**|[Optimize Discount Selection Under a Point Budget](https://www.fastprep.io/problems/palantir-optimize-discount-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-optimize-discount-selection)|Sep 15, 2026|
+|**Palantir**|[Stacked Item and Category Discounts](https://www.fastprep.io/problems/palantir-stacked-item-category-discounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-stacked-item-category-discounts)|Sep 15, 2026|
 |**Apple**|[3D Grid Diagonal Walk Probability](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Sep 14, 2026|
 |**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Sep 14, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Sep 14, 2026|
@@ -1747,6 +1749,4 @@
 |**Amazon**|[Minimize Binary Subsequence Cost](https://www.fastprep.io/problems/amazon-minimize-binary-subsequence-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-binary-subsequence-cost)|Aug 03, 2025|
 |**Airbnb**|[Connect Four Winner](https://www.fastprep.io/problems/airbnb-connect-four-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-connect-four-winner)|Jul 28, 2025|
 |**Salesforce**|[Maximize Movie Ratings With Skip Limit](https://www.fastprep.io/problems/salesforce-maximize-movie-ratings-with-skip-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-maximize-movie-ratings-with-skip-limit)|Jul 26, 2025|
-|**Amazon**|[First Valid Word Segmentation](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Jul 26, 2025|
-|**Amazon**|[Nearby Fulfillment Centers with Inventory](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Jul 26, 2025|
 <a id="bottom"></a>

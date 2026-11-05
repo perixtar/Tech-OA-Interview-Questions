@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
+|**Bloomberg LP**|[Palindrome Number](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Sep 18, 2020|
 |**Bloomberg LP**|[Traverse an Up-Down-Right Pointer Structure](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|Sep 18, 2020|
 |**Bloomberg LP**|[Design a Dynamic Phonebook with Autocomplete](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Sep 17, 2020|
 |**Microsoft**|[Design a Self-Driving Perception Model](https://www.fastprep.io/system-design/self-driving-perception-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/self-driving-perception-model)|Sep 17, 2020|

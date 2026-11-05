@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[First Valid Word Segmentation](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Jul 26, 2025|
+|**Amazon**|[Nearby Fulfillment Centers with Inventory](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Jul 26, 2025|
 |**Amperity**|[Draw Overlapping ASCII Rectangles](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Jul 26, 2025|
 |**ByteDance**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Jul 26, 2025|
 |**ByteDance**|[QuickSelect Kth Smallest](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Jul 26, 2025|
@@ -1849,6 +1851,4 @@
 |**Wells Fargo**|[Matrix Path Existence](https://www.fastprep.io/problems/wellsfargo-matrix-path-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-matrix-path-existence)|Sep 26, 2020|
 |**Postman**|[Configuration System](https://www.fastprep.io/problems/postman-configuration-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system)|Sep 23, 2020|
 |**Postman**|[Large Responses](https://www.fastprep.io/problems/postman-large-responses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-large-responses)|Sep 23, 2020|
-|**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
-|**Bloomberg LP**|[Palindrome Number](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Sep 18, 2020|
 <a id="bottom"></a>
