@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Meta**|[Partition a Card Deck into Fifteens](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Sep 15, 2026|
 |**OpenAI**|[Dependency-Aware Agent Task Scheduler](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|Sep 15, 2026|
 |**Robinhood**|[Transitive Employee Referral Counts](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Sep 15, 2026|
 |**Google**|[Detect Duplicate Trace IDs in a Linked List](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Sep 15, 2026|
@@ -1748,5 +1749,4 @@
 |**EvenUp**|[War Card Game Winner](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Aug 09, 2025|
 |**Salesforce**|[Spam Text Classification](https://www.fastprep.io/problems/salesforce-spam-text-classification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-spam-text-classification)|Aug 06, 2025|
 |**Salesforce**|[Viewable Profiles by User](https://www.fastprep.io/problems/salesforce-viewable-profiles-by-user)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-viewable-profiles-by-user)|Aug 06, 2025|
-|**Rippling**|[Distributed System Recovery](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Aug 03, 2025|
 <a id="bottom"></a>

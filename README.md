@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,263)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (660)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (197)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,263)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (660)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (198)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -87,6 +87,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Nov 02, 2026|
 |**Anthropic / Snap Inc. / Lyft / Fivetran / Temporal / Palantir / DigitalOcean**|[One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service)|🔥 Nov 02, 2026|
 |**LinkedIn**|[Suggestions Feed with Close Icons](https://www.fastprep.io/project-coding/linkedin-suggestions-feed)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-suggestions-feed)|🔥 Nov 02, 2026|
+|**DigitalOcean**|[Build a Distributed Rate Limiter Service](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|🔥 Nov 02, 2026|
 |**Squarepoint Capital**|[Three Points in a Semicircle: Monte Carlo Estimate](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-three-points-semicircle-estimate)|🔥 Nov 01, 2026|
 |**Squarepoint Capital**|[Probability of Consecutive Heads](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-consecutive-heads-probability)|🔥 Nov 01, 2026|
 |**Google**|[Serialize and Deserialize a Binary Tree](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-serialize-deserialize-binary-tree)|🔥 Nov 01, 2026|
@@ -1681,5 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DigitalOcean**|[Maximum Value from Circular Houses](https://www.fastprep.io/problems/digitalocean-house-robber-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/digitalocean-house-robber-ii)|Sep 15, 2026|
 |**DigitalOcean**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/digitalocean-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/digitalocean-longest-repeating-character-replacement)|Sep 15, 2026|
 |**Meta**|[Mutual-Friend Recommendations](https://www.fastprep.io/problems/meta-mutual-friend-recommendations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-mutual-friend-recommendations)|Sep 15, 2026|
-|**Meta**|[Partition a Card Deck into Fifteens](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Sep 15, 2026|
 <a id="bottom"></a>

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Group Anagrams](https://www.fastprep.io/problems/bloomberg-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-anagrams)|Sep 30, 2020|
 |**Figma**|[Document and Layer Operations](https://www.fastprep.io/problems/figma-document-layer-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-document-layer-operations)|Sep 26, 2020|
 |**Wells Fargo**|[Matrix Path Existence](https://www.fastprep.io/problems/wellsfargo-matrix-path-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-matrix-path-existence)|Sep 26, 2020|
 |**Postman**|[Configuration System](https://www.fastprep.io/problems/postman-configuration-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system)|Sep 23, 2020|
