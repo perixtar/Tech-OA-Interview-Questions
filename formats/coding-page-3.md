@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Palantir**|[Count Fit Records Across Pages](https://www.fastprep.io/problems/palantir-paginated-fit-count)|[![Practice][p]](https://www.fastprep.io/problems/palantir-paginated-fit-count)|Sep 07, 2023|
 |**The Walt Disney Company**|[Movie Recommendations by Jaccard Similarity](https://www.fastprep.io/problems/the-walt-disney-company-movie-jaccard-recommendations)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-movie-jaccard-recommendations)|Sep 06, 2023|
 |**Optiver**|[Numbers Station Message Decoder](https://www.fastprep.io/problems/optiver-numbers-station)|[![Practice][p]](https://www.fastprep.io/problems/optiver-numbers-station)|Sep 05, 2023|
 |**Amazon**|[Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count)|[![Practice][p]](https://www.fastprep.io/problems/get-mean-rank-count)|Aug 31, 2023|

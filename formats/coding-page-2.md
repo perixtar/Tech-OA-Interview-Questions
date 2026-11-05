@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Amazon**|[Group Anagrams](https://www.fastprep.io/problems/amazon-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-anagrams)|Jul 12, 2026|
 |**Amazon**|[Maximal Square](https://www.fastprep.io/problems/amazon-maximal-square)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximal-square)|Jul 12, 2026|
 |**Agoda**|[3Sum](https://www.fastprep.io/problems/agoda-three-sum)|[![Practice][p]](https://www.fastprep.io/problems/agoda-three-sum)|Jul 12, 2026|
 |**JP Morgan**|[Bitwise XOR Subsequences](https://www.fastprep.io/problems/jpmorgan-bitwise-xor-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-bitwise-xor-subsequences)|Jul 12, 2026|
@@ -1938,4 +1937,5 @@
 |**WhatNot**|[Detect Blocked Chat Messages](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|Sep 15, 2023|
 |**Figma**|[Sparse Canvas Paint History](https://www.fastprep.io/problems/figma-canvas-paint-history)|[![Practice][p]](https://www.fastprep.io/problems/figma-canvas-paint-history)|Sep 13, 2023|
 |**Palantir**|[Network Formation](https://www.fastprep.io/problems/palantir-network-formation)|[![Practice][p]](https://www.fastprep.io/problems/palantir-network-formation)|Sep 07, 2023|
+|**Palantir**|[Count Fit Records Across Pages](https://www.fastprep.io/problems/palantir-paginated-fit-count)|[![Practice][p]](https://www.fastprep.io/problems/palantir-paginated-fit-count)|Sep 07, 2023|
 <a id="bottom"></a>
