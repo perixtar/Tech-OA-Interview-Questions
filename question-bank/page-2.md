@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Palantir**|[Basic Item Discounts](https://www.fastprep.io/problems/palantir-basic-item-discounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-basic-item-discounts)|Sep 15, 2026|
 |**Palantir**|[Optimize Discount Selection Under a Point Budget](https://www.fastprep.io/problems/palantir-optimize-discount-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-optimize-discount-selection)|Sep 15, 2026|
 |**Palantir**|[Stacked Item and Category Discounts](https://www.fastprep.io/problems/palantir-stacked-item-category-discounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-stacked-item-category-discounts)|Sep 15, 2026|
 |**Apple**|[3D Grid Diagonal Walk Probability](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Sep 14, 2026|
@@ -1748,5 +1749,4 @@
 |**Amazon**|[Largest Number With Digit Sum](https://www.fastprep.io/problems/amazon-largest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-largest-number-with-digit-sum)|Aug 03, 2025|
 |**Amazon**|[Minimize Binary Subsequence Cost](https://www.fastprep.io/problems/amazon-minimize-binary-subsequence-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-binary-subsequence-cost)|Aug 03, 2025|
 |**Airbnb**|[Connect Four Winner](https://www.fastprep.io/problems/airbnb-connect-four-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-connect-four-winner)|Jul 28, 2025|
-|**Salesforce**|[Maximize Movie Ratings With Skip Limit](https://www.fastprep.io/problems/salesforce-maximize-movie-ratings-with-skip-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-maximize-movie-ratings-with-skip-limit)|Jul 26, 2025|
 <a id="bottom"></a>
