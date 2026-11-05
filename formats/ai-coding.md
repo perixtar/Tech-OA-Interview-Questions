@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**196 questions**
+**197 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -22,6 +22,7 @@
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 03, 2026|
 |**Walmart**|[Configure Spring Profiles and Property Defaults](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|🔥 Nov 03, 2026|
 |**Alteryx**|[Build a Directory View](https://www.fastprep.io/project-coding/alteryx-directory-view)|[![Practice][p]](https://www.fastprep.io/project-coding/alteryx-directory-view)|🔥 Nov 02, 2026|
+|**LinkedIn**|[Suggestions Feed with Close Icons](https://www.fastprep.io/project-coding/linkedin-suggestions-feed)|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-suggestions-feed)|🔥 Nov 02, 2026|
 |**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|🔥 Nov 01, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Nov 01, 2026|
 |**Amazon**|[Repair Document CLI Permissions and Parsing](https://www.fastprep.io/project-coding/amazon-repair-document-cli)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-document-cli)|🔥 Nov 01, 2026|
