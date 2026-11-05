@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amperity**|[Draw Overlapping ASCII Rectangles](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Jul 26, 2025|
+|**ByteDance**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Jul 26, 2025|
 |**ByteDance**|[QuickSelect Kth Smallest](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Jul 26, 2025|
 |**ByteDance**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Jul 26, 2025|
 |**Capillary Technologies**|[Delete a Linked-List Node Without the Head](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Jul 26, 2025|
@@ -1849,6 +1851,4 @@
 |**Postman**|[Large Responses](https://www.fastprep.io/problems/postman-large-responses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-large-responses)|Sep 23, 2020|
 |**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
 |**Bloomberg LP**|[Palindrome Number](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Sep 18, 2020|
-|**Bloomberg LP**|[Traverse an Up-Down-Right Pointer Structure](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|Sep 18, 2020|
-|**Bloomberg LP**|[Design a Dynamic Phonebook with Autocomplete](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dynamic-phonebook-autocomplete)|Sep 17, 2020|
 <a id="bottom"></a>

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,260)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (657)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (196)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,263)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (657)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (196)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -61,6 +61,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**OpenAI**|[Design a Usage-Limit Notice for a Mobile AI Chat App](https://www.fastprep.io/system-design/mobile-chat-usage-limit-notice)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mobile-chat-usage-limit-notice)|🔥 Nov 03, 2026|
 |**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🔥 Nov 03, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🔥 Nov 03, 2026|
+|**Abridge**|[Decode Three Interleaved Lines](https://www.fastprep.io/problems/abridge-interleave-three-lines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abridge-interleave-three-lines)|🔥 Nov 03, 2026|
+|**Abridge**|[Tennis Game Score](https://www.fastprep.io/problems/abridge-tennis-game-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abridge-tennis-game-score)|🔥 Nov 03, 2026|
+|**Abridge**|[Identification Number Check Digit](https://www.fastprep.io/problems/abridge-identification-check-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abridge-identification-check-digit)|🔥 Nov 03, 2026|
 |**Temu**|[Subsets](https://www.fastprep.io/problems/temu-subsets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temu-subsets)|🔥 Nov 02, 2026|
 |**MongoDB**|[JSON Path Lookup with Implicit Array Wildcards](https://www.fastprep.io/problems/mongodb-json-path-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mongodb-json-path-lookup)|🔥 Nov 02, 2026|
 |**Alteryx**|[Build a Directory View](https://www.fastprep.io/project-coding/alteryx-directory-view)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/alteryx-directory-view)|🔥 Nov 02, 2026|
@@ -1680,6 +1683,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Palantir**|[Basic Item Discounts](https://www.fastprep.io/problems/palantir-basic-item-discounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-basic-item-discounts)|Sep 15, 2026|
 |**Palantir**|[Optimize Discount Selection Under a Point Budget](https://www.fastprep.io/problems/palantir-optimize-discount-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-optimize-discount-selection)|Sep 15, 2026|
 |**Palantir**|[Stacked Item and Category Discounts](https://www.fastprep.io/problems/palantir-stacked-item-category-discounts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-stacked-item-category-discounts)|Sep 15, 2026|
-|**Apple**|[3D Grid Diagonal Walk Probability](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-3d-grid-diagonal-walk-probability)|Sep 14, 2026|
-|**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Sep 14, 2026|
 <a id="bottom"></a>
