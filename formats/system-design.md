@@ -2,13 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**660 questions**
+**661 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Waymo / Nuro / Applied Intuition**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🔥 Nov 05, 2026|
+|**Ode with Anthropic**|[Design an LLM-Assisted CSV Cleaning and Import Pipeline](https://www.fastprep.io/system-design/llm-assisted-csv-import-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/llm-assisted-csv-import-pipeline)|🔥 Nov 05, 2026|
 |**OpenAI**|[Design an In-Memory SQL Database](https://www.fastprep.io/system-design/in-memory-sql-database)|[![Practice][p]](https://www.fastprep.io/system-design/in-memory-sql-database)|🔥 Nov 04, 2026|
+|**LinkedIn / Rippling / The Walt Disney Company**|[Design a Product Analytics System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|🔥 Nov 04, 2026|
 |**Rippling / Google**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|🔥 Nov 03, 2026|
 |**Roblox / Coinbase / Faire**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|🔥 Nov 03, 2026|
 |**Valon**|[Design Loan Repayment and Investor Distribution](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|[![Practice][p]](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|🔥 Nov 03, 2026|
@@ -39,7 +42,6 @@
 |**OpenAI / Sprinter Health**|[Digital Game Distribution Platform](https://www.fastprep.io/system-design/digital-game-distribution-platform)|[![Practice][p]](https://www.fastprep.io/system-design/digital-game-distribution-platform)|🔥 Oct 30, 2026|
 |**Google / Snap Inc.**|[Design a Harmful-Content Classification Service](https://www.fastprep.io/system-design/harmful-content-classification-service)|[![Practice][p]](https://www.fastprep.io/system-design/harmful-content-classification-service)|🔥 Oct 30, 2026|
 |**Zomato / Eternal / Amazon / Tekion / Motive / Capgemini / Booking.com**|[Design an Online Ordering Platform](https://www.fastprep.io/system-design/online-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-ordering-platform)|🔥 Oct 30, 2026|
-|**LinkedIn / Rippling / The Walt Disney Company**|[Design a Product Analytics System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|🔥 Oct 30, 2026|
 |**Rippling**|[Design a Multi-Tenant Employee Leave Management System](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-employee-leave-management)|🔥 Oct 29, 2026|
 |**Google / Microsoft / LinkedIn**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|🔥 Oct 29, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Oct 29, 2026|
@@ -171,7 +173,6 @@
 |**Applied Intuition**|[Design a Real-Time 3D Log Playback System](https://www.fastprep.io/system-design/real-time-3d-log-playback-system)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-3d-log-playback-system)|🆕 Oct 02, 2026|
 |**Rippling**|[Design an Email Package Tracking Widget](https://www.fastprep.io/system-design/email-package-tracking-widget)|[![Practice][p]](https://www.fastprep.io/system-design/email-package-tracking-widget)|🆕 Oct 02, 2026|
 |**Roblox**|[Design an Image Feed](https://www.fastprep.io/system-design/image-feed-system)|[![Practice][p]](https://www.fastprep.io/system-design/image-feed-system)|🆕 Oct 02, 2026|
-|**Waymo / Nuro**|[Design a Distributed Simulation Platform](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-simulation-job-platform)|🆕 Oct 01, 2026|
 |**LinkedIn**|[Design a Job-Click Prediction Platform](https://www.fastprep.io/system-design/job-click-prediction-platform)|[![Practice][p]](https://www.fastprep.io/system-design/job-click-prediction-platform)|🆕 Oct 01, 2026|
 |**Microsoft**|[Design an Employee Attrition Risk Platform](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|[![Practice][p]](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|🆕 Oct 01, 2026|
 |**Bloomberg LP / Uber**|[Design a Real-Time Stock Alert System](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|🆕 Oct 01, 2026|
