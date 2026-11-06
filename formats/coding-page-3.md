@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,291 questions**
+**4,293 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Deloitte**|[Install Carbon Filters](https://www.fastprep.io/problems/deloitte-install-carbon-filters)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-install-carbon-filters)|Oct 21, 2023|
+|**Deloitte**|[Longest Substring with Even Occurrences](https://www.fastprep.io/problems/deloitte-lonest-substring-with-even-occurrences)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-lonest-substring-with-even-occurrences)|Oct 21, 2023|
 |**Notion**|[Versioned Document Store](https://www.fastprep.io/problems/notion-versioned-document-store)|[![Practice][p]](https://www.fastprep.io/problems/notion-versioned-document-store)|Oct 21, 2023|
 |**Klaviyo**|[Flatten JSON into Repeated Key-Value Pairs](https://www.fastprep.io/problems/klaviyo-flatten-json-key-value-pairs)|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-flatten-json-key-value-pairs)|Oct 18, 2023|
 |**Headlands Technologies**|[Earliest Dependency Schedule](https://www.fastprep.io/problems/headlands-dependency-job-schedule)|[![Practice][p]](https://www.fastprep.io/problems/headlands-dependency-job-schedule)|Oct 13, 2023|

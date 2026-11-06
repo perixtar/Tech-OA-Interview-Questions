@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Run-Length String Compression](https://www.fastprep.io/problems/salesforce-run-length-string-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-run-length-string-compression)|Sep 16, 2026|
+|**Anthropic**|[Profiling Events from Consecutive Stack Samples](https://www.fastprep.io/problems/anthropic-consecutive-stack-sample-trace-events)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-consecutive-stack-sample-trace-events)|Sep 16, 2026|
+|**Pinterest**|[Time-Ordered Elevator Dispatch](https://www.fastprep.io/problems/pinterest-time-ordered-elevator-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-time-ordered-elevator-dispatch)|Sep 16, 2026|
 |**Agoda**|[Count Values Appearing Exactly Once](https://www.fastprep.io/problems/agoda-count-values-appearing-once)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-count-values-appearing-once)|Sep 16, 2026|
 |**Agoda**|[Longest All-Present Attendance Streak](https://www.fastprep.io/problems/agoda-longest-all-present-streak)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-longest-all-present-streak)|Sep 16, 2026|
 |**Airbnb**|[Median Home Price by City](https://www.fastprep.io/problems/airbnb-city-price-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-city-price-medians)|Sep 16, 2026|
@@ -225,7 +228,6 @@
 |**Apple**|[Design Predictive File Storage-Tier Placement](https://www.fastprep.io/system-design/file-storage-tier-selection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/file-storage-tier-selection)|Sep 10, 2026|
 |**Snap Inc.**|[Build a Persistent Chat Backend](https://www.fastprep.io/project-coding/persistent-chat-backend)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/persistent-chat-backend)|Sep 10, 2026|
 |**Snap Inc.**|[Design a Pre-Login Risk Challenge Service](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pre-login-risk-challenge-service)|Sep 10, 2026|
-|**TikTok**|[Catch Fish with Reusable Baits](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-catch-fish-with-reusable-baits)|Sep 10, 2026|
 |**TikTok**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-rhombic-area-sum)|Sep 10, 2026|
 |**Akuna Capital**|[Delivery Management System](https://www.fastprep.io/problems/akuna-delivery-management-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-delivery-management-system)|Sep 10, 2026|
 |**Akuna Capital**|[Binary Circuit](https://www.fastprep.io/problems/akuna-get-max-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-get-max-cost)|Sep 10, 2026|
@@ -1746,6 +1748,4 @@
 |**The Walt Disney Company**|[Maximum Unique Substring Split](https://www.fastprep.io/problems/the-walt-disney-company-maximum-unique-substring-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-maximum-unique-substring-split)|Aug 29, 2025|
 |**Maven Clinic**|[Configurable Valid Brackets](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Aug 28, 2025|
 |**Maven Clinic**|[Longest Valid Parentheses](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Aug 28, 2025|
-|**Maven Clinic**|[Meeting Rooms II](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Aug 28, 2025|
-|**Palantir**|[Design a Shared-Interest Connection App](https://www.fastprep.io/system-design/shared-interest-connection-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-interest-connection-app)|Aug 27, 2025|
 <a id="bottom"></a>

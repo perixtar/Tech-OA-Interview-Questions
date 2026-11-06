@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Maven Clinic**|[Meeting Rooms II](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Aug 28, 2025|
+|**Palantir**|[Design a Shared-Interest Connection App](https://www.fastprep.io/system-design/shared-interest-connection-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-interest-connection-app)|Aug 27, 2025|
 |**Apple**|[Binary Tree Zigzag Level Order](https://www.fastprep.io/problems/apple-binary-tree-zigzag-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-binary-tree-zigzag-level-order)|Aug 25, 2025|
 |**Apple**|[Middle of a Linked List](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Aug 25, 2025|
 |**Tennr**|[Top K Frequent Elements](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Aug 24, 2025|
@@ -1848,6 +1850,4 @@
 |**SpaceX**|[Design a Managed User-Script Execution Platform](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|Jan 12, 2021|
 |**Scale AI**|[Adjacent Order-Statistic Gap Distributions](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Jan 08, 2021|
 |**Figma**|[Design Search Result Highlighting](https://www.fastprep.io/system-design/search-result-highlighting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/search-result-highlighting)|Jan 01, 2021|
-|**Figma**|[Design Workspace File Organization](https://www.fastprep.io/system-design/workspace-file-organization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workspace-file-organization)|Jan 01, 2021|
-|**Bloomberg LP**|[Decode a Binary Tree by Vertical Traversal](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Dec 23, 2020|
 <a id="bottom"></a>

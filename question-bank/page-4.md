@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Figma**|[Design Workspace File Organization](https://www.fastprep.io/system-design/workspace-file-organization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workspace-file-organization)|Jan 01, 2021|
+|**Bloomberg LP**|[Decode a Binary Tree by Vertical Traversal](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Dec 23, 2020|
 |**Bloomberg LP**|[All Simple Paths in a Cyclic Directed Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|Dec 22, 2020|
 |**Bloomberg LP**|[Maximum Non-Overlapping Longer Intervals](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|Dec 22, 2020|
 |**Bloomberg LP**|[Validate Linked List Pointer Ordering](https://www.fastprep.io/problems/bloomberg-validate-linked-list-pointer-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-linked-list-pointer-order)|Dec 22, 2020|
