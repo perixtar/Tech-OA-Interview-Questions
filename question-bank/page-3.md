@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Apple**|[Binary Tree Zigzag Level Order](https://www.fastprep.io/problems/apple-binary-tree-zigzag-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-binary-tree-zigzag-level-order)|Aug 25, 2025|
+|**Apple**|[Middle of a Linked List](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Aug 25, 2025|
 |**Tennr**|[Top K Frequent Elements](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Aug 24, 2025|
 |**Tennr**|[Wildcard Multi-Delimiter Validation](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Aug 24, 2025|
 |**Atlassian / Compass International Holdings / Better.com / Coinbase / Wayfair**|[Post Author Friend Count Serving](https://www.fastprep.io/system-design/post-author-friend-count-serving)|System design|[![Practice][p]](https://www.fastprep.io/system-design/post-author-friend-count-serving)|Aug 23, 2025|
@@ -47,6 +49,7 @@
 |**Amazon**|[Largest Number With Digit Sum](https://www.fastprep.io/problems/amazon-largest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-largest-number-with-digit-sum)|Aug 03, 2025|
 |**Amazon**|[Minimize Binary Subsequence Cost](https://www.fastprep.io/problems/amazon-minimize-binary-subsequence-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-binary-subsequence-cost)|Aug 03, 2025|
 |**Airbnb**|[Connect Four Winner](https://www.fastprep.io/problems/airbnb-connect-four-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-connect-four-winner)|Jul 28, 2025|
+|**Google**|[Design a Documentation Q&A Chatbot](https://www.fastprep.io/system-design/documentation-qa-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/documentation-qa-chatbot)|Jul 28, 2025|
 |**Salesforce**|[Maximize Movie Ratings With Skip Limit](https://www.fastprep.io/problems/salesforce-maximize-movie-ratings-with-skip-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-maximize-movie-ratings-with-skip-limit)|Jul 26, 2025|
 |**Amazon**|[First Valid Word Segmentation](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Jul 26, 2025|
 |**Amazon**|[Nearby Fulfillment Centers with Inventory](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Jul 26, 2025|
@@ -1847,6 +1850,4 @@
 |**Figma**|[Design Search Result Highlighting](https://www.fastprep.io/system-design/search-result-highlighting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/search-result-highlighting)|Jan 01, 2021|
 |**Figma**|[Design Workspace File Organization](https://www.fastprep.io/system-design/workspace-file-organization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workspace-file-organization)|Jan 01, 2021|
 |**Bloomberg LP**|[Decode a Binary Tree by Vertical Traversal](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Dec 23, 2020|
-|**Bloomberg LP**|[All Simple Paths in a Cyclic Directed Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|Dec 22, 2020|
-|**Bloomberg LP**|[Maximum Non-Overlapping Longer Intervals](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|Dec 22, 2020|
 <a id="bottom"></a>

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Agoda**|[Count Values Appearing Exactly Once](https://www.fastprep.io/problems/agoda-count-values-appearing-once)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-count-values-appearing-once)|Sep 16, 2026|
 |**Agoda**|[Longest All-Present Attendance Streak](https://www.fastprep.io/problems/agoda-longest-all-present-streak)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-longest-all-present-streak)|Sep 16, 2026|
 |**Airbnb**|[Median Home Price by City](https://www.fastprep.io/problems/airbnb-city-price-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-city-price-medians)|Sep 16, 2026|
 |**Airbnb**|[Superhost Eligibility](https://www.fastprep.io/problems/airbnb-superhost-eligibility)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-superhost-eligibility)|Sep 16, 2026|
@@ -1128,7 +1129,7 @@
 |**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
 |**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
 |**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
-|**Meta**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
+|**Meta / Google**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
 |**Meta / Decagon**|[Design a Live-Session Conversational Chatbot](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|Jun 30, 2026|
 |**Google**|[Partition Into K Subarrays With Sum at Least X](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Jun 30, 2026|
 |**Amazon**|[Frequently Bought Together](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Jun 29, 2026|
@@ -1710,6 +1711,7 @@
 |**Meta**|[Canonical Directory After CD Commands](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Oct 06, 2025|
 |**AMD**|[Matrix Multiplication and Parallel Partitions](https://www.fastprep.io/problems/amd-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-matrix-multiplication)|Oct 05, 2025|
 |**NVIDIA**|[Best Graphics Card](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Oct 04, 2025|
+|**Google**|[Design a Photo-Labeling App](https://www.fastprep.io/system-design/photo-labeling-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-labeling-app)|Oct 03, 2025|
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
 |**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
 |**Marshall Wace**|[Maximum Trailing Zeros on a Path with at Most One Turn](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Oct 01, 2025|
@@ -1746,6 +1748,4 @@
 |**Maven Clinic**|[Longest Valid Parentheses](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Aug 28, 2025|
 |**Maven Clinic**|[Meeting Rooms II](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Aug 28, 2025|
 |**Palantir**|[Design a Shared-Interest Connection App](https://www.fastprep.io/system-design/shared-interest-connection-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-interest-connection-app)|Aug 27, 2025|
-|**Apple**|[Binary Tree Zigzag Level Order](https://www.fastprep.io/problems/apple-binary-tree-zigzag-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-binary-tree-zigzag-level-order)|Aug 25, 2025|
-|**Apple**|[Middle of a Linked List](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Aug 25, 2025|
 <a id="bottom"></a>

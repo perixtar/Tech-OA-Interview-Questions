@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**663 questions**
+**666 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -14,6 +14,7 @@
 |**OnePay / Razorpay / Infosys / BNSF Railway**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 05, 2026|
 |**BNSF Railway**|[Design a Railcar Wheel Defect Detection Platform](https://www.fastprep.io/system-design/railcar-wheel-defect-detection-platform)|[![Practice][p]](https://www.fastprep.io/system-design/railcar-wheel-defect-detection-platform)|🔥 Nov 05, 2026|
 |**Intuit**|[Design LLM-Based Business Industry Classification](https://www.fastprep.io/system-design/llm-business-industry-classification)|[![Practice][p]](https://www.fastprep.io/system-design/llm-business-industry-classification)|🔥 Nov 05, 2026|
+|**Google**|[Design an Enterprise AI Agent over Multiple Data Sources](https://www.fastprep.io/system-design/enterprise-multi-source-ai-agent)|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-multi-source-ai-agent)|🔥 Nov 05, 2026|
 |**OpenAI**|[Design an In-Memory SQL Database](https://www.fastprep.io/system-design/in-memory-sql-database)|[![Practice][p]](https://www.fastprep.io/system-design/in-memory-sql-database)|🔥 Nov 04, 2026|
 |**LinkedIn / Rippling / The Walt Disney Company**|[Design a Product Analytics System](https://www.fastprep.io/system-design/recent-user-activity-query-system)|[![Practice][p]](https://www.fastprep.io/system-design/recent-user-activity-query-system)|🔥 Nov 04, 2026|
 |**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge / NVIDIA**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Nov 04, 2026|
@@ -482,7 +483,7 @@
 |**NVIDIA**|[Governed SQL Generation Chatbot](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|Jul 02, 2026|
 |**NVIDIA / AMD**|[GPU Telemetry Collection and Analytics Platform](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|Jul 02, 2026|
 |**Baseten**|[Ingest and Structure Historical Pod Alerts](https://www.fastprep.io/system-design/ingest-and-structure-historical-pod-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/ingest-and-structure-historical-pod-alerts)|Jul 02, 2026|
-|**Meta**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
+|**Meta / Google**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
 |**Meta / Decagon**|[Design a Live-Session Conversational Chatbot](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|Jun 30, 2026|
 |**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
 |**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
@@ -546,6 +547,7 @@
 |**Datadog**|[Design a Flight Deal Notification Service](https://www.fastprep.io/system-design/flight-deal-notification-service)|[![Practice][p]](https://www.fastprep.io/system-design/flight-deal-notification-service)|Oct 09, 2025|
 |**Microsoft**|[Design RAG-Assisted Kusto Query Generation](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|[![Practice][p]](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|Oct 08, 2025|
 |**Microsoft**|[Optimize LLM Inference Across Model and Infrastructure](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|Oct 08, 2025|
+|**Google**|[Design a Photo-Labeling App](https://www.fastprep.io/system-design/photo-labeling-app)|[![Practice][p]](https://www.fastprep.io/system-design/photo-labeling-app)|Oct 03, 2025|
 |**Cerebras**|[Multi-Channel Message Routing Queue](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|[![Practice][p]](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|Sep 06, 2025|
 |**Palantir**|[Design a Shared-Interest Connection App](https://www.fastprep.io/system-design/shared-interest-connection-app)|[![Practice][p]](https://www.fastprep.io/system-design/shared-interest-connection-app)|Aug 27, 2025|
 |**Atlassian / Compass International Holdings / Better.com / Coinbase / Wayfair**|[Post Author Friend Count Serving](https://www.fastprep.io/system-design/post-author-friend-count-serving)|[![Practice][p]](https://www.fastprep.io/system-design/post-author-friend-count-serving)|Aug 23, 2025|
@@ -556,6 +558,7 @@
 |**Splunk**|[Prepaid Game-Card Payment Network](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|[![Practice][p]](https://www.fastprep.io/system-design/prepaid-game-card-payment-network)|Aug 13, 2025|
 |**Splunk / Atlassian / Deliveroo**|[Resilient Sports Statistics Aggregation](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-sports-statistics-aggregation)|Aug 13, 2025|
 |**Splunk / Atlassian / Wayfair**|[Video Platform Capacity Planning](https://www.fastprep.io/system-design/video-platform-capacity-planning)|[![Practice][p]](https://www.fastprep.io/system-design/video-platform-capacity-planning)|Aug 13, 2025|
+|**Google**|[Design a Documentation Q&A Chatbot](https://www.fastprep.io/system-design/documentation-qa-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/documentation-qa-chatbot)|Jul 28, 2025|
 |**LSEG**|[Design a Student Analytics Dashboard](https://www.fastprep.io/system-design/student-analytics-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/student-analytics-dashboard)|Jul 23, 2025|
 |**LSEG**|[Extend a Forex Platform with Bitcoin Trading](https://www.fastprep.io/system-design/crypto-trading-extension)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-trading-extension)|Jul 23, 2025|
 |**Klaviyo**|[Design a Crypto Portfolio Purchase Experience](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|Jul 09, 2025|

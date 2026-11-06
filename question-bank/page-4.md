@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[All Simple Paths in a Cyclic Directed Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|Dec 22, 2020|
+|**Bloomberg LP**|[Maximum Non-Overlapping Longer Intervals](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|Dec 22, 2020|
 |**Bloomberg LP**|[Validate Linked List Pointer Ordering](https://www.fastprep.io/problems/bloomberg-validate-linked-list-pointer-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-linked-list-pointer-order)|Dec 22, 2020|
 |**Bloomberg LP**|[Count and Say](https://www.fastprep.io/problems/bloomberg-count-and-say)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-and-say)|Dec 21, 2020|
 |**Bloomberg LP**|[Search in a Bitonic Array](https://www.fastprep.io/problems/bloomberg-search-bitonic-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-bitonic-array)|Dec 17, 2020|

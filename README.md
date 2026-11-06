@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,291)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (663)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (199)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,291)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (666)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (199)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -51,6 +51,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**BNSF Railway**|[Design a Railcar Wheel Defect Detection Platform](https://www.fastprep.io/system-design/railcar-wheel-defect-detection-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/railcar-wheel-defect-detection-platform)|🔥 Nov 05, 2026|
 |**Intuit**|[Design LLM-Based Business Industry Classification](https://www.fastprep.io/system-design/llm-business-industry-classification)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-business-industry-classification)|🔥 Nov 05, 2026|
 |**Stripe**|[Build a Task and Subtask Hierarchy](https://www.fastprep.io/problems/stripe-unordered-task-subtask-hierarchy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-unordered-task-subtask-hierarchy)|🔥 Nov 05, 2026|
+|**Google**|[Design an Enterprise AI Agent over Multiple Data Sources](https://www.fastprep.io/system-design/enterprise-multi-source-ai-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-multi-source-ai-agent)|🔥 Nov 05, 2026|
 |**Kotak Mahindra Bank**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/kotak-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-best-time-to-buy-and-sell-stock)|🔥 Nov 04, 2026|
 |**Kotak Mahindra Bank**|[Best Time to Buy and Sell Stock II](https://www.fastprep.io/problems/kotak-best-time-to-buy-and-sell-stock-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-best-time-to-buy-and-sell-stock-ii)|🔥 Nov 04, 2026|
 |**The D.E. Shaw Group**|[Sum of Smallest Non-Divisors](https://www.fastprep.io/problems/de-shaw-sum-of-smallest-non-divisors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-sum-of-smallest-non-divisors)|🔥 Nov 04, 2026|
@@ -1681,5 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Salesforce**|[Run-Length String Compression](https://www.fastprep.io/problems/salesforce-run-length-string-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-run-length-string-compression)|Sep 16, 2026|
 |**Anthropic**|[Profiling Events from Consecutive Stack Samples](https://www.fastprep.io/problems/anthropic-consecutive-stack-sample-trace-events)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-consecutive-stack-sample-trace-events)|Sep 16, 2026|
 |**Pinterest**|[Time-Ordered Elevator Dispatch](https://www.fastprep.io/problems/pinterest-time-ordered-elevator-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-time-ordered-elevator-dispatch)|Sep 16, 2026|
-|**Agoda**|[Count Values Appearing Exactly Once](https://www.fastprep.io/problems/agoda-count-values-appearing-once)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-count-values-appearing-once)|Sep 16, 2026|
 <a id="bottom"></a>
