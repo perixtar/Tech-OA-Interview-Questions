@@ -2,12 +2,41 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,263 questions**
+**4,291 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Notion**|[Versioned Document Store](https://www.fastprep.io/problems/notion-versioned-document-store)|[![Practice][p]](https://www.fastprep.io/problems/notion-versioned-document-store)|Oct 21, 2023|
+|**Klaviyo**|[Flatten JSON into Repeated Key-Value Pairs](https://www.fastprep.io/problems/klaviyo-flatten-json-key-value-pairs)|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-flatten-json-key-value-pairs)|Oct 18, 2023|
+|**Headlands Technologies**|[Earliest Dependency Schedule](https://www.fastprep.io/problems/headlands-dependency-job-schedule)|[![Practice][p]](https://www.fastprep.io/problems/headlands-dependency-job-schedule)|Oct 13, 2023|
+|**WhatNot**|[Room Occupancy at Query Times](https://www.fastprep.io/problems/whatnot-room-occupancy-counts)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-room-occupancy-counts)|Oct 11, 2023|
+|**ZipRecruiter**|[Track Maximum and Current Rating](https://www.fastprep.io/problems/ziprecruiter-track-maximum-and-current-rating)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-track-maximum-and-current-rating)|Oct 08, 2023|
+|**ZipRecruiter**|[Filter Reusable-Character Word Skeletons](https://www.fastprep.io/problems/ziprecruiter-filter-word-skeletons)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-filter-word-skeletons)|Oct 07, 2023|
+|**ZipRecruiter**|[Evaluate Indexed Arithmetic Equations](https://www.fastprep.io/problems/ziprecruiter-indexed-arithmetic-equations)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-indexed-arithmetic-equations)|Oct 07, 2023|
+|**ZipRecruiter**|[Distinct Values in Maximum-Sum Square Windows](https://www.fastprep.io/problems/ziprecruiter-max-sum-square-window-values)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-max-sum-square-window-values)|Oct 07, 2023|
+|**ZipRecruiter**|[Nonzero Local Maxima in Cornerless Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-cornerless-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-cornerless-local-maxima)|Oct 04, 2023|
+|**ZipRecruiter**|[Sum Leftmost Subtraction Levels](https://www.fastprep.io/problems/ziprecruiter-leftmost-subtraction-levels)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-leftmost-subtraction-levels)|Oct 04, 2023|
+|**ZipRecruiter**|[Count Numbers with an Even Digit Count](https://www.fastprep.io/problems/ziprecruiter-count-even-digit-numbers)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-even-digit-numbers)|Oct 03, 2023|
+|**ZipRecruiter**|[Inventory Revenue Across Supply, Sell, and Return Logs](https://www.fastprep.io/problems/ziprecruiter-inventory-revenue)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-inventory-revenue)|Oct 03, 2023|
+|**ZipRecruiter**|[Left Rotation to a Strictly Increasing Array](https://www.fastprep.io/problems/ziprecruiter-left-rotation-to-strictly-increasing)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-left-rotation-to-strictly-increasing)|Oct 02, 2023|
+|**ZipRecruiter**|[Swap Adjacent Inversions in One Pass](https://www.fastprep.io/problems/ziprecruiter-one-pass-adjacent-inversion-swaps)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-one-pass-adjacent-inversion-swaps)|Oct 02, 2023|
+|**ZipRecruiter**|[Rectangle Fit Queries](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|Sep 27, 2023|
+|**Mygate**|[Minimum Subarray Sum](https://www.fastprep.io/problems/mygate-minimum-subarray-sum)|[![Practice][p]](https://www.fastprep.io/problems/mygate-minimum-subarray-sum)|Sep 27, 2023|
+|**Mygate**|[The Only Nonrepeating Array Element](https://www.fastprep.io/problems/mygate-only-nonrepeating-array-element)|[![Practice][p]](https://www.fastprep.io/problems/mygate-only-nonrepeating-array-element)|Sep 27, 2023|
+|**Mygate**|[Remove the Nth Node from the End](https://www.fastprep.io/problems/mygate-remove-nth-node-from-end)|[![Practice][p]](https://www.fastprep.io/problems/mygate-remove-nth-node-from-end)|Sep 27, 2023|
+|**Mygate**|[Rotate a Matrix by 90 Degrees](https://www.fastprep.io/problems/mygate-rotate-matrix-90)|[![Practice][p]](https://www.fastprep.io/problems/mygate-rotate-matrix-90)|Sep 27, 2023|
+|**Gecko Robotics**|[Maximum Damage Patch](https://www.fastprep.io/problems/gecko-robotics-maximum-damage-patch)|[![Practice][p]](https://www.fastprep.io/problems/gecko-robotics-maximum-damage-patch)|Sep 25, 2023|
+|**Gecko Robotics**|[Generate Parameter Combinations](https://www.fastprep.io/problems/gecko-robotics-parameter-combinations)|[![Practice][p]](https://www.fastprep.io/problems/gecko-robotics-parameter-combinations)|Sep 25, 2023|
+|**Amazon**|[Get Average Standing](https://www.fastprep.io/problems/get-average-standing)|[![Practice][p]](https://www.fastprep.io/problems/get-average-standing)|Sep 24, 2023|
+|**Amazon**|[Minimum Time Spent](https://www.fastprep.io/problems/minimum-time-spent)|[![Practice][p]](https://www.fastprep.io/problems/minimum-time-spent)|Sep 24, 2023|
+|**Amazon**|[Count Max Num Teams](https://www.fastprep.io/problems/count-max-num-teams)|[![Practice][p]](https://www.fastprep.io/problems/count-max-num-teams)|Sep 24, 2023|
+|**ZipRecruiter**|[First Strict Local Minimum](https://www.fastprep.io/problems/ziprecruiter-first-strict-local-minimum)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-first-strict-local-minimum)|Sep 23, 2023|
+|**ZipRecruiter**|[Rank the Top Two Competition Teams](https://www.fastprep.io/problems/ziprecruiter-rank-top-two-teams)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rank-top-two-teams)|Sep 23, 2023|
+|**Persona**|[File Download Coverage Percentage](https://www.fastprep.io/problems/persona-download-coverage-percent)|[![Practice][p]](https://www.fastprep.io/problems/persona-download-coverage-percent)|Sep 20, 2023|
+|**Odoo**|[HTML Elements Single-Tag Correction](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|[![Practice][p]](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Sep 18, 2023|
+|**WhatNot**|[Detect Blocked Chat Messages](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|Sep 15, 2023|
 |**Figma**|[Sparse Canvas Paint History](https://www.fastprep.io/problems/figma-canvas-paint-history)|[![Practice][p]](https://www.fastprep.io/problems/figma-canvas-paint-history)|Sep 13, 2023|
 |**Palantir**|[Network Formation](https://www.fastprep.io/problems/palantir-network-formation)|[![Practice][p]](https://www.fastprep.io/problems/palantir-network-formation)|Sep 07, 2023|
 |**Palantir**|[Count Fit Records Across Pages](https://www.fastprep.io/problems/palantir-paginated-fit-count)|[![Practice][p]](https://www.fastprep.io/problems/palantir-paginated-fit-count)|Sep 07, 2023|
