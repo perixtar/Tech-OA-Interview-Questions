@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**WhatNot**|[Detect Blocked Chat Messages](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|Sep 15, 2023|
 |**Figma**|[Sparse Canvas Paint History](https://www.fastprep.io/problems/figma-canvas-paint-history)|[![Practice][p]](https://www.fastprep.io/problems/figma-canvas-paint-history)|Sep 13, 2023|
 |**Palantir**|[Network Formation](https://www.fastprep.io/problems/palantir-network-formation)|[![Practice][p]](https://www.fastprep.io/problems/palantir-network-formation)|Sep 07, 2023|
 |**Palantir**|[Count Fit Records Across Pages](https://www.fastprep.io/problems/palantir-paginated-fit-count)|[![Practice][p]](https://www.fastprep.io/problems/palantir-paginated-fit-count)|Sep 07, 2023|

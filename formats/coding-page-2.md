@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Amazon**|[Number of Islands II](https://www.fastprep.io/problems/amazon-number-of-islands-ii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-islands-ii)|Jul 12, 2026|
 |**Amazon**|[Maximum Sum of Heights](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|Jul 12, 2026|
 |**Amazon**|[Longest Palindromic Subsequence](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Jul 12, 2026|
 |**Amazon**|[Group Anagrams](https://www.fastprep.io/problems/amazon-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-anagrams)|Jul 12, 2026|
@@ -1938,4 +1937,5 @@
 |**ZipRecruiter**|[Rank the Top Two Competition Teams](https://www.fastprep.io/problems/ziprecruiter-rank-top-two-teams)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rank-top-two-teams)|Sep 23, 2023|
 |**Persona**|[File Download Coverage Percentage](https://www.fastprep.io/problems/persona-download-coverage-percent)|[![Practice][p]](https://www.fastprep.io/problems/persona-download-coverage-percent)|Sep 20, 2023|
 |**Odoo**|[HTML Elements Single-Tag Correction](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|[![Practice][p]](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Sep 18, 2023|
+|**WhatNot**|[Detect Blocked Chat Messages](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-detect-blocked-chat-messages)|Sep 15, 2023|
 <a id="bottom"></a>

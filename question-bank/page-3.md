@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Rippling**|[Distributed System Recovery](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Aug 03, 2025|
 |**Amazon**|[Largest Number With Digit Sum](https://www.fastprep.io/problems/amazon-largest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-largest-number-with-digit-sum)|Aug 03, 2025|
 |**Amazon**|[Minimize Binary Subsequence Cost](https://www.fastprep.io/problems/amazon-minimize-binary-subsequence-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-binary-subsequence-cost)|Aug 03, 2025|
 |**Airbnb**|[Connect Four Winner](https://www.fastprep.io/problems/airbnb-connect-four-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-connect-four-winner)|Jul 28, 2025|
@@ -1851,4 +1850,5 @@
 |**Microsoft**|[Design and Implement a Thread-Safe LRU Cache](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Sep 30, 2020|
 |**Bloomberg LP**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/bloomberg-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-best-time-to-buy-and-sell-stock)|Sep 30, 2020|
 |**Bloomberg LP**|[Delete Node in a BST](https://www.fastprep.io/problems/bloomberg-delete-node-in-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-delete-node-in-bst)|Sep 30, 2020|
+|**Bloomberg LP**|[Group Anagrams](https://www.fastprep.io/problems/bloomberg-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-anagrams)|Sep 30, 2020|
 <a id="bottom"></a>
