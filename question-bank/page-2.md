@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Hudson River Trading**|[Tiered Expiring Item Store](https://www.fastprep.io/problems/hrt-tiered-expiring-item-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-tiered-expiring-item-store)|Sep 15, 2026|
+|**Vercel**|[Recent Metrics by Name and Tags](https://www.fastprep.io/problems/vercel-recent-metrics-by-name-and-tags)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vercel-recent-metrics-by-name-and-tags)|Sep 15, 2026|
+|**Pinterest**|[Nearest Eligible Elevator](https://www.fastprep.io/problems/pinterest-nearest-eligible-elevator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-nearest-eligible-elevator)|Sep 15, 2026|
+|**DigitalOcean**|[Maximum Value from Circular Houses](https://www.fastprep.io/problems/digitalocean-house-robber-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/digitalocean-house-robber-ii)|Sep 15, 2026|
 |**DigitalOcean**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/digitalocean-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/digitalocean-longest-repeating-character-replacement)|Sep 15, 2026|
 |**Meta**|[Mutual-Friend Recommendations](https://www.fastprep.io/problems/meta-mutual-friend-recommendations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-mutual-friend-recommendations)|Sep 15, 2026|
 |**Meta**|[Partition a Card Deck into Fifteens](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Sep 15, 2026|
@@ -185,7 +189,6 @@
 |**Akuna Capital**|[Items Sort](https://www.fastprep.io/problems/akuna-items-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|Sep 10, 2026|
 |**Akuna Capital**|[Two Sum](https://www.fastprep.io/problems/akuna-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-two-sum)|Sep 10, 2026|
 |**Akuna Capital**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/akuna-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-longest-substring-without-repeating-characters)|Sep 10, 2026|
-|**OnePay / Razorpay / Infosys**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|Sep 10, 2026|
 |**Atlassian / Abnormal Security**|[Audit a Service Architecture for Reliability](https://www.fastprep.io/system-design/architecture-observability-reliability-audit)|System design|[![Practice][p]](https://www.fastprep.io/system-design/architecture-observability-reliability-audit)|Sep 10, 2026|
 |**Apple**|[Design Multi-Data-Center Storage Demand Forecasting](https://www.fastprep.io/system-design/multi-data-center-storage-demand-forecasting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-data-center-storage-demand-forecasting)|Sep 10, 2026|
 |**Apple**|[Design Predictive File Storage-Tier Placement](https://www.fastprep.io/system-design/file-storage-tier-selection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/file-storage-tier-selection)|Sep 10, 2026|
@@ -1746,7 +1749,4 @@
 |**Marshall Wace**|[Successful Logins from Multiple Countries](https://www.fastprep.io/problems/marshall-wace-successful-logins-multiple-countries)|SQL|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-successful-logins-multiple-countries)|Aug 13, 2025|
 |**Citadel**|[Binary Min-Heap Operations](https://www.fastprep.io/problems/citadel-binary-min-heap-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-binary-min-heap-operations)|Aug 11, 2025|
 |**Citadel**|[Running Stream Medians](https://www.fastprep.io/problems/citadel-running-stream-medians)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-running-stream-medians)|Aug 11, 2025|
-|**Amazon**|[Fair Prize Distribution](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Aug 10, 2025|
-|**Amazon**|[Count Picked Items Less Than Queries](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Aug 10, 2025|
-|**EvenUp**|[War Card Game Winner](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Aug 09, 2025|
 <a id="bottom"></a>

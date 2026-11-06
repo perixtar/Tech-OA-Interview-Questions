@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Fair Prize Distribution](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Aug 10, 2025|
+|**Amazon**|[Count Picked Items Less Than Queries](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Aug 10, 2025|
+|**EvenUp**|[War Card Game Winner](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Aug 09, 2025|
 |**Salesforce**|[Spam Text Classification](https://www.fastprep.io/problems/salesforce-spam-text-classification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-spam-text-classification)|Aug 06, 2025|
 |**Salesforce**|[Viewable Profiles by User](https://www.fastprep.io/problems/salesforce-viewable-profiles-by-user)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-viewable-profiles-by-user)|Aug 06, 2025|
 |**Rippling**|[Distributed System Recovery](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Aug 03, 2025|
@@ -323,7 +326,6 @@
 |**Atlassian**|[Build a File Directory Tree](https://www.fastprep.io/project-coding/atlassian-file-directory-tree)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/atlassian-file-directory-tree)|Jan 23, 2025|
 |**Google**|[Design Distributed Article Word-Count Aggregation](https://www.fastprep.io/system-design/distributed-article-word-count)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-article-word-count)|Jan 21, 2025|
 |**Postman**|[Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|Jan 17, 2025|
-|**Confluent**|[Design an Idempotent URL Shortening Service](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|Jan 16, 2025|
 |**Confluent**|[Design Crash Recovery for a Single-Node Key-Value Store](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|Jan 16, 2025|
 |**Confluent**|[Design and Implement a Thread-Safe Delayed Task Runner](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Jan 16, 2025|
 |**Amazon**|[Maximize Product of Sizes of Subtrees](https://www.fastprep.io/problems/amazon-maximize-product-of-sizes-of-subtrees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-product-of-sizes-of-subtrees)|Jan 09, 2025|
@@ -1849,6 +1851,4 @@
 |**Bloomberg LP**|[Design an Airport Operations Coordination System](https://www.fastprep.io/system-design/airport-operations-coordination)|System design|[![Practice][p]](https://www.fastprep.io/system-design/airport-operations-coordination)|Oct 20, 2020|
 |**SambaNova Systems**|[Peak Index in a Mountain Array](https://www.fastprep.io/problems/sambanova-peak-index-mountain-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-peak-index-mountain-array)|Oct 19, 2020|
 |**Intuit**|[Fully Justify Lines of Words](https://www.fastprep.io/problems/intuit-standard-text-justification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-standard-text-justification)|Oct 03, 2020|
-|**Intuit**|[Does the Word Exist in the Grid?](https://www.fastprep.io/problems/intuit-word-search-exists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-word-search-exists)|Oct 03, 2020|
-|**Microsoft**|[Design and Implement a Thread-Safe LRU Cache](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Sep 30, 2020|
 <a id="bottom"></a>
