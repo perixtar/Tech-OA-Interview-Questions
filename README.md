@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,263)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (660)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (198)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,263)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (660)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (199)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -35,6 +35,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | :-- | :-- | :-- | :-: | :-- |
 |**The D.E. Shaw Group / Uber / Infosys**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🔥 Nov 05, 2026|
 |**OpenAI**|[Design an In-Memory SQL Database](https://www.fastprep.io/system-design/in-memory-sql-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/in-memory-sql-database)|🔥 Nov 04, 2026|
+|**OpenAI**|[Build a Webhook Delivery System](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|🔥 Nov 04, 2026|
 |**Stripe**|[Failsafe Debugging: Fix the Initial Backoff Delay](https://www.fastprep.io/project-coding/mock-stripe-failsafe-initial-backoff)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-failsafe-initial-backoff)|🔥 Nov 03, 2026|
 |**Stripe**|[Failsafe Debugging: Prevent Duration Overflow](https://www.fastprep.io/project-coding/mock-stripe-failsafe-duration-overflow)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-failsafe-duration-overflow)|🔥 Nov 03, 2026|
 |**Stripe**|[Failsafe Debugging: Repair Fallback Outcome Events](https://www.fastprep.io/project-coding/mock-stripe-failsafe-fallback-events)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-failsafe-fallback-events)|🔥 Nov 03, 2026|
@@ -1682,5 +1683,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DigitalOcean**|[Maximum Value from Circular Houses](https://www.fastprep.io/problems/digitalocean-house-robber-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/digitalocean-house-robber-ii)|Sep 15, 2026|
 |**DigitalOcean**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/digitalocean-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/digitalocean-longest-repeating-character-replacement)|Sep 15, 2026|
 |**Meta**|[Mutual-Friend Recommendations](https://www.fastprep.io/problems/meta-mutual-friend-recommendations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-mutual-friend-recommendations)|Sep 15, 2026|
-|**Meta**|[Partition a Card Deck into Fifteens](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Sep 15, 2026|
 <a id="bottom"></a>

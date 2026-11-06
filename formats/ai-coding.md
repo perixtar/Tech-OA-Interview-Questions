@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**198 questions**
+**199 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**OpenAI**|[Build a Webhook Delivery System](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-webhook-delivery-system)|🔥 Nov 04, 2026|
 |**Stripe**|[Failsafe Debugging: Fix the Initial Backoff Delay](https://www.fastprep.io/project-coding/mock-stripe-failsafe-initial-backoff)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-failsafe-initial-backoff)|🔥 Nov 03, 2026|
 |**Stripe**|[Failsafe Debugging: Prevent Duration Overflow](https://www.fastprep.io/project-coding/mock-stripe-failsafe-duration-overflow)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-failsafe-duration-overflow)|🔥 Nov 03, 2026|
 |**Stripe**|[Failsafe Debugging: Repair Fallback Outcome Events](https://www.fastprep.io/project-coding/mock-stripe-failsafe-fallback-events)|[![Practice][p]](https://www.fastprep.io/project-coding/mock-stripe-failsafe-fallback-events)|🔥 Nov 03, 2026|
