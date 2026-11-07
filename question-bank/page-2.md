@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Salesforce**|[Run-Length String Compression](https://www.fastprep.io/problems/salesforce-run-length-string-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-run-length-string-compression)|Sep 16, 2026|
 |**Anthropic**|[Profiling Events from Consecutive Stack Samples](https://www.fastprep.io/problems/anthropic-consecutive-stack-sample-trace-events)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-consecutive-stack-sample-trace-events)|Sep 16, 2026|
 |**Pinterest**|[Time-Ordered Elevator Dispatch](https://www.fastprep.io/problems/pinterest-time-ordered-elevator-dispatch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-time-ordered-elevator-dispatch)|Sep 16, 2026|
 |**Agoda**|[Count Values Appearing Exactly Once](https://www.fastprep.io/problems/agoda-count-values-appearing-once)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-count-values-appearing-once)|Sep 16, 2026|
@@ -558,6 +557,7 @@
 |**Citadel**|[Search Suggestions with a Prefix Tree](https://www.fastprep.io/problems/citadel-search-suggestions-prefix-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-search-suggestions-prefix-tree)|Aug 24, 2026|
 |**Meta**|[Validate a Palindrome After Limited Deletions](https://www.fastprep.io/problems/meta-palindrome-k-deletions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-palindrome-k-deletions)|Aug 24, 2026|
 |**Meta**|[Detect a Contiguous Subarray with Target Sum](https://www.fastprep.io/problems/meta-target-sum-subarray-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-target-sum-subarray-existence)|Aug 24, 2026|
+|**Salesforce / Slack / Ironclad / Google**|[Design a Third-Party SaaS Integration Platform](https://www.fastprep.io/system-design/third-party-saas-integration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/third-party-saas-integration-platform)|Aug 24, 2026|
 |**Alpaca**|[Return Distinct Elements](https://www.fastprep.io/problems/alpaca-distinct-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alpaca-distinct-elements)|Aug 23, 2026|
 |**Alpaca**|[Make a Sorted Array Unique In Place](https://www.fastprep.io/problems/alpaca-in-place-array-uniqueness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alpaca-in-place-array-uniqueness)|Aug 23, 2026|
 |**Citadel**|[Minimum Changes for Palindromic Blocks](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks)|Aug 23, 2026|
@@ -977,7 +977,6 @@
 |**Waymo**|[Design a Global Small-Image Cache](https://www.fastprep.io/system-design/global-small-image-cache)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-small-image-cache)|Jul 14, 2026|
 |**Waymo**|[Design a Matchmaking Service](https://www.fastprep.io/system-design/matchmaking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/matchmaking-service)|Jul 14, 2026|
 |**Salesforce / Retool**|[Design a Rental Car Reservation System](https://www.fastprep.io/system-design/rental-car-reservation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rental-car-reservation-system)|Jul 14, 2026|
-|**Salesforce / Slack / Ironclad**|[Design a Third-Party SaaS Integration Platform](https://www.fastprep.io/system-design/third-party-saas-integration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/third-party-saas-integration-platform)|Jul 14, 2026|
 |**Sesame**|[Transcript Window Metrics](https://www.fastprep.io/problems/sesame-transcript-window-metrics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sesame-transcript-window-metrics)|Jul 14, 2026|
 |**New Relic**|[Product of Array Except Self](https://www.fastprep.io/problems/new-relic-product-of-array-except-self)|Coding|[![Practice][p]](https://www.fastprep.io/problems/new-relic-product-of-array-except-self)|Jul 13, 2026|
 |**OpenAI**|[CIDR IPv4 Range Iterator](https://www.fastprep.io/problems/openai-cidr-ipv4-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-cidr-ipv4-iterator)|Jul 12, 2026|
@@ -1132,7 +1131,7 @@
 |**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
 |**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
 |**Meta / Google**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
-|**Meta / Decagon**|[Design a Live-Session Conversational Chatbot](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|Jun 30, 2026|
+|**Meta / Decagon / Google**|[Design a Live-Session Conversational Chatbot](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|Jun 30, 2026|
 |**Google**|[Partition Into K Subarrays With Sum at Least X](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-partition-into-k-subarrays-minimum-sum)|Jun 30, 2026|
 |**Amazon**|[Frequently Bought Together](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Jun 29, 2026|
 |**Amazon**|[Souvenir Shop Purchases](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Jun 29, 2026|
@@ -1748,4 +1747,5 @@
 |**The Walt Disney Company**|[Maximum Unique Substring Split](https://www.fastprep.io/problems/the-walt-disney-company-maximum-unique-substring-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-maximum-unique-substring-split)|Aug 29, 2025|
 |**Maven Clinic**|[Configurable Valid Brackets](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Aug 28, 2025|
 |**Maven Clinic**|[Longest Valid Parentheses](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Aug 28, 2025|
+|**Maven Clinic**|[Meeting Rooms II](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Aug 28, 2025|
 <a id="bottom"></a>
