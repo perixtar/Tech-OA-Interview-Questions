@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Zip**|[Maximum Survival Time in a Graph Pursuit](https://www.fastprep.io/problems/zip-graph-pursuit-survival-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-graph-pursuit-survival-time)|Sep 17, 2026|
+|**Google**|[First and Last Target Position in a Mountain Array](https://www.fastprep.io/problems/google-mountain-array-target-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-mountain-array-target-range)|Sep 17, 2026|
 |**Amazon**|[Latest Stock State Across Distribution Centers](https://www.fastprep.io/system-design/distribution-center-stock-state)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distribution-center-stock-state)|Sep 17, 2026|
 |**Amazon**|[Hierarchical Document Search](https://www.fastprep.io/problems/amazon-hierarchical-document-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-hierarchical-document-search)|Sep 17, 2026|
 |**Amazon**|[Lazy Merge of Sorted Event Streams](https://www.fastprep.io/problems/amazon-lazy-event-stream-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lazy-event-stream-merge)|Sep 17, 2026|
@@ -1744,6 +1746,4 @@
 |**Marshall Wace**|[Count Letters with Ordered Lowercase and Uppercase Occurrences](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Oct 01, 2025|
 |**Marshall Wace**|[Shortest Subarray Covering an Integer Range](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Oct 01, 2025|
 |**Ramp**|[Find a User’s Airport from Flight History](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Sep 29, 2025|
-|**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
-|**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
 <a id="bottom"></a>

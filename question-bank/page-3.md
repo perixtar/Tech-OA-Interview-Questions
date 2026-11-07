@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
+|**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
 |**Marshall Wace**|[Minimum Full Glasses for an Exact Water Volume](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Sep 22, 2025|
 |**Marshall Wace**|[Smallest Absolute Difference Between Two Array Elements](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Sep 22, 2025|
 |**Marshall Wace**|[Maximum Sum with at Most Three Two-Element Tiles](https://www.fastprep.io/problems/marshall-wace-three-two-element-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-three-two-element-tiles)|Sep 22, 2025|
@@ -1848,5 +1850,4 @@
 |**Bloomberg LP**|[Text Justification](https://www.fastprep.io/problems/bloomberg-text-justification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-text-justification)|Feb 24, 2021|
 |**Intuit**|[Shipping Starts and Terminal Destinations](https://www.fastprep.io/problems/intuit-shipping-terminal-destinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-shipping-terminal-destinations)|Feb 24, 2021|
 |**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
-|**Bloomberg LP**|[Remove Adjacent Duplicates in String II](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Feb 23, 2021|
 <a id="bottom"></a>
