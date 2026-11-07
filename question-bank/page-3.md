@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Marshall Wace**|[Minimum Full Glasses for an Exact Water Volume](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Sep 22, 2025|
+|**Marshall Wace**|[Smallest Absolute Difference Between Two Array Elements](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Sep 22, 2025|
+|**Marshall Wace**|[Maximum Sum with at Most Three Two-Element Tiles](https://www.fastprep.io/problems/marshall-wace-three-two-element-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-three-two-element-tiles)|Sep 22, 2025|
+|**PeopleStrong**|[Ceiling Value in a Sorted Array](https://www.fastprep.io/problems/peoplestrong-ceiling-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-ceiling-in-sorted-array)|Sep 20, 2025|
 |**PeopleStrong**|[Maximum Employee Salary for a Company](https://www.fastprep.io/problems/peoplestrong-company-maximum-salary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-company-maximum-salary)|Sep 20, 2025|
 |**Microsoft**|[Isomorphic Strings](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Sep 18, 2025|
 |**Microsoft**|[Merge Two Descending Linked Lists](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Sep 18, 2025|
@@ -1845,9 +1849,4 @@
 |**Intuit**|[Shipping Starts and Terminal Destinations](https://www.fastprep.io/problems/intuit-shipping-terminal-destinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-shipping-terminal-destinations)|Feb 24, 2021|
 |**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
 |**Bloomberg LP**|[Remove Adjacent Duplicates in String II](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Feb 23, 2021|
-|**ZipRecruiter**|[Missing Ranges within Inclusive Bounds](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|Feb 20, 2021|
-|**Bloomberg LP**|[Count Target Occurrences in a Sorted Array](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|Feb 19, 2021|
-|**Meta**|[Merge Overlapping Intervals](https://www.fastprep.io/problems/meta-merge-overlapping-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-merge-overlapping-intervals)|Feb 19, 2021|
-|**Meta**|[Validate a Strict Binary Search Tree](https://www.fastprep.io/problems/meta-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-validate-binary-search-tree)|Feb 19, 2021|
-|**Intuit**|[Find a Word Path Moving Right or Down](https://www.fastprep.io/problems/intuit-right-down-word-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-right-down-word-path)|Feb 19, 2021|
 <a id="bottom"></a>

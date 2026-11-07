@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Latest Stock State Across Distribution Centers](https://www.fastprep.io/system-design/distribution-center-stock-state)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distribution-center-stock-state)|Sep 17, 2026|
+|**Amazon**|[Hierarchical Document Search](https://www.fastprep.io/problems/amazon-hierarchical-document-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-hierarchical-document-search)|Sep 17, 2026|
+|**Amazon**|[Lazy Merge of Sorted Event Streams](https://www.fastprep.io/problems/amazon-lazy-event-stream-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lazy-event-stream-merge)|Sep 17, 2026|
+|**Zip**|[Cache Ticket Alerts for Approval](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|Sep 16, 2026|
 |**IBM**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|Sep 16, 2026|
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|Sep 16, 2026|
 |**Anthropic**|[Design a Communication-Efficient Distributed Median Aggregation](https://www.fastprep.io/system-design/distributed-median-aggregation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-median-aggregation)|Sep 16, 2026|
@@ -1742,8 +1746,4 @@
 |**Ramp**|[Find a User’s Airport from Flight History](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Sep 29, 2025|
 |**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
 |**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
-|**Marshall Wace**|[Minimum Full Glasses for an Exact Water Volume](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Sep 22, 2025|
-|**Marshall Wace**|[Smallest Absolute Difference Between Two Array Elements](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Sep 22, 2025|
-|**Marshall Wace**|[Maximum Sum with at Most Three Two-Element Tiles](https://www.fastprep.io/problems/marshall-wace-three-two-element-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-three-two-element-tiles)|Sep 22, 2025|
-|**PeopleStrong**|[Ceiling Value in a Sorted Array](https://www.fastprep.io/problems/peoplestrong-ceiling-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-ceiling-in-sorted-array)|Sep 20, 2025|
 <a id="bottom"></a>
