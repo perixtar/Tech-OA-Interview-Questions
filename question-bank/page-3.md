@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Marshall Wace**|[Count Letters with Ordered Lowercase and Uppercase Occurrences](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Oct 01, 2025|
+|**Marshall Wace**|[Shortest Subarray Covering an Integer Range](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Oct 01, 2025|
+|**Ramp**|[Find a User’s Airport from Flight History](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Sep 29, 2025|
+|**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
 |**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
 |**Marshall Wace**|[Minimum Full Glasses for an Exact Water Volume](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Sep 22, 2025|
 |**Marshall Wace**|[Smallest Absolute Difference Between Two Array Elements](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Sep 22, 2025|
@@ -1845,8 +1849,4 @@
 |**Bloomberg LP**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Feb 26, 2021|
 |**Bloomberg LP**|[The Maze](https://www.fastprep.io/problems/bloomberg-the-maze)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-the-maze)|Feb 26, 2021|
 |**Intuit**|[Reflow and Fully Justify Text Lines](https://www.fastprep.io/problems/intuit-word-processor-reflow)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-word-processor-reflow)|Feb 25, 2021|
-|**Bloomberg LP**|[Find Bottom Left Tree Value](https://www.fastprep.io/problems/bloomberg-find-bottom-left-tree-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-bottom-left-tree-value)|Feb 24, 2021|
-|**Bloomberg LP**|[Text Justification](https://www.fastprep.io/problems/bloomberg-text-justification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-text-justification)|Feb 24, 2021|
-|**Intuit**|[Shipping Starts and Terminal Destinations](https://www.fastprep.io/problems/intuit-shipping-terminal-destinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-shipping-terminal-destinations)|Feb 24, 2021|
-|**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
 <a id="bottom"></a>

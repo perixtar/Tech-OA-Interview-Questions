@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Find Bottom Left Tree Value](https://www.fastprep.io/problems/bloomberg-find-bottom-left-tree-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-bottom-left-tree-value)|Feb 24, 2021|
+|**Bloomberg LP**|[Text Justification](https://www.fastprep.io/problems/bloomberg-text-justification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-text-justification)|Feb 24, 2021|
+|**Intuit**|[Shipping Starts and Terminal Destinations](https://www.fastprep.io/problems/intuit-shipping-terminal-destinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-shipping-terminal-destinations)|Feb 24, 2021|
+|**Arcesium**|[Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades)|Feb 23, 2021|
 |**Bloomberg LP**|[Remove Adjacent Duplicates in String II](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Feb 23, 2021|
 |**ZipRecruiter**|[Missing Ranges within Inclusive Bounds](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|Feb 20, 2021|
 |**Bloomberg LP**|[Count Target Occurrences in a Sorted Array](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|Feb 19, 2021|

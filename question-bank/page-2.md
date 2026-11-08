@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Plaid**|[Validate and Resolve Evaluation Chains](https://www.fastprep.io/problems/plaid-evaluation-chain-validity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/plaid-evaluation-chain-validity)|Sep 17, 2026|
+|**Plaid**|[Total Pipeline Completion Time](https://www.fastprep.io/problems/plaid-total-pipeline-completion-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/plaid-total-pipeline-completion-time)|Sep 17, 2026|
+|**Snowflake**|[Minimum Bus Fleet Across Stations](https://www.fastprep.io/problems/snowflake-minimum-station-bus-fleet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-station-bus-fleet)|Sep 17, 2026|
+|**SpaceX**|[Timestamped Telemetry Stream Differences](https://www.fastprep.io/problems/spacex-timestamped-telemetry-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-timestamped-telemetry-differences)|Sep 17, 2026|
+|**Together AI**|[Time-Indexed Key-Value Store](https://www.fastprep.io/problems/together-ai-time-indexed-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/together-ai-time-indexed-key-value-store)|Sep 17, 2026|
+|**Waymo**|[Cyclic Fuel Command Simulation](https://www.fastprep.io/problems/waymo-cyclic-fuel-command-simulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-cyclic-fuel-command-simulation)|Sep 17, 2026|
+|**Zip**|[Maximum Survival Time in a Graph Pursuit](https://www.fastprep.io/problems/zip-graph-pursuit-survival-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-graph-pursuit-survival-time)|Sep 17, 2026|
 |**Google**|[First and Last Target Position in a Mountain Array](https://www.fastprep.io/problems/google-mountain-array-target-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-mountain-array-target-range)|Sep 17, 2026|
 |**Amazon**|[Latest Stock State Across Distribution Centers](https://www.fastprep.io/system-design/distribution-center-stock-state)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distribution-center-stock-state)|Sep 17, 2026|
 |**Amazon**|[Hierarchical Document Search](https://www.fastprep.io/problems/amazon-hierarchical-document-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-hierarchical-document-search)|Sep 17, 2026|
@@ -425,7 +432,6 @@
 |**Capital One**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/capital-one-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-alternating-tile-groups)|Sep 05, 2026|
 |**Amazon**|[Get Distinct Pairs](https://www.fastprep.io/problems/amazon-get-distinct-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-distinct-pairs)|Sep 05, 2026|
 |**Oracle**|[Design a Rolling Top Error-Services Monitor](https://www.fastprep.io/system-design/rolling-top-error-services)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-error-services)|Sep 05, 2026|
-|**Oracle**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|Sep 05, 2026|
 |**Rippling**|[Design a Publisher News Feed](https://www.fastprep.io/system-design/publisher-news-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/publisher-news-feed)|Sep 05, 2026|
 |**Paytm**|[Design a Live Market Tick Brokerage Platform](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|Sep 05, 2026|
 |**Edge**|[Design a Website Content Parsing Service](https://www.fastprep.io/system-design/website-content-parsing-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/website-content-parsing-service)|Sep 05, 2026|
@@ -1254,7 +1260,6 @@
 |**NVIDIA**|[Real-Number Calculator](https://www.fastprep.io/problems/nvidia-real-number-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-real-number-calculator)|May 31, 2026|
 |**NVIDIA**|[Implement a Semaphore](https://www.fastprep.io/problems/nvidia-implement-semaphore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-implement-semaphore)|May 31, 2026|
 |**Hebbia**|[Ultimate Tic-Tac-Toe Move Simulator](https://www.fastprep.io/problems/hebbia-ultimate-tic-tac-toe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-ultimate-tic-tac-toe)|May 30, 2026|
-|**Meta**|[Design Weapon-Sale Ad Detection and Review](https://www.fastprep.io/system-design/weapon-sale-ad-intent-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/weapon-sale-ad-intent-detection)|May 29, 2026|
 |**Akuna**|[Maximum Difference](https://www.fastprep.io/problems/akuna-maximum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-difference)|May 25, 2026|
 |**Amazon**|[Product Category Group Sizes](https://www.fastprep.io/problems/amazon-product-category-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-category-groups)|May 23, 2026|
 |**Uber**|[Tournament Rounds by Rank](https://www.fastprep.io/problems/uber-tournament-rounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-tournament-rounds)|May 23, 2026|
@@ -1503,7 +1508,6 @@
 |**ZipRecruiter**|[Restaurant Vote Leaders](https://www.fastprep.io/problems/ziprecruiter-restaurant-vote-leaders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-restaurant-vote-leaders)|Feb 08, 2026|
 |**Bloomberg LP**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-substring-without-repeating-characters)|Feb 07, 2026|
 |**Figma**|[Symmetric Binary Tree](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Feb 07, 2026|
-|**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|Feb 07, 2026|
 |**DoorDash**|[Minimum Batches Within a Time Window](https://www.fastprep.io/problems/doordash-minimum-time-window-batches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-time-window-batches)|Feb 07, 2026|
 |**DoorDash**|[Minimum Riders for Delivery Intervals](https://www.fastprep.io/problems/doordash-minimum-delivery-riders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-delivery-riders)|Feb 07, 2026|
 |**Hebbia**|[LRU Cache Snapshot Printer](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Feb 06, 2026|
@@ -1742,8 +1746,4 @@
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
 |**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
 |**Marshall Wace**|[Maximum Trailing Zeros on a Path with at Most One Turn](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Oct 01, 2025|
-|**Marshall Wace**|[Count Letters with Ordered Lowercase and Uppercase Occurrences](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Oct 01, 2025|
-|**Marshall Wace**|[Shortest Subarray Covering an Integer Range](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Oct 01, 2025|
-|**Ramp**|[Find a User’s Airport from Flight History](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Sep 29, 2025|
-|**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
 <a id="bottom"></a>
