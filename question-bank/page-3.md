@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
+|**Marshall Wace**|[Maximum Trailing Zeros on a Path with at Most One Turn](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Oct 01, 2025|
 |**Marshall Wace**|[Count Letters with Ordered Lowercase and Uppercase Occurrences](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Oct 01, 2025|
 |**Marshall Wace**|[Shortest Subarray Covering an Integer Range](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-shortest-range-cover)|Oct 01, 2025|
 |**Ramp**|[Find a User’s Airport from Flight History](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-user-airport-from-flight-history)|Sep 29, 2025|
@@ -1847,6 +1849,4 @@
 |**Bloomberg LP**|[Design HashMap](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Mar 08, 2021|
 |**Bloomberg LP**|[Alien Dictionary](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Feb 26, 2021|
 |**Bloomberg LP**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Feb 26, 2021|
-|**Bloomberg LP**|[The Maze](https://www.fastprep.io/problems/bloomberg-the-maze)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-the-maze)|Feb 26, 2021|
-|**Intuit**|[Reflow and Fully Justify Text Lines](https://www.fastprep.io/problems/intuit-word-processor-reflow)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-word-processor-reflow)|Feb 25, 2021|
 <a id="bottom"></a>

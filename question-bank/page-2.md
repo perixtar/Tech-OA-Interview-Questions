@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**LinkedIn**|[Minimum Window Substring](https://www.fastprep.io/problems/linkedin-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-minimum-window-substring)|Sep 17, 2026|
+|**Meta**|[Values Exclusive to the Current User](https://www.fastprep.io/problems/meta-exclusive-user-dictionary-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-exclusive-user-dictionary-values)|Sep 17, 2026|
 |**Plaid**|[Validate and Resolve Evaluation Chains](https://www.fastprep.io/problems/plaid-evaluation-chain-validity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/plaid-evaluation-chain-validity)|Sep 17, 2026|
 |**Plaid**|[Total Pipeline Completion Time](https://www.fastprep.io/problems/plaid-total-pipeline-completion-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/plaid-total-pipeline-completion-time)|Sep 17, 2026|
 |**Snowflake**|[Minimum Bus Fleet Across Stations](https://www.fastprep.io/problems/snowflake-minimum-station-bus-fleet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-station-bus-fleet)|Sep 17, 2026|
@@ -1744,6 +1746,4 @@
 |**NVIDIA**|[Best Graphics Card](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Oct 04, 2025|
 |**Google**|[Design a Photo-Labeling App](https://www.fastprep.io/system-design/photo-labeling-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-labeling-app)|Oct 03, 2025|
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
-|**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
-|**Marshall Wace**|[Maximum Trailing Zeros on a Path with at Most One Turn](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Oct 01, 2025|
 <a id="bottom"></a>

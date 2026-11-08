@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,317)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (670)](formats/system-design.md) · [Low-level design (203)](formats/low-level-design.md) · [AI coding (199)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,317)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (671)](formats/system-design.md) · [Low-level design (203)](formats/low-level-design.md) · [AI coding (200)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -37,6 +37,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Oracle / Nubank**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|🔥 Nov 07, 2026|
 |**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|🔥 Nov 07, 2026|
 |**DoorDash**|[Design a Food-Ordering Chatbot with Dietary Guardrails](https://www.fastprep.io/system-design/food-ordering-chatbot-with-dietary-guardrails)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-ordering-chatbot-with-dietary-guardrails)|🔥 Nov 07, 2026|
+|**Google**|[Design a Daily Slowest-Query Report for a Data Warehouse](https://www.fastprep.io/system-design/daily-slowest-query-report)|System design|[![Practice][p]](https://www.fastprep.io/system-design/daily-slowest-query-report)|🔥 Nov 07, 2026|
+|**DoorDash**|[Build a Training Dataset from Order Tables](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|🔥 Nov 07, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 06, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank / GitHub**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Nov 06, 2026|
 |**Lyft / WhatNot**|[Donation Platform](https://www.fastprep.io/system-design/donation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/donation-platform)|🔥 Nov 06, 2026|
@@ -1681,6 +1683,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Max Points on a Line](https://www.fastprep.io/problems/linkedin-max-points-on-a-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-max-points-on-a-line)|Sep 17, 2026|
 |**LinkedIn**|[Maximum Depth of Binary Tree](https://www.fastprep.io/problems/linkedin-maximum-depth-of-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-maximum-depth-of-binary-tree)|Sep 17, 2026|
 |**Applied Intuition**|[Compilation Order with Topological Sort](https://www.fastprep.io/problems/applied-intuition-compilation-order-topological-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-compilation-order-topological-sort)|Sep 17, 2026|
-|**LinkedIn**|[Minimum Window Substring](https://www.fastprep.io/problems/linkedin-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-minimum-window-substring)|Sep 17, 2026|
-|**Meta**|[Values Exclusive to the Current User](https://www.fastprep.io/problems/meta-exclusive-user-dictionary-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-exclusive-user-dictionary-values)|Sep 17, 2026|
 <a id="bottom"></a>
