@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
 |**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
 |**Marshall Wace**|[Minimum Full Glasses for an Exact Water Volume](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-minimum-full-glasses)|Sep 22, 2025|
 |**Marshall Wace**|[Smallest Absolute Difference Between Two Array Elements](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-smallest-absolute-difference)|Sep 22, 2025|
