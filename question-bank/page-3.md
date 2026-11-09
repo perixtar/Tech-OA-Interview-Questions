@@ -80,6 +80,7 @@
 |**The Walt Disney Company**|[Sorted Two Sum: All Index Pairs](https://www.fastprep.io/problems/the-walt-disney-company-sorted-two-sum-all-index-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-sorted-two-sum-all-index-pairs)|Aug 22, 2025|
 |**The Walt Disney Company**|[Three Sum](https://www.fastprep.io/problems/the-walt-disney-company-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-three-sum)|Aug 22, 2025|
 |**Rippling**|[Median Across N Sorted Arrays](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|Aug 18, 2025|
+|**Nutanix**|[Repair a Multi-Threaded Binary Search Tree](https://www.fastprep.io/project-coding/nutanix-repair-multithreaded-bst)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-multithreaded-bst)|Aug 16, 2025|
 |**Apple**|[Top K Frequent Elements](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|Aug 15, 2025|
 |**Apple**|[Coin Change](https://www.fastprep.io/problems/apple-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change)|Aug 14, 2025|
 |**Apple**|[Collect Letters Along a Unique Grid Path](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Aug 14, 2025|
@@ -1847,5 +1848,4 @@
 |**Benchling**|[Next Palindrome Number](https://www.fastprep.io/problems/benchling-next-palindrome-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-next-palindrome-number)|Jul 30, 2021|
 |**SpaceX**|[Design a Fail-Safe Railroad Crossing Control System](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|Jun 23, 2021|
 |**Morgan Stanley**|[Demonstrate Multilevel Device Inheritance](https://www.fastprep.io/low-level-design/multilevel-device-configuration)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multilevel-device-configuration)|Jun 23, 2021|
-|**Airbnb**|[Simplified XML Validator](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Jun 21, 2021|
 <a id="bottom"></a>

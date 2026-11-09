@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**205 questions**
+**209 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -171,6 +171,7 @@
 |**Apple**|[Complete a DAG Task Pipeline](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|Oct 07, 2025|
 |**Apple**|[Build a Model Inference API](https://www.fastprep.io/project-coding/apple-flask-model-inference-api)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-flask-model-inference-api)|Oct 07, 2025|
 |**The Walt Disney Company**|[Add an API to a Spring Boot Application](https://www.fastprep.io/project-coding/the-walt-disney-company-add-spring-boot-api)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-add-spring-boot-api)|Sep 09, 2025|
+|**Nutanix**|[Repair a Multi-Threaded Binary Search Tree](https://www.fastprep.io/project-coding/nutanix-repair-multithreaded-bst)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-multithreaded-bst)|Aug 16, 2025|
 |**Apple**|[Extend a Three-Bot Rock Paper Scissors Game](https://www.fastprep.io/project-coding/apple-rock-paper-scissors-rounds)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-rock-paper-scissors-rounds)|Aug 14, 2025|
 |**Zip**|[Build a Four-Level Cloud Storage Query Engine](https://www.fastprep.io/project-coding/zip-cloud-storage-queries)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-cloud-storage-queries)|Jul 24, 2025|
 |**The Walt Disney Company**|[Return the Course with the Most Students](https://www.fastprep.io/project-coding/the-walt-disney-company-course-with-most-students)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-course-with-most-students)|Jul 21, 2025|
@@ -213,4 +214,7 @@
 |**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
 |**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
 |**Datadog**|[Console Website Monitor](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|May 26, 2019|
+|**Nutanix**|[Repair Circular Linked List Insert and Split](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|Sep 26, 2018|
+|**Nutanix**|[Repair Multi-Threaded File Merging with a Waiting Queue](https://www.fastprep.io/project-coding/nutanix-repair-multi-file-chunked-writer)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-multi-file-chunked-writer)|Sep 26, 2018|
+|**Nutanix**|[Repair a Linked-List Merge Sort That Removes Duplicates](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|Aug 17, 2018|
 <a id="bottom"></a>
