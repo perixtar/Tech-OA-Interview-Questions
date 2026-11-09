@@ -2,12 +2,25 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,317 questions**
+**4,330 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Ramp**|[Banking System with Accepted Transfers, Part 1: Accounts and Payments](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|Nov 20, 2023|
+|**Ramp**|[Banking System with Accepted Transfers, Part 2: Activity Ranking](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|Nov 20, 2023|
+|**Ramp**|[Banking System with Accepted Transfers, Part 3: Pending Transfer Acceptance](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|Nov 20, 2023|
+|**Ramp**|[Banking System with Accepted Transfers, Part 4: Account Merging and Balance History](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-4)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-4)|Nov 20, 2023|
+|**Stripe**|[Schedule Invoice Emails and Delinquencies](https://www.fastprep.io/problems/stripe-invoice-email-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/stripe-invoice-email-scheduler)|Nov 17, 2023|
+|**Stripe**|[Rebalance Bank Accounts to a Minimum Balance](https://www.fastprep.io/problems/stripe-minimum-bank-balance-transfers)|[![Practice][p]](https://www.fastprep.io/problems/stripe-minimum-bank-balance-transfers)|Nov 17, 2023|
+|**Stripe**|[URL Segment Compression Part 3 — Global Token Budget](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|[![Practice][p]](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|Nov 17, 2023|
+|**Rippling**|[Lowest Common Ancestor of Deepest Leaves in an N-ary Tree](https://www.fastprep.io/problems/rippling-nary-deepest-leaves-lca)|[![Practice][p]](https://www.fastprep.io/problems/rippling-nary-deepest-leaves-lca)|Nov 14, 2023|
+|**Rippling**|[Preorder Traversal of a Parsed N-ary Tree](https://www.fastprep.io/problems/rippling-parsed-nary-tree-preorder)|[![Practice][p]](https://www.fastprep.io/problems/rippling-parsed-nary-tree-preorder)|Nov 14, 2023|
+|**ZipRecruiter**|[Convert Backticked Identifiers to Camel Case](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|Nov 08, 2023|
+|**Onehouse**|[Least Recently Used Cache](https://www.fastprep.io/problems/onehouse-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lru-cache)|Nov 07, 2023|
+|**Onehouse**|[Least Frequently Used Cache](https://www.fastprep.io/problems/onehouse-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lfu-cache)|Nov 07, 2023|
+|**ZipRecruiter**|[Compare Counts Around a Pivot](https://www.fastprep.io/problems/ziprecruiter-compare-counts-around-pivot)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-compare-counts-around-pivot)|Nov 07, 2023|
 |**ZipRecruiter**|[Split Text into Minimum Suffixed SMS Messages](https://www.fastprep.io/problems/ziprecruiter-minimum-suffixed-sms)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-suffixed-sms)|Nov 07, 2023|
 |**Navan**|[Compare N-Ary Tree Leaf Sequences](https://www.fastprep.io/problems/navan-nary-leaf-sequence-equality)|[![Practice][p]](https://www.fastprep.io/problems/navan-nary-leaf-sequence-equality)|Nov 07, 2023|
 |**WhatNot**|[Exact String Matching](https://www.fastprep.io/problems/whatnot-exact-string-matching)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-exact-string-matching)|Nov 06, 2023|

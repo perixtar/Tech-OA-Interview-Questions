@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**101 questions**
+**102 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Nykaa**|[Employees Who Earn More Than Their Managers](https://www.fastprep.io/problems/nykaa-employees-earning-more-than-their-managers)|[![Practice][p]](https://www.fastprep.io/problems/nykaa-employees-earning-more-than-their-managers)|🔥 Nov 07, 2026|
 |**Wells Fargo**|[Bond Interest Summary Above 3%](https://www.fastprep.io/problems/wellsfargo-bond-interest-summary)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-bond-interest-summary)|🔥 Oct 31, 2026|
 |**Microsoft**|[Daily USD Totals with Effective-Dated Exchange Rates](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|🔥 Oct 30, 2026|
 |**Intuit**|[Employee Promotion Opportunities](https://www.fastprep.io/problems/intuit-employee-promotion-opportunities)|[![Practice][p]](https://www.fastprep.io/problems/intuit-employee-promotion-opportunities)|🔥 Oct 28, 2026|
