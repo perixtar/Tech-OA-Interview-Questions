@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**202 questions**
+**203 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -203,6 +203,7 @@
 |**NVIDIA**|[Neural-Network Graph Tracing and Autograd](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|Sep 19, 2023|
 |**Motive**|[Build a Hotel Booking Frequency API](https://www.fastprep.io/project-coding/hotel-booking-frequency)|[![Practice][p]](https://www.fastprep.io/project-coding/hotel-booking-frequency)|Aug 20, 2022|
 |**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
+|**Hudson River Trading**|[Debug Python Scripts and Their CSV Files](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 |**Shopify**|[Build a Warehouse Inventory Application](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|Jan 27, 2022|

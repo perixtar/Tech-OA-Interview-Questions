@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,317)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (673)](formats/system-design.md) · [Low-level design (206)](formats/low-level-design.md) · [AI coding (202)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,317)](formats/coding.md) · [SQL (101)](formats/sql.md) · [System design (675)](formats/system-design.md) · [Low-level design (206)](formats/low-level-design.md) · [AI coding (203)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -37,6 +37,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 08, 2026|
 |**OnePay / Razorpay / Infosys / BNSF Railway / Agoda**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 08, 2026|
 |**Persona / Morgan Stanley / Agoda**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|🔥 Nov 08, 2026|
+|**DocuSign / Agoda**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|🔥 Nov 08, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Nov 07, 2026|
 |**Oracle / Nubank**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|🔥 Nov 07, 2026|
 |**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|🔥 Nov 07, 2026|
@@ -47,6 +48,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Uber**|[Design Validation and Retry for a Multi-Step LLM Extraction Pipeline](https://www.fastprep.io/system-design/llm-extraction-pipeline-validation-retry)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-extraction-pipeline-validation-retry)|🔥 Nov 07, 2026|
 |**Nykaa / Navi / Atlys / Rippling / Swiggy**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Nov 07, 2026|
 |**Tesla / Nykaa / Cohesity**|[Design an E-commerce Order Fulfillment System](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|🔥 Nov 07, 2026|
+|**The Walt Disney Company**|[Design a Reliable Search Indexing Pipeline](https://www.fastprep.io/system-design/reliable-search-indexing-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/reliable-search-indexing-pipeline)|🔥 Nov 07, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 06, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank / GitHub**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Nov 06, 2026|
 |**Lyft / WhatNot**|[Donation Platform](https://www.fastprep.io/system-design/donation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/donation-platform)|🔥 Nov 06, 2026|
@@ -1681,6 +1683,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Fox Corporation**|[Design a Model-Version-Aware Derived-Data Cache](https://www.fastprep.io/system-design/model-version-aware-derived-cache)|System design|[![Practice][p]](https://www.fastprep.io/system-design/model-version-aware-derived-cache)|Sep 17, 2026|
 |**Oracle**|[Design Data-Loss Prevention and Recovery for a Distributed Store](https://www.fastprep.io/system-design/distributed-data-loss-prevention-and-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-data-loss-prevention-and-recovery)|Sep 17, 2026|
 |**Oracle**|[Design Stable API and Database Pagination](https://www.fastprep.io/system-design/stable-api-database-pagination-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stable-api-database-pagination-service)|Sep 17, 2026|
-|**Kotak Mahindra Bank**|[Design a Showroom Vehicle Booking and Loan Workflow](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|Sep 17, 2026|
-|**Fox Corporation**|[Design and Implement a Structured Content Query Library](https://www.fastprep.io/low-level-design/streaming-content-query-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-content-query-library)|Sep 17, 2026|
 <a id="bottom"></a>

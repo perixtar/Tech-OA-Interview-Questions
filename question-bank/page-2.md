@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Kotak Mahindra Bank**|[Design a Showroom Vehicle Booking and Loan Workflow](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/showroom-vehicle-booking-loan-workflow)|Sep 17, 2026|
+|**Fox Corporation**|[Design and Implement a Structured Content Query Library](https://www.fastprep.io/low-level-design/streaming-content-query-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-content-query-library)|Sep 17, 2026|
 |**LinkedIn**|[Binary Tree Zigzag Level Order Traversal](https://www.fastprep.io/problems/linkedin-binary-tree-zigzag-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-binary-tree-zigzag-level-order)|Sep 17, 2026|
 |**LinkedIn**|[LRU Cache with Hit and Miss Counters](https://www.fastprep.io/problems/linkedin-lru-cache-hit-miss-counters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-lru-cache-hit-miss-counters)|Sep 17, 2026|
 |**LinkedIn**|[Max Points on a Line](https://www.fastprep.io/problems/linkedin-max-points-on-a-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-max-points-on-a-line)|Sep 17, 2026|
@@ -44,7 +46,6 @@
 |**Amazon / Goldman Sachs / Salesforce / Harness**|[Design an In-Memory Job Scheduler](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-job-scheduler)|Sep 16, 2026|
 |**Netflix / Amazon**|[Design a Parking Lot with Flexible Fees](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees)|Sep 16, 2026|
 |**Amazon**|[Design a Continental Temperature Heatmap](https://www.fastprep.io/system-design/continental-temperature-heatmap)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continental-temperature-heatmap)|Sep 16, 2026|
-|**DocuSign**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|Sep 16, 2026|
 |**Rubrik**|[Design Cross-Region Versioned Map Reconciliation](https://www.fastprep.io/system-design/cross-region-versioned-map-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-region-versioned-map-reconciliation)|Sep 16, 2026|
 |**Harness**|[Design Rolling Top-N Movie Recommendations](https://www.fastprep.io/system-design/rolling-top-n-movie-views)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-n-movie-views)|Sep 16, 2026|
 |**Rubrik**|[Design a Thread-Safe One-Dimensional Parking Lot](https://www.fastprep.io/low-level-design/thread-safe-linear-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-linear-parking-lot)|Sep 16, 2026|
@@ -1744,6 +1745,4 @@
 |**AT&T**|[Break a Palindrome](https://www.fastprep.io/problems/att-break-a-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-break-a-palindrome)|Oct 07, 2025|
 |**AT&T**|[3Sum](https://www.fastprep.io/problems/att-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-three-sum)|Oct 07, 2025|
 |**Apple**|[Complete a DAG Task Pipeline](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|Oct 07, 2025|
-|**Apple**|[Build a Model Inference API](https://www.fastprep.io/project-coding/apple-flask-model-inference-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/apple-flask-model-inference-api)|Oct 07, 2025|
-|**Meta**|[Canonical Directory After CD Commands](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Oct 06, 2025|
 <a id="bottom"></a>

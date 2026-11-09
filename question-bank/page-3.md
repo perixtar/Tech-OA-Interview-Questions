@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Apple**|[Build a Model Inference API](https://www.fastprep.io/project-coding/apple-flask-model-inference-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/apple-flask-model-inference-api)|Oct 07, 2025|
+|**Meta**|[Canonical Directory After CD Commands](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Oct 06, 2025|
 |**AMD**|[Matrix Multiplication and Parallel Partitions](https://www.fastprep.io/problems/amd-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-matrix-multiplication)|Oct 05, 2025|
 |**NVIDIA**|[Best Graphics Card](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Oct 04, 2025|
 |**Google**|[Design a Photo-Labeling App](https://www.fastprep.io/system-design/photo-labeling-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-labeling-app)|Oct 03, 2025|
@@ -1700,6 +1702,7 @@
 |**Alchemy**|[Equal-Sum Digit Partitions](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|May 18, 2022|
 |**Bloomberg LP**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|May 13, 2022|
 |**Figma**|[Shell Path Autocomplete](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|May 07, 2022|
+|**Hudson River Trading**|[Debug Python Scripts and Their CSV Files](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
 |**ZipRecruiter**|[Count Words Formable from Letters](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Apr 27, 2022|
@@ -1838,15 +1841,11 @@
 |**Checkr**|[Build an Internet Usage Rate API](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|May 13, 2021|
 |**Intuit**|[Lexicographically Smallest Topological Order](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|May 08, 2021|
 |**Datadog**|[Count All Occurrences of Duplicate Words](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Apr 30, 2021|
+|**C3.ai**|[Design a Collaborative Code Editor](https://www.fastprep.io/system-design/collaborative-code-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-code-editor)|Apr 17, 2021|
 |**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
 |**Meta**|[Maximum Subtree Sum](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Apr 15, 2021|
 |**Meta**|[Word Break: Construct One Sentence](https://www.fastprep.io/problems/meta-word-break-one-sentence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-word-break-one-sentence)|Apr 15, 2021|
 |**Meta**|[Top K Frequent Integers](https://www.fastprep.io/problems/meta-top-k-frequent-integers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-top-k-frequent-integers)|Apr 15, 2021|
 |**Meta**|[Course Schedule II: Return a Course Order](https://www.fastprep.io/problems/meta-course-schedule-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-course-schedule-order)|Apr 15, 2021|
 |**Meta**|[Insert a Value at a Linked List Position](https://www.fastprep.io/problems/meta-insert-linked-list-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-insert-linked-list-position)|Apr 15, 2021|
-|**Datadog**|[Total Duration of Related Jobs](https://www.fastprep.io/problems/datadog-related-job-duration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-related-job-duration)|Apr 06, 2021|
-|**Datadog**|[Count Tag Occurrences](https://www.fastprep.io/problems/datadog-tag-occurrence-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-tag-occurrence-counts)|Apr 06, 2021|
-|**AMD**|[Reverse an Unsigned 32-bit Value](https://www.fastprep.io/problems/amd-reverse-unsigned-32-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-reverse-unsigned-32-bits)|Apr 06, 2021|
-|**SambaNova Systems**|[Ugly Number](https://www.fastprep.io/problems/sambanova-ugly-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-ugly-number)|Apr 02, 2021|
-|**Bloomberg LP**|[Lottery with Add and Pick Operations](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|Apr 01, 2021|
 <a id="bottom"></a>

@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Datadog**|[Total Duration of Related Jobs](https://www.fastprep.io/problems/datadog-related-job-duration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-related-job-duration)|Apr 06, 2021|
+|**Datadog**|[Count Tag Occurrences](https://www.fastprep.io/problems/datadog-tag-occurrence-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-tag-occurrence-counts)|Apr 06, 2021|
+|**AMD**|[Reverse an Unsigned 32-bit Value](https://www.fastprep.io/problems/amd-reverse-unsigned-32-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-reverse-unsigned-32-bits)|Apr 06, 2021|
+|**SambaNova Systems**|[Ugly Number](https://www.fastprep.io/problems/sambanova-ugly-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-ugly-number)|Apr 02, 2021|
+|**Bloomberg LP**|[Lottery with Add and Pick Operations](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|Apr 01, 2021|
 |**Bloomberg LP**|[Minimum Operations with Multiply by Two and Divide by Three](https://www.fastprep.io/problems/bloomberg-multiply-two-divide-three-shortest-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-multiply-two-divide-three-shortest-path)|Apr 01, 2021|
 |**Bloomberg LP**|[Number of Islands in Three Dimensions](https://www.fastprep.io/problems/bloomberg-number-of-islands-in-3d)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands-in-3d)|Apr 01, 2021|
 |**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|

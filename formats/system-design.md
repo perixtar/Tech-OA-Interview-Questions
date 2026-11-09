@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**673 questions**
+**675 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**OnePay / Razorpay / Infosys / BNSF Railway / Agoda**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 08, 2026|
+|**DocuSign / Agoda**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|🔥 Nov 08, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Nov 07, 2026|
 |**Oracle / Nubank**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|🔥 Nov 07, 2026|
 |**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|🔥 Nov 07, 2026|
@@ -16,6 +17,7 @@
 |**Google**|[Design a Daily Slowest-Query Report for a Data Warehouse](https://www.fastprep.io/system-design/daily-slowest-query-report)|[![Practice][p]](https://www.fastprep.io/system-design/daily-slowest-query-report)|🔥 Nov 07, 2026|
 |**Uber**|[Design Validation and Retry for a Multi-Step LLM Extraction Pipeline](https://www.fastprep.io/system-design/llm-extraction-pipeline-validation-retry)|[![Practice][p]](https://www.fastprep.io/system-design/llm-extraction-pipeline-validation-retry)|🔥 Nov 07, 2026|
 |**Tesla / Nykaa / Cohesity**|[Design an E-commerce Order Fulfillment System](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|[![Practice][p]](https://www.fastprep.io/system-design/amazon-order-fulfillment-system)|🔥 Nov 07, 2026|
+|**The Walt Disney Company**|[Design a Reliable Search Indexing Pipeline](https://www.fastprep.io/system-design/reliable-search-indexing-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/reliable-search-indexing-pipeline)|🔥 Nov 07, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 06, 2026|
 |**Lyft / WhatNot**|[Donation Platform](https://www.fastprep.io/system-design/donation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/donation-platform)|🔥 Nov 06, 2026|
 |**GitHub**|[Design a Git Branch Change Event Capture System](https://www.fastprep.io/system-design/git-branch-change-event-capture)|[![Practice][p]](https://www.fastprep.io/system-design/git-branch-change-event-capture)|🔥 Nov 06, 2026|
@@ -293,7 +295,6 @@
 |**LinkedIn**|[Malicious IP Traffic Filtering Platform](https://www.fastprep.io/system-design/malicious-ip-traffic-filtering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/malicious-ip-traffic-filtering-platform)|Sep 16, 2026|
 |**Salesforce / The Walt Disney Company**|[Design Coffee-Shop Ordering and Fulfillment](https://www.fastprep.io/system-design/coffee-shop-ordering-and-fulfillment)|[![Practice][p]](https://www.fastprep.io/system-design/coffee-shop-ordering-and-fulfillment)|Sep 16, 2026|
 |**Amazon**|[Design a Continental Temperature Heatmap](https://www.fastprep.io/system-design/continental-temperature-heatmap)|[![Practice][p]](https://www.fastprep.io/system-design/continental-temperature-heatmap)|Sep 16, 2026|
-|**DocuSign**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|Sep 16, 2026|
 |**Rubrik**|[Design Cross-Region Versioned Map Reconciliation](https://www.fastprep.io/system-design/cross-region-versioned-map-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/cross-region-versioned-map-reconciliation)|Sep 16, 2026|
 |**Harness**|[Design Rolling Top-N Movie Recommendations](https://www.fastprep.io/system-design/rolling-top-n-movie-views)|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-n-movie-views)|Sep 16, 2026|
 |**Pinterest**|[Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|[![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|Sep 15, 2026|
@@ -655,6 +656,7 @@
 |**Bloomberg LP**|[Design Video Download, Progress, and Recommendations](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|Jun 08, 2021|
 |**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
 |**NVIDIA**|[Design an Embedded Thread Sleep and Wakeup Service](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|[![Practice][p]](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|Jun 07, 2021|
+|**C3.ai**|[Design a Collaborative Code Editor](https://www.fastprep.io/system-design/collaborative-code-editor)|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-code-editor)|Apr 17, 2021|
 |**SpaceX**|[Design a Managed User-Script Execution Platform](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|[![Practice][p]](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|Jan 12, 2021|
 |**Figma**|[Design Search Result Highlighting](https://www.fastprep.io/system-design/search-result-highlighting)|[![Practice][p]](https://www.fastprep.io/system-design/search-result-highlighting)|Jan 01, 2021|
 |**Figma**|[Design Workspace File Organization](https://www.fastprep.io/system-design/workspace-file-organization)|[![Practice][p]](https://www.fastprep.io/system-design/workspace-file-organization)|Jan 01, 2021|
