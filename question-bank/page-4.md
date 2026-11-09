@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Design HashMap](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Mar 08, 2021|
 |**Bloomberg LP**|[Alien Dictionary](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Feb 26, 2021|
 |**Bloomberg LP**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Feb 26, 2021|
 |**Bloomberg LP**|[The Maze](https://www.fastprep.io/problems/bloomberg-the-maze)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-the-maze)|Feb 26, 2021|

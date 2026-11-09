@@ -9,6 +9,7 @@
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
+|**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 08, 2026|
 |**DoorDash**|[Build a Training Dataset from Order Tables](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|🔥 Nov 07, 2026|
 |**DoorDash**|[Build a Real-Time Prediction Service](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|🔥 Nov 07, 2026|
 |**DoorDash**|[Build a Resilient Bootstrap API](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🔥 Nov 05, 2026|
@@ -119,7 +120,6 @@
 |**Zip**|[Cache Ticket Alerts for Approval](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|Sep 16, 2026|
 |**IBM**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|Sep 16, 2026|
 |**Walmart**|[Repair Movie Watchlist Synchronization](https://www.fastprep.io/project-coding/walmart-repair-movie-watchlist)|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-repair-movie-watchlist)|Sep 16, 2026|
-|**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|Sep 16, 2026|
 |**Mercor**|[Repair a Concurrent Read-Through Cache](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|Sep 15, 2026|
 |**Amazon**|[Repair Django Ticket Creation and Replies](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|Sep 15, 2026|
 |**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|Sep 13, 2026|

@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**LinkedIn**|[LRU Cache with Hit and Miss Counters](https://www.fastprep.io/problems/linkedin-lru-cache-hit-miss-counters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-lru-cache-hit-miss-counters)|Sep 17, 2026|
+|**LinkedIn**|[Max Points on a Line](https://www.fastprep.io/problems/linkedin-max-points-on-a-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-max-points-on-a-line)|Sep 17, 2026|
 |**LinkedIn**|[Maximum Depth of Binary Tree](https://www.fastprep.io/problems/linkedin-maximum-depth-of-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-maximum-depth-of-binary-tree)|Sep 17, 2026|
 |**Applied Intuition**|[Compilation Order with Topological Sort](https://www.fastprep.io/problems/applied-intuition-compilation-order-topological-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-compilation-order-topological-sort)|Sep 17, 2026|
 |**LinkedIn**|[Minimum Window Substring](https://www.fastprep.io/problems/linkedin-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-minimum-window-substring)|Sep 17, 2026|
@@ -73,7 +75,6 @@
 |**Tesla**|[Reduce-Based Map and Filter Pipeline](https://www.fastprep.io/problems/tesla-reduce-map-filter-pipeline)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-reduce-map-filter-pipeline)|Sep 16, 2026|
 |**Walmart**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/walmart-maximum-points-by-deleting-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-maximum-points-by-deleting-elements)|Sep 16, 2026|
 |**Amazon**|[Grid Reachability with a Forbidden Turn](https://www.fastprep.io/problems/amazon-grid-reachability-forbidden-turn)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-grid-reachability-forbidden-turn)|Sep 16, 2026|
-|**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|Sep 16, 2026|
 |**Rippling**|[Common Ancestors in a Directed Acyclic Graph](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|Sep 15, 2026|
 |**Mercor**|[Repair a Concurrent Read-Through Cache](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|Sep 15, 2026|
 |**Pinterest**|[Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|Sep 15, 2026|
@@ -1745,5 +1746,4 @@
 |**Apple**|[Build a Model Inference API](https://www.fastprep.io/project-coding/apple-flask-model-inference-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/apple-flask-model-inference-api)|Oct 07, 2025|
 |**Meta**|[Canonical Directory After CD Commands](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-cd-path-command-sequence)|Oct 06, 2025|
 |**AMD**|[Matrix Multiplication and Parallel Partitions](https://www.fastprep.io/problems/amd-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-matrix-multiplication)|Oct 05, 2025|
-|**NVIDIA**|[Best Graphics Card](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-best-graphics-card)|Oct 04, 2025|
 <a id="bottom"></a>
