@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**201 questions**
+**202 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
 |**DoorDash**|[Build a Training Dataset from Order Tables](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-order-training-dataset-builder)|🔥 Nov 07, 2026|
 |**DoorDash**|[Build a Real-Time Prediction Service](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-realtime-prediction-serving)|🔥 Nov 07, 2026|
 |**DoorDash**|[Build a Resilient Bootstrap API](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-service-profile-aggregator)|🔥 Nov 05, 2026|

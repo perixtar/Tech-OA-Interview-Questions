@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**671 questions**
+**672 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -13,6 +13,7 @@
 |**DoorDash**|[Design Personalized Restaurant Search](https://www.fastprep.io/system-design/personalized-restaurant-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-restaurant-search)|🔥 Nov 07, 2026|
 |**DoorDash**|[Design a Food-Ordering Chatbot with Dietary Guardrails](https://www.fastprep.io/system-design/food-ordering-chatbot-with-dietary-guardrails)|[![Practice][p]](https://www.fastprep.io/system-design/food-ordering-chatbot-with-dietary-guardrails)|🔥 Nov 07, 2026|
 |**Google**|[Design a Daily Slowest-Query Report for a Data Warehouse](https://www.fastprep.io/system-design/daily-slowest-query-report)|[![Practice][p]](https://www.fastprep.io/system-design/daily-slowest-query-report)|🔥 Nov 07, 2026|
+|**Uber**|[Design Validation and Retry for a Multi-Step LLM Extraction Pipeline](https://www.fastprep.io/system-design/llm-extraction-pipeline-validation-retry)|[![Practice][p]](https://www.fastprep.io/system-design/llm-extraction-pipeline-validation-retry)|🔥 Nov 07, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 06, 2026|
 |**Lyft / WhatNot**|[Donation Platform](https://www.fastprep.io/system-design/donation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/donation-platform)|🔥 Nov 06, 2026|
 |**GitHub**|[Design a Git Branch Change Event Capture System](https://www.fastprep.io/system-design/git-branch-change-event-capture)|[![Practice][p]](https://www.fastprep.io/system-design/git-branch-change-event-capture)|🔥 Nov 06, 2026|

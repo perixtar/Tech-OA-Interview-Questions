@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Design a Photo-Labeling App](https://www.fastprep.io/system-design/photo-labeling-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-labeling-app)|Oct 03, 2025|
+|**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
 |**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
 |**Marshall Wace**|[Maximum Trailing Zeros on a Path with at Most One Turn](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-turn-trailing-zeros)|Oct 01, 2025|
 |**Marshall Wace**|[Count Letters with Ordered Lowercase and Uppercase Occurrences](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-ordered-letter-cases)|Oct 01, 2025|
@@ -1847,6 +1849,4 @@
 |**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|
 |**Airbnb**|[Construct a Possible Bipartition](https://www.fastprep.io/problems/airbnb-bipartition-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-bipartition-groups)|Mar 09, 2021|
 |**Bloomberg LP**|[Design HashMap](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Mar 08, 2021|
-|**Bloomberg LP**|[Alien Dictionary](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Feb 26, 2021|
-|**Bloomberg LP**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Feb 26, 2021|
 <a id="bottom"></a>
