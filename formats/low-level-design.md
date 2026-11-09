@@ -8,6 +8,8 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Persona / Morgan Stanley / Agoda**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|🔥 Nov 08, 2026|
+|**Nykaa / Navi / Atlys / Rippling / Swiggy**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Nov 07, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank / GitHub**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Nov 06, 2026|
 |**ClearTax / Motive / Meesho / Navan / ServiceNow / Amazon**|[Design a Movie Ticket Booking System](https://www.fastprep.io/low-level-design/movie-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-system)|🔥 Nov 06, 2026|
 |**Expedia / MongoDB**|[Design Collaborative Versioned File Storage](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|🔥 Nov 06, 2026|
@@ -15,7 +17,6 @@
 |**The D.E. Shaw Group / Uber / Infosys**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🔥 Nov 05, 2026|
 |**Microsoft**|[Design an Online Shopping Order Lifecycle](https://www.fastprep.io/low-level-design/online-shopping-order-lifecycle)|[![Practice][p]](https://www.fastprep.io/low-level-design/online-shopping-order-lifecycle)|🔥 Nov 05, 2026|
 |**The D.E. Shaw Group**|[Design a Snakes and Ladders Game](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|🔥 Oct 30, 2026|
-|**Nykaa / Navi / Atlys / Rippling**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Oct 29, 2026|
 |**Autodesk**|[Design a Shape Transformation Engine](https://www.fastprep.io/low-level-design/shape-transformation-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-transformation-engine)|🔥 Oct 29, 2026|
 |**Commvault / Oracle**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🔥 Oct 27, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Oct 27, 2026|
@@ -146,7 +147,6 @@
 |**Anduril**|[Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|[![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|May 12, 2026|
 |**Amazon / AMD**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
 |**Stripe**|[Design a Business KYC Verification Domain](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|Mar 27, 2026|
-|**Persona / Morgan Stanley**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|Mar 03, 2026|
 |**Bloomberg LP**|[Design an O(1) Randomized Set](https://www.fastprep.io/low-level-design/o1-randomized-set)|[![Practice][p]](https://www.fastprep.io/low-level-design/o1-randomized-set)|Feb 19, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|

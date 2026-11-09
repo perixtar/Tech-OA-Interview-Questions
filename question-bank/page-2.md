@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**LinkedIn**|[Binary Tree Zigzag Level Order Traversal](https://www.fastprep.io/problems/linkedin-binary-tree-zigzag-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-binary-tree-zigzag-level-order)|Sep 17, 2026|
 |**LinkedIn**|[LRU Cache with Hit and Miss Counters](https://www.fastprep.io/problems/linkedin-lru-cache-hit-miss-counters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-lru-cache-hit-miss-counters)|Sep 17, 2026|
 |**LinkedIn**|[Max Points on a Line](https://www.fastprep.io/problems/linkedin-max-points-on-a-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-max-points-on-a-line)|Sep 17, 2026|
 |**LinkedIn**|[Maximum Depth of Binary Tree](https://www.fastprep.io/problems/linkedin-maximum-depth-of-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-maximum-depth-of-binary-tree)|Sep 17, 2026|
@@ -1472,7 +1473,6 @@
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
 |**Stripe**|[Repair Template Lookup, Arguments and Includes](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
 |**Stripe**|[BitFont Part 2 - Render a Word](https://www.fastprep.io/problems/stripe-bitfont-render-word-part2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-bitfont-render-word-part2)|Mar 04, 2026|
-|**Persona / Morgan Stanley**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|Mar 03, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**Intuit**|[Largest File in a Long Listing](https://www.fastprep.io/problems/intuit-largest-file-from-listing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-largest-file-from-listing)|Mar 02, 2026|
 |**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
