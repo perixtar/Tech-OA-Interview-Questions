@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Bloomberg LP**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Feb 26, 2021|
 |**Bloomberg LP**|[The Maze](https://www.fastprep.io/problems/bloomberg-the-maze)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-the-maze)|Feb 26, 2021|
 |**Intuit**|[Reflow and Fully Justify Text Lines](https://www.fastprep.io/problems/intuit-word-processor-reflow)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-word-processor-reflow)|Feb 25, 2021|
 |**Bloomberg LP**|[Find Bottom Left Tree Value](https://www.fastprep.io/problems/bloomberg-find-bottom-left-tree-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-bottom-left-tree-value)|Feb 24, 2021|
