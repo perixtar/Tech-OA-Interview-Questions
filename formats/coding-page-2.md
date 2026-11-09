@@ -2,12 +2,27 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,317 questions**
+**4,330 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**OnePay**|[Per-Segment Speeding](https://www.fastprep.io/problems/onepay-per-segment-speeding)|[![Practice][p]](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Jul 23, 2026|
+|**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
+|**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
+|**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
+|**Tekion**|[Longest Balanced Substring After One Swap](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|[![Practice][p]](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Jul 22, 2026|
+|**Amazon**|[Sort an Array with Rotate and Flip](https://www.fastprep.io/problems/amazon-sort-array-with-rotate-and-flip)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sort-array-with-rotate-and-flip)|Jul 22, 2026|
+|**Akuna**|[Calculate Portfolio Rebalancing Deltas](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|[![Practice][p]](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Jul 22, 2026|
+|**Akuna**|[Maximum Label Difference in a Connected Component](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Jul 22, 2026|
+|**Akuna**|[Minimize Malware Spread by Removing a Node](https://www.fastprep.io/problems/akuna-minimize-malware-spread)|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimize-malware-spread)|Jul 22, 2026|
+|**TikTok**|[Count Access Code Pairs](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Jul 22, 2026|
+|**TikTok**|[Count Key Changes](https://www.fastprep.io/problems/tiktok-count-key-changes)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-key-changes)|Jul 22, 2026|
+|**TikTok**|[Travel Distance on Scooters](https://www.fastprep.io/problems/tiktok-travel-distance-on-scooters)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-travel-distance-on-scooters)|Jul 22, 2026|
+|**TikTok**|[Validate 3x3 Digit Windows](https://www.fastprep.io/problems/tiktok-validate-3x3-digit-windows)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-validate-3x3-digit-windows)|Jul 22, 2026|
+|**DRW**|[Last Round for Each Player](https://www.fastprep.io/problems/drw-last-round-for-each-player)|[![Practice][p]](https://www.fastprep.io/problems/drw-last-round-for-each-player)|Jul 22, 2026|
+|**DRW**|[Shortest Compressed Length After Removal](https://www.fastprep.io/problems/drw-shortest-compressed-length-after-removal)|[![Practice][p]](https://www.fastprep.io/problems/drw-shortest-compressed-length-after-removal)|Jul 22, 2026|
 |**Decagon**|[Versioned Recipe Shopping Cart](https://www.fastprep.io/problems/decagon-versioned-recipe-shopping-cart)|[![Practice][p]](https://www.fastprep.io/problems/decagon-versioned-recipe-shopping-cart)|Jul 21, 2026|
 |**Amazon**|[Loyal Customers Across Two Days](https://www.fastprep.io/problems/amazon-loyal-customers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-loyal-customers)|Jul 21, 2026|
 |**Amazon**|[Smallest Number With a Given Digit Sum](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Jul 21, 2026|
@@ -68,7 +83,6 @@
 |**Amazon**|[Number of Islands II](https://www.fastprep.io/problems/amazon-number-of-islands-ii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-islands-ii)|Jul 12, 2026|
 |**Amazon**|[Maximum Sum of Heights](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|Jul 12, 2026|
 |**Amazon**|[Longest Palindromic Subsequence](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Jul 12, 2026|
-|**Amazon**|[Group Anagrams](https://www.fastprep.io/problems/amazon-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-anagrams)|Jul 12, 2026|
 |**Amazon**|[Maximal Square](https://www.fastprep.io/problems/amazon-maximal-square)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximal-square)|Jul 12, 2026|
 |**Agoda**|[3Sum](https://www.fastprep.io/problems/agoda-three-sum)|[![Practice][p]](https://www.fastprep.io/problems/agoda-three-sum)|Jul 12, 2026|
 |**JP Morgan**|[Bitwise XOR Subsequences](https://www.fastprep.io/problems/jpmorgan-bitwise-xor-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-bitwise-xor-subsequences)|Jul 12, 2026|
@@ -1927,17 +1941,4 @@
 |**Stripe**|[Weighted Server Load Balancer with TTL](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|[![Practice][p]](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Nov 30, 2023|
 |**Bloomberg LP**|[Maximum Visibility in a Forest Grid](https://www.fastprep.io/problems/bloomberg-maximum-forest-grid-visibility)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-forest-grid-visibility)|Nov 28, 2023|
 |**Bloomberg LP**|[Partition Labels](https://www.fastprep.io/problems/bloomberg-partition-labels)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-partition-labels)|Nov 28, 2023|
-|**Ramp**|[Banking System with Accepted Transfers, Part 1: Accounts and Payments](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|Nov 20, 2023|
-|**Ramp**|[Banking System with Accepted Transfers, Part 2: Activity Ranking](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|Nov 20, 2023|
-|**Ramp**|[Banking System with Accepted Transfers, Part 3: Pending Transfer Acceptance](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|Nov 20, 2023|
-|**Ramp**|[Banking System with Accepted Transfers, Part 4: Account Merging and Balance History](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-4)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-4)|Nov 20, 2023|
-|**Stripe**|[Schedule Invoice Emails and Delinquencies](https://www.fastprep.io/problems/stripe-invoice-email-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/stripe-invoice-email-scheduler)|Nov 17, 2023|
-|**Stripe**|[Rebalance Bank Accounts to a Minimum Balance](https://www.fastprep.io/problems/stripe-minimum-bank-balance-transfers)|[![Practice][p]](https://www.fastprep.io/problems/stripe-minimum-bank-balance-transfers)|Nov 17, 2023|
-|**Stripe**|[URL Segment Compression Part 3 — Global Token Budget](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|[![Practice][p]](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|Nov 17, 2023|
-|**Rippling**|[Lowest Common Ancestor of Deepest Leaves in an N-ary Tree](https://www.fastprep.io/problems/rippling-nary-deepest-leaves-lca)|[![Practice][p]](https://www.fastprep.io/problems/rippling-nary-deepest-leaves-lca)|Nov 14, 2023|
-|**Rippling**|[Preorder Traversal of a Parsed N-ary Tree](https://www.fastprep.io/problems/rippling-parsed-nary-tree-preorder)|[![Practice][p]](https://www.fastprep.io/problems/rippling-parsed-nary-tree-preorder)|Nov 14, 2023|
-|**ZipRecruiter**|[Convert Backticked Identifiers to Camel Case](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|Nov 08, 2023|
-|**Onehouse**|[Least Recently Used Cache](https://www.fastprep.io/problems/onehouse-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lru-cache)|Nov 07, 2023|
-|**Onehouse**|[Least Frequently Used Cache](https://www.fastprep.io/problems/onehouse-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lfu-cache)|Nov 07, 2023|
-|**ZipRecruiter**|[Compare Counts Around a Pivot](https://www.fastprep.io/problems/ziprecruiter-compare-counts-around-pivot)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-compare-counts-around-pivot)|Nov 07, 2023|
 <a id="bottom"></a>

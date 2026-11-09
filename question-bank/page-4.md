@@ -9,6 +9,21 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Consecutive Characters](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|Jun 08, 2021|
+|**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
+|**NVIDIA**|[Design an Embedded Thread Sleep and Wakeup Service](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|Jun 07, 2021|
+|**Bloomberg LP**|[Flatten Binary Tree to Linked List](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Jun 04, 2021|
+|**Checkr**|[Design a Motor-Vehicle Record Rule Engine](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|May 13, 2021|
+|**Checkr**|[Build an Internet Usage Rate API](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|May 13, 2021|
+|**Intuit**|[Lexicographically Smallest Topological Order](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|May 08, 2021|
+|**Datadog**|[Count All Occurrences of Duplicate Words](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Apr 30, 2021|
+|**C3.ai**|[Design a Collaborative Code Editor](https://www.fastprep.io/system-design/collaborative-code-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-code-editor)|Apr 17, 2021|
+|**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
+|**Meta**|[Maximum Subtree Sum](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Apr 15, 2021|
+|**Meta**|[Word Break: Construct One Sentence](https://www.fastprep.io/problems/meta-word-break-one-sentence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-word-break-one-sentence)|Apr 15, 2021|
+|**Meta**|[Top K Frequent Integers](https://www.fastprep.io/problems/meta-top-k-frequent-integers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-top-k-frequent-integers)|Apr 15, 2021|
+|**Meta**|[Course Schedule II: Return a Course Order](https://www.fastprep.io/problems/meta-course-schedule-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-course-schedule-order)|Apr 15, 2021|
+|**Meta**|[Insert a Value at a Linked List Position](https://www.fastprep.io/problems/meta-insert-linked-list-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-insert-linked-list-position)|Apr 15, 2021|
 |**Datadog**|[Total Duration of Related Jobs](https://www.fastprep.io/problems/datadog-related-job-duration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-related-job-duration)|Apr 06, 2021|
 |**Datadog**|[Count Tag Occurrences](https://www.fastprep.io/problems/datadog-tag-occurrence-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-tag-occurrence-counts)|Apr 06, 2021|
 |**AMD**|[Reverse an Unsigned 32-bit Value](https://www.fastprep.io/problems/amd-reverse-unsigned-32-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-reverse-unsigned-32-bits)|Apr 06, 2021|
