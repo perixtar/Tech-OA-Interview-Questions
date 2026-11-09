@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**203 questions**
+**205 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -207,7 +207,9 @@
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 |**Shopify**|[Build a Warehouse Inventory Application](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|Jan 27, 2022|
+|**Nutanix**|[Repair a Readers-Writer Lock](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|Aug 24, 2021|
 |**Checkr**|[Build an Internet Usage Rate API](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|[![Practice][p]](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|May 13, 2021|
+|**Nutanix**|[Repair Ordered Acknowledgments for Concurrent File Writes](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|Jan 16, 2021|
 |**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
 |**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
 |**Datadog**|[Console Website Monitor](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|May 26, 2019|

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,330)](formats/coding.md) · [SQL (102)](formats/sql.md) · [System design (675)](formats/system-design.md) · [Low-level design (206)](formats/low-level-design.md) · [AI coding (203)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,330)](formats/coding.md) · [SQL (102)](formats/sql.md) · [System design (676)](formats/system-design.md) · [Low-level design (206)](formats/low-level-design.md) · [AI coding (205)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -148,7 +148,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Pinterest**|[Find Local Maxima in Sensor Data (MLE OA)](https://www.fastprep.io/problems/pinterest-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Nov 03, 2026|
 |**Roblox / Coinbase / Faire**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|🔥 Nov 03, 2026|
 |**Valon**|[Design Loan Repayment and Investor Distribution](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|🔥 Nov 03, 2026|
-|**Amazon / Postman / The Walt Disney Company / Okta**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Nov 03, 2026|
+|**Amazon / Postman / The Walt Disney Company / Okta / Nutanix**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Nov 03, 2026|
 |**Blinkit / Karat / Amazon**|[Design a Food Delivery Order Tracking System](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|🔥 Nov 03, 2026|
 |**The D.E. Shaw Group**|[Count Palindrome Addition Choices](https://www.fastprep.io/problems/de-shaw-palindrome-addition-choices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-palindrome-addition-choices)|🔥 Nov 03, 2026|
 |**The D.E. Shaw Group**|[Count Lucky Tickets](https://www.fastprep.io/problems/de-shaw-count-lucky-tickets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-count-lucky-tickets)|🔥 Nov 03, 2026|

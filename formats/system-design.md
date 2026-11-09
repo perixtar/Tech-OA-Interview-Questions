@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**675 questions**
+**676 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -40,7 +40,7 @@
 |**Confluent / Snowflake**|[Design an Idempotent URL Shortening Service](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|🔥 Nov 04, 2026|
 |**Roblox / Coinbase / Faire**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|🔥 Nov 03, 2026|
 |**Valon**|[Design Loan Repayment and Investor Distribution](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|[![Practice][p]](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|🔥 Nov 03, 2026|
-|**Amazon / Postman / The Walt Disney Company / Okta**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Nov 03, 2026|
+|**Amazon / Postman / The Walt Disney Company / Okta / Nutanix**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Nov 03, 2026|
 |**Blinkit / Karat / Amazon**|[Design a Food Delivery Order Tracking System](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|🔥 Nov 03, 2026|
 |**DoorDash / ION Group**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Nov 03, 2026|
 |**DoorDash**|[Design a Three-Day Charity Donation Drive](https://www.fastprep.io/system-design/three-day-charity-event-system)|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|🔥 Nov 03, 2026|
@@ -301,7 +301,7 @@
 |**Hadrian / DigitalOcean**|[Design a Live Relational Database Migration](https://www.fastprep.io/system-design/live-relational-database-migration)|[![Practice][p]](https://www.fastprep.io/system-design/live-relational-database-migration)|Sep 15, 2026|
 |**Meta / The Walt Disney Company**|[Design a Social Game Score Leaderboard](https://www.fastprep.io/system-design/social-game-score-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/social-game-score-leaderboard)|Sep 15, 2026|
 |**Concentric AI**|[Design an Institute Attendance Management Platform](https://www.fastprep.io/system-design/institute-attendance-management-platform)|[![Practice][p]](https://www.fastprep.io/system-design/institute-attendance-management-platform)|Sep 15, 2026|
-|**Goldman Sachs**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|Sep 14, 2026|
+|**Goldman Sachs / Nutanix**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|Sep 14, 2026|
 |**Airwallex**|[Design an Authoritative Grid Chase Game](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|[![Practice][p]](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|Sep 14, 2026|
 |**JP Morgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|Sep 13, 2026|
 |**Tekion / JP Morgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|Sep 13, 2026|
@@ -652,6 +652,7 @@
 |**Yelp**|[Design a Priority Venue Invitation Platform](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|Nov 19, 2021|
 |**Figma**|[Presentation Template Version Updates](https://www.fastprep.io/system-design/presentation-template-version-updates)|[![Practice][p]](https://www.fastprep.io/system-design/presentation-template-version-updates)|Oct 30, 2021|
 |**Microsoft**|[Design Semantic Ad Retrieval and Ranking](https://www.fastprep.io/system-design/semantic-ad-retrieval-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/semantic-ad-retrieval-ranking)|Oct 23, 2021|
+|**Nutanix**|[Design a Pizza Chain Ordering and Delivery System](https://www.fastprep.io/system-design/pizza-chain-ordering-and-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/pizza-chain-ordering-and-delivery)|Aug 24, 2021|
 |**SpaceX**|[Design a Fail-Safe Railroad Crossing Control System](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|Jun 23, 2021|
 |**Bloomberg LP**|[Design Video Download, Progress, and Recommendations](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|Jun 08, 2021|
 |**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
