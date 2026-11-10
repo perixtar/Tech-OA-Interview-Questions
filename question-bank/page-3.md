@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Wayfair / Atlassian / Better.com**|[Review and Scale a Fixed-Stage Document Pipeline](https://www.fastprep.io/system-design/fixed-stage-document-pipeline-capacity)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fixed-stage-document-pipeline-capacity)|Oct 26, 2025|
 |**Atlassian / Wayfair**|[Reconcile Expected Requests Against Success Logs](https://www.fastprep.io/system-design/expected-request-success-evidence-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/expected-request-success-evidence-reconciliation)|Oct 26, 2025|
 |**Tennr / Wayfair / Atlassian**|[Design a Horizontally Scaled PostgreSQL Database](https://www.fastprep.io/system-design/horizontally-scaled-postgresql-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/horizontally-scaled-postgresql-database)|Oct 26, 2025|
 |**Rippling**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/rippling-merge-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-two-sorted-arrays)|Oct 25, 2025|
@@ -1847,6 +1848,4 @@
 |**IMC**|[Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Sep 24, 2021|
 |**IMC**|[Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Sep 24, 2021|
 |**Bloomberg LP**|[Valid Triangle Number](https://www.fastprep.io/problems/bloomberg-valid-triangle-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-triangle-number)|Sep 11, 2021|
-|**PeopleStrong**|[Swap Two Array Elements](https://www.fastprep.io/problems/peoplestrong-swap-array-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-swap-array-elements)|Sep 06, 2021|
-|**Duolingo**|[Count Distinct Word Meanings](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Sep 02, 2021|
 <a id="bottom"></a>

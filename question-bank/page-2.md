@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Parse a Signed Integer in Any Base](https://www.fastprep.io/problems/microsoft-parse-integer-arbitrary-base)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-parse-integer-arbitrary-base)|Sep 18, 2026|
+|**Microsoft**|[Reconstruct Digits from Jumbled English Words](https://www.fastprep.io/problems/microsoft-reconstruct-english-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-reconstruct-english-digits)|Sep 18, 2026|
 |**Microsoft**|[Stable Unique Column Renames](https://www.fastprep.io/problems/microsoft-stable-column-renames)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-stable-column-renames)|Sep 18, 2026|
 |**Reddit**|[Straight-Line Word Search](https://www.fastprep.io/problems/reddit-straight-line-word-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-straight-line-word-search)|Sep 18, 2026|
 |**Render**|[Top-K IP Addresses Across Log Files](https://www.fastprep.io/problems/render-top-k-ip-addresses-from-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/render-top-k-ip-addresses-from-logs)|Sep 18, 2026|
@@ -1743,5 +1745,4 @@
 |**Bloomberg LP**|[Deep Copy a Random-Pointer List](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|Oct 28, 2025|
 |**Mastercard**|[Container With Most Water](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Oct 27, 2025|
 |**The Walt Disney Company**|[Integer to Binary Representation](https://www.fastprep.io/problems/the-walt-disney-company-integer-to-binary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-integer-to-binary)|Oct 27, 2025|
-|**Wayfair / Atlassian / Better.com**|[Review and Scale a Fixed-Stage Document Pipeline](https://www.fastprep.io/system-design/fixed-stage-document-pipeline-capacity)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fixed-stage-document-pipeline-capacity)|Oct 26, 2025|
 <a id="bottom"></a>

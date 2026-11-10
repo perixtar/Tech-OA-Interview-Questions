@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,347)](formats/coding.md) · [SQL (102)](formats/sql.md) · [System design (676)](formats/system-design.md) · [Low-level design (206)](formats/low-level-design.md) · [AI coding (209)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,347)](formats/coding.md) · [SQL (102)](formats/sql.md) · [System design (676)](formats/system-design.md) · [Low-level design (206)](formats/low-level-design.md) · [AI coding (210)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -38,6 +38,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DoorDash / ION Group**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Nov 09, 2026|
 |**Amazon / Meta / ByteDance / Harvey / Clio / Microsoft / Wayfair / Apple**|[Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage)|🔥 Nov 09, 2026|
 |**Pinterest / OpenAI / Axon / Tesla**|[Design a Blob Storage Service](https://www.fastprep.io/system-design/blob-storage-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/blob-storage-service)|🔥 Nov 09, 2026|
+|**WhatNot**|[Add a Last-Moment Bidder and a Dutch Auction to an Auction System](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|🔥 Nov 09, 2026|
 |**Agoda**|[Reverse Words in a String](https://www.fastprep.io/problems/agoda-reverse-words-in-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-reverse-words-in-a-string)|🔥 Nov 08, 2026|
 |**Agoda**|[Can Place Flowers](https://www.fastprep.io/problems/agoda-can-place-flowers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-can-place-flowers)|🔥 Nov 08, 2026|
 |**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
@@ -1682,6 +1683,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Instacart**|[Timed Task Management](https://www.fastprep.io/problems/instacart-timed-task-management)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-timed-task-management)|Sep 18, 2026|
 |**Instacart**|[Worker Management with Promotions and Double-Paid Time](https://www.fastprep.io/problems/instacart-worker-management-double-paid-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-worker-management-double-paid-intervals)|Sep 18, 2026|
 |**Microsoft**|[Convert Hexadecimal to Dotted IPv4](https://www.fastprep.io/problems/microsoft-hexadecimal-to-ipv4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-hexadecimal-to-ipv4)|Sep 18, 2026|
-|**Microsoft**|[Parse a Signed Integer in Any Base](https://www.fastprep.io/problems/microsoft-parse-integer-arbitrary-base)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-parse-integer-arbitrary-base)|Sep 18, 2026|
-|**Microsoft**|[Reconstruct Digits from Jumbled English Words](https://www.fastprep.io/problems/microsoft-reconstruct-english-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-reconstruct-english-digits)|Sep 18, 2026|
 <a id="bottom"></a>
