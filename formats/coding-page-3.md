@@ -2,12 +2,31 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,330 questions**
+**4,347 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Min Distance (AMZ CN)](https://www.fastprep.io/problems/amazon-find-minimum-dist)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-dist)|Dec 27, 2023|
+|**Amazon**|[Check Similar Passwords](https://www.fastprep.io/problems/check-similar-passwords)|[![Practice][p]](https://www.fastprep.io/problems/check-similar-passwords)|Dec 23, 2023|
+|**Amazon**|[Maximum Score in Balanced String](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|[![Practice][p]](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Dec 23, 2023|
+|**Amazon**|[Location of Data After Transfers](https://www.fastprep.io/problems/location-of-data-after-transfers)|[![Practice][p]](https://www.fastprep.io/problems/location-of-data-after-transfers)|Dec 23, 2023|
+|**Stripe**|[Parse and Enrich Imported Card Data](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Dec 21, 2023|
+|**Amazon**|[Get Success Value](https://www.fastprep.io/problems/get-success-value)|[![Practice][p]](https://www.fastprep.io/problems/get-success-value)|Dec 19, 2023|
+|**Amazon**|[Warehouse Distribution](https://www.fastprep.io/problems/warehouse-allocation)|[![Practice][p]](https://www.fastprep.io/problems/warehouse-allocation)|Dec 15, 2023|
+|**Amazon**|[Erase Pairs](https://www.fastprep.io/problems/erase-pairs)|[![Practice][p]](https://www.fastprep.io/problems/erase-pairs)|Dec 13, 2023|
+|**ZipRecruiter**|[Generate a Hollow Star Square](https://www.fastprep.io/problems/ziprecruiter-hollow-star-square)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-hollow-star-square)|Dec 12, 2023|
+|**ZipRecruiter**|[Minutes since the Latest Departed Bus](https://www.fastprep.io/problems/ziprecruiter-minutes-since-latest-bus)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minutes-since-latest-bus)|Dec 12, 2023|
+|**ZipRecruiter**|[Count Right-or-Down Word Paths with One Turn](https://www.fastprep.io/problems/ziprecruiter-one-turn-word-paths)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-one-turn-word-paths)|Dec 12, 2023|
+|**ZipRecruiter**|[Count Paired Subarrays Reaching a Target](https://www.fastprep.io/problems/ziprecruiter-paired-subarray-sums)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-paired-subarray-sums)|Dec 12, 2023|
+|**Amazon**|[Get Priorities After Execution](https://www.fastprep.io/problems/get-priorities-after-execution)|[![Practice][p]](https://www.fastprep.io/problems/get-priorities-after-execution)|Dec 06, 2023|
+|**Bloomberg LP**|[Design Browser History](https://www.fastprep.io/problems/bloomberg-design-browser-history)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-browser-history)|Dec 05, 2023|
+|**Stripe**|[Resolve Visible User Features](https://www.fastprep.io/problems/stripe-user-feature-visibility)|[![Practice][p]](https://www.fastprep.io/problems/stripe-user-feature-visibility)|Nov 30, 2023|
+|**Stripe**|[Weighted Server Load Balancer with TTL](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|[![Practice][p]](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Nov 30, 2023|
+|**Bloomberg LP**|[Maximum Visibility in a Forest Grid](https://www.fastprep.io/problems/bloomberg-maximum-forest-grid-visibility)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-forest-grid-visibility)|Nov 28, 2023|
+|**Bloomberg LP**|[Partition Labels](https://www.fastprep.io/problems/bloomberg-partition-labels)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-partition-labels)|Nov 28, 2023|
+|**Ramp**|[Banking System with Accepted Transfers, Part 1: Accounts and Payments](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-1)|Nov 20, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 2: Activity Ranking](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-2)|Nov 20, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 3: Pending Transfer Acceptance](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-3)|Nov 20, 2023|
 |**Ramp**|[Banking System with Accepted Transfers, Part 4: Account Merging and Balance History](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-4)|[![Practice][p]](https://www.fastprep.io/problems/ramp-banking-accepted-transfers-level-4)|Nov 20, 2023|
