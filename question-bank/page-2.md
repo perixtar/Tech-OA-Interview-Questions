@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Intuit**|[Longest Uninterrupted Work Block](https://www.fastprep.io/problems/intuit-longest-uninterrupted-work-block)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-uninterrupted-work-block)|Sep 18, 2026|
 |**Uber**|[Shortest Increasing Path to a Target](https://www.fastprep.io/problems/uber-shortest-increasing-target-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-shortest-increasing-target-path)|Sep 18, 2026|
 |**Uber**|[Zigzag Board Adjacent Swaps](https://www.fastprep.io/problems/uber-zigzag-board-adjacent-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-zigzag-board-adjacent-swaps)|Sep 18, 2026|
 |**IBM**|[Customer Resource Usage Analysis](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|SQL|[![Practice][p]](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|Sep 18, 2026|
@@ -1744,4 +1743,5 @@
 |**Google**|[Design a Visual Similarity Search System](https://www.fastprep.io/system-design/visual-similarity-search-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/visual-similarity-search-system)|Oct 16, 2025|
 |**Notion**|[Sliding Window Median](https://www.fastprep.io/problems/notion-sliding-window-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-sliding-window-median)|Oct 16, 2025|
 |**Notion**|[Task Row Modifications](https://www.fastprep.io/problems/notion-task-row-modifications)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-task-row-modifications)|Oct 16, 2025|
+|**Datadog**|[Design a Frontend Alarm Management Console](https://www.fastprep.io/system-design/frontend-alarm-management-console)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-alarm-management-console)|Oct 16, 2025|
 <a id="bottom"></a>

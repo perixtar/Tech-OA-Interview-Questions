@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Datadog**|[Design a Frontend Alarm Management Console](https://www.fastprep.io/system-design/frontend-alarm-management-console)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-alarm-management-console)|Oct 16, 2025|
 |**Squarepoint Capital**|[Demonstrate Four OOP Principles](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Oct 16, 2025|
 |**Apple**|[LLM SDK Output Strategies](https://www.fastprep.io/problems/apple-llm-sdk-output-strategies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-llm-sdk-output-strategies)|Oct 15, 2025|
 |**Amazon**|[Furthest Building with Bricks and Ladders](https://www.fastprep.io/problems/amazon-furthest-building-you-can-reach)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-furthest-building-you-can-reach)|Oct 13, 2025|
@@ -1848,4 +1847,5 @@
 |**Benchling**|[Next Palindrome Number](https://www.fastprep.io/problems/benchling-next-palindrome-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-next-palindrome-number)|Jul 30, 2021|
 |**SpaceX**|[Design a Fail-Safe Railroad Crossing Control System](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|Jun 23, 2021|
 |**Morgan Stanley**|[Demonstrate Multilevel Device Inheritance](https://www.fastprep.io/low-level-design/multilevel-device-configuration)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multilevel-device-configuration)|Jun 23, 2021|
+|**Airbnb**|[Simplified XML Validator](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Jun 21, 2021|
 <a id="bottom"></a>
