@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Microsoft**|[Parse a Signed Integer in Any Base](https://www.fastprep.io/problems/microsoft-parse-integer-arbitrary-base)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-parse-integer-arbitrary-base)|Sep 18, 2026|
 |**Microsoft**|[Reconstruct Digits from Jumbled English Words](https://www.fastprep.io/problems/microsoft-reconstruct-english-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-reconstruct-english-digits)|Sep 18, 2026|
 |**Microsoft**|[Stable Unique Column Renames](https://www.fastprep.io/problems/microsoft-stable-column-renames)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-stable-column-renames)|Sep 18, 2026|
 |**Reddit**|[Straight-Line Word Search](https://www.fastprep.io/problems/reddit-straight-line-word-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-straight-line-word-search)|Sep 18, 2026|
