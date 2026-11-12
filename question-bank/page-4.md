@@ -51,6 +51,7 @@
 |**Checkr**|[Build an Internet Usage Rate API](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|May 13, 2021|
 |**Intuit**|[Lexicographically Smallest Topological Order](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|May 08, 2021|
 |**Datadog**|[Count All Occurrences of Duplicate Words](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Apr 30, 2021|
+|**Nutanix**|[Repair a Producer-Consumer Buffer](https://www.fastprep.io/project-coding/nutanix-repair-producer-consumer-buffer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-producer-consumer-buffer)|Apr 29, 2021|
 |**C3.ai**|[Design a Collaborative Code Editor](https://www.fastprep.io/system-design/collaborative-code-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-code-editor)|Apr 17, 2021|
 |**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
 |**Meta**|[Maximum Subtree Sum](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Apr 15, 2021|
