@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Skydio**|[Maximum Area of Island](https://www.fastprep.io/problems/skydio-max-area-of-island)|Coding|[![Practice][p]](https://www.fastprep.io/problems/skydio-max-area-of-island)|Oct 04, 2021|
 |**SambaNova Systems**|[Flip Equivalent Binary Trees](https://www.fastprep.io/problems/sambanova-flip-equivalent-binary-trees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-flip-equivalent-binary-trees)|Oct 03, 2021|
 |**PeopleStrong**|[Count Subarrays with a Target Sum](https://www.fastprep.io/problems/peoplestrong-count-subarrays-with-sum-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-count-subarrays-with-sum-k)|Sep 29, 2021|
 |**PeopleStrong**|[Next Greater Element to the Right](https://www.fastprep.io/problems/peoplestrong-next-greater-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-next-greater-element)|Sep 29, 2021|

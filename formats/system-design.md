@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**683 questions**
+**684 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -484,6 +484,7 @@
 |**Capillary Technologies**|[Design a Loyalty-Data Insight Platform](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|[![Practice][p]](https://www.fastprep.io/system-design/loyalty-data-insight-platform)|Jul 24, 2026|
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
 |**Amazon / Goldman Sachs**|[Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|Jul 22, 2026|
+|**Capital One**|[Design an Online Banking System](https://www.fastprep.io/system-design/online-banking-system)|[![Practice][p]](https://www.fastprep.io/system-design/online-banking-system)|Jul 21, 2026|
 |**Ramp**|[Design a Real-Time Payment Count Dashboard](https://www.fastprep.io/system-design/real-time-payment-count-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-count-dashboard)|Jul 20, 2026|
 |**Assort Health**|[Design a Conversational Flight Search and Booking Agent](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent)|[![Practice][p]](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent)|Jul 20, 2026|
 |**Google**|[Design Distributed Streaming Skill Matching](https://www.fastprep.io/system-design/distributed-streaming-skill-matching-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-streaming-skill-matching-platform)|Jul 19, 2026|
