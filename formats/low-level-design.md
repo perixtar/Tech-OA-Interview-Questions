@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**208 questions**
+**209 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -164,6 +164,7 @@
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
 |**Squarepoint Capital**|[Demonstrate Four OOP Principles](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Oct 16, 2025|
 |**Morgan Stanley**|[Model Room Appliances with OOP](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Oct 11, 2025|
+|**Capital One**|[Design a Bank Customer's Credit and Debit Cards](https://www.fastprep.io/low-level-design/customer-account-credit-and-debit-cards)|[![Practice][p]](https://www.fastprep.io/low-level-design/customer-account-credit-and-debit-cards)|Oct 11, 2025|
 |**Meta**|[Design a Discussion Forum with Posts and Votes](https://www.fastprep.io/low-level-design/discussion-forum-posts-and-votes)|[![Practice][p]](https://www.fastprep.io/low-level-design/discussion-forum-posts-and-votes)|Sep 02, 2025|
 |**SpaceX**|[Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|[![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Aug 22, 2025|
 |**SpaceX**|[Warehouse Order Transit Tracking](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|[![Practice][p]](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|Aug 22, 2025|
