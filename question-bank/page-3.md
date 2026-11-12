@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
 |**Google**|[Transform and Prune a Mode-Valued Binary Tree](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|Oct 29, 2025|
 |**Optiver / Headlands Technologies**|[Design a Low-Latency Electronic Trading System](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|Oct 29, 2025|
 |**Bloomberg LP**|[Design Search Autocomplete System](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|Oct 28, 2025|
@@ -35,6 +36,7 @@
 |**Datadog**|[Design a Frontend Alarm Management Console](https://www.fastprep.io/system-design/frontend-alarm-management-console)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-alarm-management-console)|Oct 16, 2025|
 |**Squarepoint Capital**|[Demonstrate Four OOP Principles](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Oct 16, 2025|
 |**Apple**|[LLM SDK Output Strategies](https://www.fastprep.io/problems/apple-llm-sdk-output-strategies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-llm-sdk-output-strategies)|Oct 15, 2025|
+|**Capital One**|[Design a Mobile Weather Forecast App](https://www.fastprep.io/system-design/mobile-weather-forecast-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mobile-weather-forecast-app)|Oct 14, 2025|
 |**Amazon**|[Furthest Building with Bricks and Ladders](https://www.fastprep.io/problems/amazon-furthest-building-you-can-reach)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-furthest-building-you-can-reach)|Oct 13, 2025|
 |**Amazon**|[Maximum Truck Weight Between Two Cities](https://www.fastprep.io/problems/amazon-maximum-truck-weight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-truck-weight)|Oct 13, 2025|
 |**Amazon**|[All Word Decompositions in a Word List](https://www.fastprep.io/problems/amazon-all-word-decompositions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-all-word-decompositions)|Oct 13, 2025|
@@ -1845,6 +1847,4 @@
 |**PeopleStrong**|[Remove Consecutive Duplicate Characters](https://www.fastprep.io/problems/peoplestrong-remove-consecutive-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-remove-consecutive-duplicates)|Oct 06, 2021|
 |**PeopleStrong**|[Maximum Falling Path Sum in a Rectangle](https://www.fastprep.io/problems/peoplestrong-maximum-falling-path-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-maximum-falling-path-sum)|Oct 06, 2021|
 |**PeopleStrong**|[Aggressive Cows](https://www.fastprep.io/problems/peoplestrong-aggressive-cows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-aggressive-cows)|Oct 05, 2021|
-|**PeopleStrong**|[Shortest Path in an Unweighted Graph](https://www.fastprep.io/problems/peoplestrong-shortest-unweighted-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-shortest-unweighted-path)|Oct 05, 2021|
-|**PeopleStrong**|[Total Set Bits from 1 to N](https://www.fastprep.io/problems/peoplestrong-count-total-set-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-count-total-set-bits)|Oct 05, 2021|
 <a id="bottom"></a>

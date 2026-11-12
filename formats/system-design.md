@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**684 questions**
+**686 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -545,6 +545,7 @@
 |**Meta**|[Design a General-Purpose Content Embedding Platform](https://www.fastprep.io/system-design/general-purpose-content-embedding-platform)|[![Practice][p]](https://www.fastprep.io/system-design/general-purpose-content-embedding-platform)|Dec 14, 2025|
 |**Datadog**|[Design a Photo Match Notification Service](https://www.fastprep.io/system-design/photo-match-notification-service)|[![Practice][p]](https://www.fastprep.io/system-design/photo-match-notification-service)|Dec 11, 2025|
 |**Carta / The Walt Disney Company**|[Design a Mobile and Server Shopping Cart](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|[![Practice][p]](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|Dec 11, 2025|
+|**Capital One**|[Design a Card Payment Processor](https://www.fastprep.io/system-design/card-payment-processor)|[![Practice][p]](https://www.fastprep.io/system-design/card-payment-processor)|Dec 08, 2025|
 |**Microsoft / Meta**|[Design a Learned Candidate Ranking Service](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|[![Practice][p]](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|Nov 26, 2025|
 |**Character.AI**|[Transformer Route Optimization System](https://www.fastprep.io/system-design/transformer-route-optimization-system)|[![Practice][p]](https://www.fastprep.io/system-design/transformer-route-optimization-system)|Nov 08, 2025|
 |**Bloomberg LP**|[Design a Distributed Commit Log](https://www.fastprep.io/system-design/distributed-commit-log)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-commit-log)|Nov 08, 2025|
@@ -558,6 +559,7 @@
 |**Google**|[Design Cost-Aware Content Integrity Decisions](https://www.fastprep.io/system-design/cost-aware-content-integrity-decisions)|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-content-integrity-decisions)|Oct 18, 2025|
 |**Google**|[Design a Visual Similarity Search System](https://www.fastprep.io/system-design/visual-similarity-search-system)|[![Practice][p]](https://www.fastprep.io/system-design/visual-similarity-search-system)|Oct 16, 2025|
 |**Datadog**|[Design a Frontend Alarm Management Console](https://www.fastprep.io/system-design/frontend-alarm-management-console)|[![Practice][p]](https://www.fastprep.io/system-design/frontend-alarm-management-console)|Oct 16, 2025|
+|**Capital One**|[Design a Mobile Weather Forecast App](https://www.fastprep.io/system-design/mobile-weather-forecast-app)|[![Practice][p]](https://www.fastprep.io/system-design/mobile-weather-forecast-app)|Oct 14, 2025|
 |**Datadog**|[Design a Flight Deal Notification Service](https://www.fastprep.io/system-design/flight-deal-notification-service)|[![Practice][p]](https://www.fastprep.io/system-design/flight-deal-notification-service)|Oct 09, 2025|
 |**Microsoft**|[Design RAG-Assisted Kusto Query Generation](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|[![Practice][p]](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|Oct 08, 2025|
 |**Microsoft**|[Optimize LLM Inference Across Model and Infrastructure](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|Oct 08, 2025|

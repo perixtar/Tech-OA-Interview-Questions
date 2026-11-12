@@ -1677,6 +1677,7 @@
 |**Datadog**|[Tagged Metric Window Sums](https://www.fastprep.io/problems/datadog-tagged-window-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-tagged-window-sums)|Dec 11, 2025|
 |**Carta / The Walt Disney Company**|[Design a Mobile and Server Shopping Cart](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|Dec 11, 2025|
 |**Google**|[Minimum Shared Route Length for Two Travelers](https://www.fastprep.io/problems/google-minimum-shared-route-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-shared-route-length)|Dec 09, 2025|
+|**Capital One**|[Design a Card Payment Processor](https://www.fastprep.io/system-design/card-payment-processor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/card-payment-processor)|Dec 08, 2025|
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Scale AI**|[Clock Hand Angle with Subsecond Precision](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Dec 07, 2025|
 |**Benchling**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Dec 06, 2025|
@@ -1744,5 +1745,4 @@
 |**Duolingo**|[Collect Sticks for a Bird's Nest](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Oct 29, 2025|
 |**Duolingo**|[Dynamic Pair Sum Queries](https://www.fastprep.io/problems/duolingo-dynamic-pair-sum-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-dynamic-pair-sum-queries)|Oct 29, 2025|
 |**Duolingo**|[Longest Border-Ending Diagonal Pattern](https://www.fastprep.io/problems/duolingo-longest-border-ending-diagonal-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-border-ending-diagonal-pattern)|Oct 29, 2025|
-|**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
 <a id="bottom"></a>

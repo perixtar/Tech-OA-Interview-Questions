@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**PeopleStrong**|[Shortest Path in an Unweighted Graph](https://www.fastprep.io/problems/peoplestrong-shortest-unweighted-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-shortest-unweighted-path)|Oct 05, 2021|
+|**PeopleStrong**|[Total Set Bits from 1 to N](https://www.fastprep.io/problems/peoplestrong-count-total-set-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-count-total-set-bits)|Oct 05, 2021|
 |**Skydio**|[Maximum Area of Island](https://www.fastprep.io/problems/skydio-max-area-of-island)|Coding|[![Practice][p]](https://www.fastprep.io/problems/skydio-max-area-of-island)|Oct 04, 2021|
 |**SambaNova Systems**|[Flip Equivalent Binary Trees](https://www.fastprep.io/problems/sambanova-flip-equivalent-binary-trees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-flip-equivalent-binary-trees)|Oct 03, 2021|
 |**PeopleStrong**|[Count Subarrays with a Target Sum](https://www.fastprep.io/problems/peoplestrong-count-subarrays-with-sum-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-count-subarrays-with-sum-k)|Sep 29, 2021|
