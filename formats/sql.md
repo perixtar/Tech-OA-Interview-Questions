@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**102 questions**
+**103 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -21,6 +21,7 @@
 |**Chubb**|[Second-Highest Salary](https://www.fastprep.io/problems/chubb-second-highest-salary)|[![Practice][p]](https://www.fastprep.io/problems/chubb-second-highest-salary)|🆕 Oct 19, 2026|
 |**Boston Consulting Group**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-build-taxi-driver-features)|🆕 Oct 19, 2026|
 |**Boston Consulting Group**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|🆕 Oct 19, 2026|
+|**Capgemini**|[Most Recent Order for Each Customer](https://www.fastprep.io/problems/capgemini-most-recent-order-per-customer)|[![Practice][p]](https://www.fastprep.io/problems/capgemini-most-recent-order-per-customer)|🆕 Oct 16, 2026|
 |**McKinsey & Company**|[Weekend Appointments for Consular Services Rescheduling](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-weekend-appointments)|🆕 Oct 15, 2026|
 |**Salesforce**|[Find Rows Common to Two Tables](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-intersection-of-two-tables)|🆕 Oct 14, 2026|
 |**Capital One**|[Analyze House and Viewing Metrics](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|🆕 Oct 11, 2026|
