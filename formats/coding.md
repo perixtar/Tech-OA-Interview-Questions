@@ -2,12 +2,26 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,347 questions**
+**4,361 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Cisco**|[K-Step Bit Flip with Retention](https://www.fastprep.io/problems/cisco-k-step-bit-flip-with-retention)|[![Practice][p]](https://www.fastprep.io/problems/cisco-k-step-bit-flip-with-retention)|🔥 Nov 12, 2026|
+|**Jane Street**|[Maximum-Scoring Consecutive Tree Levels](https://www.fastprep.io/problems/jane-street-max-score-consecutive-tree-levels)|[![Practice][p]](https://www.fastprep.io/problems/jane-street-max-score-consecutive-tree-levels)|🔥 Nov 12, 2026|
+|**Jane Street**|[Tree Selection and Visibility](https://www.fastprep.io/problems/jane-street-tree-selection-visibility)|[![Practice][p]](https://www.fastprep.io/problems/jane-street-tree-selection-visibility)|🔥 Nov 12, 2026|
+|**Siemens**|[Asteroid Collision](https://www.fastprep.io/problems/siemens-asteroid-collision)|[![Practice][p]](https://www.fastprep.io/problems/siemens-asteroid-collision)|🔥 Nov 12, 2026|
+|**Siemens**|[Longest Palindromic Substring](https://www.fastprep.io/problems/siemens-longest-palindromic-substring)|[![Practice][p]](https://www.fastprep.io/problems/siemens-longest-palindromic-substring)|🔥 Nov 12, 2026|
+|**Druva**|[Plus One](https://www.fastprep.io/problems/druva-plus-one)|[![Practice][p]](https://www.fastprep.io/problems/druva-plus-one)|🔥 Nov 11, 2026|
+|**Druva**|[Remove Nth Node From End of List](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|[![Practice][p]](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|🔥 Nov 11, 2026|
+|**Paytm**|[Jump Game](https://www.fastprep.io/problems/paytm-jump-game)|[![Practice][p]](https://www.fastprep.io/problems/paytm-jump-game)|🔥 Nov 11, 2026|
+|**The D.E. Shaw Group**|[Koko Eating Bananas](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|🔥 Nov 10, 2026|
+|**UiPath**|[Bus Routes](https://www.fastprep.io/problems/uipath-bus-routes)|[![Practice][p]](https://www.fastprep.io/problems/uipath-bus-routes)|🔥 Nov 09, 2026|
+|**UiPath**|[Swim in Rising Water](https://www.fastprep.io/problems/uipath-swim-in-rising-water)|[![Practice][p]](https://www.fastprep.io/problems/uipath-swim-in-rising-water)|🔥 Nov 09, 2026|
+|**Veeam**|[Integer to English Words in USD and INR Styles](https://www.fastprep.io/problems/veeam-integer-to-english-words-by-currency)|[![Practice][p]](https://www.fastprep.io/problems/veeam-integer-to-english-words-by-currency)|🔥 Nov 09, 2026|
+|**Visa**|[House Robber](https://www.fastprep.io/problems/visa-house-robber)|[![Practice][p]](https://www.fastprep.io/problems/visa-house-robber)|🔥 Nov 09, 2026|
+|**Visa**|[House Robber III](https://www.fastprep.io/problems/visa-house-robber-iii)|[![Practice][p]](https://www.fastprep.io/problems/visa-house-robber-iii)|🔥 Nov 09, 2026|
 |**Agoda**|[Reverse Words in a String](https://www.fastprep.io/problems/agoda-reverse-words-in-a-string)|[![Practice][p]](https://www.fastprep.io/problems/agoda-reverse-words-in-a-string)|🔥 Nov 08, 2026|
 |**Agoda**|[Can Place Flowers](https://www.fastprep.io/problems/agoda-can-place-flowers)|[![Practice][p]](https://www.fastprep.io/problems/agoda-can-place-flowers)|🔥 Nov 08, 2026|
 |**Nykaa**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/nykaa-longest-substring-without-repeating-characters)|[![Practice][p]](https://www.fastprep.io/problems/nykaa-longest-substring-without-repeating-characters)|🔥 Nov 07, 2026|
@@ -1806,17 +1820,4 @@
 |**Boston Consulting Group**|[Even-Position Monotonicity](https://www.fastprep.io/problems/boston-consulting-group-even-position-monotonicity)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-even-position-monotonicity)|Jul 26, 2026|
 |**Airbnb**|[Worker Management with Full-Shift Double Pay](https://www.fastprep.io/problems/airbnb-worker-management-full-shift-grants)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-full-shift-grants)|Jul 26, 2026|
 |**Hudson River Trading**|[Count 2x2 Submatrices by Black Cells](https://www.fastprep.io/problems/hrt-count-black-blocks)|[![Practice][p]](https://www.fastprep.io/problems/hrt-count-black-blocks)|Jul 26, 2026|
-|**Hudson River Trading**|[Cumulative Unique Bytes](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|[![Practice][p]](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Jul 26, 2026|
-|**Upstart**|[Minimum Absolute Pair Difference](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|[![Practice][p]](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Jul 26, 2026|
-|**Upstart**|[Lexicographic Word Frequencies](https://www.fastprep.io/problems/upstart-lexicographic-word-frequencies)|[![Practice][p]](https://www.fastprep.io/problems/upstart-lexicographic-word-frequencies)|Jul 26, 2026|
-|**Upstart**|[Sum Multiples of 3, 5, or 7 Below N](https://www.fastprep.io/problems/upstart-sum-multiples-of-three-five-seven)|[![Practice][p]](https://www.fastprep.io/problems/upstart-sum-multiples-of-three-five-seven)|Jul 26, 2026|
-|**Upstart**|[Add Drama to Text Groups](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|[![Practice][p]](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|Jul 26, 2026|
-|**DE Shaw**|[Maximum L1 Distance Between Equal-Length Subarrays](https://www.fastprep.io/problems/deshaw-maximum-l1-distance-equal-length-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-maximum-l1-distance-equal-length-subarrays)|Jul 26, 2026|
-|**Airbnb**|[Nested List Iterator with Remove](https://www.fastprep.io/problems/airbnb-nested-list-iterator-with-remove)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-nested-list-iterator-with-remove)|Jul 26, 2026|
-|**Citadel**|[Limit Order Book Matching Engine](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|[![Practice][p]](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Jul 26, 2026|
-|**Hudson River Trading**|[Market Data Signal Watcher](https://www.fastprep.io/problems/hudson-river-market-data-signal-watcher)|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-market-data-signal-watcher)|Jul 26, 2026|
-|**Amazon**|[Shortest Distance on a Circular Bus Route](https://www.fastprep.io/problems/amazon-shortest-distance-circular-bus-route)|[![Practice][p]](https://www.fastprep.io/problems/amazon-shortest-distance-circular-bus-route)|Jul 26, 2026|
-|**Stripe**|[Rule-Driven Transaction Fraud Detection](https://www.fastprep.io/problems/stripe-rule-driven-transaction-fraud-detection)|[![Practice][p]](https://www.fastprep.io/problems/stripe-rule-driven-transaction-fraud-detection)|Jul 25, 2026|
-|**Salesforce**|[Optimal Account Balancing](https://www.fastprep.io/problems/salesforce-optimal-account-balancing)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-optimal-account-balancing)|Jul 25, 2026|
-|**Google**|[Count Sortable Splits](https://www.fastprep.io/problems/google-count-sortable-splits)|[![Practice][p]](https://www.fastprep.io/problems/google-count-sortable-splits)|Jul 25, 2026|
 <a id="bottom"></a>
