@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**211 questions**
+**214 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -147,6 +147,7 @@
 |**Coinbase / Airbnb**|[In-Memory Database](https://www.fastprep.io/project-coding/in-memory-database)|[![Practice][p]](https://www.fastprep.io/project-coding/in-memory-database)|Jul 27, 2026|
 |**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|Jul 23, 2026|
 |**Zip**|[Debug an LRU Cache](https://www.fastprep.io/project-coding/zip-debug-lru-cache)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-debug-lru-cache)|Jul 10, 2026|
+|**Notion**|[Debug a Mini Notion App](https://www.fastprep.io/project-coding/notion-debug-mini-notion)|[![Practice][p]](https://www.fastprep.io/project-coding/notion-debug-mini-notion)|Jun 29, 2026|
 |**Amazon**|[Repair Banking App Role-Based Access Control](https://www.fastprep.io/project-coding/repair-banking-access-control)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-banking-access-control)|Jun 27, 2026|
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
 |**ByteDance**|[Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|[![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|Jun 25, 2026|
@@ -165,6 +166,7 @@
 |**The Walt Disney Company**|[Display, Sort and Search Movie Titles and Years](https://www.fastprep.io/project-coding/the-walt-disney-company-movie-title-year-browser)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-movie-title-year-browser)|Jan 12, 2026|
 |**Motive**|[Integrate Geocoding and Route Services](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|Dec 23, 2025|
 |**Motive**|[Build a Vehicle Catalog Analysis API](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|Dec 19, 2025|
+|**Notion**|[Build a Menu Component for Notion](https://www.fastprep.io/project-coding/notion-react-menu-component)|[![Practice][p]](https://www.fastprep.io/project-coding/notion-react-menu-component)|Dec 17, 2025|
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Stripe**|[Complete a Paginated API Synchronization](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|Dec 04, 2025|
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
@@ -200,6 +202,7 @@
 |**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
 |**The Walt Disney Company**|[Create and List Users with Spring Boot](https://www.fastprep.io/project-coding/the-walt-disney-company-create-and-list-users)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-create-and-list-users)|Jan 18, 2024|
 |**The Walt Disney Company**|[React Login and Conditional Home Navigation](https://www.fastprep.io/project-coding/the-walt-disney-company-react-login-navigation)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-react-login-navigation)|Jan 18, 2024|
+|**Notion**|[Build a React JSON Object Reader](https://www.fastprep.io/project-coding/notion-react-json-object-reader)|[![Practice][p]](https://www.fastprep.io/project-coding/notion-react-json-object-reader)|Jan 10, 2024|
 |**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Dec 21, 2023|
 |**Klaviyo**|[Repair a Train Speeding Incident Logger](https://www.fastprep.io/project-coding/klaviyo-train-speeding-incidents)|[![Practice][p]](https://www.fastprep.io/project-coding/klaviyo-train-speeding-incidents)|Sep 28, 2023|
 |**NVIDIA**|[Neural-Network Graph Tracing and Autograd](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|Sep 19, 2023|
