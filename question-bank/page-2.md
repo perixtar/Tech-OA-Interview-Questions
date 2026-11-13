@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Tata Consultancy Services**|[Maximum Gap After Sorting](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|Sep 18, 2026|
 |**Tata Consultancy Services**|[EV Charging Cost Optimization](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|Sep 18, 2026|
 |**Amazon**|[Inventory Allocation](https://www.fastprep.io/problems/amazon-inventory-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-allocation)|Sep 18, 2026|
 |**Waymo**|[Obstacle-Aware Return to Origin](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|Sep 18, 2026|
@@ -923,7 +924,7 @@
 |**Cresta**|[Rightward Bacteria Consumption](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Jul 28, 2026|
 |**Google**|[Distributed Quoted-Log Tokenization](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization)|Jul 28, 2026|
 |**Uber**|[Rolling Stock Price Alert System](https://www.fastprep.io/system-design/rolling-stock-price-alert-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-stock-price-alert-system)|Jul 28, 2026|
-|**Bloomberg LP**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
+|**Bloomberg LP / Adobe**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
 |**Wells Fargo**|[Overloaded Game Account Inventories](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|SQL|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|Jul 28, 2026|
 |**Rippling**|[LFU Cache with LRU Tie-Breaking](https://www.fastprep.io/problems/rippling-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-lfu-cache)|Jul 28, 2026|
@@ -1744,5 +1745,4 @@
 |**Notion**|[Design an Adaptive Task Decomposition Queue](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|Nov 03, 2025|
 |**Bloomberg LP**|[Find the Winner of the Circular Game](https://www.fastprep.io/problems/bloomberg-find-winner-circular-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-winner-circular-game)|Nov 02, 2025|
 |**Bloomberg LP**|[Design a Top-N News Article System](https://www.fastprep.io/system-design/top-n-news-article-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/top-n-news-article-system)|Oct 31, 2025|
-|**Duolingo**|[Collect Sticks for a Bird's Nest](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Oct 29, 2025|
 <a id="bottom"></a>
