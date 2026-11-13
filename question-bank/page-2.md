@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Amazon**|[Design a Large-Scale File Change Watcher](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|Sep 18, 2026|
 |**Amazon**|[Design Robot-Assisted Restaurant Orchestration](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|Sep 18, 2026|
 |**AMD**|[K Largest Elements with Quickselect](https://www.fastprep.io/problems/amd-k-largest-elements-quickselect)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-k-largest-elements-quickselect)|Sep 18, 2026|
 |**Google**|[Sliding Window Average Excluding the Largest K Values](https://www.fastprep.io/problems/google-sliding-window-average-excluding-largest-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-sliding-window-average-excluding-largest-k)|Sep 18, 2026|
@@ -1745,4 +1744,5 @@
 |**Duolingo**|[Collect Sticks for a Bird's Nest](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Oct 29, 2025|
 |**Duolingo**|[Dynamic Pair Sum Queries](https://www.fastprep.io/problems/duolingo-dynamic-pair-sum-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-dynamic-pair-sum-queries)|Oct 29, 2025|
 |**Duolingo**|[Longest Border-Ending Diagonal Pattern](https://www.fastprep.io/problems/duolingo-longest-border-ending-diagonal-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-border-ending-diagonal-pattern)|Oct 29, 2025|
+|**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
 <a id="bottom"></a>
