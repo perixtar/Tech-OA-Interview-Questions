@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**PeopleStrong**|[Build an Expression Tree from Postfix](https://www.fastprep.io/problems/peoplestrong-expression-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-expression-tree)|Oct 12, 2021|
+|**PeopleStrong**|[Maximum Score from Deleting Neighboring Values](https://www.fastprep.io/problems/peoplestrong-maximum-deletion-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-maximum-deletion-score)|Oct 12, 2021|
+|**PeopleStrong**|[Third Largest Element in One Pass](https://www.fastprep.io/problems/peoplestrong-third-largest-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-third-largest-element)|Oct 12, 2021|
+|**PeopleStrong**|[Longest Palindromic Substring](https://www.fastprep.io/problems/peoplestrong-longest-palindromic-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-palindromic-substring)|Oct 12, 2021|
 |**PeopleStrong**|[Reverse Words and Normalize Spaces](https://www.fastprep.io/problems/peoplestrong-reverse-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-words)|Oct 06, 2021|
 |**PeopleStrong**|[Remove Consecutive Duplicate Characters](https://www.fastprep.io/problems/peoplestrong-remove-consecutive-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-remove-consecutive-duplicates)|Oct 06, 2021|
 |**PeopleStrong**|[Maximum Falling Path Sum in a Rectangle](https://www.fastprep.io/problems/peoplestrong-maximum-falling-path-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-maximum-falling-path-sum)|Oct 06, 2021|

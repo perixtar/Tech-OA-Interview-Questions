@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**214 questions**
+**216 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Debug a Byte-Pair Encoding Tokenizer (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-byte-pair-encoding-tokenizer)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-byte-pair-encoding-tokenizer)|🔥 Nov 14, 2026|
 |**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 09, 2026|
 |**WhatNot**|[Add a Last-Moment Bidder and a Dutch Auction to an Auction System](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|[![Practice][p]](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|🔥 Nov 09, 2026|
 |**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
@@ -32,6 +33,7 @@
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🔥 Nov 03, 2026|
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 03, 2026|
 |**Walmart**|[Configure Spring Profiles and Property Defaults](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|🔥 Nov 03, 2026|
+|**Scale AI**|[Debug Config Parsing, Concurrent Counting, and a Stale Cache](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|🔥 Nov 03, 2026|
 |**Alteryx**|[Build a Directory View](https://www.fastprep.io/project-coding/alteryx-directory-view)|[![Practice][p]](https://www.fastprep.io/project-coding/alteryx-directory-view)|🔥 Nov 02, 2026|
 |**LinkedIn**|[Suggestions Feed with Close Icons](https://www.fastprep.io/project-coding/linkedin-suggestions-feed)|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-suggestions-feed)|🔥 Nov 02, 2026|
 |**DigitalOcean**|[Build a Distributed Rate Limiter Service](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|🔥 Nov 02, 2026|
