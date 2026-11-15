@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Figma**|[Presentation Template Version Updates](https://www.fastprep.io/system-design/presentation-template-version-updates)|System design|[![Practice][p]](https://www.fastprep.io/system-design/presentation-template-version-updates)|Oct 30, 2021|
+|**Figma**|[Template and Instance Override Model](https://www.fastprep.io/low-level-design/template-instance-override-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/template-instance-override-model)|Oct 26, 2021|
 |**PeopleStrong**|[Running Median of a Stream](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|Oct 26, 2021|
 |**PeopleStrong**|[Add Forward Linked-List Numbers Using Recursion](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Oct 26, 2021|
 |**PeopleStrong**|[Reverse a Stack Recursively](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Oct 26, 2021|

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**690 questions**
+**691 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -20,6 +20,7 @@
 |**Amazon / OpenAI / Anthropic / eBay / Gimlet Labs**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Nov 12, 2026|
 |**JioStar / Tubi**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🔥 Nov 12, 2026|
 |**Shopify**|[Design Hierarchical Product Category Classification](https://www.fastprep.io/system-design/hierarchical-product-category-classification)|[![Practice][p]](https://www.fastprep.io/system-design/hierarchical-product-category-classification)|🔥 Nov 12, 2026|
+|**Shopify**|[Design Learned Search Autocomplete](https://www.fastprep.io/system-design/learned-search-autocomplete)|[![Practice][p]](https://www.fastprep.io/system-design/learned-search-autocomplete)|🔥 Nov 12, 2026|
 |**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🔥 Nov 11, 2026|
 |**Coinbase**|[Design a Crypto Asset Explore Page](https://www.fastprep.io/system-design/crypto-asset-explore-page)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-asset-explore-page)|🔥 Nov 11, 2026|
 |**Oracle**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 11, 2026|

@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Hudson River Trading**|[Obstacle Placement Queries](https://www.fastprep.io/problems/hrt-obstacle-placement-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-obstacle-placement-queries)|Sep 19, 2026|
+|**Amazon**|[Maximize Adjacent Difference With One Reversal](https://www.fastprep.io/problems/amazon-maximize-adjacent-difference-with-one-reversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-adjacent-difference-with-one-reversal)|Sep 19, 2026|
+|**Amazon**|[Shortest Grid Path With One Wall Break](https://www.fastprep.io/problems/amazon-shortest-grid-path-with-one-wall-break)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-shortest-grid-path-with-one-wall-break)|Sep 19, 2026|
 |**Airbnb**|[Print Sentences as Table](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|Sep 19, 2026|
 |**Atlassian**|[Music Player Operation Sequence](https://www.fastprep.io/problems/atlassian-music-player-operation-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/atlassian-music-player-operation-sequence)|Sep 19, 2026|
 |**Databricks**|[Customer Revenue with Direct Referrals](https://www.fastprep.io/problems/databricks-customer-revenue-referrals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-customer-revenue-referrals)|Sep 19, 2026|
@@ -1007,7 +1010,6 @@
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
 |**OnePay**|[Count Complete Toll Journeys](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Jul 23, 2026|
 |**OnePay**|[Per-Segment Speeding](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Jul 23, 2026|
-|**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|Jul 23, 2026|
 |**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
@@ -1622,7 +1624,6 @@
 |**Stripe**|[Filter Contacts by Email Domain](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Jan 16, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
 |**Citadel**|[Four-Exit Roundabout Simulator](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Jan 16, 2026|
-|**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Motive**|[Group Anagrams](https://www.fastprep.io/problems/motive-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-group-anagrams)|Jan 15, 2026|
 |**Motive**|[Longest Equal-Zero-One Subarray](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Jan 15, 2026|
 |**Motive**|[Maximum Weighted Sum After Left Rotations](https://www.fastprep.io/problems/motive-maximum-weighted-left-rotation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-maximum-weighted-left-rotation)|Jan 15, 2026|
@@ -1744,6 +1745,4 @@
 |**Bloomberg LP**|[Find Median from Data Stream](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Nov 08, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
 |**Duolingo**|[Longest Decreasing Matrix Path with Limited Relaxations](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Nov 05, 2025|
-|**Duolingo**|[Validate a Mahjong Hand Partition](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Nov 05, 2025|
-|**Bloomberg LP**|[LRU Cache Operations](https://www.fastprep.io/problems/bloomberg-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lru-cache)|Nov 05, 2025|
 <a id="bottom"></a>
