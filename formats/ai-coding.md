@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**219 questions**
+**220 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -38,6 +38,7 @@
 |**Scale AI**|[Debug Config Parsing, Concurrent Counting, and a Stale Cache](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|🔥 Nov 03, 2026|
 |**Scale AI**|[Repair Contributor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|🔥 Nov 03, 2026|
 |**Scale AI**|[Merge and Verify a Chunked Upload](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|🔥 Nov 03, 2026|
+|**Scale AI**|[Plan Task Execution Order with Deadline Risks](https://www.fastprep.io/project-coding/scale-ai-task-execution-plan-deadline-risk)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-task-execution-plan-deadline-risk)|🔥 Nov 03, 2026|
 |**Alteryx**|[Build a Directory View](https://www.fastprep.io/project-coding/alteryx-directory-view)|[![Practice][p]](https://www.fastprep.io/project-coding/alteryx-directory-view)|🔥 Nov 02, 2026|
 |**LinkedIn**|[Suggestions Feed with Close Icons](https://www.fastprep.io/project-coding/linkedin-suggestions-feed)|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-suggestions-feed)|🔥 Nov 02, 2026|
 |**DigitalOcean**|[Build a Distributed Rate Limiter Service](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/digitalocean-distributed-rate-limiter)|🔥 Nov 02, 2026|

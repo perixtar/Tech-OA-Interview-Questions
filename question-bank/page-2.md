@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Airbnb**|[Print Sentences as Table](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|Sep 19, 2026|
+|**Atlassian**|[Music Player Operation Sequence](https://www.fastprep.io/problems/atlassian-music-player-operation-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/atlassian-music-player-operation-sequence)|Sep 19, 2026|
+|**Databricks**|[Customer Revenue with Direct Referrals](https://www.fastprep.io/problems/databricks-customer-revenue-referrals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-customer-revenue-referrals)|Sep 19, 2026|
+|**Indeed**|[Insert into an Unrolled Linked List](https://www.fastprep.io/problems/indeed-unrolled-linked-list-insert)|Coding|[![Practice][p]](https://www.fastprep.io/problems/indeed-unrolled-linked-list-insert)|Sep 19, 2026|
 |**Microsoft**|[First Duplicate Value](https://www.fastprep.io/problems/microsoft-first-duplicate-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-first-duplicate-value)|Sep 19, 2026|
 |**Microsoft**|[Keyed Bounded Executor Schedule](https://www.fastprep.io/problems/microsoft-keyed-bounded-executor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-keyed-bounded-executor)|Sep 19, 2026|
 |**Microsoft**|[3Sum](https://www.fastprep.io/problems/microsoft-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-sum)|Sep 19, 2026|
@@ -1742,8 +1746,4 @@
 |**Duolingo**|[Longest Decreasing Matrix Path with Limited Relaxations](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Nov 05, 2025|
 |**Duolingo**|[Validate a Mahjong Hand Partition](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Nov 05, 2025|
 |**Bloomberg LP**|[LRU Cache Operations](https://www.fastprep.io/problems/bloomberg-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lru-cache)|Nov 05, 2025|
-|**Bloomberg LP**|[Shortest Currency Conversion Chain](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Nov 05, 2025|
-|**Bloomberg LP**|[Validate Binary Search Tree](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Nov 04, 2025|
-|**Benchling**|[Design a Distributed DNA N-Gram Search Service](https://www.fastprep.io/system-design/distributed-dna-ngram-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-dna-ngram-search)|Nov 04, 2025|
-|**Benchling**|[Bounded HTTP Retry Flow](https://www.fastprep.io/problems/benchling-bounded-http-retry-flow)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-bounded-http-retry-flow)|Nov 04, 2025|
 <a id="bottom"></a>

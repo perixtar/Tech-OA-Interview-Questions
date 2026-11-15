@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**688 questions**
+**690 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -16,8 +16,10 @@
 |**Nubank**|[Design Chargeback Ingestion and Eligible-Record Export](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|[![Practice][p]](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|🔥 Nov 13, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 13, 2026|
 |**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|🔥 Nov 13, 2026|
+|**Handshake**|[Design a Job Board with Search and Applications](https://www.fastprep.io/system-design/job-board-search-and-applications)|[![Practice][p]](https://www.fastprep.io/system-design/job-board-search-and-applications)|🔥 Nov 13, 2026|
 |**Amazon / OpenAI / Anthropic / eBay / Gimlet Labs**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Nov 12, 2026|
 |**JioStar / Tubi**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🔥 Nov 12, 2026|
+|**Shopify**|[Design Hierarchical Product Category Classification](https://www.fastprep.io/system-design/hierarchical-product-category-classification)|[![Practice][p]](https://www.fastprep.io/system-design/hierarchical-product-category-classification)|🔥 Nov 12, 2026|
 |**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🔥 Nov 11, 2026|
 |**Coinbase**|[Design a Crypto Asset Explore Page](https://www.fastprep.io/system-design/crypto-asset-explore-page)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-asset-explore-page)|🔥 Nov 11, 2026|
 |**Oracle**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 11, 2026|

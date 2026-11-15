@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Shortest Currency Conversion Chain](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Nov 05, 2025|
+|**Bloomberg LP**|[Validate Binary Search Tree](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Nov 04, 2025|
+|**Benchling**|[Design a Distributed DNA N-Gram Search Service](https://www.fastprep.io/system-design/distributed-dna-ngram-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-dna-ngram-search)|Nov 04, 2025|
+|**Benchling**|[Bounded HTTP Retry Flow](https://www.fastprep.io/problems/benchling-bounded-http-retry-flow)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-bounded-http-retry-flow)|Nov 04, 2025|
 |**IBM**|[Process Execution Time](https://www.fastprep.io/problems/ibm-process-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-execution-time)|Nov 03, 2025|
 |**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
 |**Notion**|[Design an Adaptive Task Decomposition Queue](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|Nov 03, 2025|
@@ -1843,8 +1847,4 @@
 |**Vanguard**|[Tool List: Two Smallest Values](https://www.fastprep.io/problems/vanguard-tool-list-two-minima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-tool-list-two-minima)|Nov 08, 2021|
 |**Figma**|[Presentation Template Version Updates](https://www.fastprep.io/system-design/presentation-template-version-updates)|System design|[![Practice][p]](https://www.fastprep.io/system-design/presentation-template-version-updates)|Oct 30, 2021|
 |**Figma**|[Template and Instance Override Model](https://www.fastprep.io/low-level-design/template-instance-override-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/template-instance-override-model)|Oct 26, 2021|
-|**PeopleStrong**|[Running Median of a Stream](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-median-of-a-stream)|Oct 26, 2021|
-|**PeopleStrong**|[Add Forward Linked-List Numbers Using Recursion](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Oct 26, 2021|
-|**PeopleStrong**|[Reverse a Stack Recursively](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Oct 26, 2021|
-|**PeopleStrong**|[Permutations of Character Positions](https://www.fastprep.io/problems/peoplestrong-character-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-character-permutations)|Oct 26, 2021|
 <a id="bottom"></a>
