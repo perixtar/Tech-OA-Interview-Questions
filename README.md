@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,358)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (688)](formats/system-design.md) · [Low-level design (211)](formats/low-level-design.md) · [AI coding (216)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,358)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (688)](formats/system-design.md) · [Low-level design (211)](formats/low-level-design.md) · [AI coding (219)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -44,6 +44,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Nubank**|[Design Chargeback Ingestion and Eligible-Record Export](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|🔥 Nov 13, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 13, 2026|
 |**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|🔥 Nov 13, 2026|
+|**Scale AI**|[Build a Daily Payment Report for Each Merchant](https://www.fastprep.io/project-coding/scale-ai-merchant-daily-payment-report)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-merchant-daily-payment-report)|🔥 Nov 13, 2026|
+|**Scale AI**|[Debug Coupon Expiry, a Tenant Permission Cache, and Duplicate Pages](https://www.fastprep.io/project-coding/scale-ai-coupon-permission-pagination-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-coupon-permission-pagination-debugging)|🔥 Nov 13, 2026|
 |**Nykaa / Navi / Atlys / Rippling / Swiggy**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Nov 12, 2026|
 |**Amazon / OpenAI / Anthropic / eBay / Gimlet Labs**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Nov 12, 2026|
 |**JioStar / Tubi**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🔥 Nov 12, 2026|
@@ -235,6 +237,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Rippling**|[Best and Worst Camel Card Completions](https://www.fastprep.io/problems/rippling-complete-camel-card-hands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-complete-camel-card-hands)|🔥 Nov 03, 2026|
 |**Duolingo**|[Return Every Matching Decryption](https://www.fastprep.io/problems/duolingo-decrypt-all-matching-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-decrypt-all-matching-strings)|🔥 Nov 03, 2026|
 |**Scale AI**|[Debug Config Parsing, Concurrent Counting, and a Stale Cache](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|🔥 Nov 03, 2026|
+|**Scale AI**|[Repair Contributor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|🔥 Nov 03, 2026|
+|**Scale AI**|[Merge and Verify a Chunked Upload](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|🔥 Nov 03, 2026|
 |**BNSF Railway**|[Two Sum](https://www.fastprep.io/problems/bnsf-railway-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnsf-railway-two-sum)|🔥 Nov 02, 2026|
 |**Fanatics**|[Shortest Word Chain Between Two Words](https://www.fastprep.io/problems/fanatics-shortest-word-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fanatics-shortest-word-chain)|🔥 Nov 02, 2026|
 |**Confluent**|[Implement tail -n](https://www.fastprep.io/problems/confluent-implement-tail-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/confluent-implement-tail-n)|🔥 Nov 02, 2026|
@@ -1681,9 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Atlassian**|[Music Player Operation Sequence](https://www.fastprep.io/problems/atlassian-music-player-operation-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/atlassian-music-player-operation-sequence)|Sep 19, 2026|
 |**Databricks**|[Customer Revenue with Direct Referrals](https://www.fastprep.io/problems/databricks-customer-revenue-referrals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-customer-revenue-referrals)|Sep 19, 2026|
 |**Indeed**|[Insert into an Unrolled Linked List](https://www.fastprep.io/problems/indeed-unrolled-linked-list-insert)|Coding|[![Practice][p]](https://www.fastprep.io/problems/indeed-unrolled-linked-list-insert)|Sep 19, 2026|
-|**Microsoft**|[First Duplicate Value](https://www.fastprep.io/problems/microsoft-first-duplicate-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-first-duplicate-value)|Sep 19, 2026|
-|**Microsoft**|[Keyed Bounded Executor Schedule](https://www.fastprep.io/problems/microsoft-keyed-bounded-executor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-keyed-bounded-executor)|Sep 19, 2026|
-|**Microsoft**|[3Sum](https://www.fastprep.io/problems/microsoft-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-sum)|Sep 19, 2026|
-|**Oracle**|[Island Count and Maximum Area](https://www.fastprep.io/problems/oracle-island-count-and-max-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-island-count-and-max-area)|Sep 19, 2026|
-|**Oracle**|[Retry with an Attempt Limit](https://www.fastprep.io/problems/oracle-retry-with-attempt-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-retry-with-attempt-limit)|Sep 19, 2026|
 <a id="bottom"></a>

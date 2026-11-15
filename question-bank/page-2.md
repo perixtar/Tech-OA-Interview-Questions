@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[First Duplicate Value](https://www.fastprep.io/problems/microsoft-first-duplicate-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-first-duplicate-value)|Sep 19, 2026|
+|**Microsoft**|[Keyed Bounded Executor Schedule](https://www.fastprep.io/problems/microsoft-keyed-bounded-executor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-keyed-bounded-executor)|Sep 19, 2026|
+|**Microsoft**|[3Sum](https://www.fastprep.io/problems/microsoft-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-sum)|Sep 19, 2026|
+|**Oracle**|[Island Count and Maximum Area](https://www.fastprep.io/problems/oracle-island-count-and-max-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-island-count-and-max-area)|Sep 19, 2026|
+|**Oracle**|[Retry with an Attempt Limit](https://www.fastprep.io/problems/oracle-retry-with-attempt-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-retry-with-attempt-limit)|Sep 19, 2026|
 |**Google**|[Nth Staged License Plate](https://www.fastprep.io/problems/google-nth-staged-license-plate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-nth-staged-license-plate)|Sep 19, 2026|
 |**Google**|[Merge Subsequences Into a Consistent Total Order](https://www.fastprep.io/problems/google-merge-subsequences-into-total-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-merge-subsequences-into-total-order)|Sep 19, 2026|
 |**Google**|[Delete Leaves With a Target Value](https://www.fastprep.io/problems/google-delete-leaves-with-target-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-delete-leaves-with-target-value)|Sep 19, 2026|
@@ -1408,7 +1413,6 @@
 |**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
 |**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
-|**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|
 |**Amazon**|[Stable Robot Configurations](https://www.fastprep.io/problems/amazon-stable-robot-configurations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-stable-robot-configurations)|Apr 20, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
@@ -1742,7 +1746,4 @@
 |**Bloomberg LP**|[Validate Binary Search Tree](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Nov 04, 2025|
 |**Benchling**|[Design a Distributed DNA N-Gram Search Service](https://www.fastprep.io/system-design/distributed-dna-ngram-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-dna-ngram-search)|Nov 04, 2025|
 |**Benchling**|[Bounded HTTP Retry Flow](https://www.fastprep.io/problems/benchling-bounded-http-retry-flow)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-bounded-http-retry-flow)|Nov 04, 2025|
-|**IBM**|[Process Execution Time](https://www.fastprep.io/problems/ibm-process-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-execution-time)|Nov 03, 2025|
-|**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
-|**Notion**|[Design an Adaptive Task Decomposition Queue](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|Nov 03, 2025|
 <a id="bottom"></a>
