@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**91 questions**
+**90 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -33,7 +33,6 @@
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🆕 Oct 08, 2026|
 |**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🆕 Oct 07, 2026|
 |**Infosys**|[Tenth-Highest Distinct Salary](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|[![Practice][p]](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|🆕 Oct 07, 2026|
-|**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|Oct 01, 2026|
 |**Mygate**|[Employees Earning More Than Their Manager](https://www.fastprep.io/problems/mygate-employees-over-manager)|[![Practice][p]](https://www.fastprep.io/problems/mygate-employees-over-manager)|Sep 26, 2026|
 |**Mygate**|[Users Active in Both January and February](https://www.fastprep.io/problems/mygate-users-active-january-february)|[![Practice][p]](https://www.fastprep.io/problems/mygate-users-active-january-february)|Sep 26, 2026|
 |**Intuit**|[Oldest and Youngest Employees](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|[![Practice][p]](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|Sep 22, 2026|

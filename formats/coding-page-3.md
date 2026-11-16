@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,358 questions**
+**4,359 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Jan 08, 2024|
 |**The Walt Disney Company**|[Hub Vertices Within a Radius](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|Jan 08, 2024|
 |**The Walt Disney Company**|[Generate a Connected Graph and Find a Shortest Path](https://www.fastprep.io/problems/the-walt-disney-company-random-connected-graph-shortest-path)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-random-connected-graph-shortest-path)|Jan 08, 2024|
 |**The Walt Disney Company**|[Song Duration Pairs Divisible by 60](https://www.fastprep.io/problems/the-walt-disney-company-song-duration-index-pairs)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-song-duration-index-pairs)|Jan 08, 2024|
