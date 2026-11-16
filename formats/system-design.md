@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**693 questions**
+**694 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -20,6 +20,7 @@
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 13, 2026|
 |**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|🔥 Nov 13, 2026|
 |**Handshake**|[Design a Job Board with Search and Applications](https://www.fastprep.io/system-design/job-board-search-and-applications)|[![Practice][p]](https://www.fastprep.io/system-design/job-board-search-and-applications)|🔥 Nov 13, 2026|
+|**Databricks**|[Design an Ad Marketplace for Publisher Websites](https://www.fastprep.io/system-design/publisher-ad-marketplace)|[![Practice][p]](https://www.fastprep.io/system-design/publisher-ad-marketplace)|🔥 Nov 13, 2026|
 |**Amazon / OpenAI / Anthropic / eBay / Gimlet Labs**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Nov 12, 2026|
 |**JioStar / Tubi**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🔥 Nov 12, 2026|
 |**Shopify**|[Design Hierarchical Product Category Classification](https://www.fastprep.io/system-design/hierarchical-product-category-classification)|[![Practice][p]](https://www.fastprep.io/system-design/hierarchical-product-category-classification)|🔥 Nov 12, 2026|
