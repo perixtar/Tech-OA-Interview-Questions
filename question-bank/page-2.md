@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Hudson River Trading**|[Minimize Expression Value with Parentheses](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|Sep 19, 2026|
+|**Hudson River Trading**|[Obstacle Placement Queries](https://www.fastprep.io/problems/hrt-obstacle-placement-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-obstacle-placement-queries)|Sep 19, 2026|
 |**Amazon**|[Maximize Adjacent Difference With One Reversal](https://www.fastprep.io/problems/amazon-maximize-adjacent-difference-with-one-reversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-adjacent-difference-with-one-reversal)|Sep 19, 2026|
 |**Amazon**|[Shortest Grid Path With One Wall Break](https://www.fastprep.io/problems/amazon-shortest-grid-path-with-one-wall-break)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-shortest-grid-path-with-one-wall-break)|Sep 19, 2026|
 |**Airbnb**|[Print Sentences as Table](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-print-sentences-as-table)|Sep 19, 2026|
@@ -1256,7 +1258,6 @@
 |**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 |**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
-|**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
 |**HSBC**|[Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Jun 21, 2026|
 |**HSBC**|[Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Jun 21, 2026|
 |**Amazon**|[Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Jun 19, 2026|
@@ -1744,5 +1745,4 @@
 |**Bloomberg LP**|[Design a Distributed Commit Log](https://www.fastprep.io/system-design/distributed-commit-log)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-commit-log)|Nov 08, 2025|
 |**Bloomberg LP**|[Find Median from Data Stream](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Nov 08, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
-|**Duolingo**|[Longest Decreasing Matrix Path with Limited Relaxations](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Nov 05, 2025|
 <a id="bottom"></a>

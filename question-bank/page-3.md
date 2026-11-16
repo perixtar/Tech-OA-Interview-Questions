@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Duolingo**|[Longest Decreasing Matrix Path with Limited Relaxations](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Nov 05, 2025|
 |**Duolingo**|[Validate a Mahjong Hand Partition](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Nov 05, 2025|
 |**Bloomberg LP**|[LRU Cache Operations](https://www.fastprep.io/problems/bloomberg-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lru-cache)|Nov 05, 2025|
 |**Bloomberg LP**|[Shortest Currency Conversion Chain](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Nov 05, 2025|
@@ -1846,5 +1847,4 @@
 |**ZipRecruiter**|[Website Pair with the Most Common Visitors](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Nov 19, 2021|
 |**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 |**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
-|**Bloomberg LP**|[Passing Cars](https://www.fastprep.io/problems/bloomberg-passing-cars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-passing-cars)|Nov 15, 2021|
 <a id="bottom"></a>

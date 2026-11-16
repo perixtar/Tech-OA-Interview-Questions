@@ -8,6 +8,9 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Pinterest / Slack / Motive / Affirm**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Nov 16, 2026|
+|**OnePay / Razorpay / Infosys / BNSF Railway / Agoda**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 15, 2026|
+|**Datadog / Bank of Montreal (BMO)**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|🔥 Nov 15, 2026|
 |**Rippling / Google**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|🔥 Nov 14, 2026|
 |**Compass International Holdings**|[Design a Contact-Centric Email Inbox](https://www.fastprep.io/system-design/contact-centric-email-inbox)|[![Practice][p]](https://www.fastprep.io/system-design/contact-centric-email-inbox)|🔥 Nov 14, 2026|
 |**Agoda / Amazon**|[Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|🔥 Nov 13, 2026|
@@ -40,7 +43,6 @@
 |**DoorDash / ION Group**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Nov 09, 2026|
 |**Amazon / Meta / ByteDance / Harvey / Clio / Microsoft / Wayfair / Apple**|[Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage)|🔥 Nov 09, 2026|
 |**Pinterest / OpenAI / Axon / Tesla**|[Design a Blob Storage Service](https://www.fastprep.io/system-design/blob-storage-service)|[![Practice][p]](https://www.fastprep.io/system-design/blob-storage-service)|🔥 Nov 09, 2026|
-|**OnePay / Razorpay / Infosys / BNSF Railway / Agoda**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 08, 2026|
 |**DocuSign / Agoda**|[Design a Live Location Tracking Service](https://www.fastprep.io/system-design/live-location-tracking-service)|[![Practice][p]](https://www.fastprep.io/system-design/live-location-tracking-service)|🔥 Nov 08, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Nov 07, 2026|
 |**Oracle / Nubank**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|🔥 Nov 07, 2026|
@@ -123,7 +125,6 @@
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🆕 Oct 21, 2026|
 |**eBay**|[Design a Multi-Tenant Model Registry and Sharing Platform](https://www.fastprep.io/system-design/multi-tenant-model-registry-and-sharing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-model-registry-and-sharing-platform)|🆕 Oct 21, 2026|
 |**Amazon**|[Design a Prescription Eyewear Ordering Platform](https://www.fastprep.io/system-design/prescription-eyewear-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/prescription-eyewear-ordering-platform)|🆕 Oct 21, 2026|
-|**Pinterest / Slack / Motive**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🆕 Oct 21, 2026|
 |**Pinterest / Apple**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|🆕 Oct 21, 2026|
 |**Syfe / Google**|[Design A Token-Limited Multi-Profile Chat](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|[![Practice][p]](https://www.fastprep.io/system-design/token-limited-multi-profile-chat)|🆕 Oct 21, 2026|
 |**Okta**|[Design a Device Status Collection Platform](https://www.fastprep.io/system-design/device-status-collection-platform)|[![Practice][p]](https://www.fastprep.io/system-design/device-status-collection-platform)|🆕 Oct 21, 2026|
@@ -507,7 +508,6 @@
 |**Meta / Decagon / Google**|[Design a Live-Session Conversational Chatbot](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/live-session-conversational-chatbot)|Jun 30, 2026|
 |**exacare ai**|[Design an RSS Feed Backend with Web Push Notifications](https://www.fastprep.io/system-design/rss-feed-web-push-notification-backend)|[![Practice][p]](https://www.fastprep.io/system-design/rss-feed-web-push-notification-backend)|Jun 28, 2026|
 |**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
-|**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
 |**The Walt Disney Company**|[Design a Ranked Social Network Platform](https://www.fastprep.io/system-design/ranked-social-network-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ranked-social-network-platform)|Jun 19, 2026|
 |**Hebbia**|[Multi-Agent Financial Research Assistant](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|Jun 18, 2026|
 |**Amazon / Wayfair**|[Design a Vending Machine Fleet](https://www.fastprep.io/system-design/vending-machine-fleet)|[![Practice][p]](https://www.fastprep.io/system-design/vending-machine-fleet)|Jun 15, 2026|

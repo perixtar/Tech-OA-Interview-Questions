@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Passing Cars](https://www.fastprep.io/problems/bloomberg-passing-cars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-passing-cars)|Nov 15, 2021|
 |**Vanguard**|[Tool List: Two Smallest Values](https://www.fastprep.io/problems/vanguard-tool-list-two-minima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-tool-list-two-minima)|Nov 08, 2021|
 |**Figma**|[Presentation Template Version Updates](https://www.fastprep.io/system-design/presentation-template-version-updates)|System design|[![Practice][p]](https://www.fastprep.io/system-design/presentation-template-version-updates)|Oct 30, 2021|
 |**Figma**|[Template and Instance Override Model](https://www.fastprep.io/low-level-design/template-instance-override-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/template-instance-override-model)|Oct 26, 2021|
