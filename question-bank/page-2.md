@@ -1242,6 +1242,7 @@
 |**Notion**|[Debug a Mini Notion App](https://www.fastprep.io/project-coding/notion-debug-mini-notion)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/notion-debug-mini-notion)|Jun 29, 2026|
 |**Datadog**|[Mean Binary Focal Loss](https://www.fastprep.io/problems/datadog-binary-focal-loss)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-binary-focal-loss)|Jun 28, 2026|
 |**Datadog**|[Grouped-Query Attention Forward Pass](https://www.fastprep.io/problems/datadog-grouped-query-attention)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-grouped-query-attention)|Jun 28, 2026|
+|**exacare ai**|[Design an RSS Feed Backend with Web Push Notifications](https://www.fastprep.io/system-design/rss-feed-web-push-notification-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rss-feed-web-push-notification-backend)|Jun 28, 2026|
 |**SeekOut**|[Merge Intervals](https://www.fastprep.io/problems/seekout-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/seekout-merge-intervals)|Jun 27, 2026|
 |**Amazon**|[Repair Banking App Role-Based Access Control](https://www.fastprep.io/project-coding/repair-banking-access-control)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-banking-access-control)|Jun 27, 2026|
 |**Headlands Technologies**|[Market Order Book](https://www.fastprep.io/problems/headlands-market-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-market-order-book)|Jun 25, 2026|
@@ -1744,5 +1745,4 @@
 |**Bloomberg LP**|[Find Median from Data Stream](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Nov 08, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
 |**Duolingo**|[Longest Decreasing Matrix Path with Limited Relaxations](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Nov 05, 2025|
-|**Duolingo**|[Validate a Mahjong Hand Partition](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Nov 05, 2025|
 <a id="bottom"></a>
