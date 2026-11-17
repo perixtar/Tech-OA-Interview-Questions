@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**694 questions**
+**696 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -623,6 +623,7 @@
 |**NVIDIA**|[Design Few-Shot Vision-Language Model Adaptation](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|[![Practice][p]](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|Sep 13, 2024|
 |**NVIDIA**|[Design a Visual Conversation and Speech Assistant](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|Sep 13, 2024|
 |**NVIDIA**|[Design Continued Multimodal Model Pretraining](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|[![Practice][p]](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|Sep 13, 2024|
+|**Adobe**|[Design a Web App With Password Login](https://www.fastprep.io/system-design/password-login-web-app-architecture)|[![Practice][p]](https://www.fastprep.io/system-design/password-login-web-app-architecture)|Sep 01, 2024|
 |**Highspot**|[Design a Greeting Card E-Commerce Marketplace](https://www.fastprep.io/system-design/greeting-card-marketplace)|[![Practice][p]](https://www.fastprep.io/system-design/greeting-card-marketplace)|Aug 03, 2024|
 |**Samsara**|[Design a Fleet Fuel Payment Monitoring Platform](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|Jul 22, 2024|
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
@@ -636,6 +637,7 @@
 |**Optiver**|[Design a Cross-Site Stock Trading Application](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|[![Practice][p]](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|Jan 23, 2024|
 |**Google**|[Design Near-Duplicate Image Detection](https://www.fastprep.io/system-design/near-duplicate-image-detection)|[![Practice][p]](https://www.fastprep.io/system-design/near-duplicate-image-detection)|Jan 16, 2024|
 |**Navan**|[Design a Cross-Device Video Resume Service](https://www.fastprep.io/system-design/cross-device-video-resume-service)|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-video-resume-service)|Oct 04, 2023|
+|**Adobe**|[Design Tables for a National ID Registry](https://www.fastprep.io/system-design/national-id-registry-data-model)|[![Practice][p]](https://www.fastprep.io/system-design/national-id-registry-data-model)|Aug 09, 2023|
 |**WhatNot**|[Design a Livestream Ranking Serving API](https://www.fastprep.io/system-design/livestream-ranking-serving-api)|[![Practice][p]](https://www.fastprep.io/system-design/livestream-ranking-serving-api)|Jul 14, 2023|
 |**WhatNot**|[Design Daily JSON Ingestion into a Data Warehouse](https://www.fastprep.io/system-design/daily-json-warehouse-ingestion)|[![Practice][p]](https://www.fastprep.io/system-design/daily-json-warehouse-ingestion)|Jun 30, 2023|
 |**Headlands Technologies**|[Design Distributed Unused-Code Analysis](https://www.fastprep.io/system-design/distributed-unused-code-analysis)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-unused-code-analysis)|Jun 28, 2023|

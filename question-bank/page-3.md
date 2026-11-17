@@ -866,6 +866,7 @@
 |**Deutsche Bank**|[Give Min Sum](https://www.fastprep.io/problems/deutsche-bank-give-minimum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deutsche-bank-give-minimum-sum)|Sep 03, 2024|
 |**Google**|[Sum of Distances in Tree](https://www.fastprep.io/problems/google-sum-of-distances-in-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-sum-of-distances-in-tree)|Sep 03, 2024|
 |**Klaviyo**|[Key-Value Locks with Waiting Queues](https://www.fastprep.io/problems/klaviyo-key-value-lock-wait-queues)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-key-value-lock-wait-queues)|Sep 02, 2024|
+|**Adobe**|[Design a Web App With Password Login](https://www.fastprep.io/system-design/password-login-web-app-architecture)|System design|[![Practice][p]](https://www.fastprep.io/system-design/password-login-web-app-architecture)|Sep 01, 2024|
 |**Amazon**|[Get Min Size](https://www.fastprep.io/problems/amazon-get-min-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-size)|Aug 30, 2024|
 |**Salesforce**|[Get Perfect Pairs Count](https://www.fastprep.io/problems/salesforce-get-perfect-pairs-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-perfect-pairs-count)|Aug 30, 2024|
 |**Salesforce**|[Minimal Operations](https://www.fastprep.io/problems/salesforce-minimal-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimal-operations)|Aug 30, 2024|
@@ -1579,6 +1580,7 @@
 |**Palantir**|[Employee Names With Access Records](https://www.fastprep.io/problems/palantir-employees-with-access-logs)|SQL|[![Practice][p]](https://www.fastprep.io/problems/palantir-employees-with-access-logs)|Aug 11, 2023|
 |**Palantir**|[Extraordinary Substrings](https://www.fastprep.io/problems/palantir-extraordinary-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-extraordinary-substrings)|Aug 11, 2023|
 |**Headlands Technologies**|[Checked Recursive Sum](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-checked-recursive-sum)|Aug 10, 2023|
+|**Adobe**|[Design Tables for a National ID Registry](https://www.fastprep.io/system-design/national-id-registry-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/national-id-registry-data-model)|Aug 09, 2023|
 |**Arcesium**|[Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Aug 05, 2023|
 |**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
 |**Datadog**|[Encoded String Match](https://www.fastprep.io/problems/datadog-encoded-string-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-encoded-string-match)|Aug 03, 2023|
@@ -1845,6 +1847,4 @@
 |**Yelp**|[Design a Priority Venue Invitation Platform](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|Nov 19, 2021|
 |**ZipRecruiter**|[Add Numbers Stored in Four-Digit Chunks](https://www.fastprep.io/problems/ziprecruiter-add-four-digit-chunk-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-add-four-digit-chunk-numbers)|Nov 19, 2021|
 |**ZipRecruiter**|[Add Two Numeric Strings with Carry](https://www.fastprep.io/problems/ziprecruiter-add-numeric-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-add-numeric-strings)|Nov 19, 2021|
-|**ZipRecruiter**|[Expand Decimal Digits into Runs of Ones](https://www.fastprep.io/problems/ziprecruiter-expand-digits-to-ones)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-expand-digits-to-ones)|Nov 19, 2021|
-|**ZipRecruiter**|[Website Pair with the Most Common Visitors](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Nov 19, 2021|
 <a id="bottom"></a>
