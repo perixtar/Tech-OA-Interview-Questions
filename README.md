@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (694)](formats/system-design.md) · [Low-level design (211)](formats/low-level-design.md) · [AI coding (220)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (694)](formats/system-design.md) · [Low-level design (211)](formats/low-level-design.md) · [AI coding (222)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -423,7 +423,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Longest Duplicate Substring](https://www.fastprep.io/problems/google-longest-duplicate-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-duplicate-substring)|🆕 Oct 27, 2026|
 |**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🆕 Oct 27, 2026|
 |**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP / OpenAI / New Relic / Datadog / WhatNot**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🆕 Oct 27, 2026|
-|**Commvault / Oracle**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🆕 Oct 27, 2026|
+|**Commvault / Oracle / Adobe**|[Design a Chess Move Validation Model](https://www.fastprep.io/low-level-design/chess-move-validation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/chess-move-validation)|🆕 Oct 27, 2026|
 |**Nextdoor**|[Design a Neighborhood News Feed with Black-Box Ranking](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/neighborhood-news-feed-with-black-box-ranking)|🆕 Oct 27, 2026|
 |**Oracle**|[Design Safe Patching and Image Rollout for a Storage Fleet](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/storage-fleet-patching-and-image-rollout)|🆕 Oct 27, 2026|
 |**Rippling**|[Stateful Log Transform and Search](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search)|🆕 Oct 27, 2026|
