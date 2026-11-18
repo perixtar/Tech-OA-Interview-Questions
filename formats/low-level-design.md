@@ -2,16 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**215 questions**
+**220 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Benchling / Oracle**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|🔥 Nov 17, 2026|
+|**Oracle**|[Design a Capacity-Based Job Assignment Tracker](https://www.fastprep.io/low-level-design/capacity-job-assignment-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/capacity-job-assignment-tracker)|🔥 Nov 17, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank / GitHub**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Nov 16, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Nov 15, 2026|
+|**Kotak Mahindra Bank**|[Design and Implement Meeting Room Search and Booking](https://www.fastprep.io/low-level-design/meeting-room-search-and-booking)|[![Practice][p]](https://www.fastprep.io/low-level-design/meeting-room-search-and-booking)|🔥 Nov 15, 2026|
 |**Amazon / Omnissa / Deloitte**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🔥 Nov 14, 2026|
+|**Dell Technologies / AQR Capital Management**|[Design and Implement a Hash Map](https://www.fastprep.io/low-level-design/test-driven-hash-map)|[![Practice][p]](https://www.fastprep.io/low-level-design/test-driven-hash-map)|🔥 Nov 14, 2026|
+|**Angel One**|[Design a Stock Portfolio Profit Tracker](https://www.fastprep.io/low-level-design/stock-portfolio-profit-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/stock-portfolio-profit-tracker)|🔥 Nov 14, 2026|
+|**The D.E. Shaw Group**|[Design an Online Bookstore with Its SQL Queries](https://www.fastprep.io/low-level-design/online-bookstore-classes-and-queries)|[![Practice][p]](https://www.fastprep.io/low-level-design/online-bookstore-classes-and-queries)|🔥 Nov 14, 2026|
+|**Addepar**|[Design and Implement Payment Authorization Holds](https://www.fastprep.io/low-level-design/payment-authorization-holds)|[![Practice][p]](https://www.fastprep.io/low-level-design/payment-authorization-holds)|🔥 Nov 14, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Nov 13, 2026|
 |**Amazon**|[Design and Implement Hotel Room Pricing](https://www.fastprep.io/low-level-design/hotel-room-pricing)|[![Practice][p]](https://www.fastprep.io/low-level-design/hotel-room-pricing)|🔥 Nov 13, 2026|
 |**Nykaa / Navi / Atlys / Rippling / Swiggy**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Nov 12, 2026|
@@ -64,7 +70,6 @@
 |**Kotak Mahindra Bank**|[Design an Event Registration Domain](https://www.fastprep.io/low-level-design/event-registration-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/event-registration-management-domain)|🆕 Oct 04, 2026|
 |**Amazon**|[Design a TTL-Aware LRU Cache](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|Oct 03, 2026|
 |**OpenAI**|[Design and Implement an Extensible Three-Card Hand Evaluator](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-three-card-hand-evaluator)|Oct 02, 2026|
-|**Dell Technologies**|[Design and Implement a Hash Map](https://www.fastprep.io/low-level-design/test-driven-hash-map)|[![Practice][p]](https://www.fastprep.io/low-level-design/test-driven-hash-map)|Oct 02, 2026|
 |**Microsoft**|[Design and Implement an Attack-Path Graph Domain](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/attack-path-graph-domain)|Oct 02, 2026|
 |**Uber**|[Design and Implement a Social News Feed Domain](https://www.fastprep.io/low-level-design/social-news-feed-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/social-news-feed-domain)|Oct 01, 2026|
 |**Google**|[Design and Implement a Concurrent Priority Task Scheduler](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|Sep 30, 2026|

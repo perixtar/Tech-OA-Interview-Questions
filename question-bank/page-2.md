@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Reach a Meeting by Scheduled Trains](https://www.fastprep.io/problems/google-scheduled-train-meeting-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-scheduled-train-meeting-reachability)|Sep 20, 2026|
+|**Google**|[Reverse Vowels of a String](https://www.fastprep.io/problems/google-reverse-vowels-of-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reverse-vowels-of-string)|Sep 20, 2026|
+|**Google**|[Random Picks Excluding Recent Values](https://www.fastprep.io/problems/google-random-pick-excluding-recent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-random-pick-excluding-recent)|Sep 20, 2026|
+|**Stripe**|[WebSocket Load Balancer — Parts 1–5](https://www.fastprep.io/problems/stripe-websocket-load-balancer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-websocket-load-balancer)|Sep 20, 2026|
+|**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|Sep 19, 2026|
+|**Databricks**|[Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system)|Sep 19, 2026|
+|**Microsoft / Decagon**|[AI Receptionist Voice Chat](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|Sep 19, 2026|
+|**Airbnb**|[Customer Support Resolution Assistant](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|Sep 19, 2026|
+|**Walleye Capital**|[Equity Research Decision Intelligence](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|System design|[![Practice][p]](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|Sep 19, 2026|
 |**Microsoft / Optiver**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|Sep 19, 2026|
 |**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|Sep 19, 2026|
 |**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|Sep 19, 2026|
@@ -733,6 +742,7 @@
 |**Meta**|[Build an In-Memory Cloud Storage System](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|Aug 19, 2026|
 |**OpenAI**|[Design a GPU Worker Messaging Protocol](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|Aug 19, 2026|
 |**OpenAI**|[Message Serializer and Deserializer](https://www.fastprep.io/problems/openai-message-serializer-deserializer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-message-serializer-deserializer)|Aug 19, 2026|
+|**Rippling**|[Expense Approval Table in React](https://www.fastprep.io/project-coding/rippling-expense-approval-table)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-expense-approval-table)|Aug 19, 2026|
 |**IBM**|[Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|Aug 18, 2026|
 |**IBM**|[Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Aug 18, 2026|
 |**Pinterest**|[Design an Asynchronous Bulk Record Update Service](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|Aug 18, 2026|
@@ -808,6 +818,7 @@
 |**Figma**|[Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files)|System design|[![Practice][p]](https://www.fastprep.io/system-design/trending-design-files)|Aug 07, 2026|
 |**Bloomberg LP**|[Merge Intervals](https://www.fastprep.io/problems/bloomberg-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-intervals)|Aug 07, 2026|
 |**Bloomberg LP**|[Valid Palindrome II](https://www.fastprep.io/problems/bloomberg-valid-palindrome-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-palindrome-ii)|Aug 07, 2026|
+|**OpenAI**|[Design an AI Model Playground with Shareable Sessions](https://www.fastprep.io/system-design/shareable-ai-model-playground)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shareable-ai-model-playground)|Aug 07, 2026|
 |**Anthropic**|[Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|Aug 06, 2026|
 |**Rippling**|[Design a Frontend News Feed with Offline Virtualization](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|Aug 06, 2026|
 |**Amazon / Apple**|[Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|Aug 06, 2026|
@@ -899,7 +910,7 @@
 |**Susquehanna International Group (SIG)**|[Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Jul 30, 2026|
 |**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
 |**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|Jul 30, 2026|
-|**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
+|**Mercury Insurance**|[Build a CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
 |**TrueFoundry**|[Verify Words Sorted by a Custom Alphabet](https://www.fastprep.io/problems/truefoundry-verify-custom-alphabet-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/truefoundry-verify-custom-alphabet-order)|Jul 29, 2026|
 |**TrueFoundry**|[Versioned Array](https://www.fastprep.io/problems/truefoundry-versioned-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/truefoundry-versioned-array)|Jul 29, 2026|
 |**TrueFoundry**|[Interview Slot Booking](https://www.fastprep.io/problems/truefoundry-interview-slot-booking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/truefoundry-interview-slot-booking)|Jul 29, 2026|
@@ -1732,17 +1743,4 @@
 |**Intuit**|[Color a Grid with No Monochromatic Row or Column](https://www.fastprep.io/problems/intuit-no-monochromatic-rows-or-columns)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-no-monochromatic-rows-or-columns)|Nov 19, 2025|
 |**Intuit**|[Remove Punctuation and Stop Words](https://www.fastprep.io/problems/intuit-punctuation-stopword-cleanup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-punctuation-stopword-cleanup)|Nov 19, 2025|
 |**Bloomberg LP**|[Check Anagrams](https://www.fastprep.io/problems/bloomberg-valid-anagram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-anagram)|Nov 17, 2025|
-|**MathWorks**|[Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams)|Nov 16, 2025|
-|**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
-|**Rippling**|[Build a Max Heap](https://www.fastprep.io/problems/rippling-build-max-heap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-build-max-heap)|Nov 16, 2025|
-|**Rippling**|[Validate a DFS Traversal Order](https://www.fastprep.io/problems/rippling-valid-dfs-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-valid-dfs-order)|Nov 16, 2025|
-|**Rippling**|[Validate a Max Heap](https://www.fastprep.io/problems/rippling-validate-max-heap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-validate-max-heap)|Nov 16, 2025|
-|**Zip**|[Shortest Distance in a Graph](https://www.fastprep.io/problems/zip-graph-shortest-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-graph-shortest-distance)|Nov 14, 2025|
-|**Bloomberg LP**|[Subsets](https://www.fastprep.io/problems/bloomberg-subsets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-subsets)|Nov 13, 2025|
-|**Vanguard**|[Are They Pangrams](https://www.fastprep.io/problems/vanguard-are-they-pangrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-are-they-pangrams)|Nov 13, 2025|
-|**Vanguard**|[Missing Words](https://www.fastprep.io/problems/vanguard-missing-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-missing-words)|Nov 13, 2025|
-|**Vanguard**|[Spam Detection](https://www.fastprep.io/problems/vanguard-spam-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-spam-detection)|Nov 13, 2025|
-|**Rippling**|[Split Text by Multiple Delimiters](https://www.fastprep.io/problems/rippling-split-text-by-multiple-delimiters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-split-text-by-multiple-delimiters)|Nov 12, 2025|
-|**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
-|**Bloomberg LP**|[Flatten a Multilevel Singly Linked List](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Nov 11, 2025|
 <a id="bottom"></a>
