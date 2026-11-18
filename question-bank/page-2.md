@@ -618,6 +618,7 @@
 |**WeRide**|[Drawing Edge](https://www.fastprep.io/problems/weride-drawing-edge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-drawing-edge)|Aug 29, 2026|
 |**WeRide**|[Paint the Ceiling](https://www.fastprep.io/problems/weride-paint-the-ceiling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-paint-the-ceiling)|Aug 29, 2026|
 |**WeRide**|[Unequal Block Structure](https://www.fastprep.io/problems/weride-unequal-block-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/weride-unequal-block-structure)|Aug 29, 2026|
+|**Rippling**|[Colors List with Load More, Then Infinite Scroll](https://www.fastprep.io/project-coding/rippling-color-list-load-more-infinite-scroll)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-color-list-load-more-infinite-scroll)|Aug 29, 2026|
 |**Airbnb**|[In-Memory Database](https://www.fastprep.io/problems/airbnb-in-memory-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-in-memory-database)|Aug 28, 2026|
 |**Snowflake / Amperity / Fivetran**|[Design a Unified SaaS Analytics Platform](https://www.fastprep.io/system-design/unified-saas-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/unified-saas-analytics-platform)|Aug 28, 2026|
 |**NVIDIA**|[Autonomous-Driving Camera Perception Pipeline](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline)|Aug 28, 2026|
@@ -1744,5 +1745,4 @@
 |**Rippling**|[Split Text by Multiple Delimiters](https://www.fastprep.io/problems/rippling-split-text-by-multiple-delimiters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-split-text-by-multiple-delimiters)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Bloomberg LP**|[Flatten a Multilevel Singly Linked List](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Nov 11, 2025|
-|**Headlands Technologies**|[CPU Register Bitwise Operations](https://www.fastprep.io/problems/headlands-cpu-register-bitwise-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-cpu-register-bitwise-operations)|Nov 11, 2025|
 <a id="bottom"></a>
