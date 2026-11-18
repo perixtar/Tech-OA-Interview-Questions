@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**224 questions**
+**225 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Charta Health**|[Build an Autocomplete Search Box for Wikipedia Titles](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|[![Practice][p]](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|🔥 Nov 18, 2026|
 |**Anthropic**|[Debug a Byte-Pair Encoding Tokenizer (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-byte-pair-encoding-tokenizer)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-byte-pair-encoding-tokenizer)|🔥 Nov 14, 2026|
 |**Scale AI**|[Build a Daily Payment Report for Each Merchant](https://www.fastprep.io/project-coding/scale-ai-merchant-daily-payment-report)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-merchant-daily-payment-report)|🔥 Nov 13, 2026|
 |**Scale AI**|[Debug Coupon Expiry, a Tenant Permission Cache, and Duplicate Pages](https://www.fastprep.io/project-coding/scale-ai-coupon-permission-pagination-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-coupon-permission-pagination-debugging)|🔥 Nov 13, 2026|

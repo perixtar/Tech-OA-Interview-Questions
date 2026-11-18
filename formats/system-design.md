@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**696 questions**
+**698 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
 |**Pinterest / Slack / Motive / Affirm**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Nov 16, 2026|
 |**OnePay / Razorpay / Infosys / BNSF Railway / Agoda**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 15, 2026|
 |**Datadog / Bank of Montreal (BMO)**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|🔥 Nov 15, 2026|
@@ -37,7 +38,7 @@
 |**Amazon / Lyft / Google / Pinterest / Snowflake / Datadog / Decagon**|[Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler)|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler)|🔥 Nov 10, 2026|
 |**LinkedIn / Confluent / Shield AI / Snap Inc. / OpenAI / Datadog**|[CI/CD Pipeline Orchestration System](https://www.fastprep.io/system-design/ci-cd-pipeline-orchestration-system)|[![Practice][p]](https://www.fastprep.io/system-design/ci-cd-pipeline-orchestration-system)|🔥 Nov 10, 2026|
 |**ElevenLabs**|[AI-Assisted Commerce Platform](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|🔥 Nov 10, 2026|
-|**Pinterest / Amazon / Zoom / Goldman Sachs / Meta / Adobe**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🔥 Nov 10, 2026|
+|**Pinterest / Amazon / Zoom / Goldman Sachs / Meta / Adobe / Rippling**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🔥 Nov 10, 2026|
 |**Amazon**|[Design a Bootloader That Safely Updates Device Firmware](https://www.fastprep.io/system-design/bootloader-firmware-application-update)|[![Practice][p]](https://www.fastprep.io/system-design/bootloader-firmware-application-update)|🔥 Nov 10, 2026|
 |**Harvey**|[Design Bulk Document Question Answering into a Results Table](https://www.fastprep.io/system-design/bulk-document-question-answer-table)|[![Practice][p]](https://www.fastprep.io/system-design/bulk-document-question-answer-table)|🔥 Nov 10, 2026|
 |**LinkedIn**|[Design Required-Approver Resolution for Pull Requests](https://www.fastprep.io/system-design/pull-request-approver-resolution)|[![Practice][p]](https://www.fastprep.io/system-design/pull-request-approver-resolution)|🔥 Nov 10, 2026|
@@ -82,7 +83,7 @@
 |**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi / Meta / Yellow.ai / Morgan Stanley / The Walt Disney Company / Adobe**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Nov 03, 2026|
 |**Postman / JioStar**|[Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|🆕 Nov 03, 2026|
 |**Anthropic / Snap Inc. / Lyft / Fivetran / Temporal / Palantir / DigitalOcean**|[One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service)|[![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service)|🆕 Nov 02, 2026|
-|**Confluent / Oracle**|[Design a Durable Disposable Email Service](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|[![Practice][p]](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|🆕 Nov 02, 2026|
+|**Confluent / Oracle / Rippling**|[Design a Durable Disposable Email Service](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|[![Practice][p]](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|🆕 Nov 02, 2026|
 |**Anthropic / Reddit**|[Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability)|[![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability)|🆕 Nov 01, 2026|
 |**Reddit**|[Design a BigQuery Analytics Agent](https://www.fastprep.io/system-design/bigquery-analytics-agent)|[![Practice][p]](https://www.fastprep.io/system-design/bigquery-analytics-agent)|🆕 Nov 01, 2026|
 |**AMD**|[AI-Assisted Device Automation Workflow](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-device-automation-workflow)|🆕 Oct 31, 2026|
@@ -612,6 +613,7 @@
 |**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
 |**SpaceX**|[Design a Hardware Component Test Orchestration Platform](https://www.fastprep.io/system-design/hardware-component-test-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/hardware-component-test-orchestration)|Feb 27, 2025|
 |**Zipline**|[Design a Drone Route Planning Geospatial Platform](https://www.fastprep.io/system-design/drone-route-planning-geospatial-platform)|[![Practice][p]](https://www.fastprep.io/system-design/drone-route-planning-geospatial-platform)|Feb 22, 2025|
+|**Rippling**|[Design a Customer Document Review Queue](https://www.fastprep.io/system-design/customer-document-review-queue)|[![Practice][p]](https://www.fastprep.io/system-design/customer-document-review-queue)|Jan 23, 2025|
 |**Google**|[Design Distributed Article Word-Count Aggregation](https://www.fastprep.io/system-design/distributed-article-word-count)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-article-word-count)|Jan 21, 2025|
 |**Postman**|[Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|[![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|Jan 17, 2025|
 |**Confluent**|[Design Crash Recovery for a Single-Node Key-Value Store](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|Jan 16, 2025|
