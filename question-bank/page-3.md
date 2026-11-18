@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|
 |**Google**|[First Unique Event in a Stream](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Nov 08, 2025|
 |**Google**|[Stable Top K Frequent Words](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Nov 08, 2025|
 |**Character.AI**|[Transformer Route Optimization System](https://www.fastprep.io/system-design/transformer-route-optimization-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/transformer-route-optimization-system)|Nov 08, 2025|
@@ -1845,5 +1846,4 @@
 |**Confluent**|[Design a Priority-Aware Distributed Worker Platform](https://www.fastprep.io/system-design/priority-aware-distributed-worker-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-distributed-worker-platform)|Jan 15, 2022|
 |**Bloomberg LP**|[Add Two Numbers II](https://www.fastprep.io/problems/bloomberg-add-two-numbers-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-add-two-numbers-ii)|Jan 15, 2022|
 |**Bloomberg LP**|[Replace Characters in a Mutable String](https://www.fastprep.io/problems/bloomberg-replace-character-in-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-replace-character-in-string)|Jan 15, 2022|
-|**Bloomberg LP**|[Non-decreasing Array](https://www.fastprep.io/problems/bloomberg-non-decreasing-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-non-decreasing-array)|Jan 10, 2022|
 <a id="bottom"></a>

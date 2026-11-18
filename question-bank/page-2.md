@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft / Optiver**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|Sep 19, 2026|
+|**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|Sep 19, 2026|
+|**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|Sep 19, 2026|
 |**Capital One**|[Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|Sep 19, 2026|
 |**Hudson River Trading**|[Sorted Absolute-Difference Sums Across Cyclic Shifts](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|Sep 19, 2026|
 |**Hudson River Trading**|[Minimize Expression Value with Parentheses](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|Sep 19, 2026|
@@ -1306,6 +1309,7 @@
 |**Agoda**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Jun 08, 2026|
 |**Notion**|[Nested Todo List](https://www.fastprep.io/problems/notion-nested-todo-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-nested-todo-list)|Jun 07, 2026|
 |**Hebbia**|[Detect a Winner on a 3x3 Tic-Tac-Toe Board](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Jun 06, 2026|
+|**OpenAI**|[Design Rate Limits for an LLM Inference API](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|Jun 06, 2026|
 |**Amazon**|[Next Greater Element on a Stream](https://www.fastprep.io/problems/amazon-streaming-next-greater-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-streaming-next-greater-element)|Jun 05, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
 |**Notion**|[Design a Calendar Search and Sync Platform](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|Jun 05, 2026|
@@ -1433,7 +1437,6 @@
 |**Datadog**|[Design Server Latency Detection and On-Call Paging](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|System design|[![Practice][p]](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|Apr 15, 2026|
 |**Temporal**|[Concurrent Volley Shot](https://www.fastprep.io/problems/temporal-concurrent-volley-shot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-concurrent-volley-shot)|Apr 14, 2026|
 |**Amazon**|[Maximum Score With Non-Adjacent Values](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Apr 14, 2026|
-|**Stripe**|[Integrate and Enrich Contact API Data](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-contact-api-enrichment)|Apr 13, 2026|
 |**Amazon**|[Make Value Groups Contiguous](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Apr 13, 2026|
 |**Scale AI**|[Design an Insurance Claims RAG Agent](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|Apr 13, 2026|
 |**Scale AI**|[Free Windows Between Busy Intervals](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Apr 13, 2026|
@@ -1527,7 +1530,6 @@
 |**OpenAI**|[Minimum Dining Table Rotations](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|Mar 09, 2026|
 |**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
-|**Stripe**|[Request API Endpoints](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-json-api-client-integration)|Mar 04, 2026|
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
 |**Stripe**|[Repair Template Lookup, Arguments and Includes](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
 |**Stripe**|[BitFont Part 2 - Render a Word](https://www.fastprep.io/problems/stripe-bitfont-render-word-part2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-bitfont-render-word-part2)|Mar 04, 2026|
@@ -1701,7 +1703,6 @@
 |**Capital One**|[Design a Card Payment Processor](https://www.fastprep.io/system-design/card-payment-processor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/card-payment-processor)|Dec 08, 2025|
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Scale AI**|[Clock Hand Angle with Subsecond Precision](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Dec 07, 2025|
-|**Benchling**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Dec 06, 2025|
 |**Rippling**|[Minimum of a Convex Function](https://www.fastprep.io/problems/rippling-convex-function-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-convex-function-minimum)|Dec 06, 2025|
 |**Google**|[The Skyline Problem](https://www.fastprep.io/problems/google-the-skyline-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-the-skyline-problem)|Dec 04, 2025|
 |**Google**|[Run-Length Encode a String](https://www.fastprep.io/problems/google-run-length-encode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-run-length-encode-string)|Dec 04, 2025|
@@ -1744,5 +1745,4 @@
 |**Bloomberg LP**|[Flatten a Multilevel Singly Linked List](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Nov 11, 2025|
 |**Headlands Technologies**|[CPU Register Bitwise Operations](https://www.fastprep.io/problems/headlands-cpu-register-bitwise-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-cpu-register-bitwise-operations)|Nov 11, 2025|
 |**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
-|**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|
 <a id="bottom"></a>
