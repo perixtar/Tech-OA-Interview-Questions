@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**223 questions**
+**224 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -205,6 +205,7 @@
 |**JP Morgan Chase**|[Complete a Donation and Clothing Bank Workflow](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-aspire-donation-clothing-workflow)|Jul 27, 2024|
 |**JP Morgan Chase**|[Complete a Multilingual Volunteer Tutoring Platform](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-multilingual-volunteer-tutoring)|Jul 27, 2024|
 |**JP Morgan Chase**|[Complete an Intervention Tracking Website](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|Jul 27, 2024|
+|**Capital One**|[Accounting Automation Repair](https://www.fastprep.io/project-coding/capital-one-accounting-automation-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-accounting-automation-repair)|Jul 07, 2024|
 |**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
 |**The Walt Disney Company**|[Create and List Users with Spring Boot](https://www.fastprep.io/project-coding/the-walt-disney-company-create-and-list-users)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-create-and-list-users)|Jan 18, 2024|
 |**The Walt Disney Company**|[React Login and Conditional Home Navigation](https://www.fastprep.io/project-coding/the-walt-disney-company-react-login-navigation)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-react-login-navigation)|Jan 18, 2024|
