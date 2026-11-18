@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**229 questions**
+**232 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -19,6 +19,7 @@
 |**Stripe**|[Complete a Reconciliation Integration](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-balance-reconciliation-integration)|🔥 Nov 13, 2026|
 |**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|🔥 Nov 13, 2026|
 |**Bloomberg LP**|[Resolve Tickets in Multi-Tenant Matchmaking](https://www.fastprep.io/project-coding/bloomberg-matchmaking-engine-tickets)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-matchmaking-engine-tickets)|🔥 Nov 13, 2026|
+|**Bloomberg LP**|[Debug a Stock Exchange Order Book](https://www.fastprep.io/project-coding/bloomberg-debug-stock-exchange-order-book)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-stock-exchange-order-book)|🔥 Nov 13, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Nov 12, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|🔥 Nov 12, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 11, 2026|
@@ -172,6 +173,7 @@
 |**Stripe**|[Repair Template Lookup, Arguments and Includes](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
 |**Apple**|[Debug a UNet Segmentation Model](https://www.fastprep.io/project-coding/apple-unet-segmentation-debug)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-unet-segmentation-debug)|Feb 25, 2026|
 |**AMD**|[Repair a Command-Submission Fence Race](https://www.fastprep.io/project-coding/amd-repair-command-fence-race)|[![Practice][p]](https://www.fastprep.io/project-coding/amd-repair-command-fence-race)|Feb 12, 2026|
+|**OpenAI**|[Build a Toast Notification System](https://www.fastprep.io/project-coding/openai-toast-notification-system)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-toast-notification-system)|Feb 09, 2026|
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
 |**The Walt Disney Company**|[Display, Sort and Search Movie Titles and Years](https://www.fastprep.io/project-coding/the-walt-disney-company-movie-title-year-browser)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-movie-title-year-browser)|Jan 12, 2026|
 |**Motive**|[Integrate Geocoding and Route Services](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|Dec 23, 2025|
@@ -194,6 +196,7 @@
 |**Squarepoint Capital**|[Repair an Owned Vector](https://www.fastprep.io/project-coding/squarepoint-owned-vector-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/squarepoint-owned-vector-repair)|Jun 08, 2025|
 |**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
 |**Ramp**|[Single-Screen Tic Tac Toe](https://www.fastprep.io/project-coding/ramp-single-screen-tic-tac-toe)|[![Practice][p]](https://www.fastprep.io/project-coding/ramp-single-screen-tic-tac-toe)|May 08, 2025|
+|**OpenAI**|[Animate Streaming Chat Text](https://www.fastprep.io/project-coding/openai-streaming-text-animation)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-streaming-text-animation)|Apr 24, 2025|
 |**Checkr**|[Build a Spreadsheet Import and Read API](https://www.fastprep.io/project-coding/background-check-spreadsheet-import-api)|[![Practice][p]](https://www.fastprep.io/project-coding/background-check-spreadsheet-import-api)|Apr 19, 2025|
 |**IMC Trading**|[Stock Transfer Minimization](https://www.fastprep.io/project-coding/stock-transfer-minimization)|[![Practice][p]](https://www.fastprep.io/project-coding/stock-transfer-minimization)|Jan 29, 2025|
 |**Atlassian**|[Build a File Directory Tree](https://www.fastprep.io/project-coding/atlassian-file-directory-tree)|[![Practice][p]](https://www.fastprep.io/project-coding/atlassian-file-directory-tree)|Jan 23, 2025|

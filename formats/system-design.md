@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**709 questions**
+**710 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -10,6 +10,8 @@
 | :-- | :-- | :-: | :-- |
 |**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
 |**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
+|**Postman / Uber Freight / LinkedIn / Safe Security**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🔥 Nov 18, 2026|
+|**Atlassian**|[Design an AI Assistant for Project Status, Risks and Blockers](https://www.fastprep.io/system-design/project-status-ai-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/project-status-ai-assistant)|🔥 Nov 18, 2026|
 |**Pinterest / Amazon / Zoom / Goldman Sachs / Meta / Adobe / Rippling / Plaud / Nextdoor**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🔥 Nov 17, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 17, 2026|
 |**Oracle / Crusoe**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 17, 2026|
@@ -157,7 +159,6 @@
 |**Klaviyo**|[AI Engineer Intern Mock: Explain and Extend Your AI Project](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|[![Practice][p]](https://www.fastprep.io/system-design/mock-ai-intern-project-retrospective)|🆕 Oct 16, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🆕 Oct 16, 2026|
 |**Apple**|[Design a Distributed Cache with an Index Database](https://www.fastprep.io/system-design/distributed-cache-with-index-metadata)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-cache-with-index-metadata)|🆕 Oct 16, 2026|
-|**Postman / Uber Freight / LinkedIn / Safe Security**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🆕 Oct 16, 2026|
 |**Broccoli AI**|[Design a Cross-Network Social Feed](https://www.fastprep.io/system-design/cross-platform-social-feed)|[![Practice][p]](https://www.fastprep.io/system-design/cross-platform-social-feed)|🆕 Oct 16, 2026|
 |**Amazon**|[Design a Vaccination Appointment Platform](https://www.fastprep.io/system-design/vaccination-appointment-platform)|[![Practice][p]](https://www.fastprep.io/system-design/vaccination-appointment-platform)|🆕 Oct 16, 2026|
 |**Google**|[Design a Pull-Based Server Metrics Monitor](https://www.fastprep.io/system-design/pull-based-server-metrics-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/pull-based-server-metrics-monitoring)|🆕 Oct 16, 2026|

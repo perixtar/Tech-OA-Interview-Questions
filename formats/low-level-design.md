@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**220 questions**
+**225 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -82,7 +82,7 @@
 |**PhonePe**|[Design and Implement a To-Do Workflow Application](https://www.fastprep.io/low-level-design/to-do-workflow-application)|[![Practice][p]](https://www.fastprep.io/low-level-design/to-do-workflow-application)|Sep 29, 2026|
 |**Amazon**|[Design an Extensible Financial Account with Charges and Tax](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|Sep 27, 2026|
 |**PayPay / Fox Corporation**|[Design a Payment Transaction State Machine](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|[![Practice][p]](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|Sep 25, 2026|
-|**Salesforce / The Trade Desk / Morgan Stanley / Microsoft**|[Design an Elevator Control System](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|Sep 25, 2026|
+|**Salesforce / The Trade Desk / Morgan Stanley / Microsoft / C3.ai**|[Design an Elevator Control System](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain)|Sep 25, 2026|
 |**Goldman Sachs / Meesho**|[Design a Brokerage Order Processing Domain](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain)|Sep 25, 2026|
 |**Eightfold**|[Design Recurring Meeting-Room Booking](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|Sep 25, 2026|
 |**Amazon / The Trade Desk / Tekion / Navan**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|Sep 24, 2026|
@@ -150,14 +150,17 @@
 |**Squarepoint Capital**|[Manage a Resource with Smart Pointers](https://www.fastprep.io/low-level-design/smart-pointer-resource-lifetime)|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-resource-lifetime)|Jul 01, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 |**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
+|**Microsoft**|[Design a Constant-Time Parking Lot](https://www.fastprep.io/low-level-design/constant-time-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/constant-time-parking-lot)|Jun 17, 2026|
 |**Amazon**|[Design an Advertising Campaign Metrics Tracker](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Jun 12, 2026|
 |**Onehouse**|[Design a Thread-Safe In-Memory Workflow Orchestrator](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Jun 10, 2026|
 |**Shopify**|[Design and Implement Movie Seat Reservations](https://www.fastprep.io/low-level-design/cinema-seat-reservations)|[![Practice][p]](https://www.fastprep.io/low-level-design/cinema-seat-reservations)|Jun 03, 2026|
 |**Amazon / AMD**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
 |**Stripe**|[Design a Business KYC Verification Domain](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|Mar 27, 2026|
+|**Microsoft**|[Design a Car Rental System with Design Patterns](https://www.fastprep.io/low-level-design/car-rental-design-patterns)|[![Practice][p]](https://www.fastprep.io/low-level-design/car-rental-design-patterns)|Mar 19, 2026|
 |**Bloomberg LP**|[Design an O(1) Randomized Set](https://www.fastprep.io/low-level-design/o1-randomized-set)|[![Practice][p]](https://www.fastprep.io/low-level-design/o1-randomized-set)|Feb 19, 2026|
 |**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Feb 07, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
+|**Microsoft**|[Design a Tic-Tac-Toe Game](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Jan 29, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
 |**Citadel**|[Four-Exit Roundabout Simulator](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|[![Practice][p]](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Jan 16, 2026|
@@ -167,6 +170,7 @@
 |**Benchling**|[Design a Versioned Laboratory Notebook](https://www.fastprep.io/low-level-design/versioned-laboratory-notebook)|[![Practice][p]](https://www.fastprep.io/low-level-design/versioned-laboratory-notebook)|Dec 21, 2025|
 |**Workday**|[Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Dec 18, 2025|
 |**IMC Trading**|[Design an In-Memory Hotel Reservation System](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|Dec 18, 2025|
+|**Microsoft**|[Design a Stock Exchange with Trader Accounts](https://www.fastprep.io/low-level-design/stock-exchange-with-accounts)|[![Practice][p]](https://www.fastprep.io/low-level-design/stock-exchange-with-accounts)|Dec 11, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
@@ -212,6 +216,7 @@
 |**Checkr**|[Design Enterprise Background-Check Rule Storage](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|[![Practice][p]](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Dec 14, 2021|
 |**Apple**|[Design a Priority and Arrival-Time Scheduler](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|Nov 28, 2021|
 |**Apple**|[Design a Single-Branch Car Rental](https://www.fastprep.io/low-level-design/single-branch-car-rental)|[![Practice][p]](https://www.fastprep.io/low-level-design/single-branch-car-rental)|Nov 21, 2021|
+|**C3.ai**|[Design a Flight Seat Booking System](https://www.fastprep.io/low-level-design/flight-seat-booking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-seat-booking-system)|Nov 19, 2021|
 |**Figma**|[Template and Instance Override Model](https://www.fastprep.io/low-level-design/template-instance-override-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/template-instance-override-model)|Oct 26, 2021|
 |**Wayfair**|[Review and Redesign a Shape Controller](https://www.fastprep.io/low-level-design/shape-controller-design-review)|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-controller-design-review)|Aug 31, 2021|
 |**Morgan Stanley**|[Design Vaccination Centre Reservations](https://www.fastprep.io/low-level-design/vaccination-centre-reservations)|[![Practice][p]](https://www.fastprep.io/low-level-design/vaccination-centre-reservations)|Aug 13, 2021|

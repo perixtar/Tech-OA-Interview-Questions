@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Rippling**|[Song Play Analytics](https://www.fastprep.io/problems/rippling-song-play-analytics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-song-play-analytics)|Nov 20, 2025|
+|**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
+|**Rippling**|[Median of Parsed Integer Strings](https://www.fastprep.io/problems/rippling-parsed-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-parsed-median)|Nov 19, 2025|
+|**HSBC**|[Minimum Markers to Clear Line Segments](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Nov 19, 2025|
+|**Intuit**|[Return Duplicate Records](https://www.fastprep.io/problems/intuit-duplicate-records)|SQL|[![Practice][p]](https://www.fastprep.io/problems/intuit-duplicate-records)|Nov 19, 2025|
+|**Intuit**|[Color a Grid with No Monochromatic Row or Column](https://www.fastprep.io/problems/intuit-no-monochromatic-rows-or-columns)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-no-monochromatic-rows-or-columns)|Nov 19, 2025|
+|**Intuit**|[Remove Punctuation and Stop Words](https://www.fastprep.io/problems/intuit-punctuation-stopword-cleanup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-punctuation-stopword-cleanup)|Nov 19, 2025|
+|**Bloomberg LP**|[Check Anagrams](https://www.fastprep.io/problems/bloomberg-valid-anagram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-anagram)|Nov 17, 2025|
 |**MathWorks**|[Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams)|Nov 16, 2025|
 |**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
 |**Rippling**|[Build a Max Heap](https://www.fastprep.io/problems/rippling-build-max-heap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-build-max-heap)|Nov 16, 2025|
@@ -355,6 +363,7 @@
 |**Amazon**|[Min Dock Bays](https://www.fastprep.io/problems/amazon-get-minimum-dock-bays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-dock-bays)|Apr 27, 2025|
 |**Amazon**|[Find Idle Skill Query](https://www.fastprep.io/problems/amazon-find-idle-skills-query)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-idle-skills-query)|Apr 27, 2025|
 |**Amazon**|[Compute Beauty of Array Products](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Apr 27, 2025|
+|**OpenAI**|[Animate Streaming Chat Text](https://www.fastprep.io/project-coding/openai-streaming-text-animation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/openai-streaming-text-animation)|Apr 24, 2025|
 |**Datadog**|[Count Repeated Word Occurrences](https://www.fastprep.io/problems/datadog-count-word-repetitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-word-repetitions)|Apr 23, 2025|
 |**Datadog**|[File Sizes Under Directory Paths](https://www.fastprep.io/problems/datadog-directory-file-sizes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-directory-file-sizes)|Apr 23, 2025|
 |**Zip**|[Design Personalized Customer Document Search](https://www.fastprep.io/system-design/personalized-customer-document-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-customer-document-search)|Apr 21, 2025|
@@ -1839,12 +1848,4 @@
 |**ZipRecruiter**|[Single-Digit Addition Equation Repairs](https://www.fastprep.io/problems/ziprecruiter-single-digit-equation-repairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-single-digit-equation-repairs)|Feb 26, 2022|
 |**ZipRecruiter**|[Largest Square in a Histogram](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Feb 22, 2022|
 |**ZipRecruiter**|[Peak Elements in Removal Order](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Feb 22, 2022|
-|**Meta**|[Find an Equal-Sum Split](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Feb 21, 2022|
-|**Expedia**|[Design a Travel Map App's Places and Routes](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Feb 19, 2022|
-|**Airbnb**|[Fraction to Recurring Decimal](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Feb 18, 2022|
-|**ZipRecruiter**|[Multiset Intersection of Three Lists](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Feb 17, 2022|
-|**ZipRecruiter**|[Rotation with at Most Three Mismatches](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Feb 17, 2022|
-|**Coinbase**|[Design a Social Feed Read API](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Feb 15, 2022|
-|**Optiver**|[Traveling the Graphs](https://www.fastprep.io/problems/optiver-traveling-the-graphs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-traveling-the-graphs)|Feb 13, 2022|
-|**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|SQL|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
 <a id="bottom"></a>

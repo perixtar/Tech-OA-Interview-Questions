@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Meta**|[Find an Equal-Sum Split](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Feb 21, 2022|
+|**Expedia**|[Design a Travel Map App's Places and Routes](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Feb 19, 2022|
+|**Airbnb**|[Fraction to Recurring Decimal](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Feb 18, 2022|
+|**ZipRecruiter**|[Multiset Intersection of Three Lists](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Feb 17, 2022|
+|**ZipRecruiter**|[Rotation with at Most Three Mismatches](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Feb 17, 2022|
+|**Coinbase**|[Design a Social Feed Read API](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/social-feed-read-api-contracts)|Feb 15, 2022|
+|**Optiver**|[Traveling the Graphs](https://www.fastprep.io/problems/optiver-traveling-the-graphs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-traveling-the-graphs)|Feb 13, 2022|
+|**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|SQL|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
 |**Airbnb**|[Median of Two Sorted Arrays](https://www.fastprep.io/problems/airbnb-median-of-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-median-of-two-sorted-arrays)|Feb 07, 2022|
 |**Adobe**|[Print Numbers in Order With Odd and Even Threads](https://www.fastprep.io/project-coding/odd-even-printer-threads)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/odd-even-printer-threads)|Feb 03, 2022|
 |**Bloomberg LP**|[Character Intersection and Frequency Ordering](https://www.fastprep.io/problems/bloomberg-character-intersection-and-frequency-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-character-intersection-and-frequency-order)|Jan 31, 2022|
@@ -41,6 +49,7 @@
 |**ZipRecruiter**|[Add Two Numeric Strings with Carry](https://www.fastprep.io/problems/ziprecruiter-add-numeric-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-add-numeric-strings)|Nov 19, 2021|
 |**ZipRecruiter**|[Expand Decimal Digits into Runs of Ones](https://www.fastprep.io/problems/ziprecruiter-expand-digits-to-ones)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-expand-digits-to-ones)|Nov 19, 2021|
 |**ZipRecruiter**|[Website Pair with the Most Common Visitors](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Nov 19, 2021|
+|**C3.ai**|[Design a Flight Seat Booking System](https://www.fastprep.io/low-level-design/flight-seat-booking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-seat-booking-system)|Nov 19, 2021|
 |**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 |**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
 |**Bloomberg LP**|[Passing Cars](https://www.fastprep.io/problems/bloomberg-passing-cars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-passing-cars)|Nov 15, 2021|
