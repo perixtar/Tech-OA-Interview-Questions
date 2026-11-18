@@ -1568,6 +1568,7 @@
 |**Figma**|[Symmetric Binary Tree](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Feb 07, 2026|
 |**DoorDash**|[Minimum Batches Within a Time Window](https://www.fastprep.io/problems/doordash-minimum-time-window-batches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-time-window-batches)|Feb 07, 2026|
 |**DoorDash**|[Minimum Riders for Delivery Intervals](https://www.fastprep.io/problems/doordash-minimum-delivery-riders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-delivery-riders)|Feb 07, 2026|
+|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Feb 07, 2026|
 |**Hebbia**|[LRU Cache Snapshot Printer](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Feb 06, 2026|
 |**Salesforce**|[Collect Opportunity Data in a Tree](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Feb 06, 2026|
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
@@ -1744,5 +1745,4 @@
 |**Bloomberg LP**|[Design a Distributed Commit Log](https://www.fastprep.io/system-design/distributed-commit-log)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-commit-log)|Nov 08, 2025|
 |**Bloomberg LP**|[Find Median from Data Stream](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Nov 08, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
-|**Duolingo**|[Longest Decreasing Matrix Path with Limited Relaxations](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Nov 05, 2025|
 <a id="bottom"></a>

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Duolingo**|[Longest Decreasing Matrix Path with Limited Relaxations](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Nov 05, 2025|
 |**Duolingo**|[Validate a Mahjong Hand Partition](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Nov 05, 2025|
 |**Bloomberg LP**|[LRU Cache Operations](https://www.fastprep.io/problems/bloomberg-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lru-cache)|Nov 05, 2025|
 |**Bloomberg LP**|[Shortest Currency Conversion Chain](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Nov 05, 2025|
@@ -1267,7 +1268,6 @@
 |**Zscaler**|[Count Sentences](https://www.fastprep.io/problems/zscaler-count-sentences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-sentences)|Mar 09, 2024|
 |**WhatNot**|[Split Text into Fixed-Length Chunks](https://www.fastprep.io/problems/whatnot-fixed-length-string-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-fixed-length-string-split)|Mar 09, 2024|
 |**Sentry**|[Five-Minute Hit Counter](https://www.fastprep.io/problems/sentry-five-minute-hit-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-five-minute-hit-counter)|Mar 08, 2024|
-|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
 |**Optiver**|[Get Biggest Lions](https://www.fastprep.io/problems/get-biggest-lions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-biggest-lions)|Mar 06, 2024|
 |**Airbnb**|[Minimum Eating Speed](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Mar 06, 2024|
 |**Google**|[Largest Lexicographical Substring](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Mar 05, 2024|
