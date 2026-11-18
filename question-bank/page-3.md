@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[First Unique Event in a Stream](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Nov 08, 2025|
+|**Google**|[Stable Top K Frequent Words](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Nov 08, 2025|
+|**Character.AI**|[Transformer Route Optimization System](https://www.fastprep.io/system-design/transformer-route-optimization-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/transformer-route-optimization-system)|Nov 08, 2025|
 |**Bloomberg LP**|[Design a Distributed Commit Log](https://www.fastprep.io/system-design/distributed-commit-log)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-commit-log)|Nov 08, 2025|
 |**Bloomberg LP**|[Find Median from Data Stream](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Nov 08, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
@@ -44,6 +47,7 @@
 |**Temporal**|[Game of Life Next Generation](https://www.fastprep.io/problems/temporal-game-of-life)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-game-of-life)|Oct 19, 2025|
 |**WhatNot**|[Remove Duplicate Characters](https://www.fastprep.io/problems/whatnot-remove-duplicate-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-remove-duplicate-characters)|Oct 19, 2025|
 |**Google**|[Design Cost-Aware Content Integrity Decisions](https://www.fastprep.io/system-design/cost-aware-content-integrity-decisions)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-content-integrity-decisions)|Oct 18, 2025|
+|**Rippling**|[Design Driver Dispatch for Food Orders](https://www.fastprep.io/low-level-design/food-order-driver-dispatch-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-order-driver-dispatch-domain)|Oct 18, 2025|
 |**Scale AI**|[Party Windows and Dead Zone Time](https://www.fastprep.io/problems/scale-ai-party-windows-dead-zone-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-party-windows-dead-zone-time)|Oct 17, 2025|
 |**Google**|[Minimize the Maximum Pages Allocated](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|Oct 16, 2025|
 |**Microsoft**|[Distinct Number Line Moves](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|Oct 16, 2025|
@@ -446,6 +450,7 @@
 |**Meta**|[Making a Large Island](https://www.fastprep.io/problems/meta-making-a-large-island)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-making-a-large-island)|Feb 19, 2025|
 |**Meta**|[Randomly Select a Maximum-Value Index](https://www.fastprep.io/problems/meta-random-maximum-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-random-maximum-index)|Feb 19, 2025|
 |**Google**|[Maximum Subarray](https://www.fastprep.io/problems/google-maximum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray)|Feb 13, 2025|
+|**Rippling**|[Design a Professional Networking App's Core](https://www.fastprep.io/low-level-design/professional-network-core-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/professional-network-core-domain)|Feb 13, 2025|
 |**Amazon**|[Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Feb 10, 2025|
 |**TikTok**|[Playlist Partitioning](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Feb 09, 2025|
 |**TikTok**|[Change Username](https://www.fastprep.io/problems/tiktok-changing-username)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-changing-username)|Feb 09, 2025|
@@ -1841,10 +1846,4 @@
 |**Bloomberg LP**|[Add Two Numbers II](https://www.fastprep.io/problems/bloomberg-add-two-numbers-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-add-two-numbers-ii)|Jan 15, 2022|
 |**Bloomberg LP**|[Replace Characters in a Mutable String](https://www.fastprep.io/problems/bloomberg-replace-character-in-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-replace-character-in-string)|Jan 15, 2022|
 |**Bloomberg LP**|[Non-decreasing Array](https://www.fastprep.io/problems/bloomberg-non-decreasing-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-non-decreasing-array)|Jan 10, 2022|
-|**Wayfair**|[Audit Midnight Fleet Analytics and Reviewed Patch Rollout](https://www.fastprep.io/system-design/fleet-fault-to-reviewed-patch-rollout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fault-to-reviewed-patch-rollout)|Dec 24, 2021|
-|**Wayfair**|[Place a Completed-Game Analysis Library on Phone or Server](https://www.fastprep.io/system-design/completed-game-analysis-placement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/completed-game-analysis-placement)|Dec 24, 2021|
-|**Bloomberg LP**|[Max Stack](https://www.fastprep.io/problems/bloomberg-max-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-max-stack)|Dec 17, 2021|
-|**Checkr**|[Design Enterprise Background-Check Rule Storage](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Dec 14, 2021|
-|**ZipRecruiter**|[Find the Smallest Magic Index](https://www.fastprep.io/problems/ziprecruiter-smallest-magic-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-smallest-magic-index)|Dec 05, 2021|
-|**Airbnb**|[Module Rebuild Costs](https://www.fastprep.io/problems/airbnb-module-rebuild-costs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-module-rebuild-costs)|Dec 01, 2021|
 <a id="bottom"></a>

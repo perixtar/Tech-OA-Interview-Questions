@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Wayfair**|[Audit Midnight Fleet Analytics and Reviewed Patch Rollout](https://www.fastprep.io/system-design/fleet-fault-to-reviewed-patch-rollout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fault-to-reviewed-patch-rollout)|Dec 24, 2021|
+|**Wayfair**|[Place a Completed-Game Analysis Library on Phone or Server](https://www.fastprep.io/system-design/completed-game-analysis-placement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/completed-game-analysis-placement)|Dec 24, 2021|
+|**Bloomberg LP**|[Max Stack](https://www.fastprep.io/problems/bloomberg-max-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-max-stack)|Dec 17, 2021|
+|**Checkr**|[Design Enterprise Background-Check Rule Storage](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Dec 14, 2021|
+|**ZipRecruiter**|[Find the Smallest Magic Index](https://www.fastprep.io/problems/ziprecruiter-smallest-magic-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-smallest-magic-index)|Dec 05, 2021|
+|**Airbnb**|[Module Rebuild Costs](https://www.fastprep.io/problems/airbnb-module-rebuild-costs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-module-rebuild-costs)|Dec 01, 2021|
 |**Apple**|[Design a Priority and Arrival-Time Scheduler](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|Nov 28, 2021|
 |**Bloomberg LP**|[Minimum Refueling Stops](https://www.fastprep.io/problems/bloomberg-minimum-refueling-stops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-refueling-stops)|Nov 24, 2021|
 |**Datadog**|[Count Coin Change Combinations](https://www.fastprep.io/problems/datadog-coin-change-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-coin-change-combinations)|Nov 22, 2021|

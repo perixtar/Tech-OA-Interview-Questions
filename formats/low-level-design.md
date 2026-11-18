@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**213 questions**
+**215 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Nov 15, 2026|
 |**Amazon / Omnissa / Deloitte**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🔥 Nov 14, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Nov 13, 2026|
 |**Amazon**|[Design and Implement Hotel Room Pricing](https://www.fastprep.io/low-level-design/hotel-room-pricing)|[![Practice][p]](https://www.fastprep.io/low-level-design/hotel-room-pricing)|🔥 Nov 13, 2026|
@@ -29,7 +30,6 @@
 |**Amazon**|[Design a Train Ticket Booking Service](https://www.fastprep.io/low-level-design/train-ticket-booking-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/train-ticket-booking-service)|🆕 Oct 26, 2026|
 |**The D.E. Shaw Group**|[Design a Round-Based Tactical Shooter Match](https://www.fastprep.io/low-level-design/tactical-shooter-match-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/tactical-shooter-match-domain)|🆕 Oct 26, 2026|
 |**Decagon**|[Design an AI Agent Rule Configuration Domain](https://www.fastprep.io/low-level-design/ai-agent-rule-configuration)|[![Practice][p]](https://www.fastprep.io/low-level-design/ai-agent-rule-configuration)|🆕 Oct 25, 2026|
-|**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🆕 Oct 24, 2026|
 |**Amazon**|[Design an Agentic Chatbot Domain](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|🆕 Oct 24, 2026|
 |**FamPay / Atlassian / Hudson River Trading**|[Design and Implement a Per-User Rate Limiter](https://www.fastprep.io/low-level-design/per-user-rate-limiter-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/per-user-rate-limiter-domain)|🆕 Oct 23, 2026|
 |**Angel One**|[Design a Price-Triggered Limit Order Domain](https://www.fastprep.io/low-level-design/price-triggered-limit-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/price-triggered-limit-order-domain)|🆕 Oct 23, 2026|
@@ -165,6 +165,7 @@
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
+|**Rippling**|[Design Driver Dispatch for Food Orders](https://www.fastprep.io/low-level-design/food-order-driver-dispatch-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-order-driver-dispatch-domain)|Oct 18, 2025|
 |**Squarepoint Capital**|[Demonstrate Four OOP Principles](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/four-oop-pillars-in-code)|Oct 16, 2025|
 |**Morgan Stanley**|[Model Room Appliances with OOP](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/room-appliance-oop-model)|Oct 11, 2025|
 |**Capital One**|[Design a Bank Customer's Credit and Debit Cards](https://www.fastprep.io/low-level-design/customer-account-credit-and-debit-cards)|[![Practice][p]](https://www.fastprep.io/low-level-design/customer-account-credit-and-debit-cards)|Oct 11, 2025|
@@ -176,6 +177,7 @@
 |**Postman**|[Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model)|May 15, 2025|
 |**Postman**|[Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application)|[![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application)|May 15, 2025|
 |**Roku**|[Design a Recurring Grocery Subscription Domain](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|Apr 08, 2025|
+|**Rippling**|[Design a Professional Networking App's Core](https://www.fastprep.io/low-level-design/professional-network-core-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/professional-network-core-domain)|Feb 13, 2025|
 |**Confluent**|[Design and Implement a Thread-Safe Delayed Task Runner](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Jan 16, 2025|
 |**Google**|[Design and Implement a Trie Search Index](https://www.fastprep.io/low-level-design/trie-search-index)|[![Practice][p]](https://www.fastprep.io/low-level-design/trie-search-index)|Dec 24, 2024|
 |**Navan**|[Design a Property Listing Service](https://www.fastprep.io/low-level-design/property-listing-service-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/property-listing-service-domain)|Dec 17, 2024|
