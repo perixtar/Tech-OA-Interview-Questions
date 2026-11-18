@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (703)](formats/system-design.md) · [Low-level design (215)](formats/low-level-design.md) · [AI coding (226)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (704)](formats/system-design.md) · [Low-level design (215)](formats/low-level-design.md) · [AI coding (226)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -39,6 +39,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Pinterest / Amazon / Zoom / Goldman Sachs / Meta / Adobe / Rippling / Plaud / Nextdoor**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🔥 Nov 17, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 17, 2026|
 |**Benchling / Oracle**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|🔥 Nov 17, 2026|
+|**Oracle / Crusoe**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 17, 2026|
 |**Pinterest / Slack / Motive / Affirm**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Nov 16, 2026|
 |**OnePay / Razorpay / Infosys / BNSF Railway / Agoda / Paytm**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 16, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 16, 2026|
@@ -80,7 +81,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Shopify**|[Design Learned Search Autocomplete](https://www.fastprep.io/system-design/learned-search-autocomplete)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-search-autocomplete)|🔥 Nov 12, 2026|
 |**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|System design|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🔥 Nov 11, 2026|
 |**Coinbase**|[Design a Crypto Asset Explore Page](https://www.fastprep.io/system-design/crypto-asset-explore-page)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crypto-asset-explore-page)|🔥 Nov 11, 2026|
-|**Oracle**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 11, 2026|
 |**Atlassian**|[Design Enterprise Search with AI-Generated Answers](https://www.fastprep.io/system-design/enterprise-search-with-ai-answers)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-search-with-ai-answers)|🔥 Nov 11, 2026|
 |**ClearTax / Motive / Meesho / Navan / ServiceNow / Amazon / Paytm / Rippling**|[Design a Movie Ticket Booking System](https://www.fastprep.io/low-level-design/movie-ticket-booking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-system)|🔥 Nov 11, 2026|
 |**Amazon / Druva**|[Design Device Backup and Restore](https://www.fastprep.io/system-design/device-backup-and-restore)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-backup-and-restore)|🔥 Nov 11, 2026|

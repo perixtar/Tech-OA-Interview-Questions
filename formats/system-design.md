@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**703 questions**
+**704 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,7 @@
 |**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
 |**Pinterest / Amazon / Zoom / Goldman Sachs / Meta / Adobe / Rippling / Plaud / Nextdoor**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🔥 Nov 17, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 17, 2026|
+|**Oracle / Crusoe**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 17, 2026|
 |**Pinterest / Slack / Motive / Affirm**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Nov 16, 2026|
 |**OnePay / Razorpay / Infosys / BNSF Railway / Agoda / Paytm**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 16, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 16, 2026|
@@ -36,7 +37,6 @@
 |**Shopify**|[Design Learned Search Autocomplete](https://www.fastprep.io/system-design/learned-search-autocomplete)|[![Practice][p]](https://www.fastprep.io/system-design/learned-search-autocomplete)|🔥 Nov 12, 2026|
 |**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🔥 Nov 11, 2026|
 |**Coinbase**|[Design a Crypto Asset Explore Page](https://www.fastprep.io/system-design/crypto-asset-explore-page)|[![Practice][p]](https://www.fastprep.io/system-design/crypto-asset-explore-page)|🔥 Nov 11, 2026|
-|**Oracle**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 11, 2026|
 |**Atlassian**|[Design Enterprise Search with AI-Generated Answers](https://www.fastprep.io/system-design/enterprise-search-with-ai-answers)|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-search-with-ai-answers)|🔥 Nov 11, 2026|
 |**Amazon / Druva**|[Design Device Backup and Restore](https://www.fastprep.io/system-design/device-backup-and-restore)|[![Practice][p]](https://www.fastprep.io/system-design/device-backup-and-restore)|🔥 Nov 11, 2026|
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|🔥 Nov 11, 2026|
@@ -383,6 +383,7 @@
 |**Apple**|[Design a Multi-Version Configuration Service](https://www.fastprep.io/system-design/multi-version-configuration-service)|[![Practice][p]](https://www.fastprep.io/system-design/multi-version-configuration-service)|Aug 25, 2026|
 |**Microsoft**|[Design a Ticket Context and System Status Platform](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|Aug 25, 2026|
 |**Waymo**|[Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|Aug 25, 2026|
+|**OpenAI**|[Design a Chat Assistant That Runs Agent Tasks](https://www.fastprep.io/system-design/chat-assistant-agent-tasks)|[![Practice][p]](https://www.fastprep.io/system-design/chat-assistant-agent-tasks)|Aug 25, 2026|
 |**Amazon / Microsoft**|[Design a Marketplace Product Search Service](https://www.fastprep.io/system-design/marketplace-product-search-service)|[![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-search-service)|Aug 24, 2026|
 |**JP Morgan Chase / Apple**|[Design a Multimodal RAG Retrieval Platform](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-rag-retrieval-platform)|Aug 24, 2026|
 |**JP Morgan Chase**|[Design a Region-Aware User Record Store](https://www.fastprep.io/system-design/region-aware-user-record-store)|[![Practice][p]](https://www.fastprep.io/system-design/region-aware-user-record-store)|Aug 24, 2026|

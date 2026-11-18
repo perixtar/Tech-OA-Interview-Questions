@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Replace Characters in a Mutable String](https://www.fastprep.io/problems/bloomberg-replace-character-in-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-replace-character-in-string)|Jan 15, 2022|
 |**Bloomberg LP**|[Non-decreasing Array](https://www.fastprep.io/problems/bloomberg-non-decreasing-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-non-decreasing-array)|Jan 10, 2022|
 |**Wayfair**|[Audit Midnight Fleet Analytics and Reviewed Patch Rollout](https://www.fastprep.io/system-design/fleet-fault-to-reviewed-patch-rollout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fault-to-reviewed-patch-rollout)|Dec 24, 2021|
 |**Wayfair**|[Place a Completed-Game Analysis Library on Phone or Server](https://www.fastprep.io/system-design/completed-game-analysis-placement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/completed-game-analysis-placement)|Dec 24, 2021|

@@ -645,6 +645,7 @@
 |**Apple**|[Design a Multi-Version Configuration Service](https://www.fastprep.io/system-design/multi-version-configuration-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-version-configuration-service)|Aug 25, 2026|
 |**Microsoft**|[Design a Ticket Context and System Status Platform](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|Aug 25, 2026|
 |**Waymo**|[Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|Aug 25, 2026|
+|**OpenAI**|[Design a Chat Assistant That Runs Agent Tasks](https://www.fastprep.io/system-design/chat-assistant-agent-tasks)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-assistant-agent-tasks)|Aug 25, 2026|
 |**Cerebras**|[Dense Vector Dot Product](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|Aug 24, 2026|
 |**IBM**|[Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|Aug 24, 2026|
 |**Goldman Sachs**|[Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|Aug 24, 2026|
@@ -1744,5 +1745,4 @@
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Bloomberg LP**|[Flatten a Multilevel Singly Linked List](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Nov 11, 2025|
 |**Headlands Technologies**|[CPU Register Bitwise Operations](https://www.fastprep.io/problems/headlands-cpu-register-bitwise-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-cpu-register-bitwise-operations)|Nov 11, 2025|
-|**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
 <a id="bottom"></a>
