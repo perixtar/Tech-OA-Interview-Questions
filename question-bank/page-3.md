@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Design a Distributed Commit Log](https://www.fastprep.io/system-design/distributed-commit-log)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-commit-log)|Nov 08, 2025|
 |**Bloomberg LP**|[Find Median from Data Stream](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-median-from-data-stream)|Nov 08, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
 |**Duolingo**|[Longest Decreasing Matrix Path with Limited Relaxations](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-decreasing-path-with-relaxations)|Nov 05, 2025|
@@ -98,7 +99,7 @@
 |**Apple**|[Implement Beam Search Decoding](https://www.fastprep.io/problems/apple-fixed-length-beam-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-fixed-length-beam-search)|Sep 13, 2025|
 |**PeopleStrong**|[Valid Parentheses](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-valid-parentheses)|Sep 11, 2025|
 |**The Walt Disney Company**|[Flatten and Reconstruct an Ordered Tree](https://www.fastprep.io/problems/the-walt-disney-company-ordered-tree-flatten-reconstruct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-ordered-tree-flatten-reconstruct)|Sep 09, 2025|
-|**The Walt Disney Company**|[Add an API to a Spring Boot Application](https://www.fastprep.io/project-coding/the-walt-disney-company-add-spring-boot-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-add-spring-boot-api)|Sep 09, 2025|
+|**The Walt Disney Company**|[Add an API to a Small Web Application](https://www.fastprep.io/project-coding/the-walt-disney-company-add-spring-boot-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-add-spring-boot-api)|Sep 09, 2025|
 |**Cerebras**|[Implement Binary Search From Scratch](https://www.fastprep.io/problems/cerebras-binary-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-binary-search)|Sep 06, 2025|
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
 |**Goldman Sachs**|[Data Reorganization](https://www.fastprep.io/problems/goldman-get-minimum-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-value)|Sep 06, 2025|
@@ -1055,6 +1056,7 @@
 |**Uber**|[Find Length of Longest Common Prefix](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|Jun 27, 2024|
 |**Snowflake**|[Minimum Segment](https://www.fastprep.io/problems/snowflake-minimum-division)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-division)|Jun 27, 2024|
 |**Cisco**|[Find Critical Nodes](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Jun 27, 2024|
+|**Rippling**|[Design a Photo Search and Download Frontend](https://www.fastprep.io/system-design/photo-search-and-download-frontend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-search-and-download-frontend)|Jun 27, 2024|
 |**Benchling**|[Degenerate DNA Substring Search](https://www.fastprep.io/problems/benchling-degenerate-dna-substring-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-degenerate-dna-substring-search)|Jun 25, 2024|
 |**Rippling**|[Heap Sort](https://www.fastprep.io/problems/rippling-heap-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-heap-sort)|Jun 25, 2024|
 |**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|
@@ -1130,6 +1132,7 @@
 |**Microsoft**|[Assign Value](https://www.fastprep.io/problems/microsoft-assign-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-assign-values)|May 04, 2024|
 |**Microsoft**|[Construct Max Balanced Circle](https://www.fastprep.io/problems/microsoft-construct-maximum-balanced-circle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-construct-maximum-balanced-circle)|May 04, 2024|
 |**Microsoft**|[Find Suitable Locations](https://www.fastprep.io/problems/findSuitableLocations-microsoft)|Coding|[![Practice][p]](https://www.fastprep.io/problems/findSuitableLocations-microsoft)|May 04, 2024|
+|**Rippling**|[Design an Hourly ETL from a Document Database to a Warehouse](https://www.fastprep.io/system-design/document-database-to-warehouse-batch-etl)|System design|[![Practice][p]](https://www.fastprep.io/system-design/document-database-to-warehouse-batch-etl)|May 02, 2024|
 |**Google**|[Design and Implement a Path-Value File System](https://www.fastprep.io/low-level-design/path-value-file-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/path-value-file-system)|May 01, 2024|
 |**Datadog**|[Rolling Median Absolute Deviation](https://www.fastprep.io/problems/datadog-rolling-median-absolute-deviation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-rolling-median-absolute-deviation)|Apr 30, 2024|
 |**IBM**|[Get Optimal String Length](https://www.fastprep.io/problems/ibm-get-optimal-string-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-optimal-string-length)|Apr 27, 2024|
@@ -1844,7 +1847,4 @@
 |**Checkr**|[Design Enterprise Background-Check Rule Storage](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/enterprise-background-check-rule-storage)|Dec 14, 2021|
 |**ZipRecruiter**|[Find the Smallest Magic Index](https://www.fastprep.io/problems/ziprecruiter-smallest-magic-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-smallest-magic-index)|Dec 05, 2021|
 |**Airbnb**|[Module Rebuild Costs](https://www.fastprep.io/problems/airbnb-module-rebuild-costs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-module-rebuild-costs)|Dec 01, 2021|
-|**Apple**|[Design a Priority and Arrival-Time Scheduler](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|Nov 28, 2021|
-|**Bloomberg LP**|[Minimum Refueling Stops](https://www.fastprep.io/problems/bloomberg-minimum-refueling-stops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-refueling-stops)|Nov 24, 2021|
-|**Datadog**|[Count Coin Change Combinations](https://www.fastprep.io/problems/datadog-coin-change-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-coin-change-combinations)|Nov 22, 2021|
 <a id="bottom"></a>

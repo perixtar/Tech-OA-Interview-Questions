@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Apple**|[Design a Priority and Arrival-Time Scheduler](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/priority-arrival-process-scheduler)|Nov 28, 2021|
+|**Bloomberg LP**|[Minimum Refueling Stops](https://www.fastprep.io/problems/bloomberg-minimum-refueling-stops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-refueling-stops)|Nov 24, 2021|
+|**Datadog**|[Count Coin Change Combinations](https://www.fastprep.io/problems/datadog-coin-change-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-coin-change-combinations)|Nov 22, 2021|
 |**Apple**|[Design a Single-Branch Car Rental](https://www.fastprep.io/low-level-design/single-branch-car-rental)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/single-branch-car-rental)|Nov 21, 2021|
 |**Yelp**|[Design a Priority Venue Invitation Platform](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|Nov 19, 2021|
 |**ZipRecruiter**|[Add Numbers Stored in Four-Digit Chunks](https://www.fastprep.io/problems/ziprecruiter-add-four-digit-chunk-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-add-four-digit-chunk-numbers)|Nov 19, 2021|

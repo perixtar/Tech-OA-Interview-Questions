@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**698 questions**
+**701 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
+|**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
 |**Pinterest / Slack / Motive / Affirm**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Nov 16, 2026|
 |**OnePay / Razorpay / Infosys / BNSF Railway / Agoda**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 15, 2026|
 |**Datadog / Bank of Montreal (BMO)**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|🔥 Nov 15, 2026|
@@ -628,8 +629,10 @@
 |**Adobe**|[Design a Web App With Password Login](https://www.fastprep.io/system-design/password-login-web-app-architecture)|[![Practice][p]](https://www.fastprep.io/system-design/password-login-web-app-architecture)|Sep 01, 2024|
 |**Highspot**|[Design a Greeting Card E-Commerce Marketplace](https://www.fastprep.io/system-design/greeting-card-marketplace)|[![Practice][p]](https://www.fastprep.io/system-design/greeting-card-marketplace)|Aug 03, 2024|
 |**Samsara**|[Design a Fleet Fuel Payment Monitoring Platform](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|Jul 22, 2024|
+|**Rippling**|[Design a Photo Search and Download Frontend](https://www.fastprep.io/system-design/photo-search-and-download-frontend)|[![Practice][p]](https://www.fastprep.io/system-design/photo-search-and-download-frontend)|Jun 27, 2024|
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
 |**Retool**|[Design a Station-Based Bike Sharing Platform](https://www.fastprep.io/system-design/station-based-bike-sharing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/station-based-bike-sharing-platform)|May 20, 2024|
+|**Rippling**|[Design an Hourly ETL from a Document Database to a Warehouse](https://www.fastprep.io/system-design/document-database-to-warehouse-batch-etl)|[![Practice][p]](https://www.fastprep.io/system-design/document-database-to-warehouse-batch-etl)|May 02, 2024|
 |**Skydio**|[Design a Drone Fleet Mission Control Platform](https://www.fastprep.io/system-design/drone-fleet-mission-control-platform)|[![Practice][p]](https://www.fastprep.io/system-design/drone-fleet-mission-control-platform)|Apr 16, 2024|
 |**Microsoft**|[Design Budgeted AutoML Model Selection](https://www.fastprep.io/system-design/budgeted-automl-model-selection)|[![Practice][p]](https://www.fastprep.io/system-design/budgeted-automl-model-selection)|Apr 05, 2024|
 |**Airbnb**|[Design a Rental Pricing Analytics Dashboard](https://www.fastprep.io/system-design/rental-pricing-analytics-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/rental-pricing-analytics-dashboard)|Mar 29, 2024|

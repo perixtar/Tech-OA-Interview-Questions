@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Capital One**|[Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|Sep 19, 2026|
 |**Hudson River Trading**|[Sorted Absolute-Difference Sums Across Cyclic Shifts](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|Sep 19, 2026|
 |**Hudson River Trading**|[Minimize Expression Value with Parentheses](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|Sep 19, 2026|
 |**Hudson River Trading**|[Obstacle Placement Queries](https://www.fastprep.io/problems/hrt-obstacle-placement-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-obstacle-placement-queries)|Sep 19, 2026|
@@ -1744,5 +1745,4 @@
 |**Google**|[First Unique Event in a Stream](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Nov 08, 2025|
 |**Google**|[Stable Top K Frequent Words](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Nov 08, 2025|
 |**Character.AI**|[Transformer Route Optimization System](https://www.fastprep.io/system-design/transformer-route-optimization-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/transformer-route-optimization-system)|Nov 08, 2025|
-|**Bloomberg LP**|[Design a Distributed Commit Log](https://www.fastprep.io/system-design/distributed-commit-log)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-commit-log)|Nov 08, 2025|
 <a id="bottom"></a>
