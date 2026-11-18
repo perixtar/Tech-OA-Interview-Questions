@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**211 questions**
+**213 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -196,6 +196,7 @@
 |**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
 |**Headlands Technologies**|[Asynchronous TCP Message Channel](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|[![Practice][p]](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|Mar 09, 2023|
 |**Morgan Stanley**|[Design an Earbud Connection and Playback Model](https://www.fastprep.io/low-level-design/earbud-connection-playback-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/earbud-connection-playback-model)|Feb 10, 2023|
+|**Sentry**|[Design an Inventory Tracking System](https://www.fastprep.io/low-level-design/store-inventory-tracking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/store-inventory-tracking-system)|Jan 13, 2023|
 |**Scale AI**|[Design and Implement a Task and Worker Assignment Model](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|Sep 09, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Bloomberg LP**|[Design a Ticketed Parking Lot with Defragmentation](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|[![Practice][p]](https://www.fastprep.io/low-level-design/ticketed-parking-lot-defragmentation)|Feb 28, 2022|
@@ -216,6 +217,7 @@
 |**Bloomberg LP**|[Design an iPod-Style Music Player](https://www.fastprep.io/low-level-design/portable-music-player-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Jul 17, 2020|
 |**Bloomberg LP**|[Design an Ordered Document and Page Model](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Oct 17, 2019|
 |**Vanguard**|[Design an Abstract Car Class](https://www.fastprep.io/low-level-design/abstract-car-class)|[![Practice][p]](https://www.fastprep.io/low-level-design/abstract-car-class)|Sep 15, 2019|
+|**Sentry**|[Design an Error SDK Breadcrumb Trail](https://www.fastprep.io/low-level-design/error-sdk-breadcrumb-trail)|[![Practice][p]](https://www.fastprep.io/low-level-design/error-sdk-breadcrumb-trail)|Jun 11, 2019|
 |**Headlands Technologies**|[Design an Incremental Lattice Coverage Tracker](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|Apr 17, 2018|
 |**Morgan Stanley**|[Design Employee Username and Birth Date Rules](https://www.fastprep.io/low-level-design/employee-username-birthdate-rules)|[![Practice][p]](https://www.fastprep.io/low-level-design/employee-username-birthdate-rules)|Oct 10, 2015|
 |**Morgan Stanley**|[Design Stateful Shopping Cart Lines](https://www.fastprep.io/low-level-design/stateful-shopping-cart-lines)|[![Practice][p]](https://www.fastprep.io/low-level-design/stateful-shopping-cart-lines)|Sep 14, 2014|
