@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Figma**|[Layer History with Batch Undo and Redo](https://www.fastprep.io/problems/figma-layer-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-layer-history)|Sep 20, 2026|
 |**Google**|[First Missing Positive](https://www.fastprep.io/problems/google-first-missing-positive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-missing-positive)|Sep 20, 2026|
 |**Google**|[Latest Arrival Time for a Shuttle](https://www.fastprep.io/problems/google-latest-shuttle-arrival)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-latest-shuttle-arrival)|Sep 20, 2026|
 |**Google**|[Reach a Meeting by Scheduled Trains](https://www.fastprep.io/problems/google-scheduled-train-meeting-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-scheduled-train-meeting-reachability)|Sep 20, 2026|
@@ -686,7 +685,7 @@
 |**Oracle**|[Design a Scheduled Fan-Out Delivery Platform](https://www.fastprep.io/system-design/scheduled-fanout-message-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-fanout-message-delivery)|Aug 23, 2026|
 |**Microsoft**|[Design a Web Crawler and Inverted Index](https://www.fastprep.io/system-design/web-crawler-inverted-search-index)|System design|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler-inverted-search-index)|Aug 23, 2026|
 |**Walmart / Crowdstrike**|[Design Multi-Cloud Blob Malware Scanning](https://www.fastprep.io/system-design/multicloud-blob-malware-scanning)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multicloud-blob-malware-scanning)|Aug 23, 2026|
-|**Salesforce**|[Design a Connect Four Game](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Aug 23, 2026|
+|**Salesforce / Bloomberg LP**|[Design a Connect Four Game](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Aug 23, 2026|
 |**Walmart**|[Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Aug 23, 2026|
 |**Barclays**|[Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Aug 22, 2026|
 |**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Aug 22, 2026|
@@ -1743,4 +1742,5 @@
 |**Bloomberg LP**|[Generate Wildcard Binary Strings](https://www.fastprep.io/problems/bloomberg-generate-wildcard-binary-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-generate-wildcard-binary-strings)|Nov 21, 2025|
 |**Apple**|[Compute TF-IDF Scores](https://www.fastprep.io/problems/apple-compute-tf-idf)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-compute-tf-idf)|Nov 21, 2025|
 |**Apple**|[Substring Match Generator](https://www.fastprep.io/problems/apple-substring-match-generator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-substring-match-generator)|Nov 21, 2025|
+|**Rippling**|[Song Play Analytics](https://www.fastprep.io/problems/rippling-song-play-analytics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-song-play-analytics)|Nov 20, 2025|
 <a id="bottom"></a>

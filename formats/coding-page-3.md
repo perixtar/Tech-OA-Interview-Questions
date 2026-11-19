@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**The Walt Disney Company**|[Hub Vertices Within a Radius](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|Jan 08, 2024|
 |**The Walt Disney Company**|[Generate a Connected Graph and Find a Shortest Path](https://www.fastprep.io/problems/the-walt-disney-company-random-connected-graph-shortest-path)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-random-connected-graph-shortest-path)|Jan 08, 2024|
 |**The Walt Disney Company**|[Song Duration Pairs Divisible by 60](https://www.fastprep.io/problems/the-walt-disney-company-song-duration-index-pairs)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-song-duration-index-pairs)|Jan 08, 2024|
 |**Amazon**|[Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups)|[![Practice][p]](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Jan 07, 2024|

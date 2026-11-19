@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Upstart**|[Add Drama to Text Groups](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|[![Practice][p]](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|Jul 26, 2026|
 |**DE Shaw**|[Maximum L1 Distance Between Equal-Length Subarrays](https://www.fastprep.io/problems/deshaw-maximum-l1-distance-equal-length-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-maximum-l1-distance-equal-length-subarrays)|Jul 26, 2026|
 |**Airbnb**|[Nested List Iterator with Remove](https://www.fastprep.io/problems/airbnb-nested-list-iterator-with-remove)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-nested-list-iterator-with-remove)|Jul 26, 2026|
 |**Citadel**|[Limit Order Book Matching Engine](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|[![Practice][p]](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Jul 26, 2026|
@@ -1941,4 +1940,5 @@
 |**Goldman Sachs**|[Longest Subarray](https://www.fastprep.io/problems/longest-subarray)|[![Practice][p]](https://www.fastprep.io/problems/longest-subarray)|Jan 09, 2024|
 |**Vanguard**|[Check String Permutation](https://www.fastprep.io/problems/vanguard-check-string-permutation)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-check-string-permutation)|Jan 09, 2024|
 |**ZipRecruiter**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Jan 08, 2024|
+|**The Walt Disney Company**|[Hub Vertices Within a Radius](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|Jan 08, 2024|
 <a id="bottom"></a>
