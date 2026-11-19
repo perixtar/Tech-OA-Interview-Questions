@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (717)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (235)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (721)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (235)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Design a Book Upload and Search Service](https://www.fastprep.io/system-design/book-upload-and-search-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/book-upload-and-search-service)|🔥 Nov 19, 2026|
+|**Bloomberg LP**|[Design App Version Targeting for User Groups](https://www.fastprep.io/system-design/app-version-targeting-by-user-group)|System design|[![Practice][p]](https://www.fastprep.io/system-design/app-version-targeting-by-user-group)|🔥 Nov 19, 2026|
 |**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
 |**Charta Health**|[Build an Autocomplete Search Box for Wikipedia Titles](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|🔥 Nov 18, 2026|
 |**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
@@ -1680,6 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**BlackRock**|[Lowest Common Ancestor in a Parent Tree](https://www.fastprep.io/problems/blackrock-lowest-common-ancestor-parent-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-lowest-common-ancestor-parent-tree)|Sep 20, 2026|
 |**BlackRock**|[Valid Parentheses](https://www.fastprep.io/problems/blackrock-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-valid-parentheses)|Sep 20, 2026|
 |**Capital One**|[Circular High-Low Pattern](https://www.fastprep.io/problems/capital-one-circular-high-low-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-circular-high-low-pattern)|Sep 20, 2026|
-|**Citadel**|[Merge Price-Delta Feeds](https://www.fastprep.io/problems/citadel-merge-price-delta-feeds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-merge-price-delta-feeds)|Sep 20, 2026|
-|**Harvey**|[Evaluate an Expression Map](https://www.fastprep.io/problems/harvey-evaluate-expression-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-evaluate-expression-map)|Sep 20, 2026|
 <a id="bottom"></a>

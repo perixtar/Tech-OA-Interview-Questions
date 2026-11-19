@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**717 questions**
+**721 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Design a Book Upload and Search Service](https://www.fastprep.io/system-design/book-upload-and-search-service)|[![Practice][p]](https://www.fastprep.io/system-design/book-upload-and-search-service)|🔥 Nov 19, 2026|
+|**Bloomberg LP**|[Design App Version Targeting for User Groups](https://www.fastprep.io/system-design/app-version-targeting-by-user-group)|[![Practice][p]](https://www.fastprep.io/system-design/app-version-targeting-by-user-group)|🔥 Nov 19, 2026|
 |**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
 |**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
 |**Postman / Uber Freight / LinkedIn / Safe Security**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🔥 Nov 18, 2026|
@@ -549,6 +551,7 @@
 |**Google / Datadog**|[Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|Apr 15, 2026|
 |**Datadog**|[Design Memory-Bounded Ordinary Least Squares](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|[![Practice][p]](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|Apr 15, 2026|
 |**Datadog**|[Design Server Latency Detection and On-Call Paging](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|[![Practice][p]](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|Apr 15, 2026|
+|**Bloomberg LP**|[Design a Stock Portfolio Management Service](https://www.fastprep.io/system-design/stock-portfolio-management-service)|[![Practice][p]](https://www.fastprep.io/system-design/stock-portfolio-management-service)|Apr 14, 2026|
 |**Scale AI**|[Design an Insurance Claims RAG Agent](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|[![Practice][p]](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|Apr 13, 2026|
 |**Notion / Juniper Square**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|Apr 08, 2026|
 |**Retool**|[Design a Dog Walking and Sitting Booking Platform](https://www.fastprep.io/system-design/dog-care-booking-platform)|[![Practice][p]](https://www.fastprep.io/system-design/dog-care-booking-platform)|Mar 24, 2026|
@@ -592,6 +595,7 @@
 |**Microsoft**|[Design an AR Lens Creator and Publishing Platform](https://www.fastprep.io/system-design/ar-lens-creator-publishing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ar-lens-creator-publishing-platform)|Sep 30, 2025|
 |**Cerebras**|[Multi-Channel Message Routing Queue](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|[![Practice][p]](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|Sep 06, 2025|
 |**Palantir**|[Design a Shared-Interest Connection App](https://www.fastprep.io/system-design/shared-interest-connection-app)|[![Practice][p]](https://www.fastprep.io/system-design/shared-interest-connection-app)|Aug 27, 2025|
+|**Bloomberg LP**|[Design a Photo Album Sharing App](https://www.fastprep.io/system-design/photo-album-sharing-app)|[![Practice][p]](https://www.fastprep.io/system-design/photo-album-sharing-app)|Aug 24, 2025|
 |**Atlassian / Compass International Holdings / Better.com / Coinbase / Wayfair**|[Post Author Friend Count Serving](https://www.fastprep.io/system-design/post-author-friend-count-serving)|[![Practice][p]](https://www.fastprep.io/system-design/post-author-friend-count-serving)|Aug 23, 2025|
 |**Atlassian / Better.com**|[Signing Notification Loss Recovery](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|[![Practice][p]](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|Aug 23, 2025|
 |**Atlassian**|[Design Video Metadata Reads Under a Deadline](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|[![Practice][p]](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|Aug 23, 2025|

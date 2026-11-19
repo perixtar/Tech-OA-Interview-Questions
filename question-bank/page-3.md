@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Deepest Nested Substrings](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Dec 03, 2025|
+|**EPAM**|[Recursive Binary Search](https://www.fastprep.io/problems/epam-recursive-binary-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-recursive-binary-search)|Nov 29, 2025|
+|**EPAM**|[Nonzero Totals by Name](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Nov 29, 2025|
 |**Agoda**|[Special Diameter Endpoints](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Nov 29, 2025|
 |**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|SQL|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
 |**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
@@ -157,6 +160,7 @@
 |**Apple**|[Middle of a Linked List](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-middle-of-linked-list)|Aug 25, 2025|
 |**Tennr**|[Top K Frequent Elements](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Aug 24, 2025|
 |**Tennr**|[Wildcard Multi-Delimiter Validation](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Aug 24, 2025|
+|**Bloomberg LP**|[Design a Photo Album Sharing App](https://www.fastprep.io/system-design/photo-album-sharing-app)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-album-sharing-app)|Aug 24, 2025|
 |**Atlassian / Compass International Holdings / Better.com / Coinbase / Wayfair**|[Post Author Friend Count Serving](https://www.fastprep.io/system-design/post-author-friend-count-serving)|System design|[![Practice][p]](https://www.fastprep.io/system-design/post-author-friend-count-serving)|Aug 23, 2025|
 |**Atlassian / Better.com**|[Signing Notification Loss Recovery](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/signing-notification-loss-recovery)|Aug 23, 2025|
 |**Atlassian**|[Design Video Metadata Reads Under a Deadline](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-metadata-consistency-under-deadline)|Aug 23, 2025|
@@ -1844,8 +1848,4 @@
 |**Vanguard**|[Maximum Occurring Character](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-maximum-occurring-character)|Mar 30, 2022|
 |**Vanguard**|[Picking Tickets](https://www.fastprep.io/problems/vanguard-picking-tickets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-picking-tickets)|Mar 30, 2022|
 |**SambaNova Systems**|[Parse Variable, Expression, and Application Trees](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Mar 28, 2022|
-|**Grubhub**|[Design a Restaurant Menu Catalog Service](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|Mar 26, 2022|
-|**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
-|**Unattributed**|[Signing Confirmation Loss Recovery](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|Mar 25, 2022|
-|**Rippling**|[Palindrome Permutation](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Mar 20, 2022|
 <a id="bottom"></a>

@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Citadel**|[Merge Price-Delta Feeds](https://www.fastprep.io/problems/citadel-merge-price-delta-feeds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-merge-price-delta-feeds)|Sep 20, 2026|
+|**Harvey**|[Evaluate an Expression Map](https://www.fastprep.io/problems/harvey-evaluate-expression-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-evaluate-expression-map)|Sep 20, 2026|
 |**Harvey**|[Find Duplicate Files in a Filesystem](https://www.fastprep.io/problems/harvey-find-duplicate-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-find-duplicate-files)|Sep 20, 2026|
 |**Harvey**|[Highlight Matching Phrases](https://www.fastprep.io/problems/harvey-highlight-sentence-matches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-highlight-sentence-matches)|Sep 20, 2026|
 |**Harvey**|[In-Memory Vault File System](https://www.fastprep.io/problems/harvey-in-memory-vault-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-in-memory-vault-file-system)|Sep 20, 2026|
@@ -1465,6 +1467,7 @@
 |**Datadog**|[Design Server Latency Detection and On-Call Paging](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|System design|[![Practice][p]](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|Apr 15, 2026|
 |**Temporal**|[Concurrent Volley Shot](https://www.fastprep.io/problems/temporal-concurrent-volley-shot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-concurrent-volley-shot)|Apr 14, 2026|
 |**Amazon**|[Maximum Score With Non-Adjacent Values](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Apr 14, 2026|
+|**Bloomberg LP**|[Design a Stock Portfolio Management Service](https://www.fastprep.io/system-design/stock-portfolio-management-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stock-portfolio-management-service)|Apr 14, 2026|
 |**Amazon**|[Make Value Groups Contiguous](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Apr 13, 2026|
 |**Scale AI**|[Design an Insurance Claims RAG Agent](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|Apr 13, 2026|
 |**Scale AI**|[Free Windows Between Busy Intervals](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Apr 13, 2026|
@@ -1739,7 +1742,4 @@
 |**Google**|[The Skyline Problem](https://www.fastprep.io/problems/google-the-skyline-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-the-skyline-problem)|Dec 04, 2025|
 |**Google**|[Run-Length Encode a String](https://www.fastprep.io/problems/google-run-length-encode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-run-length-encode-string)|Dec 04, 2025|
 |**Stripe**|[Complete a Paginated API Synchronization](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|Dec 04, 2025|
-|**Bloomberg LP**|[Deepest Nested Substrings](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Dec 03, 2025|
-|**EPAM**|[Recursive Binary Search](https://www.fastprep.io/problems/epam-recursive-binary-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-recursive-binary-search)|Nov 29, 2025|
-|**EPAM**|[Nonzero Totals by Name](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Nov 29, 2025|
 <a id="bottom"></a>
