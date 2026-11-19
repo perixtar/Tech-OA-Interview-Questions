@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**713 questions**
+**716 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -15,6 +15,9 @@
 |**DoorDash / ION Group**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Nov 18, 2026|
 |**Stripe / London Stock Exchange / Atlassian / Wayfair**|[Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service)|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service)|🔥 Nov 18, 2026|
 |**Workday**|[Design a Reliable Ticket Confirmation Service](https://www.fastprep.io/system-design/reliable-ticket-confirmation-service)|[![Practice][p]](https://www.fastprep.io/system-design/reliable-ticket-confirmation-service)|🔥 Nov 18, 2026|
+|**Atlassian**|[Design a Model Deployment Platform](https://www.fastprep.io/system-design/multi-team-model-deployment-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multi-team-model-deployment-platform)|🔥 Nov 18, 2026|
+|**Google**|[Design a Read-Only Lookup Service for a Billion Records](https://www.fastprep.io/system-design/billion-id-read-only-lookup-service)|[![Practice][p]](https://www.fastprep.io/system-design/billion-id-read-only-lookup-service)|🔥 Nov 18, 2026|
+|**Bloomberg LP**|[Design an Integrity-First File Archive](https://www.fastprep.io/system-design/integrity-first-file-archive)|[![Practice][p]](https://www.fastprep.io/system-design/integrity-first-file-archive)|🔥 Nov 18, 2026|
 |**Pinterest / Amazon / Zoom / Goldman Sachs / Meta / Adobe / Rippling / Plaud / Nextdoor / Bloomberg LP**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🔥 Nov 17, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 17, 2026|
 |**Oracle / Crusoe**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 17, 2026|

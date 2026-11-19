@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (713)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (232)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (716)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (234)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -43,6 +43,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|🔥 Nov 18, 2026|
 |**Stripe / London Stock Exchange / Atlassian / Wayfair**|[Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service)|🔥 Nov 18, 2026|
 |**Workday**|[Design a Reliable Ticket Confirmation Service](https://www.fastprep.io/system-design/reliable-ticket-confirmation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/reliable-ticket-confirmation-service)|🔥 Nov 18, 2026|
+|**Atlassian**|[Design a Model Deployment Platform](https://www.fastprep.io/system-design/multi-team-model-deployment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-team-model-deployment-platform)|🔥 Nov 18, 2026|
+|**Google**|[Design a Read-Only Lookup Service for a Billion Records](https://www.fastprep.io/system-design/billion-id-read-only-lookup-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/billion-id-read-only-lookup-service)|🔥 Nov 18, 2026|
+|**Bloomberg LP**|[Design an Integrity-First File Archive](https://www.fastprep.io/system-design/integrity-first-file-archive)|System design|[![Practice][p]](https://www.fastprep.io/system-design/integrity-first-file-archive)|🔥 Nov 18, 2026|
+|**Affirm**|[Fix Learning Badges and Add a Course Progress API](https://www.fastprep.io/project-coding/affirm-learning-platform-badges-progress)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/affirm-learning-platform-badges-progress)|🔥 Nov 18, 2026|
 |**Pinterest / Amazon / Zoom / Goldman Sachs / Meta / Adobe / Rippling / Plaud / Nextdoor / Bloomberg LP**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🔥 Nov 17, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 17, 2026|
 |**Benchling / Oracle**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|🔥 Nov 17, 2026|
@@ -63,6 +67,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DoorDash**|[Fix a Traffic Router and Add Consistent Hashing](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-routing-strategy-debugger)|🔥 Nov 16, 2026|
 |**Amazon**|[Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace)|🔥 Nov 16, 2026|
 |**LinkedIn**|[Design Short- and Long-Term Member Churn Prediction](https://www.fastprep.io/system-design/member-churn-risk-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/member-churn-risk-prediction)|🔥 Nov 16, 2026|
+|**IBM**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/ibm-repair-moviedb-recommendations)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-repair-moviedb-recommendations)|🔥 Nov 16, 2026|
 |**Datadog / Bank of Montreal (BMO)**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|🔥 Nov 15, 2026|
 |**Kotak Mahindra Bank / Zomato / Eternal**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Nov 15, 2026|
 |**HighLevel**|[Design a Google Sheets Sync Service](https://www.fastprep.io/system-design/google-sheets-sync-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/google-sheets-sync-service)|🔥 Nov 15, 2026|
@@ -1677,10 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Citadel**|[Merge Price-Delta Feeds](https://www.fastprep.io/problems/citadel-merge-price-delta-feeds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-merge-price-delta-feeds)|Sep 20, 2026|
 |**Harvey**|[Evaluate an Expression Map](https://www.fastprep.io/problems/harvey-evaluate-expression-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-evaluate-expression-map)|Sep 20, 2026|
 |**Harvey**|[Find Duplicate Files in a Filesystem](https://www.fastprep.io/problems/harvey-find-duplicate-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-find-duplicate-files)|Sep 20, 2026|
-|**Harvey**|[Highlight Matching Phrases](https://www.fastprep.io/problems/harvey-highlight-sentence-matches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-highlight-sentence-matches)|Sep 20, 2026|
-|**Harvey**|[In-Memory Vault File System](https://www.fastprep.io/problems/harvey-in-memory-vault-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-in-memory-vault-file-system)|Sep 20, 2026|
-|**Rippling**|[Numeric Poker Operations](https://www.fastprep.io/problems/rippling-numeric-poker-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-numeric-poker-operations)|Sep 20, 2026|
-|**Snap Inc.**|[Render an Org Chart and Find Skip-Level Pairs](https://www.fastprep.io/problems/snap-inc-org-chart-and-skip-level-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-org-chart-and-skip-level-pairs)|Sep 20, 2026|
-|**Kotak Mahindra Bank**|[Course Schedule](https://www.fastprep.io/problems/kotak-mahindra-bank-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-mahindra-bank-course-schedule)|Sep 20, 2026|
-|**Kotak Mahindra Bank**|[House Robber II](https://www.fastprep.io/problems/kotak-mahindra-bank-house-robber-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-mahindra-bank-house-robber-ii)|Sep 20, 2026|
 <a id="bottom"></a>
