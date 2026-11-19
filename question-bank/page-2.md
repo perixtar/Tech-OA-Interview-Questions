@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Harvey**|[Find Duplicate Files in a Filesystem](https://www.fastprep.io/problems/harvey-find-duplicate-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-find-duplicate-files)|Sep 20, 2026|
 |**Harvey**|[Highlight Matching Phrases](https://www.fastprep.io/problems/harvey-highlight-sentence-matches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-highlight-sentence-matches)|Sep 20, 2026|
 |**Harvey**|[In-Memory Vault File System](https://www.fastprep.io/problems/harvey-in-memory-vault-file-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-in-memory-vault-file-system)|Sep 20, 2026|
 |**Rippling**|[Numeric Poker Operations](https://www.fastprep.io/problems/rippling-numeric-poker-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-numeric-poker-operations)|Sep 20, 2026|
@@ -511,7 +512,7 @@
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|Sep 07, 2026|
 |**Wells Fargo**|[Event Statistics Aggregator](https://www.fastprep.io/problems/wellsfargo-event-statistics-aggregator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-event-statistics-aggregator)|Sep 07, 2026|
 |**Wells Fargo**|[Ordered Deployment Configuration Validator](https://www.fastprep.io/problems/wellsfargo-ordered-deployment-configuration-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-ordered-deployment-configuration-validator)|Sep 07, 2026|
-|**Alpaca / AMD**|[Large-Scale Messaging Application](https://www.fastprep.io/system-design/large-scale-messaging-application)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-messaging-application)|Sep 06, 2026|
+|**Alpaca / AMD / Bloomberg LP**|[Large-Scale Messaging Application](https://www.fastprep.io/system-design/large-scale-messaging-application)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-messaging-application)|Sep 06, 2026|
 |**Stripe**|[Evolving Merchant Clusters and Persistent Pins](https://www.fastprep.io/problems/stripe-evolving-merchant-clusters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-evolving-merchant-clusters)|Sep 06, 2026|
 |**Medallion**|[Design an Automated Achievement Certificate System](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|Sep 06, 2026|
 |**Anthropic**|[Design Telemetry Name Reconciliation](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|Sep 06, 2026|
@@ -801,7 +802,7 @@
 |**Apple**|[Design a Mobile Application Event Collection API](https://www.fastprep.io/system-design/mobile-application-event-collection-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mobile-application-event-collection-api)|Aug 11, 2026|
 |**Rippling / Retool**|[Design a Room-Type Hotel Booking System](https://www.fastprep.io/system-design/room-type-hotel-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/room-type-hotel-booking-system)|Aug 11, 2026|
 |**Databricks**|[Design an LLM Content Safety Service](https://www.fastprep.io/system-design/llm-content-safety-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-content-safety-service)|Aug 11, 2026|
-|**Microsoft / Bloomberg LP / Morgan Stanley / C3.ai**|[Design a Library Circulation System](https://www.fastprep.io/low-level-design/library-circulation-management)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/library-circulation-management)|Aug 11, 2026|
+|**Microsoft / Bloomberg LP / Morgan Stanley / C3.ai / Expedia**|[Design a Library Circulation System](https://www.fastprep.io/low-level-design/library-circulation-management)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/library-circulation-management)|Aug 11, 2026|
 |**Capital One**|[Highest-Spend Advertisement](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement)|Aug 11, 2026|
 |**Visa**|[Maximum Server Processing Time](https://www.fastprep.io/problems/visa-maximum-server-processing-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-maximum-server-processing-time)|Aug 11, 2026|
 |**Visa**|[Binary Sorting Rounds After Flips](https://www.fastprep.io/problems/visa-binary-sorting-rounds-after-flips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-binary-sorting-rounds-after-flips)|Aug 11, 2026|
@@ -1343,6 +1344,7 @@
 |**JP Morgan**|[About Shipping](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Jun 04, 2026|
 |**Netflix**|[Topological Sort for Ads Tasks](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|Jun 04, 2026|
 |**Shopify**|[Design and Implement Movie Seat Reservations](https://www.fastprep.io/low-level-design/cinema-seat-reservations)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cinema-seat-reservations)|Jun 03, 2026|
+|**Confluent / Bloomberg LP**|[Design a Priority-Aware Distributed Worker Platform](https://www.fastprep.io/system-design/priority-aware-distributed-worker-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-distributed-worker-platform)|Jun 03, 2026|
 |**Alpaca**|[Hungarian Lottery Winner Counts](https://www.fastprep.io/problems/alpaca-hungarian-lottery-winners)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alpaca-hungarian-lottery-winners)|Jun 02, 2026|
 |**Runway**|[N Gram Next Token Prediction](https://www.fastprep.io/problems/runway-ngram-next-token-prediction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/runway-ngram-next-token-prediction)|Jun 02, 2026|
 |**Google**|[Consolidate On-Call Rotations](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|Jun 02, 2026|
@@ -1740,7 +1742,4 @@
 |**Bloomberg LP**|[Deepest Nested Substrings](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Dec 03, 2025|
 |**EPAM**|[Recursive Binary Search](https://www.fastprep.io/problems/epam-recursive-binary-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-recursive-binary-search)|Nov 29, 2025|
 |**EPAM**|[Nonzero Totals by Name](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/epam-nonzero-totals-by-name)|Nov 29, 2025|
-|**Agoda**|[Special Diameter Endpoints](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Nov 29, 2025|
-|**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|SQL|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
-|**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
 <a id="bottom"></a>

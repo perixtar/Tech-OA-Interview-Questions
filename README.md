@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (716)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (234)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (716)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (235)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -52,6 +52,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Benchling / Oracle**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|🔥 Nov 17, 2026|
 |**Oracle / Crusoe**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 17, 2026|
 |**Oracle**|[Design a Capacity-Based Job Assignment Tracker](https://www.fastprep.io/low-level-design/capacity-job-assignment-tracker)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/capacity-job-assignment-tracker)|🔥 Nov 17, 2026|
+|**Amazon**|[Repair MovieDB Reviews and Ratings](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|🔥 Nov 17, 2026|
 |**Pinterest / Slack / Motive / Affirm**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Nov 16, 2026|
 |**OnePay / Razorpay / Infosys / BNSF Railway / Agoda / Paytm**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 16, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 16, 2026|
@@ -113,7 +114,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|🔥 Nov 11, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 11, 2026|
 |**Pinterest / DoorDash / Patreon / The Walt Disney Company / JioStar / Meta**|[Design an Ad Event Measurement Platform](https://www.fastprep.io/system-design/ad-event-measurement-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ad-event-measurement-platform)|🔥 Nov 10, 2026|
-|**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter / DoorDash**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Nov 10, 2026|
+|**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter / DoorDash / Expedia**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Nov 10, 2026|
 |**Amazon / Lyft / Google / Pinterest / Snowflake / Datadog / Decagon**|[Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler)|🔥 Nov 10, 2026|
 |**LinkedIn / Confluent / Shield AI / Snap Inc. / OpenAI / Datadog**|[CI/CD Pipeline Orchestration System](https://www.fastprep.io/system-design/ci-cd-pipeline-orchestration-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ci-cd-pipeline-orchestration-system)|🔥 Nov 10, 2026|
 |**Tekion / Amazon / Oracle / Adobe**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|🔥 Nov 10, 2026|
@@ -1681,5 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Capital One**|[Circular High-Low Pattern](https://www.fastprep.io/problems/capital-one-circular-high-low-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-circular-high-low-pattern)|Sep 20, 2026|
 |**Citadel**|[Merge Price-Delta Feeds](https://www.fastprep.io/problems/citadel-merge-price-delta-feeds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-merge-price-delta-feeds)|Sep 20, 2026|
 |**Harvey**|[Evaluate an Expression Map](https://www.fastprep.io/problems/harvey-evaluate-expression-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-evaluate-expression-map)|Sep 20, 2026|
-|**Harvey**|[Find Duplicate Files in a Filesystem](https://www.fastprep.io/problems/harvey-find-duplicate-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-find-duplicate-files)|Sep 20, 2026|
 <a id="bottom"></a>

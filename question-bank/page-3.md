@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Agoda**|[Special Diameter Endpoints](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Nov 29, 2025|
+|**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|SQL|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
+|**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
 |**Microsoft / Meta**|[Design a Learned Candidate Ranking Service](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|Nov 26, 2025|
 |**Meta**|[Find and Measure the Longest Target-Sum Subarray](https://www.fastprep.io/problems/meta-longest-target-sum-subarray-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-longest-target-sum-subarray-existence)|Nov 26, 2025|
 |**Datadog**|[Buffered File Writer with Partial Writes](https://www.fastprep.io/problems/datadog-buffered-file-writer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-buffered-file-writer)|Nov 25, 2025|
@@ -1845,7 +1848,4 @@
 |**Unattributed**|[Signing Confirmation Loss Recovery](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|Mar 25, 2022|
 |**Rippling**|[Palindrome Permutation](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Mar 20, 2022|
 |**Rippling**|[Reverse Substrings Between Parentheses](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|Mar 20, 2022|
-|**Rippling**|[Word Ladder](https://www.fastprep.io/problems/rippling-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-word-ladder)|Mar 20, 2022|
-|**Wayfair**|[Recover Completed-Document Notifications](https://www.fastprep.io/system-design/completed-document-notification-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/completed-document-notification-recovery)|Mar 19, 2022|
-|**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 <a id="bottom"></a>

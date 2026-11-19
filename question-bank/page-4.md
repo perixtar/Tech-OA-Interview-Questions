@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Rippling**|[Word Ladder](https://www.fastprep.io/problems/rippling-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-word-ladder)|Mar 20, 2022|
+|**Wayfair**|[Recover Completed-Document Notifications](https://www.fastprep.io/system-design/completed-document-notification-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/completed-document-notification-recovery)|Mar 19, 2022|
+|**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 |**SambaNova Systems**|[Decode String](https://www.fastprep.io/problems/sambanova-decode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-decode-string)|Mar 07, 2022|
 |**SambaNova Systems**|[Insert, Delete, and Get Random in Constant Time](https://www.fastprep.io/problems/sambanova-insert-delete-getrandom-o1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-insert-delete-getrandom-o1)|Mar 07, 2022|
 |**ZipRecruiter**|[Classify an Alien Dictionary Ordering](https://www.fastprep.io/problems/ziprecruiter-alien-dictionary-classification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alien-dictionary-classification)|Mar 05, 2022|
@@ -39,7 +42,6 @@
 |**Bloomberg LP**|[Design a Stock Data Analytics Platform](https://www.fastprep.io/system-design/stock-data-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stock-data-analytics-platform)|Jan 21, 2022|
 |**Bloomberg LP**|[Josephus Elimination Until Half Remain](https://www.fastprep.io/problems/bloomberg-josephus-half-survivors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-josephus-half-survivors)|Jan 21, 2022|
 |**Rippling**|[Layered Rectangle Canvas](https://www.fastprep.io/problems/rippling-matrix-rectangle-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-matrix-rectangle-canvas)|Jan 15, 2022|
-|**Confluent**|[Design a Priority-Aware Distributed Worker Platform](https://www.fastprep.io/system-design/priority-aware-distributed-worker-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-aware-distributed-worker-platform)|Jan 15, 2022|
 |**Bloomberg LP**|[Add Two Numbers II](https://www.fastprep.io/problems/bloomberg-add-two-numbers-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-add-two-numbers-ii)|Jan 15, 2022|
 |**Bloomberg LP**|[Replace Characters in a Mutable String](https://www.fastprep.io/problems/bloomberg-replace-character-in-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-replace-character-in-string)|Jan 15, 2022|
 |**Bloomberg LP**|[Non-decreasing Array](https://www.fastprep.io/problems/bloomberg-non-decreasing-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-non-decreasing-array)|Jan 10, 2022|
