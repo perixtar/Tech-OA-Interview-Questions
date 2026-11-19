@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**710 questions**
+**712 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -521,8 +521,10 @@
 |**Hebbia**|[Multi-Agent Financial Research Assistant](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|Jun 18, 2026|
 |**Amazon / Wayfair**|[Design a Vending Machine Fleet](https://www.fastprep.io/system-design/vending-machine-fleet)|[![Practice][p]](https://www.fastprep.io/system-design/vending-machine-fleet)|Jun 15, 2026|
 |**Mercor**|[Design an External Career Data Analytics Platform](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|Jun 15, 2026|
+|**Bloomberg LP**|[Design a Redundant UDP Market-Data Ingestion Pipeline](https://www.fastprep.io/system-design/redundant-udp-market-data-fanout)|[![Practice][p]](https://www.fastprep.io/system-design/redundant-udp-market-data-fanout)|Jun 15, 2026|
 |**Profound**|[Design an LLM Brand Exposure Analytics Platform](https://www.fastprep.io/system-design/llm-brand-exposure-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/llm-brand-exposure-analytics-platform)|Jun 14, 2026|
 |**OpenAI**|[Design Rate Limits for an LLM Inference API](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|Jun 06, 2026|
+|**Bloomberg LP**|[Design a Stock Exchange Order-Matching Platform](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|[![Practice][p]](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|Jun 06, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
 |**Notion**|[Design a Calendar Search and Sync Platform](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|Jun 05, 2026|
 |**Postman**|[Design a Social Feed and Post Detail Experience](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|[![Practice][p]](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|May 21, 2026|

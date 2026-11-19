@@ -1305,6 +1305,7 @@
 |**Walmart**|[K-Capable Model Selection](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|Jun 16, 2026|
 |**Amazon / Wayfair**|[Design a Vending Machine Fleet](https://www.fastprep.io/system-design/vending-machine-fleet)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vending-machine-fleet)|Jun 15, 2026|
 |**Mercor**|[Design an External Career Data Analytics Platform](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/external-career-data-analytics-platform)|Jun 15, 2026|
+|**Bloomberg LP**|[Design a Redundant UDP Market-Data Ingestion Pipeline](https://www.fastprep.io/system-design/redundant-udp-market-data-fanout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/redundant-udp-market-data-fanout)|Jun 15, 2026|
 |**Scale AI**|[Task Processor: Dependencies and Deadlines](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Jun 14, 2026|
 |**Profound**|[Design an LLM Brand Exposure Analytics Platform](https://www.fastprep.io/system-design/llm-brand-exposure-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-brand-exposure-analytics-platform)|Jun 14, 2026|
 |**Luma AI**|[Center Crop a Grayscale Image](https://www.fastprep.io/problems/luma-ai-center-crop)|Coding|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-center-crop)|Jun 12, 2026|
@@ -1326,6 +1327,7 @@
 |**Notion**|[Nested Todo List](https://www.fastprep.io/problems/notion-nested-todo-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-nested-todo-list)|Jun 07, 2026|
 |**Hebbia**|[Detect a Winner on a 3x3 Tic-Tac-Toe Board](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Jun 06, 2026|
 |**OpenAI**|[Design Rate Limits for an LLM Inference API](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|Jun 06, 2026|
+|**Bloomberg LP**|[Design a Stock Exchange Order-Matching Platform](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|Jun 06, 2026|
 |**Amazon**|[Next Greater Element on a Stream](https://www.fastprep.io/problems/amazon-streaming-next-greater-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-streaming-next-greater-element)|Jun 05, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
 |**Notion**|[Design a Calendar Search and Sync Platform](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|Jun 05, 2026|
@@ -1740,7 +1742,4 @@
 |**Bloomberg LP**|[Trapping Rain Water](https://www.fastprep.io/problems/bloomberg-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-trapping-rain-water)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
 |**Bloomberg LP**|[Generate Wildcard Binary Strings](https://www.fastprep.io/problems/bloomberg-generate-wildcard-binary-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-generate-wildcard-binary-strings)|Nov 21, 2025|
-|**Apple**|[Compute TF-IDF Scores](https://www.fastprep.io/problems/apple-compute-tf-idf)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-compute-tf-idf)|Nov 21, 2025|
-|**Apple**|[Substring Match Generator](https://www.fastprep.io/problems/apple-substring-match-generator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-substring-match-generator)|Nov 21, 2025|
-|**Rippling**|[Song Play Analytics](https://www.fastprep.io/problems/rippling-song-play-analytics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-song-play-analytics)|Nov 20, 2025|
 <a id="bottom"></a>
