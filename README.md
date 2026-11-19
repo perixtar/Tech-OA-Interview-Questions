@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (716)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (235)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,359)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (717)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (235)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -744,7 +744,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Walmart Labs**|[Find the Duplicate Number](https://www.fastprep.io/problems/walmart-labs-find-duplicate-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-labs-find-duplicate-number)|🆕 Oct 15, 2026|
 |**Walmart Labs**|[Product of Array Except Self](https://www.fastprep.io/problems/walmart-labs-product-of-array-except-self)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-labs-product-of-array-except-self)|🆕 Oct 15, 2026|
 |**eBay**|[Repair an Asynchronous Store Update](https://www.fastprep.io/project-coding/ebay-repair-async-store-update)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/ebay-repair-async-store-update)|🆕 Oct 15, 2026|
-|**Coinbase / Goldman Sachs / Robinhood**|[Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system)|🆕 Oct 14, 2026|
+|**Coinbase / Goldman Sachs / Robinhood / Bloomberg LP**|[Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system)|🆕 Oct 14, 2026|
 |**Robinhood / Rippling**|[Large-Input Word Frequency Analysis](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-input-word-frequency-analysis)|🆕 Oct 14, 2026|
 |**Attentive / Oracle / Amperity / Snap Inc. / Waabi / LinkedIn**|[Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database)|🆕 Oct 14, 2026|
 |**Perplexity AI**|[Design Durable Long-Running Agentic Query Execution](https://www.fastprep.io/system-design/long-running-agentic-query-execution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-running-agentic-query-execution)|🆕 Oct 14, 2026|
@@ -1259,7 +1259,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Urban Company**|[Design and Implement Partner Slot Routing](https://www.fastprep.io/low-level-design/partner-customer-slot-routing-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/partner-customer-slot-routing-domain)|Sep 30, 2026|
 |**Navi**|[Design a Metro and Bus Booking Platform](https://www.fastprep.io/system-design/multimodal-transit-booking-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-transit-booking-platform)|Sep 30, 2026|
 |**amo**|[Design a Time-Zone-Aware Birthday Notification Service](https://www.fastprep.io/system-design/timezone-aware-birthday-notification-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/timezone-aware-birthday-notification-service)|Sep 30, 2026|
-|**amo / C3.ai / Adobe**|[Design a Concurrent Multi-Producer Multi-Consumer Queue](https://www.fastprep.io/low-level-design/concurrent-mpmc-queue-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-mpmc-queue-domain)|Sep 30, 2026|
+|**amo / C3.ai / Adobe / Bloomberg LP**|[Design a Concurrent Multi-Producer Multi-Consumer Queue](https://www.fastprep.io/low-level-design/concurrent-mpmc-queue-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-mpmc-queue-domain)|Sep 30, 2026|
 |**Navi**|[Design and Implement a Shared Expense Tracker](https://www.fastprep.io/low-level-design/shared-expense-tracker-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-tracker-domain)|Sep 30, 2026|
 |**amo**|[Delimiter-Parsing String Iterator](https://www.fastprep.io/problems/amo-delimiter-string-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amo-delimiter-string-iterator)|Sep 30, 2026|
 |**Atlassian**|[Longest Consistent Activity Streak](https://www.fastprep.io/problems/atlassian-longest-consistent-activity-streak)|Coding|[![Practice][p]](https://www.fastprep.io/problems/atlassian-longest-consistent-activity-streak)|Sep 30, 2026|

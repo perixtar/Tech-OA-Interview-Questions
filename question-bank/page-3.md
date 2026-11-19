@@ -35,6 +35,7 @@
 |**Rippling**|[Validate a DFS Traversal Order](https://www.fastprep.io/problems/rippling-valid-dfs-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-valid-dfs-order)|Nov 16, 2025|
 |**Rippling**|[Validate a Max Heap](https://www.fastprep.io/problems/rippling-validate-max-heap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-validate-max-heap)|Nov 16, 2025|
 |**Zip**|[Shortest Distance in a Graph](https://www.fastprep.io/problems/zip-graph-shortest-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-graph-shortest-distance)|Nov 14, 2025|
+|**Bloomberg LP**|[Design a Secure Internal Employee Self-Service Portal](https://www.fastprep.io/system-design/internal-employee-self-service-portal)|System design|[![Practice][p]](https://www.fastprep.io/system-design/internal-employee-self-service-portal)|Nov 14, 2025|
 |**Bloomberg LP**|[Subsets](https://www.fastprep.io/problems/bloomberg-subsets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-subsets)|Nov 13, 2025|
 |**Vanguard**|[Are They Pangrams](https://www.fastprep.io/problems/vanguard-are-they-pangrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-are-they-pangrams)|Nov 13, 2025|
 |**Vanguard**|[Missing Words](https://www.fastprep.io/problems/vanguard-missing-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-missing-words)|Nov 13, 2025|
@@ -1847,5 +1848,4 @@
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
 |**Unattributed**|[Signing Confirmation Loss Recovery](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|Mar 25, 2022|
 |**Rippling**|[Palindrome Permutation](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-palindrome-permutation)|Mar 20, 2022|
-|**Rippling**|[Reverse Substrings Between Parentheses](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-reverse-parenthesized-substrings)|Mar 20, 2022|
 <a id="bottom"></a>
