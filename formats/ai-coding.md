@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**235 questions**
+**238 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -44,7 +44,7 @@
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🆕 Nov 03, 2026|
 |**Anthropic**|[Inference Engine Scheduler (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🆕 Nov 03, 2026|
 |**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🆕 Nov 03, 2026|
-|**Walmart**|[Configure Spring Profiles and Property Defaults](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|🆕 Nov 03, 2026|
+|**Walmart**|[Configure Profiles and Property Defaults](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|🆕 Nov 03, 2026|
 |**Scale AI**|[Debug Config Parsing, Concurrent Counting, and a Stale Cache](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-config-counter-cache-debugging)|🆕 Nov 03, 2026|
 |**Scale AI**|[Repair Contributor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|🆕 Nov 03, 2026|
 |**Scale AI**|[Merge and Verify a Chunked Upload](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|🆕 Nov 03, 2026|
@@ -114,7 +114,7 @@
 |**slice**|[Build a Vehicle-Aware Parking Lot Service](https://www.fastprep.io/project-coding/vehicle-type-parking-lot-service)|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-type-parking-lot-service)|🆕 Oct 06, 2026|
 |**Keychain**|[Build an In-Memory Priority Queue Service](https://www.fastprep.io/project-coding/in-memory-priority-queue-service)|[![Practice][p]](https://www.fastprep.io/project-coding/in-memory-priority-queue-service)|🆕 Oct 06, 2026|
 |**Netflix**|[Review and Repair an ML Feature Pipeline PR](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|[![Practice][p]](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|🆕 Oct 05, 2026|
-|**Capital One**|[Debug a Flask Cosine Similarity API](https://www.fastprep.io/project-coding/capital-one-flask-cosine-similarity-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-flask-cosine-similarity-debugging)|Oct 03, 2026|
+|**Capital One**|[Debug a Cosine Similarity API](https://www.fastprep.io/project-coding/capital-one-flask-cosine-similarity-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-flask-cosine-similarity-debugging)|Oct 03, 2026|
 |**Zip**|[Repair Monthly Expense Attribution](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|Oct 02, 2026|
 |**Zip**|[Extend Form Questions with Composite Conditions](https://www.fastprep.io/project-coding/zip-form-composite-conditions)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-form-composite-conditions)|Oct 01, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|Sep 30, 2026|
@@ -158,7 +158,7 @@
 |**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
 |**Scale AI**|[Build a CSV-to-JSON LLM Categorization Service](https://www.fastprep.io/project-coding/scale-csv-json-llm-categorization-service)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-csv-json-llm-categorization-service)|Aug 01, 2026|
 |**Decagon**|[Build a Resilient AI Gateway](https://www.fastprep.io/project-coding/decagon-resilient-ai-gateway)|[![Practice][p]](https://www.fastprep.io/project-coding/decagon-resilient-ai-gateway)|Aug 01, 2026|
-|**OpenAI**|[Repair a Deployed Django Rate Limiter](https://www.fastprep.io/project-coding/openai-django-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-django-rate-limiter)|Jul 31, 2026|
+|**OpenAI**|[Repair a Deployed Rate Limiter](https://www.fastprep.io/project-coding/openai-django-rate-limiter)|[![Practice][p]](https://www.fastprep.io/project-coding/openai-django-rate-limiter)|Jul 31, 2026|
 |**Mercury Insurance**|[Build a CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
 |**Replit**|[Implement a Project Usage Portal](https://www.fastprep.io/project-coding/replit-usage-portal)|[![Practice][p]](https://www.fastprep.io/project-coding/replit-usage-portal)|Jul 29, 2026|
 |**Coinbase / Airbnb**|[In-Memory Database](https://www.fastprep.io/project-coding/in-memory-database)|[![Practice][p]](https://www.fastprep.io/project-coding/in-memory-database)|Jul 27, 2026|
@@ -218,7 +218,7 @@
 |**JP Morgan Chase**|[Complete an Intervention Tracking Website](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-dots-intervention-workflow)|Jul 27, 2024|
 |**Capital One**|[Accounting Automation Repair](https://www.fastprep.io/project-coding/capital-one-accounting-automation-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-accounting-automation-repair)|Jul 07, 2024|
 |**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
-|**The Walt Disney Company**|[Create and List Users with Spring Boot](https://www.fastprep.io/project-coding/the-walt-disney-company-create-and-list-users)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-create-and-list-users)|Jan 18, 2024|
+|**The Walt Disney Company**|[Create and List Users with a REST API](https://www.fastprep.io/project-coding/the-walt-disney-company-create-and-list-users)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-create-and-list-users)|Jan 18, 2024|
 |**The Walt Disney Company**|[React Login and Conditional Home Navigation](https://www.fastprep.io/project-coding/the-walt-disney-company-react-login-navigation)|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-react-login-navigation)|Jan 18, 2024|
 |**Notion**|[Build a React JSON Object Reader](https://www.fastprep.io/project-coding/notion-react-json-object-reader)|[![Practice][p]](https://www.fastprep.io/project-coding/notion-react-json-object-reader)|Jan 10, 2024|
 |**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Dec 21, 2023|
@@ -227,20 +227,23 @@
 |**NVIDIA**|[Neural-Network Graph Tracing and Autograd](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|Sep 19, 2023|
 |**Motive**|[Build a Hotel Booking Frequency API](https://www.fastprep.io/project-coding/hotel-booking-frequency)|[![Practice][p]](https://www.fastprep.io/project-coding/hotel-booking-frequency)|Aug 20, 2022|
 |**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
-|**Hudson River Trading**|[Debug Python Scripts and Their CSV Files](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|May 07, 2022|
+|**Hudson River Trading**|[Debug Scripts and Their CSV Files](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
+|**Capital One**|[Recent Events With a Limit per Object](https://www.fastprep.io/project-coding/capital-one-recent-events-per-object-limit)|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-recent-events-per-object-limit)|Mar 10, 2022|
 |**Adobe**|[Print Numbers in Order With Odd and Even Threads](https://www.fastprep.io/project-coding/odd-even-printer-threads)|[![Practice][p]](https://www.fastprep.io/project-coding/odd-even-printer-threads)|Feb 03, 2022|
 |**Shopify**|[Build a Warehouse Inventory Application](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|Jan 27, 2022|
 |**Nutanix**|[Repair a Readers-Writer Lock](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|Aug 24, 2021|
 |**Checkr**|[Build an Internet Usage Rate API](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|[![Practice][p]](https://www.fastprep.io/project-coding/internet-usage-rate-spreadsheet-query-api)|May 13, 2021|
 |**Nutanix**|[Repair a Producer-Consumer Buffer](https://www.fastprep.io/project-coding/nutanix-repair-producer-consumer-buffer)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-producer-consumer-buffer)|Apr 29, 2021|
 |**Nutanix**|[Repair Ordered Acknowledgments for Concurrent File Writes](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|Jan 16, 2021|
+|**Capital One**|[Simplify a Tangled Late-Fee Waiver Rule](https://www.fastprep.io/project-coding/capital-one-simplify-late-fee-waiver-rule)|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-simplify-late-fee-waiver-rule)|Oct 30, 2020|
 |**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
 |**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
 |**Datadog**|[Console Website Monitor](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|May 26, 2019|
-|**Sentry**|[Implement a URL Shortener in a Flask App](https://www.fastprep.io/project-coding/sentry-flask-url-shortener)|[![Practice][p]](https://www.fastprep.io/project-coding/sentry-flask-url-shortener)|Feb 09, 2019|
+|**Sentry**|[Implement a URL Shortener in an Existing Web App](https://www.fastprep.io/project-coding/sentry-flask-url-shortener)|[![Practice][p]](https://www.fastprep.io/project-coding/sentry-flask-url-shortener)|Feb 09, 2019|
 |**Nutanix**|[Repair Circular Linked List Insert and Split](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|Sep 26, 2018|
 |**Nutanix**|[Repair Multi-Threaded File Merging with a Waiting Queue](https://www.fastprep.io/project-coding/nutanix-repair-multi-file-chunked-writer)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-multi-file-chunked-writer)|Sep 26, 2018|
 |**Nutanix**|[Repair a Linked-List Merge Sort That Removes Duplicates](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|Aug 17, 2018|
+|**Capital One**|[Encrypt Every Customer File in a Folder](https://www.fastprep.io/project-coding/capital-one-encrypt-customer-files)|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-encrypt-customer-files)|Feb 21, 2017|
 <a id="bottom"></a>
