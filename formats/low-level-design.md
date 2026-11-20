@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**226 questions**
+**227 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -218,6 +218,7 @@
 |**Apple**|[Design a Single-Branch Car Rental](https://www.fastprep.io/low-level-design/single-branch-car-rental)|[![Practice][p]](https://www.fastprep.io/low-level-design/single-branch-car-rental)|Nov 21, 2021|
 |**C3.ai**|[Design a Flight Seat Booking System](https://www.fastprep.io/low-level-design/flight-seat-booking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-seat-booking-system)|Nov 19, 2021|
 |**Figma**|[Template and Instance Override Model](https://www.fastprep.io/low-level-design/template-instance-override-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/template-instance-override-model)|Oct 26, 2021|
+|**Expedia**|[Design a Travel Website with Flights, Hotel Ratings, and Top Activities](https://www.fastprep.io/low-level-design/travel-website-bookings-and-ratings)|[![Practice][p]](https://www.fastprep.io/low-level-design/travel-website-bookings-and-ratings)|Sep 20, 2021|
 |**Wayfair**|[Review and Redesign a Shape Controller](https://www.fastprep.io/low-level-design/shape-controller-design-review)|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-controller-design-review)|Aug 31, 2021|
 |**Morgan Stanley**|[Design Vaccination Centre Reservations](https://www.fastprep.io/low-level-design/vaccination-centre-reservations)|[![Practice][p]](https://www.fastprep.io/low-level-design/vaccination-centre-reservations)|Aug 13, 2021|
 |**Morgan Stanley**|[Demonstrate Multilevel Device Inheritance](https://www.fastprep.io/low-level-design/multilevel-device-configuration)|[![Practice][p]](https://www.fastprep.io/low-level-design/multilevel-device-configuration)|Jun 23, 2021|

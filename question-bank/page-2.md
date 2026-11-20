@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Visa**|[Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Sep 21, 2026|
 |**Tesla**|[Flatten a Branched List into a Doubly Linked List](https://www.fastprep.io/problems/tesla-flatten-branched-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-flatten-branched-linked-list)|Sep 21, 2026|
 |**Oscar Health**|[Longest Name Chain in a Directed Acyclic Graph](https://www.fastprep.io/problems/oscar-health-longest-name-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oscar-health-longest-name-chain)|Sep 21, 2026|
 |**OpenAI**|[GPU Credit Ledger](https://www.fastprep.io/problems/openai-gpu-credit-ledger)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-gpu-credit-ledger)|Sep 21, 2026|
@@ -1258,6 +1259,7 @@
 |**Clickhouse**|[Top Three Sales per County and Year](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|SQL|[![Practice][p]](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|Jul 07, 2026|
 |**Apple**|[All Subsets with a Given Sum](https://www.fastprep.io/problems/apple-all-subsets-with-given-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-all-subsets-with-given-sum)|Jul 07, 2026|
 |**Bloomberg LP**|[Redesign a Slow Holiday Lookup for Low Latency](https://www.fastprep.io/system-design/holiday-lookup-latency-redesign)|System design|[![Practice][p]](https://www.fastprep.io/system-design/holiday-lookup-latency-redesign)|Jul 07, 2026|
+|**Bloomberg LP**|[Design a Real-Time VWAP Analytics Service](https://www.fastprep.io/system-design/real-time-vwap-analytics-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-vwap-analytics-service)|Jul 07, 2026|
 |**Amazon**|[Design an Online Code Compiler](https://www.fastprep.io/system-design/online-code-compiler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-code-compiler)|Jul 05, 2026|
 |**Amazon**|[Permutation Sorter](https://www.fastprep.io/problems/amazon-permutation-sorter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-permutation-sorter)|Jul 03, 2026|
 |**Amazon**|[Get Max Servers](https://www.fastprep.io/problems/amazon-find-maximum-number-of-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-number-of-servers)|Jul 03, 2026|
@@ -1739,6 +1741,4 @@
 |**Visa**|[Previous Bus Departure](https://www.fastprep.io/problems/visa-previous-bus-departure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-previous-bus-departure)|Dec 16, 2025|
 |**Zopsmart**|[Base36 Square Root](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Dec 16, 2025|
 |**Zopsmart**|[Minimum Hidden Roman Value](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Dec 16, 2025|
-|**Zopsmart**|[Reverse Base36 Number](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Dec 16, 2025|
-|**Rippling**|[Median of Two Sorted Arrays](https://www.fastprep.io/problems/rippling-median-of-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-median-of-two-sorted-arrays)|Dec 16, 2025|
 <a id="bottom"></a>

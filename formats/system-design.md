@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**727 questions**
+**730 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -216,6 +216,7 @@
 |**Infosys**|[Design a Million-Domain Blocking Service](https://www.fastprep.io/system-design/million-domain-blocking-service)|[![Practice][p]](https://www.fastprep.io/system-design/million-domain-blocking-service)|Oct 05, 2026|
 |**Amazon**|[Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|Oct 04, 2026|
 |**Temporal / Amazon**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|Oct 04, 2026|
+|**Bloomberg LP**|[Design a Fair Job Scheduler for a Small Worker Pool](https://www.fastprep.io/system-design/fair-share-job-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/fair-share-job-scheduler)|Oct 04, 2026|
 |**Microsoft**|[Design a Product Page Sharing and Rewards Platform](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|[![Practice][p]](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|Oct 03, 2026|
 |**Cohere**|[Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant)|Oct 03, 2026|
 |**Grammarly**|[Design a Real-Time Anonymous Pixel Canvas](https://www.fastprep.io/system-design/real-time-anonymous-pixel-canvas)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anonymous-pixel-canvas)|Oct 03, 2026|
@@ -516,6 +517,7 @@
 |**Salesforce / Retool**|[Design a Rental Car Reservation System](https://www.fastprep.io/system-design/rental-car-reservation-system)|[![Practice][p]](https://www.fastprep.io/system-design/rental-car-reservation-system)|Jul 14, 2026|
 |**Clickhouse**|[Design an Aircraft Speed Telemetry Analytics Platform](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|Jul 07, 2026|
 |**Bloomberg LP**|[Redesign a Slow Holiday Lookup for Low Latency](https://www.fastprep.io/system-design/holiday-lookup-latency-redesign)|[![Practice][p]](https://www.fastprep.io/system-design/holiday-lookup-latency-redesign)|Jul 07, 2026|
+|**Bloomberg LP**|[Design a Real-Time VWAP Analytics Service](https://www.fastprep.io/system-design/real-time-vwap-analytics-service)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-vwap-analytics-service)|Jul 07, 2026|
 |**Amazon**|[Design an Online Code Compiler](https://www.fastprep.io/system-design/online-code-compiler)|[![Practice][p]](https://www.fastprep.io/system-design/online-code-compiler)|Jul 05, 2026|
 |**NVIDIA**|[Governed SQL Generation Chatbot](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|Jul 02, 2026|
 |**NVIDIA / AMD**|[GPU Telemetry Collection and Analytics Platform](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|Jul 02, 2026|
@@ -700,6 +702,7 @@
 |**Wayfair**|[Place a Completed-Game Analysis Library on Phone or Server](https://www.fastprep.io/system-design/completed-game-analysis-placement)|[![Practice][p]](https://www.fastprep.io/system-design/completed-game-analysis-placement)|Dec 24, 2021|
 |**Yelp**|[Design a Priority Venue Invitation Platform](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|Nov 19, 2021|
 |**Figma**|[Presentation Template Version Updates](https://www.fastprep.io/system-design/presentation-template-version-updates)|[![Practice][p]](https://www.fastprep.io/system-design/presentation-template-version-updates)|Oct 30, 2021|
+|**Expedia**|[Design a Trip Planning, Booking, and Itinerary Backend](https://www.fastprep.io/system-design/trip-planning-booking-itinerary-backend)|[![Practice][p]](https://www.fastprep.io/system-design/trip-planning-booking-itinerary-backend)|Oct 26, 2021|
 |**Microsoft**|[Design Semantic Ad Retrieval and Ranking](https://www.fastprep.io/system-design/semantic-ad-retrieval-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/semantic-ad-retrieval-ranking)|Oct 23, 2021|
 |**Nutanix**|[Design a Pizza Chain Ordering and Delivery System](https://www.fastprep.io/system-design/pizza-chain-ordering-and-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/pizza-chain-ordering-and-delivery)|Aug 24, 2021|
 |**SpaceX**|[Design a Fail-Safe Railroad Crossing Control System](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/railroad-crossing-safety-control-system)|Jun 23, 2021|

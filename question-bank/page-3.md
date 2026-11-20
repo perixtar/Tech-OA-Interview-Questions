@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Zopsmart**|[Reverse Base36 Number](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Dec 16, 2025|
+|**Rippling**|[Median of Two Sorted Arrays](https://www.fastprep.io/problems/rippling-median-of-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-median-of-two-sorted-arrays)|Dec 16, 2025|
 |**Meta**|[Design a General-Purpose Content Embedding Platform](https://www.fastprep.io/system-design/general-purpose-content-embedding-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/general-purpose-content-embedding-platform)|Dec 14, 2025|
 |**WhatNot**|[Who Is in the Room?](https://www.fastprep.io/problems/whatnot-room-presence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-room-presence)|Dec 14, 2025|
 |**Amazon**|[Minimum S3 Storage Cost](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Dec 11, 2025|
@@ -1847,6 +1849,4 @@
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
 |**ZipRecruiter**|[Count Words Formable from Letters](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Apr 27, 2022|
 |**ZipRecruiter**|[Interleave Two Strings](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Apr 27, 2022|
-|**ZipRecruiter**|[Prefix Longest Consecutive-Value Runs](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Apr 27, 2022|
-|**Coinbase**|[Mutual Friend Lookup Service](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|Apr 25, 2022|
 <a id="bottom"></a>

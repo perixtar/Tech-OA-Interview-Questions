@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (727)](formats/system-design.md) · [Low-level design (226)](formats/low-level-design.md) · [AI coding (238)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (227)](formats/low-level-design.md) · [AI coding (238)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1136,6 +1136,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Kotak Mahindra Bank**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/kotak-first-string-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-first-string-occurrence)|Oct 04, 2026|
 |**Kotak Mahindra Bank**|[Subarrays Whose Sum Is a Power of Two](https://www.fastprep.io/problems/kotak-power-of-two-sum-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-power-of-two-sum-subarrays)|Oct 04, 2026|
 |**Kotak Mahindra Bank**|[Roman to Integer](https://www.fastprep.io/problems/kotak-roman-to-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-roman-to-integer)|Oct 04, 2026|
+|**Bloomberg LP**|[Design a Fair Job Scheduler for a Small Worker Pool](https://www.fastprep.io/system-design/fair-share-job-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fair-share-job-scheduler)|Oct 04, 2026|
 |**Google**|[Minimum Union of Two Routes](https://www.fastprep.io/problems/google-minimum-union-route-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-union-route-edges)|Oct 03, 2026|
 |**Microsoft**|[Design a Product Page Sharing and Rewards Platform](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|Oct 03, 2026|
 |**Cohere**|[Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant)|Oct 03, 2026|
@@ -1681,5 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Longest Subarray with K Distinct Values](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Sep 21, 2026|
 |**Tekion**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Sep 21, 2026|
 |**Tekion**|[Next Greater Element to the Right](https://www.fastprep.io/problems/tekion-next-greater-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-next-greater-elements)|Sep 21, 2026|
-|**Visa**|[Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Sep 21, 2026|
 <a id="bottom"></a>

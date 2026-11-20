@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Prefix Longest Consecutive-Value Runs](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Apr 27, 2022|
+|**Coinbase**|[Mutual Friend Lookup Service](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mutual-friend-lookup-service)|Apr 25, 2022|
 |**Bloomberg LP**|[Sort by Variable-Length Alphabet Tokens](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Apr 24, 2022|
 |**Bloomberg LP**|[Word Ladder](https://www.fastprep.io/problems/bloomberg-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-ladder)|Apr 24, 2022|
 |**Amazon**|[Design Cross-Catalog Entity Matching](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|Apr 20, 2022|
@@ -96,6 +98,7 @@
 |**PeopleStrong**|[Add Forward Linked-List Numbers Using Recursion](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-add-two-linked-list-numbers)|Oct 26, 2021|
 |**PeopleStrong**|[Reverse a Stack Recursively](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-reverse-stack-recursively)|Oct 26, 2021|
 |**PeopleStrong**|[Permutations of Character Positions](https://www.fastprep.io/problems/peoplestrong-character-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-character-permutations)|Oct 26, 2021|
+|**Expedia**|[Design a Trip Planning, Booking, and Itinerary Backend](https://www.fastprep.io/system-design/trip-planning-booking-itinerary-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/trip-planning-booking-itinerary-backend)|Oct 26, 2021|
 |**Microsoft**|[Design Semantic Ad Retrieval and Ranking](https://www.fastprep.io/system-design/semantic-ad-retrieval-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/semantic-ad-retrieval-ranking)|Oct 23, 2021|
 |**Tesla**|[Maximum Even-Sum Adjacent Pairs in a Circular Array](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-maximum-even-sum-adjacent-pairs)|Oct 17, 2021|
 |**Intuit**|[Shortest Distance in an Undirected Graph](https://www.fastprep.io/problems/intuit-shortest-unweighted-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-shortest-unweighted-distance)|Oct 13, 2021|
@@ -118,6 +121,7 @@
 |**Stripe**|[Calculate Server Shutdown Penalty](https://www.fastprep.io/problems/stripe-server-shutdown-penalty)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-server-shutdown-penalty)|Sep 27, 2021|
 |**IMC**|[Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Sep 24, 2021|
 |**IMC**|[Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Sep 24, 2021|
+|**Expedia**|[Design a Travel Website with Flights, Hotel Ratings, and Top Activities](https://www.fastprep.io/low-level-design/travel-website-bookings-and-ratings)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/travel-website-bookings-and-ratings)|Sep 20, 2021|
 |**Bloomberg LP**|[Valid Triangle Number](https://www.fastprep.io/problems/bloomberg-valid-triangle-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-triangle-number)|Sep 11, 2021|
 |**PeopleStrong**|[Swap Two Array Elements](https://www.fastprep.io/problems/peoplestrong-swap-array-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-swap-array-elements)|Sep 06, 2021|
 |**Duolingo**|[Count Distinct Word Meanings](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Sep 02, 2021|
