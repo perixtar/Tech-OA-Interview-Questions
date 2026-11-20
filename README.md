@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (230)](formats/low-level-design.md) · [AI coding (239)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (230)](formats/low-level-design.md) · [AI coding (240)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -158,6 +158,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Lyft / WhatNot**|[Donation Platform](https://www.fastprep.io/system-design/donation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/donation-platform)|🔥 Nov 09, 2026|
 |**Pinterest / OpenAI / Axon / Tesla**|[Design a Blob Storage Service](https://www.fastprep.io/system-design/blob-storage-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/blob-storage-service)|🔥 Nov 09, 2026|
 |**WhatNot**|[Add a Last-Moment Bidder and a Dutch Auction to an Auction System](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/whatnot-auction-last-moment-bidder-dutch-auction)|🔥 Nov 09, 2026|
+|**Bloomberg LP**|[Build Three Features in a Watchlist and Alerts App](https://www.fastprep.io/project-coding/bloomberg-django-watchlist-alerts-features)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-django-watchlist-alerts-features)|🔥 Nov 09, 2026|
 |**Agoda**|[Reverse Words in a String](https://www.fastprep.io/problems/agoda-reverse-words-in-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-reverse-words-in-a-string)|🔥 Nov 08, 2026|
 |**Agoda**|[Can Place Flowers](https://www.fastprep.io/problems/agoda-can-place-flowers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-can-place-flowers)|🔥 Nov 08, 2026|
 |**Bloomberg LP**|[Debug a Ticket Booking System](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-ticket-booking-system)|🔥 Nov 08, 2026|
@@ -1680,6 +1681,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Tekion**|[Design and Implement a TTL Cache Library](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|Sep 21, 2026|
 |**Amazon**|[Edit Distance](https://www.fastprep.io/problems/amazon-edit-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-edit-distance)|Sep 21, 2026|
 |**Amazon**|[Word Ladder](https://www.fastprep.io/problems/amazon-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-ladder)|Sep 21, 2026|
-|**Amazon**|[Trapping Rain Water](https://www.fastprep.io/problems/amazon-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-trapping-rain-water)|Sep 21, 2026|
-|**Amazon**|[Allocate Minimum Pages](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Sep 21, 2026|
 <a id="bottom"></a>
