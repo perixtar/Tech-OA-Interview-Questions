@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**238 questions**
+**239 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -63,6 +63,7 @@
 |**DoorDash**|[Render a Card Grid from an API](https://www.fastprep.io/project-coding/doordash-api-card-grid)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-api-card-grid)|🆕 Oct 30, 2026|
 |**U.S. Bancorp**|[Repair an ATM Interface](https://www.fastprep.io/project-coding/us-bancorp-atm-interface-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/us-bancorp-atm-interface-repair)|🆕 Oct 30, 2026|
 |**Atlassian**|[Repair Card PIN Validation and Persistence](https://www.fastprep.io/project-coding/atlassian-bank-card-pin-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/atlassian-bank-card-pin-validation)|🆕 Oct 30, 2026|
+|**Bloomberg LP**|[Debug Seat Hold, Confirm and Cancel Rules](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|🆕 Oct 30, 2026|
 |**Citadel**|[Merge Single-Parent Jobs in an Async Job DAG](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-async-dag-single-parent-merge)|🆕 Oct 29, 2026|
 |**Reddit**|[Complete an Imbalanced Recommendation Feature Pipeline](https://www.fastprep.io/project-coding/imbalanced-recommendation-feature-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/imbalanced-recommendation-feature-pipeline)|🆕 Oct 28, 2026|
 |**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🆕 Oct 27, 2026|

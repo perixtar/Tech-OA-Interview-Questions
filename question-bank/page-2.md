@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Tekion**|[Next Greater Element to the Right](https://www.fastprep.io/problems/tekion-next-greater-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-next-greater-elements)|Sep 21, 2026|
 |**Visa**|[Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Sep 21, 2026|
 |**Tesla**|[Flatten a Branched List into a Doubly Linked List](https://www.fastprep.io/problems/tesla-flatten-branched-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-flatten-branched-linked-list)|Sep 21, 2026|
 |**Oscar Health**|[Longest Name Chain in a Directed Acyclic Graph](https://www.fastprep.io/problems/oscar-health-longest-name-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oscar-health-longest-name-chain)|Sep 21, 2026|
@@ -1740,5 +1741,4 @@
 |**Zip**|[Maximum Nonadjacent Sum in a General Tree](https://www.fastprep.io/problems/zip-tree-independent-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-tree-independent-set)|Dec 16, 2025|
 |**Visa**|[Previous Bus Departure](https://www.fastprep.io/problems/visa-previous-bus-departure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-previous-bus-departure)|Dec 16, 2025|
 |**Zopsmart**|[Base36 Square Root](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Dec 16, 2025|
-|**Zopsmart**|[Minimum Hidden Roman Value](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Dec 16, 2025|
 <a id="bottom"></a>

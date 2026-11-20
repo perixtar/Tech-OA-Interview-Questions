@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Zopsmart**|[Minimum Hidden Roman Value](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Dec 16, 2025|
 |**Zopsmart**|[Reverse Base36 Number](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Dec 16, 2025|
 |**Rippling**|[Median of Two Sorted Arrays](https://www.fastprep.io/problems/rippling-median-of-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-median-of-two-sorted-arrays)|Dec 16, 2025|
 |**Meta**|[Design a General-Purpose Content Embedding Platform](https://www.fastprep.io/system-design/general-purpose-content-embedding-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/general-purpose-content-embedding-platform)|Dec 14, 2025|

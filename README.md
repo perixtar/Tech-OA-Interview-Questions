@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (227)](formats/low-level-design.md) · [AI coding (238)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (227)](formats/low-level-design.md) · [AI coding (239)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -398,6 +398,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DoorDash**|[Render a Card Grid from an API](https://www.fastprep.io/project-coding/doordash-api-card-grid)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-api-card-grid)|🆕 Oct 30, 2026|
 |**U.S. Bancorp**|[Repair an ATM Interface](https://www.fastprep.io/project-coding/us-bancorp-atm-interface-repair)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/us-bancorp-atm-interface-repair)|🆕 Oct 30, 2026|
 |**Atlassian**|[Repair Card PIN Validation and Persistence](https://www.fastprep.io/project-coding/atlassian-bank-card-pin-validation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/atlassian-bank-card-pin-validation)|🆕 Oct 30, 2026|
+|**Bloomberg LP**|[Debug Seat Hold, Confirm and Cancel Rules](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|🆕 Oct 30, 2026|
 |**Microsoft**|[Fewest Buses with the Full Route](https://www.fastprep.io/problems/microsoft-bus-routes-full-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-bus-routes-full-route)|🆕 Oct 29, 2026|
 |**Microsoft**|[Pizza Price Calculator](https://www.fastprep.io/problems/microsoft-pizza-price-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-pizza-price-calculator)|🆕 Oct 29, 2026|
 |**Oracle**|[Maximum Bouquet Value](https://www.fastprep.io/problems/oracle-maximum-bouquet-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-bouquet-value)|🆕 Oct 29, 2026|
@@ -1681,5 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Allocate Minimum Pages](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Sep 21, 2026|
 |**Amazon**|[Longest Subarray with K Distinct Values](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Sep 21, 2026|
 |**Tekion**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Sep 21, 2026|
-|**Tekion**|[Next Greater Element to the Right](https://www.fastprep.io/problems/tekion-next-greater-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-next-greater-elements)|Sep 21, 2026|
 <a id="bottom"></a>
