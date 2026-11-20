@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**227 questions**
+**228 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -155,6 +155,7 @@
 |**Amazon**|[Design an Advertising Campaign Metrics Tracker](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Jun 12, 2026|
 |**Onehouse**|[Design a Thread-Safe In-Memory Workflow Orchestrator](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Jun 10, 2026|
 |**Shopify**|[Design and Implement Movie Seat Reservations](https://www.fastprep.io/low-level-design/cinema-seat-reservations)|[![Practice][p]](https://www.fastprep.io/low-level-design/cinema-seat-reservations)|Jun 03, 2026|
+|**Bloomberg LP**|[Design a Snake Game](https://www.fastprep.io/low-level-design/snake-game-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/snake-game-domain)|May 11, 2026|
 |**Amazon / AMD**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
 |**Stripe**|[Design a Business KYC Verification Domain](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|Mar 27, 2026|
 |**Microsoft**|[Design a Car Rental System with Design Patterns](https://www.fastprep.io/low-level-design/car-rental-design-patterns)|[![Practice][p]](https://www.fastprep.io/low-level-design/car-rental-design-patterns)|Mar 19, 2026|
