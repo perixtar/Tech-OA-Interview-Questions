@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|May 13, 2022|
+|**Figma**|[Shell Path Autocomplete](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|May 07, 2022|
 |**Hudson River Trading**|[Debug Scripts and Their CSV Files](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|

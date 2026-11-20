@@ -1685,6 +1685,7 @@
 |**Motive**|[Palindrome Permutation](https://www.fastprep.io/problems/motive-palindrome-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-palindrome-permutation)|Jun 01, 2023|
 |**Motive**|[Valid Anagram](https://www.fastprep.io/problems/motive-valid-anagram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-anagram)|Jun 01, 2023|
 |**Motive**|[Valid Palindrome](https://www.fastprep.io/problems/motive-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-palindrome)|Jun 01, 2023|
+|**Airbnb**|[Design a Snack Vending Machine: Cash, Change, and Expiring Stock](https://www.fastprep.io/low-level-design/snack-vending-machine-change-and-expiry)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/snack-vending-machine-change-and-expiry)|May 30, 2023|
 |**Airbnb**|[Validate BST Node Descriptions](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|May 17, 2023|
 |**Datadog**|[Count Repetitions for Each Word](https://www.fastprep.io/problems/datadog-per-word-repetition-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-per-word-repetition-counts)|May 16, 2023|
 |**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
@@ -1848,6 +1849,4 @@
 |**Datadog**|[Find the Most Frequent Word](https://www.fastprep.io/problems/datadog-most-frequent-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-most-frequent-word)|May 27, 2022|
 |**Persona**|[Treasure Hunter](https://www.fastprep.io/problems/persona-treasure-hunter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-treasure-hunter)|May 21, 2022|
 |**Alchemy**|[Equal-Sum Digit Partitions](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|May 18, 2022|
-|**Bloomberg LP**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|May 13, 2022|
-|**Figma**|[Shell Path Autocomplete](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|May 07, 2022|
 <a id="bottom"></a>

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**230 questions**
+**231 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -207,6 +207,7 @@
 |**Modular**|[Design a Configurable Robot Arm](https://www.fastprep.io/low-level-design/configurable-robot-arm)|[![Practice][p]](https://www.fastprep.io/low-level-design/configurable-robot-arm)|Nov 03, 2023|
 |**Hudson River Trading**|[Design a Hit Counter with Disk-Backed Payloads](https://www.fastprep.io/low-level-design/hit-counter-with-disk-backed-payloads)|[![Practice][p]](https://www.fastprep.io/low-level-design/hit-counter-with-disk-backed-payloads)|Jul 03, 2023|
 |**Motive**|[Design a Restaurant Catalog Management Service](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Jun 07, 2023|
+|**Airbnb**|[Design a Snack Vending Machine: Cash, Change, and Expiring Stock](https://www.fastprep.io/low-level-design/snack-vending-machine-change-and-expiry)|[![Practice][p]](https://www.fastprep.io/low-level-design/snack-vending-machine-change-and-expiry)|May 30, 2023|
 |**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
 |**Headlands Technologies**|[Asynchronous TCP Message Channel](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|[![Practice][p]](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|Mar 09, 2023|
 |**Morgan Stanley**|[Design an Earbud Connection and Playback Model](https://www.fastprep.io/low-level-design/earbud-connection-playback-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/earbud-connection-playback-model)|Feb 10, 2023|
