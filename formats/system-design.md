@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**724 questions**
+**727 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -515,6 +515,7 @@
 |**Waymo**|[Design a Matchmaking Service](https://www.fastprep.io/system-design/matchmaking-service)|[![Practice][p]](https://www.fastprep.io/system-design/matchmaking-service)|Jul 14, 2026|
 |**Salesforce / Retool**|[Design a Rental Car Reservation System](https://www.fastprep.io/system-design/rental-car-reservation-system)|[![Practice][p]](https://www.fastprep.io/system-design/rental-car-reservation-system)|Jul 14, 2026|
 |**Clickhouse**|[Design an Aircraft Speed Telemetry Analytics Platform](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|Jul 07, 2026|
+|**Bloomberg LP**|[Redesign a Slow Holiday Lookup for Low Latency](https://www.fastprep.io/system-design/holiday-lookup-latency-redesign)|[![Practice][p]](https://www.fastprep.io/system-design/holiday-lookup-latency-redesign)|Jul 07, 2026|
 |**Amazon**|[Design an Online Code Compiler](https://www.fastprep.io/system-design/online-code-compiler)|[![Practice][p]](https://www.fastprep.io/system-design/online-code-compiler)|Jul 05, 2026|
 |**NVIDIA**|[Governed SQL Generation Chatbot](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|Jul 02, 2026|
 |**NVIDIA / AMD**|[GPU Telemetry Collection and Analytics Platform](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|Jul 02, 2026|
@@ -692,6 +693,7 @@
 |**Grubhub**|[Design a Restaurant Menu Catalog Service](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|Mar 26, 2022|
 |**Unattributed**|[Signing Confirmation Loss Recovery](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|[![Practice][p]](https://www.fastprep.io/system-design/signing-confirmation-loss-recovery)|Mar 25, 2022|
 |**Wayfair**|[Recover Completed-Document Notifications](https://www.fastprep.io/system-design/completed-document-notification-recovery)|[![Practice][p]](https://www.fastprep.io/system-design/completed-document-notification-recovery)|Mar 19, 2022|
+|**Expedia**|[Design a Map Tiles, Routing, and ETA Service](https://www.fastprep.io/system-design/map-tiles-routing-eta-service)|[![Practice][p]](https://www.fastprep.io/system-design/map-tiles-routing-eta-service)|Feb 01, 2022|
 |**Bloomberg LP**|[Design a Stock Data Analytics Platform](https://www.fastprep.io/system-design/stock-data-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/stock-data-analytics-platform)|Jan 21, 2022|
 |**Capital One**|[Design a Smart Meter System for Apartment Buildings](https://www.fastprep.io/system-design/apartment-building-smart-meter-system)|[![Practice][p]](https://www.fastprep.io/system-design/apartment-building-smart-meter-system)|Jan 09, 2022|
 |**Wayfair**|[Audit Midnight Fleet Analytics and Reviewed Patch Rollout](https://www.fastprep.io/system-design/fleet-fault-to-reviewed-patch-rollout)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fault-to-reviewed-patch-rollout)|Dec 24, 2021|
@@ -711,6 +713,7 @@
 |**Twitch**|[Design a Video Watch and Like Experience](https://www.fastprep.io/system-design/video-watch-and-like-experience)|[![Practice][p]](https://www.fastprep.io/system-design/video-watch-and-like-experience)|Dec 12, 2020|
 |**Roblox**|[Design a Player Matchmaking Queue](https://www.fastprep.io/system-design/player-matchmaking-queue)|[![Practice][p]](https://www.fastprep.io/system-design/player-matchmaking-queue)|Dec 09, 2020|
 |**Unattributed**|[Single-Editor Document Instance Routing](https://www.fastprep.io/system-design/single-editor-document-instance-routing)|[![Practice][p]](https://www.fastprep.io/system-design/single-editor-document-instance-routing)|Nov 24, 2020|
+|**Expedia**|[Design a Map Points-of-Interest Catalog](https://www.fastprep.io/system-design/map-points-of-interest-catalog)|[![Practice][p]](https://www.fastprep.io/system-design/map-points-of-interest-catalog)|Nov 17, 2020|
 |**Bloomberg LP**|[Design an ML Word-Segmentation Service](https://www.fastprep.io/system-design/ml-word-segmentation-service)|[![Practice][p]](https://www.fastprep.io/system-design/ml-word-segmentation-service)|Oct 23, 2020|
 |**Bloomberg LP**|[Design ML Customer-Service Routing](https://www.fastprep.io/system-design/ml-customer-service-routing)|[![Practice][p]](https://www.fastprep.io/system-design/ml-customer-service-routing)|Oct 23, 2020|
 |**Bloomberg LP**|[Design an Airport Operations Coordination System](https://www.fastprep.io/system-design/airport-operations-coordination)|[![Practice][p]](https://www.fastprep.io/system-design/airport-operations-coordination)|Oct 20, 2020|

@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Sort by Variable-Length Alphabet Tokens](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Apr 24, 2022|
+|**Bloomberg LP**|[Word Ladder](https://www.fastprep.io/problems/bloomberg-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-ladder)|Apr 24, 2022|
 |**Amazon**|[Design Cross-Catalog Entity Matching](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|Apr 20, 2022|
 |**Airbnb**|[Cheapest Flight with Its Path](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Apr 18, 2022|
 |**ZipRecruiter**|[Starting Value with the Longest Collatz Chain](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Apr 18, 2022|
@@ -52,6 +54,7 @@
 |**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|SQL|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
 |**Airbnb**|[Median of Two Sorted Arrays](https://www.fastprep.io/problems/airbnb-median-of-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-median-of-two-sorted-arrays)|Feb 07, 2022|
 |**Adobe**|[Print Numbers in Order With Odd and Even Threads](https://www.fastprep.io/project-coding/odd-even-printer-threads)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/odd-even-printer-threads)|Feb 03, 2022|
+|**Expedia**|[Design a Map Tiles, Routing, and ETA Service](https://www.fastprep.io/system-design/map-tiles-routing-eta-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/map-tiles-routing-eta-service)|Feb 01, 2022|
 |**Bloomberg LP**|[Character Intersection and Frequency Ordering](https://www.fastprep.io/problems/bloomberg-character-intersection-and-frequency-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-character-intersection-and-frequency-order)|Jan 31, 2022|
 |**Deloitte**|[Annual Bank Balance with Monthly Card Fees](https://www.fastprep.io/problems/deloitte-annual-bank-balance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-annual-bank-balance)|Jan 28, 2022|
 |**Deloitte**|[Count Battleships by Size](https://www.fastprep.io/problems/deloitte-count-battleship-types)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-count-battleship-types)|Jan 28, 2022|
@@ -181,6 +184,7 @@
 |**Marshall Wace**|[Construct Distinct Integers Summing to Zero](https://www.fastprep.io/problems/marshall-wace-distinct-zero-sum-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-distinct-zero-sum-array)|Feb 09, 2021|
 |**Marshall Wace**|[Minimum Deletions to Make Every Letter Count Even](https://www.fastprep.io/problems/marshall-wace-even-letter-deletions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-even-letter-deletions)|Feb 09, 2021|
 |**Bloomberg LP**|[Fibonacci Number](https://www.fastprep.io/problems/bloomberg-fibonacci-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-fibonacci-number)|Feb 03, 2021|
+|**Expedia**|[Design a City Tourist Spots Guide](https://www.fastprep.io/low-level-design/city-tourist-spots-guide)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/city-tourist-spots-guide)|Feb 03, 2021|
 |**Bloomberg LP**|[Coin Change](https://www.fastprep.io/problems/bloomberg-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change)|Feb 02, 2021|
 |**Bloomberg LP**|[Path Existence in an Undirected Graph](https://www.fastprep.io/problems/bloomberg-graph-path-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-graph-path-existence)|Feb 02, 2021|
 |**Bloomberg LP**|[Remove Nth Node From End](https://www.fastprep.io/problems/bloomberg-remove-nth-node-from-end)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-nth-node-from-end)|Feb 02, 2021|
@@ -221,6 +225,7 @@
 |**SambaNova Systems**|[Set Matrix Zeroes](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Nov 23, 2020|
 |**Bloomberg LP**|[Word Break with One Reconstruction](https://www.fastprep.io/problems/bloomberg-word-break-one-segmentation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-one-segmentation)|Nov 22, 2020|
 |**Bloomberg LP**|[Search a Valley Array](https://www.fastprep.io/problems/bloomberg-search-valley-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-valley-array)|Nov 19, 2020|
+|**Expedia**|[Design a Map Points-of-Interest Catalog](https://www.fastprep.io/system-design/map-points-of-interest-catalog)|System design|[![Practice][p]](https://www.fastprep.io/system-design/map-points-of-interest-catalog)|Nov 17, 2020|
 |**Morgan Stanley**|[Design a Profile Catalogue and Playback Model](https://www.fastprep.io/low-level-design/profile-catalogue-playback-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/profile-catalogue-playback-model)|Nov 09, 2020|
 |**Bloomberg LP**|[Find Peak Element](https://www.fastprep.io/problems/bloomberg-find-peak-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-peak-element)|Nov 05, 2020|
 |**Bloomberg LP**|[Shortest Bridge](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-bridge)|Nov 05, 2020|

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (724)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (238)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (727)](formats/system-design.md) · [Low-level design (226)](formats/low-level-design.md) · [AI coding (238)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -70,6 +70,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Bloomberg LP**|[Word Search](https://www.fastprep.io/problems/bloomberg-word-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-search)|🔥 Nov 18, 2026|
 |**Bloomberg LP**|[Trapping Rain Water](https://www.fastprep.io/problems/bloomberg-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-trapping-rain-water)|🔥 Nov 18, 2026|
 |**Bloomberg LP**|[Top K Frequent Words](https://www.fastprep.io/problems/bloomberg-top-k-frequent-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-top-k-frequent-words)|🔥 Nov 18, 2026|
+|**Walmart**|[Configure Profiles and Property Defaults](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|🔥 Nov 18, 2026|
 |**Okta**|[House Robber III](https://www.fastprep.io/problems/okta-house-robber-iii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/okta-house-robber-iii)|🔥 Nov 17, 2026|
 |**Google**|[Delete Nodes and Return Forest Roots](https://www.fastprep.io/problems/google-delete-nodes-forest-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-delete-nodes-forest-roots)|🔥 Nov 17, 2026|
 |**Google**|[Lowest Common Ancestor in an N-ary Tree](https://www.fastprep.io/problems/google-nary-tree-lowest-common-ancestor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-nary-tree-lowest-common-ancestor)|🔥 Nov 17, 2026|
@@ -299,7 +300,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Abridge**|[Identification Number Check Digit](https://www.fastprep.io/problems/abridge-identification-check-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abridge-identification-check-digit)|🆕 Nov 03, 2026|
 |**Instacart**|[Design a Sponsored Product Ads Ranking Pipeline](https://www.fastprep.io/system-design/sponsored-product-ads-ranking-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/sponsored-product-ads-ranking-pipeline)|🆕 Nov 03, 2026|
 |**Instacart**|[Design Grocery Product Search Ranking](https://www.fastprep.io/system-design/grocery-product-search-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/grocery-product-search-ranking)|🆕 Nov 03, 2026|
-|**Walmart**|[Configure Profiles and Property Defaults](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/walmart-configure-spring-profiles-property-defaults)|🆕 Nov 03, 2026|
 |**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi / Meta / Yellow.ai / Morgan Stanley / The Walt Disney Company / Adobe**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Nov 03, 2026|
 |**Postman / JioStar**|[Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|🆕 Nov 03, 2026|
 |**Rippling**|[Delivery Cost Tracker with Effective-Dated Rates](https://www.fastprep.io/problems/rippling-delivery-cost-tracker-with-rate-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-delivery-cost-tracker-with-rate-history)|🆕 Nov 03, 2026|
@@ -607,6 +607,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Valid Number with Exponents](https://www.fastprep.io/problems/linkedin-valid-number-with-exponents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-valid-number-with-exponents)|🆕 Oct 22, 2026|
 |**McKinsey & Company**|[Count Repeated Request IDs (Data Science OA)](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|🆕 Oct 22, 2026|
 |**McKinsey & Company**|[Predict Customer Support Rating Outcomes (Data Science OA)](https://www.fastprep.io/project-coding/mckinsey-customer-support-outcome-prediction)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mckinsey-customer-support-outcome-prediction)|🆕 Oct 22, 2026|
+|**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|🆕 Oct 22, 2026|
 |**Headlands Technologies**|[Integer Compression Offset](https://www.fastprep.io/problems/headlands-integer-compression-offset)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-integer-compression-offset)|🆕 Oct 21, 2026|
 |**Roblox**|[Topological Sort with Secondary Ordering](https://www.fastprep.io/problems/roblox-topological-sort-with-secondary-ordering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-topological-sort-with-secondary-ordering)|🆕 Oct 21, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🆕 Oct 21, 2026|
@@ -1681,5 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Tekion**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Sep 21, 2026|
 |**Tekion**|[Next Greater Element to the Right](https://www.fastprep.io/problems/tekion-next-greater-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-next-greater-elements)|Sep 21, 2026|
 |**Visa**|[Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Sep 21, 2026|
-|**Tesla**|[Flatten a Branched List into a Doubly Linked List](https://www.fastprep.io/problems/tesla-flatten-branched-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-flatten-branched-linked-list)|Sep 21, 2026|
 <a id="bottom"></a>
