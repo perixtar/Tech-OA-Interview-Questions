@@ -2,12 +2,32 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,359 questions**
+**4,374 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Cross the Threshold](https://www.fastprep.io/problems/get-max-barrier)|[![Practice][p]](https://www.fastprep.io/problems/get-max-barrier)|Jan 12, 2024|
+|**Snowflake**|[Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/hackerland-get-min-cost)|Jan 12, 2024|
+|**Snowflake**|[String Patterns](https://www.fastprep.io/problems/calculate-ways)|[![Practice][p]](https://www.fastprep.io/problems/calculate-ways)|Jan 12, 2024|
+|**Amazon**|[Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs)|[![Practice][p]](https://www.fastprep.io/problems/get-discount-pairs)|Jan 11, 2024|
+|**Amazon**|[Get Min Cost Data](https://www.fastprep.io/problems/get-min-cost-data)|[![Practice][p]](https://www.fastprep.io/problems/get-min-cost-data)|Jan 10, 2024|
+|**Goldman Sachs**|[Compute Parameter Value](https://www.fastprep.io/problems/compute-parameter-value)|[![Practice][p]](https://www.fastprep.io/problems/compute-parameter-value)|Jan 09, 2024|
+|**Goldman Sachs**|[Max Min](https://www.fastprep.io/problems/max-min)|[![Practice][p]](https://www.fastprep.io/problems/max-min)|Jan 09, 2024|
+|**Goldman Sachs**|[Chair Requirements](https://www.fastprep.io/problems/goldman-min-chair)|[![Practice][p]](https://www.fastprep.io/problems/goldman-min-chair)|Jan 09, 2024|
+|**Goldman Sachs**|[Autocorrect Prototype](https://www.fastprep.io/problems/autocorrect-prototype)|[![Practice][p]](https://www.fastprep.io/problems/autocorrect-prototype)|Jan 09, 2024|
+|**Goldman Sachs**|[Do They Belong?](https://www.fastprep.io/problems/points-belong)|[![Practice][p]](https://www.fastprep.io/problems/points-belong)|Jan 09, 2024|
+|**Goldman Sachs**|[Preprocess Dates](https://www.fastprep.io/problems/preprocess-date)|[![Practice][p]](https://www.fastprep.io/problems/preprocess-date)|Jan 09, 2024|
+|**Goldman Sachs**|[Compare Strings](https://www.fastprep.io/problems/compare-strings)|[![Practice][p]](https://www.fastprep.io/problems/compare-strings)|Jan 09, 2024|
+|**Goldman Sachs**|[Plus Mult Array](https://www.fastprep.io/problems/plus-mult-array)|[![Practice][p]](https://www.fastprep.io/problems/plus-mult-array)|Jan 09, 2024|
+|**Goldman Sachs**|[Better Compression](https://www.fastprep.io/problems/better-compression)|[![Practice][p]](https://www.fastprep.io/problems/better-compression)|Jan 09, 2024|
+|**Goldman Sachs**|[Encircular](https://www.fastprep.io/problems/encircular)|[![Practice][p]](https://www.fastprep.io/problems/encircular)|Jan 09, 2024|
+|**Goldman Sachs**|[Project Estimates](https://www.fastprep.io/problems/project-estimates)|[![Practice][p]](https://www.fastprep.io/problems/project-estimates)|Jan 09, 2024|
+|**Goldman Sachs**|[Longest Subarray](https://www.fastprep.io/problems/longest-subarray)|[![Practice][p]](https://www.fastprep.io/problems/longest-subarray)|Jan 09, 2024|
+|**Vanguard**|[Check String Permutation](https://www.fastprep.io/problems/vanguard-check-string-permutation)|[![Practice][p]](https://www.fastprep.io/problems/vanguard-check-string-permutation)|Jan 09, 2024|
+|**ZipRecruiter**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Jan 08, 2024|
+|**The Walt Disney Company**|[Hub Vertices Within a Radius](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-hub-vertices-within-radius)|Jan 08, 2024|
 |**The Walt Disney Company**|[Generate a Connected Graph and Find a Shortest Path](https://www.fastprep.io/problems/the-walt-disney-company-random-connected-graph-shortest-path)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-random-connected-graph-shortest-path)|Jan 08, 2024|
 |**The Walt Disney Company**|[Song Duration Pairs Divisible by 60](https://www.fastprep.io/problems/the-walt-disney-company-song-duration-index-pairs)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-song-duration-index-pairs)|Jan 08, 2024|
 |**Amazon**|[Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups)|[![Practice][p]](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Jan 07, 2024|
@@ -239,7 +259,6 @@
 |**ZipRecruiter**|[Remove Equal Components and Apply Gravity](https://www.fastprep.io/problems/ziprecruiter-remove-components-with-gravity)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-remove-components-with-gravity)|Sep 16, 2022|
 |**Bloomberg LP**|[Find the Root Process](https://www.fastprep.io/problems/bloomberg-find-root-process)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-root-process)|Sep 08, 2022|
 |**Bloomberg LP**|[Move Zeroes with Sorted Nonzero Values](https://www.fastprep.io/problems/bloomberg-move-zeroes-with-sorted-nonzero-values)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-move-zeroes-with-sorted-nonzero-values)|Sep 08, 2022|
-|**Bloomberg LP**|[Top K Frequent Words](https://www.fastprep.io/problems/bloomberg-top-k-frequent-words)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-top-k-frequent-words)|Sep 08, 2022|
 |**Meta**|[Buildings with an Ocean View](https://www.fastprep.io/problems/meta-buildings-with-ocean-view)|[![Practice][p]](https://www.fastprep.io/problems/meta-buildings-with-ocean-view)|Sep 08, 2022|
 |**Meta**|[Range Sum of BST](https://www.fastprep.io/problems/meta-range-sum-of-bst)|[![Practice][p]](https://www.fastprep.io/problems/meta-range-sum-of-bst)|Sep 08, 2022|
 |**Figma**|[Find the First Matching Ordered Entry](https://www.fastprep.io/problems/figma-ordered-entry-search)|[![Practice][p]](https://www.fastprep.io/problems/figma-ordered-entry-search)|Sep 07, 2022|
