@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**240 questions**
+**242 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -11,6 +11,8 @@
 |**DoorDash**|[Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services)|🔥 Nov 19, 2026|
 |**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|🔥 Nov 19, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|🔥 Nov 19, 2026|
+|**Adobe**|[Fix Confirming a Held Ticket](https://www.fastprep.io/project-coding/adobe-held-ticket-confirmation)|[![Practice][p]](https://www.fastprep.io/project-coding/adobe-held-ticket-confirmation)|🔥 Nov 19, 2026|
+|**Snorkel AI**|[Build a Dataset Tagging Review Service](https://www.fastprep.io/project-coding/snorkel-dataset-tagging-review)|[![Practice][p]](https://www.fastprep.io/project-coding/snorkel-dataset-tagging-review)|🔥 Nov 19, 2026|
 |**Charta Health**|[Build an Autocomplete Search Box for Wikipedia Titles](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|[![Practice][p]](https://www.fastprep.io/project-coding/charta-health-autocomplete-title-search)|🔥 Nov 18, 2026|
 |**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|🔥 Nov 18, 2026|
 |**Affirm**|[Fix Learning Badges and Add a Course Progress API](https://www.fastprep.io/project-coding/affirm-learning-platform-badges-progress)|[![Practice][p]](https://www.fastprep.io/project-coding/affirm-learning-platform-badges-progress)|🔥 Nov 18, 2026|
