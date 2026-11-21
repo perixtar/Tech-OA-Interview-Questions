@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,379 questions**
+**4,383 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -30,6 +30,10 @@
 |**Google**|[Dice-Walk Winning Probability](https://www.fastprep.io/problems/google-dice-walk-winning-probability)|[![Practice][p]](https://www.fastprep.io/problems/google-dice-walk-winning-probability)|🔥 Nov 17, 2026|
 |**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|🔥 Nov 17, 2026|
 |**Google**|[First and Last Target Position in a Mountain Array](https://www.fastprep.io/problems/google-mountain-array-target-range)|[![Practice][p]](https://www.fastprep.io/problems/google-mountain-array-target-range)|🔥 Nov 17, 2026|
+|**Paytm**|[Jump Game](https://www.fastprep.io/problems/paytm-jump-game)|[![Practice][p]](https://www.fastprep.io/problems/paytm-jump-game)|🔥 Nov 11, 2026|
+|**Druva**|[Plus One](https://www.fastprep.io/problems/druva-plus-one)|[![Practice][p]](https://www.fastprep.io/problems/druva-plus-one)|🔥 Nov 11, 2026|
+|**Druva**|[Remove Nth Node From End of List](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|[![Practice][p]](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|🔥 Nov 11, 2026|
+|**The D.E. Shaw Group**|[Koko Eating Bananas](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|🔥 Nov 10, 2026|
 |**Veeam**|[Integer to English Words in USD and INR Styles](https://www.fastprep.io/problems/veeam-integer-to-english-words-by-currency)|[![Practice][p]](https://www.fastprep.io/problems/veeam-integer-to-english-words-by-currency)|🔥 Nov 09, 2026|
 |**UiPath**|[Bus Routes](https://www.fastprep.io/problems/uipath-bus-routes)|[![Practice][p]](https://www.fastprep.io/problems/uipath-bus-routes)|🔥 Nov 09, 2026|
 |**UiPath**|[Swim in Rising Water](https://www.fastprep.io/problems/uipath-swim-in-rising-water)|[![Practice][p]](https://www.fastprep.io/problems/uipath-swim-in-rising-water)|🔥 Nov 09, 2026|
@@ -1821,8 +1825,4 @@
 |**Spotnana**|[Optimal Card Game Score](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|[![Practice][p]](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Jul 27, 2026|
 |**Zomato / Eternal**|[Maximum Production Within Power](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|Jul 27, 2026|
 |**Zomato / Eternal**|[Rearrange Songs by Author](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|Jul 27, 2026|
-|**Kikoff**|[JSON Identity Verification](https://www.fastprep.io/problems/kikoff-json-identity-verification)|[![Practice][p]](https://www.fastprep.io/problems/kikoff-json-identity-verification)|Jul 27, 2026|
-|**The Allen Institute for AI**|[Streaming Step Progress Hierarchy](https://www.fastprep.io/problems/ai2-streaming-step-progress-hierarchy)|[![Practice][p]](https://www.fastprep.io/problems/ai2-streaming-step-progress-hierarchy)|Jul 27, 2026|
-|**Airbnb**|[Parcel Event Tracking](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|Jul 27, 2026|
-|**Apple**|[Group Transitive String Aliases](https://www.fastprep.io/problems/apple-transitive-alias-groups)|[![Practice][p]](https://www.fastprep.io/problems/apple-transitive-alias-groups)|Jul 27, 2026|
 <a id="bottom"></a>

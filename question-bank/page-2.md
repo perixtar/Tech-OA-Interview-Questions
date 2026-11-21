@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Sliding-Window Rate Limiter](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|Sep 22, 2026|
+|**Stripe**|[Validate Six-Column Business CSV Rows](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|Sep 22, 2026|
+|**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Sep 22, 2026|
+|**Google**|[Design and Implement an Extensible Order Sales Counter](https://www.fastprep.io/low-level-design/extensible-order-sales-counter)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-order-sales-counter)|Sep 22, 2026|
+|**Google**|[Blocking Connection Pool Operation Trace](https://www.fastprep.io/problems/google-blocking-connection-pool-trace)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-blocking-connection-pool-trace)|Sep 22, 2026|
 |**Google**|[Subtract One Half-Open Interval from Another](https://www.fastprep.io/problems/google-subtract-half-open-interval)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-subtract-half-open-interval)|Sep 21, 2026|
 |**Google**|[Maximal Rectangle in a Binary Matrix](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|Sep 21, 2026|
 |**Google**|[BST to Sorted Circular Doubly Linked List](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|Sep 21, 2026|
@@ -1736,10 +1741,4 @@
 |**Navan**|[Time Based Key-Value Store](https://www.fastprep.io/problems/navan-time-based-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-time-based-key-value-store)|Dec 22, 2025|
 |**Ramp**|[Bank Requests with Delayed Cashback](https://www.fastprep.io/problems/ramp-bank-requests-with-delayed-cashback)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-bank-requests-with-delayed-cashback)|Dec 21, 2025|
 |**Benchling**|[Design a Versioned Laboratory Notebook](https://www.fastprep.io/low-level-design/versioned-laboratory-notebook)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/versioned-laboratory-notebook)|Dec 21, 2025|
-|**Benchling**|[Validate Nested JSON Against a Schema](https://www.fastprep.io/problems/benchling-nested-json-schema-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-nested-json-schema-validator)|Dec 21, 2025|
-|**Google**|[Reach the End in Time](https://www.fastprep.io/problems/google-reach-the-end-in-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reach-the-end-in-time)|Dec 20, 2025|
-|**Google**|[Maximum Tea Deliveries with Minimum Distance](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Dec 20, 2025|
-|**Motive**|[Validate IP Address](https://www.fastprep.io/problems/motive-validate-ip-address)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-validate-ip-address)|Dec 19, 2025|
-|**Motive**|[Build a Vehicle Catalog Analysis API](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|Dec 19, 2025|
-|**Workday**|[Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Dec 18, 2025|
 <a id="bottom"></a>

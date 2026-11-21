@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Benchling**|[Validate Nested JSON Against a Schema](https://www.fastprep.io/problems/benchling-nested-json-schema-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-nested-json-schema-validator)|Dec 21, 2025|
+|**Google**|[Reach the End in Time](https://www.fastprep.io/problems/google-reach-the-end-in-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reach-the-end-in-time)|Dec 20, 2025|
+|**Google**|[Maximum Tea Deliveries with Minimum Distance](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Dec 20, 2025|
+|**Motive**|[Validate IP Address](https://www.fastprep.io/problems/motive-validate-ip-address)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-validate-ip-address)|Dec 19, 2025|
+|**Motive**|[Build a Vehicle Catalog Analysis API](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|Dec 19, 2025|
+|**Workday**|[Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Dec 18, 2025|
 |**Motive**|[Minimum Swaps to Group Circular Ones](https://www.fastprep.io/problems/motive-minimum-swaps-group-ones-circular)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-minimum-swaps-group-ones-circular)|Dec 18, 2025|
 |**Motive**|[Generate Palindromic Permutations](https://www.fastprep.io/problems/motive-palindromic-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-palindromic-permutations)|Dec 18, 2025|
 |**Motive**|[Staircase Search In A Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-column-sorted-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-column-sorted-matrix)|Dec 18, 2025|
@@ -1842,10 +1848,4 @@
 |**SambaNova Systems**|[Bomb Enemy Best Coordinates](https://www.fastprep.io/problems/sambanova-bomb-enemy-best-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-bomb-enemy-best-cells)|Jun 30, 2022|
 |**SambaNova Systems**|[4Sum II Tuple Count](https://www.fastprep.io/problems/sambanova-four-sum-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-four-sum-ii)|Jun 30, 2022|
 |**SambaNova Systems**|[Sum Nodes with an Even-Valued Grandparent](https://www.fastprep.io/problems/sambanova-sum-even-valued-grandparent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-sum-even-valued-grandparent)|Jun 30, 2022|
-|**SambaNova Systems**|[Validate Binary Search Tree](https://www.fastprep.io/problems/sambanova-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-validate-binary-search-tree)|Jun 30, 2022|
-|**Bloomberg LP**|[Insert Delete GetRandom O(1) - Duplicates Allowed](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1-duplicates-allowed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1-duplicates-allowed)|Jun 30, 2022|
-|**SambaNova Systems**|[Deterministic Zigzag Sort](https://www.fastprep.io/problems/sambanova-zigzag-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-zigzag-sort)|Jun 22, 2022|
-|**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
-|**AMD**|[Employees with Matching Departments](https://www.fastprep.io/problems/amd-employees-with-matching-departments)|SQL|[![Practice][p]](https://www.fastprep.io/problems/amd-employees-with-matching-departments)|Jun 14, 2022|
-|**AMD**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/amd-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-longest-substring-without-repeating-characters)|Jun 14, 2022|
 <a id="bottom"></a>

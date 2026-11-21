@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,379 questions**
+**4,383 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Marshall Wace**|[Crop a Notification at Whole-Word Boundaries](https://www.fastprep.io/problems/marshall-wace-crop-notification)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-crop-notification)|Jan 14, 2024|
+|**Marshall Wace**|[Largest Palindromic Number from Available Digits](https://www.fastprep.io/problems/marshall-wace-largest-palindromic-number)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-largest-palindromic-number)|Jan 14, 2024|
+|**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
+|**Snowflake**|[Smallest Set Covering Intervals](https://www.fastprep.io/problems/smallest-set-covering-intervals)|[![Practice][p]](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Jan 13, 2024|
+|**Snowflake**|[Maximum Order Volume](https://www.fastprep.io/problems/phone-calls)|[![Practice][p]](https://www.fastprep.io/problems/phone-calls)|Jan 13, 2024|
 |**Snowflake**|[Unequal Elements](https://www.fastprep.io/problems/find-max-length)|[![Practice][p]](https://www.fastprep.io/problems/find-max-length)|Jan 13, 2024|
 |**Snowflake**|[Job Execution](https://www.fastprep.io/problems/get-minimum-operations)|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations)|Jan 12, 2024|
 |**Snowflake**|[Perfect Pairs](https://www.fastprep.io/problems/perfect-pairs)|[![Practice][p]](https://www.fastprep.io/problems/perfect-pairs)|Jan 12, 2024|

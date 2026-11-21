@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,379 questions**
+**4,383 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Kikoff**|[JSON Identity Verification](https://www.fastprep.io/problems/kikoff-json-identity-verification)|[![Practice][p]](https://www.fastprep.io/problems/kikoff-json-identity-verification)|Jul 27, 2026|
+|**The Allen Institute for AI**|[Streaming Step Progress Hierarchy](https://www.fastprep.io/problems/ai2-streaming-step-progress-hierarchy)|[![Practice][p]](https://www.fastprep.io/problems/ai2-streaming-step-progress-hierarchy)|Jul 27, 2026|
+|**Airbnb**|[Parcel Event Tracking](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|Jul 27, 2026|
+|**Apple**|[Group Transitive String Aliases](https://www.fastprep.io/problems/apple-transitive-alias-groups)|[![Practice][p]](https://www.fastprep.io/problems/apple-transitive-alias-groups)|Jul 27, 2026|
 |**Coinbase**|[In-Memory Database](https://www.fastprep.io/problems/coinbase-in-memory-database)|[![Practice][p]](https://www.fastprep.io/problems/coinbase-in-memory-database)|Jul 27, 2026|
 |**OpenAI**|[Durable String Key-Value Store](https://www.fastprep.io/problems/openai-durable-string-key-value-store)|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-string-key-value-store)|Jul 27, 2026|
 |**Google**|[Ad Score Scheduler With Delay](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|[![Practice][p]](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|Jul 27, 2026|
@@ -1932,9 +1936,4 @@
 |**Navan**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|[![Practice][p]](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Jan 24, 2024|
 |**Navan**|[Shortest Substring with at Least K Distinct Characters](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|[![Practice][p]](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Jan 24, 2024|
 |**DoorDash**|[Best Starting Cell for Restaurant Distance](https://www.fastprep.io/problems/doordash-minimum-restaurant-distance)|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-restaurant-distance)|Jan 24, 2024|
-|**Marshall Wace**|[Crop a Notification at Whole-Word Boundaries](https://www.fastprep.io/problems/marshall-wace-crop-notification)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-crop-notification)|Jan 14, 2024|
-|**Marshall Wace**|[Largest Palindromic Number from Available Digits](https://www.fastprep.io/problems/marshall-wace-largest-palindromic-number)|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-largest-palindromic-number)|Jan 14, 2024|
-|**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
-|**Snowflake**|[Smallest Set Covering Intervals](https://www.fastprep.io/problems/smallest-set-covering-intervals)|[![Practice][p]](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Jan 13, 2024|
-|**Snowflake**|[Maximum Order Volume](https://www.fastprep.io/problems/phone-calls)|[![Practice][p]](https://www.fastprep.io/problems/phone-calls)|Jan 13, 2024|
 <a id="bottom"></a>

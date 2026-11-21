@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,379)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (736)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (241)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,383)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (736)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -57,6 +57,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Meta**|[Design Friend-Shared Charts for a Music Player](https://www.fastprep.io/system-design/friend-shared-music-charts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/friend-shared-music-charts)|🔥 Nov 19, 2026|
 |**Amazon**|[Design a Package Locker System](https://www.fastprep.io/low-level-design/package-locker-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/package-locker-system)|🔥 Nov 19, 2026|
 |**Adobe**|[Fix Confirming a Held Ticket](https://www.fastprep.io/project-coding/adobe-held-ticket-confirmation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/adobe-held-ticket-confirmation)|🔥 Nov 19, 2026|
+|**Snorkel AI**|[Build a Dataset Tagging Review Service](https://www.fastprep.io/project-coding/snorkel-dataset-tagging-review)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/snorkel-dataset-tagging-review)|🔥 Nov 19, 2026|
 |**Adyen**|[Search and Format Contacts](https://www.fastprep.io/problems/adyen-search-and-format-contacts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adyen-search-and-format-contacts)|🔥 Nov 18, 2026|
 |**BNY Mellon**|[Minimum Operations to Sort with Rotations Then Swaps](https://www.fastprep.io/problems/bnymellon-min-operations-rotate-then-swap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-min-operations-rotate-then-swap)|🔥 Nov 18, 2026|
 |**Vanta**|[Task Build Order and File-Change Reruns](https://www.fastprep.io/problems/vanta-task-order-and-file-reruns)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-task-order-and-file-reruns)|🔥 Nov 18, 2026|
@@ -151,6 +152,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Shopify**|[Design Hierarchical Product Category Classification](https://www.fastprep.io/system-design/hierarchical-product-category-classification)|System design|[![Practice][p]](https://www.fastprep.io/system-design/hierarchical-product-category-classification)|🔥 Nov 12, 2026|
 |**Stripe**|[Repair Nested Record Value Normalization](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-nested-value-normalization)|🔥 Nov 12, 2026|
 |**Shopify**|[Design Learned Search Autocomplete](https://www.fastprep.io/system-design/learned-search-autocomplete)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-search-autocomplete)|🔥 Nov 12, 2026|
+|**Paytm**|[Jump Game](https://www.fastprep.io/problems/paytm-jump-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paytm-jump-game)|🔥 Nov 11, 2026|
+|**Druva**|[Plus One](https://www.fastprep.io/problems/druva-plus-one)|Coding|[![Practice][p]](https://www.fastprep.io/problems/druva-plus-one)|🔥 Nov 11, 2026|
+|**Druva**|[Remove Nth Node From End of List](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|🔥 Nov 11, 2026|
 |**Snowflake**|[Design an Application Logging Client Library](https://www.fastprep.io/system-design/application-logging-client-library)|System design|[![Practice][p]](https://www.fastprep.io/system-design/application-logging-client-library)|🔥 Nov 11, 2026|
 |**Coinbase**|[Design a Crypto Asset Explore Page](https://www.fastprep.io/system-design/crypto-asset-explore-page)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crypto-asset-explore-page)|🔥 Nov 11, 2026|
 |**Atlassian**|[Design Enterprise Search with AI-Generated Answers](https://www.fastprep.io/system-design/enterprise-search-with-ai-answers)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-search-with-ai-answers)|🔥 Nov 11, 2026|
@@ -158,6 +162,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon / Druva**|[Design Device Backup and Restore](https://www.fastprep.io/system-design/device-backup-and-restore)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-backup-and-restore)|🔥 Nov 11, 2026|
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|🔥 Nov 11, 2026|
 |**Goldman Sachs**|[Repair the Held-Ticket Confirmation Lifecycle](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-held-ticket-confirmation)|🔥 Nov 11, 2026|
+|**The D.E. Shaw Group**|[Koko Eating Bananas](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|🔥 Nov 10, 2026|
 |**Pinterest / DoorDash / Patreon / The Walt Disney Company / JioStar / Meta**|[Design an Ad Event Measurement Platform](https://www.fastprep.io/system-design/ad-event-measurement-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ad-event-measurement-platform)|🔥 Nov 10, 2026|
 |**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter / DoorDash / Expedia / Bloomberg LP**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Nov 10, 2026|
 |**Amazon / Lyft / Google / Pinterest / Snowflake / Datadog / Decagon**|[Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler)|🔥 Nov 10, 2026|
@@ -712,6 +717,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Simulate Roller-Coaster Group Seating](https://www.fastprep.io/project-coding/linkedin-roller-coaster-group-seating)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/linkedin-roller-coaster-group-seating)|🆕 Oct 17, 2026|
 |**Airtable / Meta / Microsoft / LinkedIn**|[Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine)|🆕 Oct 17, 2026|
 |**Agoda**|[Refactor a Resilient Vendor Search Aggregator](https://www.fastprep.io/project-coding/vendor-search-refactoring-exercise)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/vendor-search-refactoring-exercise)|🆕 Oct 17, 2026|
+|**Capgemini**|[Most Recent Order for Each Customer](https://www.fastprep.io/problems/capgemini-most-recent-order-per-customer)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capgemini-most-recent-order-per-customer)|🆕 Oct 16, 2026|
 |**Amazon**|[Dijkstra Shortest Paths in a Weighted Undirected Graph](https://www.fastprep.io/problems/amazon-shortest-path-weighted-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-shortest-path-weighted-graph)|🆕 Oct 16, 2026|
 |**Amazon**|[Find Word-Multiset Windows](https://www.fastprep.io/problems/amazon-word-multiset-window-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-multiset-window-search)|🆕 Oct 16, 2026|
 |**Amazon**|[LFU Cache](https://www.fastprep.io/problems/amazon-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lfu-cache)|🆕 Oct 16, 2026|
@@ -1678,9 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Netflix**|[Sparse Matrix Multiplication](https://www.fastprep.io/problems/netflix-sparse-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-sparse-matrix-multiplication)|Sep 22, 2026|
 |**OpenAI**|[Iterate Canonical IPv6 Addresses](https://www.fastprep.io/problems/openai-ipv6-address-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ipv6-address-iterator)|Sep 22, 2026|
 |**Physical Intelligence**|[LRU Cache Operations](https://www.fastprep.io/problems/physical-intelligence-lru-cache-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/physical-intelligence-lru-cache-operations)|Sep 22, 2026|
-|**Snowflake**|[Sliding-Window Rate Limiter](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|Sep 22, 2026|
-|**Stripe**|[Validate Six-Column Business CSV Rows](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|Sep 22, 2026|
-|**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Sep 22, 2026|
-|**Google**|[Design and Implement an Extensible Order Sales Counter](https://www.fastprep.io/low-level-design/extensible-order-sales-counter)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-order-sales-counter)|Sep 22, 2026|
-|**Google**|[Blocking Connection Pool Operation Trace](https://www.fastprep.io/problems/google-blocking-connection-pool-trace)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-blocking-connection-pool-trace)|Sep 22, 2026|
 <a id="bottom"></a>
