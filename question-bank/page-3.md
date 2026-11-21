@@ -9,8 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Notion**|[Build a Menu Component for Notion](https://www.fastprep.io/project-coding/notion-react-menu-component)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/notion-react-menu-component)|Dec 17, 2025|
-|**Zip**|[Maximum Nonadjacent Sum in a General Tree](https://www.fastprep.io/problems/zip-tree-independent-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-tree-independent-set)|Dec 16, 2025|
 |**Visa**|[Previous Bus Departure](https://www.fastprep.io/problems/visa-previous-bus-departure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-previous-bus-departure)|Dec 16, 2025|
 |**Zopsmart**|[Base36 Square Root](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Dec 16, 2025|
 |**Zopsmart**|[Minimum Hidden Roman Value](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-minimum-hidden-roman-value)|Dec 16, 2025|
@@ -45,6 +43,7 @@
 |**Meta**|[Find and Measure the Longest Target-Sum Subarray](https://www.fastprep.io/problems/meta-longest-target-sum-subarray-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-longest-target-sum-subarray-existence)|Nov 26, 2025|
 |**Datadog**|[Buffered File Writer with Partial Writes](https://www.fastprep.io/problems/datadog-buffered-file-writer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-buffered-file-writer)|Nov 25, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
+|**Jane Street**|[Design the Order Messages Between a Trading Firm and an Exchange](https://www.fastprep.io/low-level-design/trading-firm-exchange-order-messages)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/trading-firm-exchange-order-messages)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
 |**Bloomberg LP**|[Generate Wildcard Binary Strings](https://www.fastprep.io/problems/bloomberg-generate-wildcard-binary-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-generate-wildcard-binary-strings)|Nov 21, 2025|
 |**Apple**|[Compute TF-IDF Scores](https://www.fastprep.io/problems/apple-compute-tf-idf)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-compute-tf-idf)|Nov 21, 2025|
@@ -280,6 +279,7 @@
 |**Rippling**|[Count Numbers with a Prime Digit Sum](https://www.fastprep.io/problems/rippling-prime-digit-sum-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-prime-digit-sum-range)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
 |**The Walt Disney Company**|[Return the Course with the Most Students](https://www.fastprep.io/project-coding/the-walt-disney-company-course-with-most-students)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/the-walt-disney-company-course-with-most-students)|Jul 21, 2025|
+|**Jane Street**|[Design a Trade Ticket for Booking Executed Trades](https://www.fastprep.io/low-level-design/trade-ticket-booking-and-amendments)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/trade-ticket-booking-and-amendments)|Jul 21, 2025|
 |**Rippling**|[Server Upgrade Planning](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Jul 19, 2025|
 |**Rippling**|[Shortest Substring](https://www.fastprep.io/problems/rippling-shortest-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-shortest-substring)|Jul 19, 2025|
 |**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|

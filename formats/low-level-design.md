@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**231 questions**
+**233 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -29,8 +29,8 @@
 |**ClearTax / Motive / Meesho / Navan / ServiceNow / Amazon / Paytm / Rippling**|[Design a Movie Ticket Booking System](https://www.fastprep.io/low-level-design/movie-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-system)|🔥 Nov 11, 2026|
 |**Tekion / Amazon / Oracle / Adobe**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|🔥 Nov 10, 2026|
 |**Persona / Morgan Stanley / Agoda**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|🔥 Nov 08, 2026|
-|**Expedia / MongoDB / Adobe**|[Design Collaborative Versioned File Storage](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|🔥 Nov 06, 2026|
-|**Amazon**|[Design a Smallest-Fit Parking Lot with EV Charging](https://www.fastprep.io/low-level-design/smallest-fit-parking-lot-with-ev-charging)|[![Practice][p]](https://www.fastprep.io/low-level-design/smallest-fit-parking-lot-with-ev-charging)|🔥 Nov 06, 2026|
+|**Expedia / MongoDB / Adobe**|[Design Collaborative Versioned File Storage](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|🆕 Nov 06, 2026|
+|**Amazon**|[Design a Smallest-Fit Parking Lot with EV Charging](https://www.fastprep.io/low-level-design/smallest-fit-parking-lot-with-ev-charging)|[![Practice][p]](https://www.fastprep.io/low-level-design/smallest-fit-parking-lot-with-ev-charging)|🆕 Nov 06, 2026|
 |**The D.E. Shaw Group / Uber / Infosys**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🆕 Nov 05, 2026|
 |**Microsoft**|[Design an Online Shopping Order Lifecycle](https://www.fastprep.io/low-level-design/online-shopping-order-lifecycle)|[![Practice][p]](https://www.fastprep.io/low-level-design/online-shopping-order-lifecycle)|🆕 Nov 05, 2026|
 |**The D.E. Shaw Group**|[Design a Snakes and Ladders Game](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|🆕 Oct 30, 2026|
@@ -60,13 +60,13 @@
 |**Okta**|[Design a Persistent Chronological Social Feed](https://www.fastprep.io/low-level-design/persistent-social-news-feed-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/persistent-social-news-feed-domain)|🆕 Oct 11, 2026|
 |**Uber**|[Design a Participant Meeting Scheduler](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|🆕 Oct 09, 2026|
 |**Kotak Mahindra Bank**|[Design a Restaurant Ordering Domain](https://www.fastprep.io/low-level-design/restaurant-ordering-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-ordering-domain)|🆕 Oct 07, 2026|
-|**Kotak Mahindra Bank / ServiceNow / PeopleStrong**|[Design a Movie Ticket Booking Platform](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|🆕 Oct 06, 2026|
-|**Quince**|[Design an Order and Inventory Coordination Domain](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|🆕 Oct 06, 2026|
+|**Kotak Mahindra Bank / ServiceNow / PeopleStrong**|[Design a Movie Ticket Booking Platform](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-platform)|Oct 06, 2026|
+|**Quince**|[Design an Order and Inventory Coordination Domain](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/order-inventory-coordination-domain)|Oct 06, 2026|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Oct 05, 2026|
 |**Adobe / Airwallex**|[Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|Oct 05, 2026|
 |**Micro1 / Amazon / FamPay / Stripe**|[Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter)|Oct 05, 2026|
 |**OpenAI / Lokal / Coupang**|[Design a Multi-Channel Bot Notification Service](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service)|Oct 05, 2026|
-|**CoinDCX**|[Design a Crypto Order Matching Engine](https://www.fastprep.io/low-level-design/crypto-order-matching-engine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/crypto-order-matching-engine-domain)|Oct 05, 2026|
+|**CoinDCX / Jane Street**|[Design a Crypto Order Matching Engine](https://www.fastprep.io/low-level-design/crypto-order-matching-engine-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/crypto-order-matching-engine-domain)|Oct 05, 2026|
 |**Lokal**|[Design a Workspace Notification Policy Domain](https://www.fastprep.io/low-level-design/slack-like-notification-policy-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/slack-like-notification-policy-domain)|Oct 05, 2026|
 |**Salesforce / Amazon**|[Design Movie Subscription Pricing](https://www.fastprep.io/low-level-design/movie-subscription-pricing-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-subscription-pricing-domain)|Oct 04, 2026|
 |**Tekion / Amazon**|[Design a Workflow Orchestrator Domain](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|Oct 04, 2026|
@@ -174,6 +174,7 @@
 |**IMC Trading**|[Design an In-Memory Hotel Reservation System](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|Dec 18, 2025|
 |**Microsoft**|[Design a Stock Exchange with Trader Accounts](https://www.fastprep.io/low-level-design/stock-exchange-with-accounts)|[![Practice][p]](https://www.fastprep.io/low-level-design/stock-exchange-with-accounts)|Dec 11, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
+|**Jane Street**|[Design the Order Messages Between a Trading Firm and an Exchange](https://www.fastprep.io/low-level-design/trading-firm-exchange-order-messages)|[![Practice][p]](https://www.fastprep.io/low-level-design/trading-firm-exchange-order-messages)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
 |**Hudson River Trading**|[Design a Mark-and-Sweep Garbage Collector](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|[![Practice][p]](https://www.fastprep.io/low-level-design/mark-and-sweep-garbage-collector)|Nov 06, 2025|
 |**Rippling**|[Design Driver Dispatch for Food Orders](https://www.fastprep.io/low-level-design/food-order-driver-dispatch-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-order-driver-dispatch-domain)|Oct 18, 2025|
@@ -183,6 +184,7 @@
 |**Meta**|[Design a Discussion Forum with Posts and Votes](https://www.fastprep.io/low-level-design/discussion-forum-posts-and-votes)|[![Practice][p]](https://www.fastprep.io/low-level-design/discussion-forum-posts-and-votes)|Sep 02, 2025|
 |**SpaceX**|[Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|[![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search)|Aug 22, 2025|
 |**SpaceX**|[Warehouse Order Transit Tracking](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|[![Practice][p]](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking)|Aug 22, 2025|
+|**Jane Street**|[Design a Trade Ticket for Booking Executed Trades](https://www.fastprep.io/low-level-design/trade-ticket-booking-and-amendments)|[![Practice][p]](https://www.fastprep.io/low-level-design/trade-ticket-booking-and-amendments)|Jul 21, 2025|
 |**Postman**|[Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|[![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Jun 07, 2025|
 |**Postman**|[Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Jun 07, 2025|
 |**Postman**|[Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model)|May 15, 2025|

@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Google**|[Alternating-Color Binary Tree Roots](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|[![Practice][p]](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|Jul 27, 2026|
 |**Spotnana**|[Minimize Maximum Pilot Workload](https://www.fastprep.io/problems/spotnana-minimize-maximum-pilot-workload)|[![Practice][p]](https://www.fastprep.io/problems/spotnana-minimize-maximum-pilot-workload)|Jul 27, 2026|
 |**Amazon**|[Resolve Task Dependencies](https://www.fastprep.io/problems/amazon-resolve-task-dependencies)|[![Practice][p]](https://www.fastprep.io/problems/amazon-resolve-task-dependencies)|Jul 27, 2026|
 |**Airbnb**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Jul 26, 2026|
@@ -1937,4 +1936,6 @@
 |**Snowflake**|[Unequal Elements](https://www.fastprep.io/problems/find-max-length)|[![Practice][p]](https://www.fastprep.io/problems/find-max-length)|Jan 13, 2024|
 |**Snowflake**|[Job Execution](https://www.fastprep.io/problems/get-minimum-operations)|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations)|Jan 12, 2024|
 |**Snowflake**|[Perfect Pairs](https://www.fastprep.io/problems/perfect-pairs)|[![Practice][p]](https://www.fastprep.io/problems/perfect-pairs)|Jan 12, 2024|
+|**Snowflake**|[Cross the Threshold](https://www.fastprep.io/problems/get-max-barrier)|[![Practice][p]](https://www.fastprep.io/problems/get-max-barrier)|Jan 12, 2024|
+|**Snowflake**|[Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/hackerland-get-min-cost)|Jan 12, 2024|
 <a id="bottom"></a>

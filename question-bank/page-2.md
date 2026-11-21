@@ -9,8 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Amazon**|[Trapping Rain Water](https://www.fastprep.io/problems/amazon-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-trapping-rain-water)|Sep 21, 2026|
-|**Amazon**|[Allocate Minimum Pages](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Sep 21, 2026|
 |**Amazon**|[Longest Subarray with K Distinct Values](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Sep 21, 2026|
 |**Tekion**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Sep 21, 2026|
 |**Tekion**|[Next Greater Element to the Right](https://www.fastprep.io/problems/tekion-next-greater-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-next-greater-elements)|Sep 21, 2026|
@@ -237,6 +235,7 @@
 |**LinkedIn**|[Second Minimum in a Tournament Tree](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Sep 14, 2026|
 |**Google**|[Find the Duplicate Number Without Modifying the Array](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Sep 14, 2026|
 |**Google**|[Set Matrix Zeroes](https://www.fastprep.io/problems/google-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-set-matrix-zeroes)|Sep 14, 2026|
+|**Bloomberg LP / Jane Street**|[Design a Stock Exchange Order-Matching Platform](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|Sep 14, 2026|
 |**The Walt Disney Company**|[Resizable Array-Backed Integer Set](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Sep 13, 2026|
 |**Citadel**|[Exchange BBO and Market-Wide NBBO](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Sep 13, 2026|
 |**Google**|[Determine Whether Two Horses Are Genetically Related](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Sep 13, 2026|
@@ -1364,7 +1363,6 @@
 |**Notion**|[Nested Todo List](https://www.fastprep.io/problems/notion-nested-todo-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-nested-todo-list)|Jun 07, 2026|
 |**Hebbia**|[Detect a Winner on a 3x3 Tic-Tac-Toe Board](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Jun 06, 2026|
 |**OpenAI**|[Design Rate Limits for an LLM Inference API](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|Jun 06, 2026|
-|**Bloomberg LP**|[Design a Stock Exchange Order-Matching Platform](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|Jun 06, 2026|
 |**Amazon**|[Next Greater Element on a Stream](https://www.fastprep.io/problems/amazon-streaming-next-greater-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-streaming-next-greater-element)|Jun 05, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
 |**Notion**|[Design a Calendar Search and Sync Platform](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|Jun 05, 2026|
@@ -1741,4 +1739,6 @@
 |**HackerRank**|[Longest Equal Binary Subarray](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Dec 17, 2025|
 |**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|
 |**The Walt Disney Company**|[Meeting of Points Moving Toward Initial Successors](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Dec 17, 2025|
+|**Notion**|[Build a Menu Component for Notion](https://www.fastprep.io/project-coding/notion-react-menu-component)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/notion-react-menu-component)|Dec 17, 2025|
+|**Zip**|[Maximum Nonadjacent Sum in a General Tree](https://www.fastprep.io/problems/zip-tree-independent-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-tree-independent-set)|Dec 16, 2025|
 <a id="bottom"></a>
