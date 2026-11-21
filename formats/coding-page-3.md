@@ -2,12 +2,29 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,403 questions**
+**4,416 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Oracle**|[Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort)|[![Practice][p]](https://www.fastprep.io/problems/oracle-cardinality-sort)|Feb 14, 2024|
+|**Navan**|[Snake-Case Iterator to Camel Case](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|[![Practice][p]](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|Feb 10, 2024|
+|**The Walt Disney Company**|[Three Word Suggestions for Every Prefix](https://www.fastprep.io/problems/the-walt-disney-company-word-suggestions-by-prefix)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-word-suggestions-by-prefix)|Feb 09, 2024|
+|**Meta**|[Combine Two Vectors of Intervals (MLE) 🙌](https://www.fastprep.io/problems/mt-combine-two-vectors-of-intervals)|[![Practice][p]](https://www.fastprep.io/problems/mt-combine-two-vectors-of-intervals)|Feb 08, 2024|
+|**IBM**|[Find Missing Integers](https://www.fastprep.io/problems/ibm-find-missing-integer)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-missing-integer)|Feb 08, 2024|
+|**IBM**|[Merge Arrays](https://www.fastprep.io/problems/ibm-merge-arrays)|[![Practice][p]](https://www.fastprep.io/problems/ibm-merge-arrays)|Feb 08, 2024|
+|**Amazon**|[Find Largest Set of Onion Bags](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Feb 06, 2024|
+|**Amazon**|[Minimum Total Errors](https://www.fastprep.io/problems/amazon-min-errors)|[![Practice][p]](https://www.fastprep.io/problems/amazon-min-errors)|Feb 06, 2024|
+|**Adobe**|[Get Minimum Operations](https://www.fastprep.io/problems/get-minimum-operations-adobe)|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations-adobe)|Feb 06, 2024|
+|**Twilio**|[Find Maximum Greatness](https://www.fastprep.io/problems/twilio-find-maximum-greatness)|[![Practice][p]](https://www.fastprep.io/problems/twilio-find-maximum-greatness)|Feb 06, 2024|
+|**Twilio**|[Count Groups](https://www.fastprep.io/problems/twilio-count-groups)|[![Practice][p]](https://www.fastprep.io/problems/twilio-count-groups)|Feb 06, 2024|
+|**Snowflake**|[Array Reduction Algorithm](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Feb 05, 2024|
+|**Snowflake**|[Count Ways to Color Houses](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Feb 05, 2024|
+|**Snowflake**|[Count Min Characters](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Feb 05, 2024|
+|**IBM**|[Find Y Values](https://www.fastprep.io/problems/ibm-find-y-value)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-y-value)|Feb 05, 2024|
+|**IBM**|[Circles](https://www.fastprep.io/problems/ibm-circles)|[![Practice][p]](https://www.fastprep.io/problems/ibm-circles)|Feb 05, 2024|
+|**IBM**|[Get Min Moves](https://www.fastprep.io/problems/ibm-get-minimum-moves)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Feb 05, 2024|
 |**DoorDash**|[Maximum Coupon Credit and Its Time Windows](https://www.fastprep.io/problems/doordash-maximum-coupon-credit-windows)|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximum-coupon-credit-windows)|Feb 03, 2024|
 |**DoorDash**|[Longest Increasing Path in a Matrix](https://www.fastprep.io/problems/doordash-longest-increasing-matrix-path)|[![Practice][p]](https://www.fastprep.io/problems/doordash-longest-increasing-matrix-path)|Feb 03, 2024|
 |**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
