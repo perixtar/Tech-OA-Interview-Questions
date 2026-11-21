@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**732 questions**
+**734 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -20,6 +20,8 @@
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 19, 2026|
 |**DoorDash**|[Design a Three-Day Charity Donation Drive](https://www.fastprep.io/system-design/three-day-charity-event-system)|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|🔥 Nov 19, 2026|
 |**Pinterest / Instacart / Amazon / Coupa Software / Visa / Microsoft**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Nov 19, 2026|
+|**Snorkel AI**|[Design a Human Data Labeling Task Platform](https://www.fastprep.io/system-design/human-data-labeling-task-platform)|[![Practice][p]](https://www.fastprep.io/system-design/human-data-labeling-task-platform)|🔥 Nov 19, 2026|
+|**Verily**|[Design a Privacy Registry Check Before Processing](https://www.fastprep.io/system-design/privacy-registry-check-before-processing)|[![Practice][p]](https://www.fastprep.io/system-design/privacy-registry-check-before-processing)|🔥 Nov 19, 2026|
 |**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
 |**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
 |**Postman / Uber Freight / LinkedIn / Safe Security**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🔥 Nov 18, 2026|

@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**The Walt Disney Company**|[Meeting of Points Moving Toward Initial Successors](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Dec 17, 2025|
+|**Notion**|[Build a Menu Component for Notion](https://www.fastprep.io/project-coding/notion-react-menu-component)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/notion-react-menu-component)|Dec 17, 2025|
 |**Zip**|[Maximum Nonadjacent Sum in a General Tree](https://www.fastprep.io/problems/zip-tree-independent-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-tree-independent-set)|Dec 16, 2025|
 |**Visa**|[Previous Bus Departure](https://www.fastprep.io/problems/visa-previous-bus-departure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-previous-bus-departure)|Dec 16, 2025|
 |**Zopsmart**|[Base36 Square Root](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-base36-square-root)|Dec 16, 2025|
@@ -1846,7 +1848,4 @@
 |**SambaNova Systems**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Jun 03, 2022|
 |**SambaNova Systems**|[Task Scheduler with Cooldown](https://www.fastprep.io/problems/sambanova-task-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-task-scheduler)|Jun 03, 2022|
 |**SambaNova Systems**|[Point Inside a Triangle](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Jun 01, 2022|
-|**Bloomberg LP**|[Enumerate Right-and-Down Matrix Paths](https://www.fastprep.io/problems/bloomberg-enumerate-right-down-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-enumerate-right-down-grid-paths)|May 28, 2022|
-|**Datadog**|[Find the Most Frequent Word](https://www.fastprep.io/problems/datadog-most-frequent-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-most-frequent-word)|May 27, 2022|
-|**Persona**|[Treasure Hunter](https://www.fastprep.io/problems/persona-treasure-hunter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-treasure-hunter)|May 21, 2022|
 <a id="bottom"></a>
