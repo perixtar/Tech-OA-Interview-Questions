@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**HackerRank**|[Ball Passing at Time K](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Dec 17, 2025|
+|**HackerRank**|[Longest Equal Binary Subarray](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Dec 17, 2025|
+|**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|
 |**The Walt Disney Company**|[Meeting of Points Moving Toward Initial Successors](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Dec 17, 2025|
 |**Notion**|[Build a Menu Component for Notion](https://www.fastprep.io/project-coding/notion-react-menu-component)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/notion-react-menu-component)|Dec 17, 2025|
 |**Zip**|[Maximum Nonadjacent Sum in a General Tree](https://www.fastprep.io/problems/zip-tree-independent-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-tree-independent-set)|Dec 16, 2025|
@@ -1845,7 +1848,4 @@
 |**SambaNova Systems**|[Number of Provinces](https://www.fastprep.io/problems/sambanova-number-of-provinces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-number-of-provinces)|Jun 09, 2022|
 |**Bloomberg LP**|[Two Sum](https://www.fastprep.io/problems/bloomberg-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum)|Jun 09, 2022|
 |**SambaNova Systems**|[Maximum Area of Island](https://www.fastprep.io/problems/sambanova-maximum-area-of-island)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-maximum-area-of-island)|Jun 03, 2022|
-|**SambaNova Systems**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Jun 03, 2022|
-|**SambaNova Systems**|[Task Scheduler with Cooldown](https://www.fastprep.io/problems/sambanova-task-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-task-scheduler)|Jun 03, 2022|
-|**SambaNova Systems**|[Point Inside a Triangle](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Jun 01, 2022|
 <a id="bottom"></a>

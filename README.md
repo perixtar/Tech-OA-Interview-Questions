@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (734)](formats/system-design.md) · [Low-level design (233)](formats/low-level-design.md) · [AI coding (240)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,374)](formats/coding.md) · [SQL (90)](formats/sql.md) · [System design (736)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (240)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -53,6 +53,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Pinterest / Instacart / Amazon / Coupa Software / Visa / Microsoft**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Nov 19, 2026|
 |**Snorkel AI**|[Design a Human Data Labeling Task Platform](https://www.fastprep.io/system-design/human-data-labeling-task-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/human-data-labeling-task-platform)|🔥 Nov 19, 2026|
 |**Verily**|[Design a Privacy Registry Check Before Processing](https://www.fastprep.io/system-design/privacy-registry-check-before-processing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/privacy-registry-check-before-processing)|🔥 Nov 19, 2026|
+|**Meta**|[Design an Agentic Support Ticket Triage System](https://www.fastprep.io/system-design/agentic-support-ticket-triage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/agentic-support-ticket-triage)|🔥 Nov 19, 2026|
+|**Meta**|[Design Friend-Shared Charts for a Music Player](https://www.fastprep.io/system-design/friend-shared-music-charts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/friend-shared-music-charts)|🔥 Nov 19, 2026|
+|**Amazon**|[Design a Package Locker System](https://www.fastprep.io/low-level-design/package-locker-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/package-locker-system)|🔥 Nov 19, 2026|
 |**Adyen**|[Search and Format Contacts](https://www.fastprep.io/problems/adyen-search-and-format-contacts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adyen-search-and-format-contacts)|🔥 Nov 18, 2026|
 |**BNY Mellon**|[Minimum Operations to Sort with Rotations Then Swaps](https://www.fastprep.io/problems/bnymellon-min-operations-rotate-then-swap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-min-operations-rotate-then-swap)|🔥 Nov 18, 2026|
 |**Vanta**|[Task Build Order and File-Change Reruns](https://www.fastprep.io/problems/vanta-task-order-and-file-reruns)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-task-order-and-file-reruns)|🔥 Nov 18, 2026|
@@ -1679,7 +1682,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[BST to Sorted Circular Doubly Linked List](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|Sep 21, 2026|
 |**JP Morgan Chase / Google / Decagon**|[Internal AI Assistant for Employees](https://www.fastprep.io/system-design/internal-ai-assistant-for-employees)|System design|[![Practice][p]](https://www.fastprep.io/system-design/internal-ai-assistant-for-employees)|Sep 21, 2026|
 |**Tesla**|[Monorepo Build and Vehicle Software Rollout](https://www.fastprep.io/system-design/monorepo-build-and-vehicle-rollout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/monorepo-build-and-vehicle-rollout)|Sep 21, 2026|
-|**Pinterest**|[Implement a Product Read-Through Cache](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|Sep 21, 2026|
-|**Abnormal Security / Ninja Van / Checkr**|[Concurrent Worker Processing Platform](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|Sep 21, 2026|
-|**Pinterest**|[In-Memory Typeahead Trie Service](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|Sep 21, 2026|
 <a id="bottom"></a>

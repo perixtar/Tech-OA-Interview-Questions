@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**233 questions**
+**234 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -11,6 +11,7 @@
 |**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|🔥 Nov 20, 2026|
 |**Capital One**|[Design and Implement a Simple Web Chat](https://www.fastprep.io/low-level-design/simple-web-chat-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/simple-web-chat-object-model)|🔥 Nov 20, 2026|
 |**Amazon**|[Design a TTL-Aware LRU Cache](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|🔥 Nov 19, 2026|
+|**Amazon**|[Design a Package Locker System](https://www.fastprep.io/low-level-design/package-locker-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/package-locker-system)|🔥 Nov 19, 2026|
 |**Benchling / Oracle**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|🔥 Nov 17, 2026|
 |**Oracle**|[Design a Capacity-Based Job Assignment Tracker](https://www.fastprep.io/low-level-design/capacity-job-assignment-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/capacity-job-assignment-tracker)|🔥 Nov 17, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank / GitHub**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Nov 16, 2026|

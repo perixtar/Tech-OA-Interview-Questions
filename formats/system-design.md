@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**734 questions**
+**736 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -22,6 +22,8 @@
 |**Pinterest / Instacart / Amazon / Coupa Software / Visa / Microsoft**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Nov 19, 2026|
 |**Snorkel AI**|[Design a Human Data Labeling Task Platform](https://www.fastprep.io/system-design/human-data-labeling-task-platform)|[![Practice][p]](https://www.fastprep.io/system-design/human-data-labeling-task-platform)|🔥 Nov 19, 2026|
 |**Verily**|[Design a Privacy Registry Check Before Processing](https://www.fastprep.io/system-design/privacy-registry-check-before-processing)|[![Practice][p]](https://www.fastprep.io/system-design/privacy-registry-check-before-processing)|🔥 Nov 19, 2026|
+|**Meta**|[Design an Agentic Support Ticket Triage System](https://www.fastprep.io/system-design/agentic-support-ticket-triage)|[![Practice][p]](https://www.fastprep.io/system-design/agentic-support-ticket-triage)|🔥 Nov 19, 2026|
+|**Meta**|[Design Friend-Shared Charts for a Music Player](https://www.fastprep.io/system-design/friend-shared-music-charts)|[![Practice][p]](https://www.fastprep.io/system-design/friend-shared-music-charts)|🔥 Nov 19, 2026|
 |**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
 |**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
 |**Postman / Uber Freight / LinkedIn / Safe Security**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🔥 Nov 18, 2026|

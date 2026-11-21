@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Pinterest**|[Implement a Product Read-Through Cache](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/pinterest-product-read-through-cache)|Sep 21, 2026|
+|**Abnormal Security / Ninja Van / Checkr**|[Concurrent Worker Processing Platform](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|Sep 21, 2026|
+|**Pinterest**|[In-Memory Typeahead Trie Service](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|Sep 21, 2026|
 |**Tekion**|[Design and Implement a TTL Cache Library](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|Sep 21, 2026|
 |**Amazon**|[Edit Distance](https://www.fastprep.io/problems/amazon-edit-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-edit-distance)|Sep 21, 2026|
 |**Amazon**|[Word Ladder](https://www.fastprep.io/problems/amazon-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-ladder)|Sep 21, 2026|
@@ -1739,7 +1742,4 @@
 |**Motive**|[Staircase Search In A Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-column-sorted-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-column-sorted-matrix)|Dec 18, 2025|
 |**Motive / Meta**|[Design a Short-Video Sharing Platform](https://www.fastprep.io/system-design/short-video-sharing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/short-video-sharing-platform)|Dec 18, 2025|
 |**IMC Trading**|[Design an In-Memory Hotel Reservation System](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|Dec 18, 2025|
-|**HackerRank**|[Ball Passing at Time K](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Dec 17, 2025|
-|**HackerRank**|[Longest Equal Binary Subarray](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Dec 17, 2025|
-|**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|
 <a id="bottom"></a>
