@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,374 questions**
+**4,379 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -30,6 +30,11 @@
 |**Google**|[Dice-Walk Winning Probability](https://www.fastprep.io/problems/google-dice-walk-winning-probability)|[![Practice][p]](https://www.fastprep.io/problems/google-dice-walk-winning-probability)|🔥 Nov 17, 2026|
 |**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|🔥 Nov 17, 2026|
 |**Google**|[First and Last Target Position in a Mountain Array](https://www.fastprep.io/problems/google-mountain-array-target-range)|[![Practice][p]](https://www.fastprep.io/problems/google-mountain-array-target-range)|🔥 Nov 17, 2026|
+|**Veeam**|[Integer to English Words in USD and INR Styles](https://www.fastprep.io/problems/veeam-integer-to-english-words-by-currency)|[![Practice][p]](https://www.fastprep.io/problems/veeam-integer-to-english-words-by-currency)|🔥 Nov 09, 2026|
+|**UiPath**|[Bus Routes](https://www.fastprep.io/problems/uipath-bus-routes)|[![Practice][p]](https://www.fastprep.io/problems/uipath-bus-routes)|🔥 Nov 09, 2026|
+|**UiPath**|[Swim in Rising Water](https://www.fastprep.io/problems/uipath-swim-in-rising-water)|[![Practice][p]](https://www.fastprep.io/problems/uipath-swim-in-rising-water)|🔥 Nov 09, 2026|
+|**Visa**|[House Robber](https://www.fastprep.io/problems/visa-house-robber)|[![Practice][p]](https://www.fastprep.io/problems/visa-house-robber)|🔥 Nov 09, 2026|
+|**Visa**|[House Robber III](https://www.fastprep.io/problems/visa-house-robber-iii)|[![Practice][p]](https://www.fastprep.io/problems/visa-house-robber-iii)|🔥 Nov 09, 2026|
 |**Agoda**|[Reverse Words in a String](https://www.fastprep.io/problems/agoda-reverse-words-in-a-string)|[![Practice][p]](https://www.fastprep.io/problems/agoda-reverse-words-in-a-string)|🔥 Nov 08, 2026|
 |**Agoda**|[Can Place Flowers](https://www.fastprep.io/problems/agoda-can-place-flowers)|[![Practice][p]](https://www.fastprep.io/problems/agoda-can-place-flowers)|🔥 Nov 08, 2026|
 |**Nykaa**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/nykaa-longest-substring-without-repeating-characters)|[![Practice][p]](https://www.fastprep.io/problems/nykaa-longest-substring-without-repeating-characters)|🔥 Nov 07, 2026|
@@ -1820,8 +1825,4 @@
 |**The Allen Institute for AI**|[Streaming Step Progress Hierarchy](https://www.fastprep.io/problems/ai2-streaming-step-progress-hierarchy)|[![Practice][p]](https://www.fastprep.io/problems/ai2-streaming-step-progress-hierarchy)|Jul 27, 2026|
 |**Airbnb**|[Parcel Event Tracking](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|Jul 27, 2026|
 |**Apple**|[Group Transitive String Aliases](https://www.fastprep.io/problems/apple-transitive-alias-groups)|[![Practice][p]](https://www.fastprep.io/problems/apple-transitive-alias-groups)|Jul 27, 2026|
-|**Coinbase**|[In-Memory Database](https://www.fastprep.io/problems/coinbase-in-memory-database)|[![Practice][p]](https://www.fastprep.io/problems/coinbase-in-memory-database)|Jul 27, 2026|
-|**OpenAI**|[Durable String Key-Value Store](https://www.fastprep.io/problems/openai-durable-string-key-value-store)|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-string-key-value-store)|Jul 27, 2026|
-|**Google**|[Ad Score Scheduler With Delay](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|[![Practice][p]](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|Jul 27, 2026|
-|**Google**|[Alternating-Color Binary Tree Roots](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|[![Practice][p]](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|Jul 27, 2026|
 <a id="bottom"></a>
