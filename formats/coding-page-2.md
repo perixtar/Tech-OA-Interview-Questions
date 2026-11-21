@@ -2,12 +2,28 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**4,388 questions**
+**4,403 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Virtu Financial**|[Profit Analysis](https://www.fastprep.io/problems/virtu-profit-analysis)|[![Practice][p]](https://www.fastprep.io/problems/virtu-profit-analysis)|Jul 28, 2026|
+|**Virtu Financial**|[Banking Transaction Exceptions](https://www.fastprep.io/problems/virtu-banking-transaction-exceptions)|[![Practice][p]](https://www.fastprep.io/problems/virtu-banking-transaction-exceptions)|Jul 28, 2026|
+|**Virtu Financial**|[FIX Message Reconciliation](https://www.fastprep.io/problems/virtu-fix-message-reconciliation)|[![Practice][p]](https://www.fastprep.io/problems/virtu-fix-message-reconciliation)|Jul 28, 2026|
+|**Amazon**|[HTTP Request Redirection](https://www.fastprep.io/problems/amazon-http-request-redirection)|[![Practice][p]](https://www.fastprep.io/problems/amazon-http-request-redirection)|Jul 28, 2026|
+|**Google**|[Split a Log Outside Quotes](https://www.fastprep.io/problems/google-split-log-outside-quotes)|[![Practice][p]](https://www.fastprep.io/problems/google-split-log-outside-quotes)|Jul 28, 2026|
+|**Stripe**|[Group Linked Merchant Records](https://www.fastprep.io/problems/stripe-linked-merchant-groups)|[![Practice][p]](https://www.fastprep.io/problems/stripe-linked-merchant-groups)|Jul 28, 2026|
+|**Apple**|[Insert Interval](https://www.fastprep.io/problems/apple-insert-interval)|[![Practice][p]](https://www.fastprep.io/problems/apple-insert-interval)|Jul 28, 2026|
+|**Google**|[Decode String](https://www.fastprep.io/problems/google-decode-string)|[![Practice][p]](https://www.fastprep.io/problems/google-decode-string)|Jul 28, 2026|
+|**Lyft**|[Minimum Workers with Job Assignments](https://www.fastprep.io/problems/lyft-minimum-workers-job-assignments)|[![Practice][p]](https://www.fastprep.io/problems/lyft-minimum-workers-job-assignments)|Jul 28, 2026|
+|**Databricks**|[Blocking Keyed Cache with Waiting Readers](https://www.fastprep.io/problems/databricks-blocking-keyed-cache)|[![Practice][p]](https://www.fastprep.io/problems/databricks-blocking-keyed-cache)|Jul 28, 2026|
+|**Google**|[Phone Keypad Letter Combinations](https://www.fastprep.io/problems/google-phone-keypad-letter-combinations)|[![Practice][p]](https://www.fastprep.io/problems/google-phone-keypad-letter-combinations)|Jul 28, 2026|
+|**Google**|[Count Prefix Matches in a Sorted Array](https://www.fastprep.io/problems/google-count-prefix-matches)|[![Practice][p]](https://www.fastprep.io/problems/google-count-prefix-matches)|Jul 28, 2026|
+|**Uber**|[Minimum Refueling Stops](https://www.fastprep.io/problems/uber-minimum-refueling-stops)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-refueling-stops)|Jul 28, 2026|
+|**Cresta**|[Particle Moves to Target](https://www.fastprep.io/problems/cresta-particle-moves-to-target)|[![Practice][p]](https://www.fastprep.io/problems/cresta-particle-moves-to-target)|Jul 28, 2026|
+|**Cresta**|[Top Three Companies by Profit](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|[![Practice][p]](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|Jul 28, 2026|
+|**Cresta**|[Rightward Bacteria Consumption](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|[![Practice][p]](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Jul 28, 2026|
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
 |**Rippling**|[LFU Cache with LRU Tie-Breaking](https://www.fastprep.io/problems/rippling-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lfu-cache)|Jul 28, 2026|
 |**Spotnana**|[Optimal Card Game Score](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|[![Practice][p]](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Jul 27, 2026|
@@ -1919,21 +1935,4 @@
 |**IBM**|[Find Y Values](https://www.fastprep.io/problems/ibm-find-y-value)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-y-value)|Feb 05, 2024|
 |**IBM**|[Circles](https://www.fastprep.io/problems/ibm-circles)|[![Practice][p]](https://www.fastprep.io/problems/ibm-circles)|Feb 05, 2024|
 |**IBM**|[Get Min Moves](https://www.fastprep.io/problems/ibm-get-minimum-moves)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Feb 05, 2024|
-|**DoorDash**|[Maximum Coupon Credit and Its Time Windows](https://www.fastprep.io/problems/doordash-maximum-coupon-credit-windows)|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximum-coupon-credit-windows)|Feb 03, 2024|
-|**DoorDash**|[Longest Increasing Path in a Matrix](https://www.fastprep.io/problems/doordash-longest-increasing-matrix-path)|[![Practice][p]](https://www.fastprep.io/problems/doordash-longest-increasing-matrix-path)|Feb 03, 2024|
-|**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
-|**Akuna**|[Minimum Chunks Required (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Feb 02, 2024|
-|**Akuna**|[Diffierence Calculator (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-difference-calculator)|[![Practice][p]](https://www.fastprep.io/problems/akuna-difference-calculator)|Feb 02, 2024|
-|**Snowflake**|[Get Max Upgraded Servers](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Feb 02, 2024|
-|**Snowflake**|[Efficient Cost](https://www.fastprep.io/problems/snowflake-efficient-cost)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-cost)|Feb 02, 2024|
-|**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
-|**TikTok**|[Minimum Cycles](https://www.fastprep.io/problems/tiktok-minimum-cycles)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Feb 02, 2024|
-|**TikTok**|[Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Feb 02, 2024|
-|**TikTok**|[Longest OR](https://www.fastprep.io/problems/tiktok-longest-or)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-longest-or)|Feb 02, 2024|
-|**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
-|**Meta**|[Valid Parentheses](https://www.fastprep.io/problems/meta-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-parentheses)|Jan 31, 2024|
-|**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
-|**Amazon**|[Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-unique-values)|Jan 27, 2024|
-|**Amazon**|[Execute Processes](https://www.fastprep.io/problems/amazon-execute-processes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-execute-processes)|Jan 27, 2024|
-|**Amazon**|[Number of Suitable Locations](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|[![Practice][p]](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|Jan 27, 2024|
 <a id="bottom"></a>

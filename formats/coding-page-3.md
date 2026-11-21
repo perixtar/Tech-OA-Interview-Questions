@@ -2,12 +2,29 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**4,388 questions**
+**4,403 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**DoorDash**|[Maximum Coupon Credit and Its Time Windows](https://www.fastprep.io/problems/doordash-maximum-coupon-credit-windows)|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximum-coupon-credit-windows)|Feb 03, 2024|
+|**DoorDash**|[Longest Increasing Path in a Matrix](https://www.fastprep.io/problems/doordash-longest-increasing-matrix-path)|[![Practice][p]](https://www.fastprep.io/problems/doordash-longest-increasing-matrix-path)|Feb 03, 2024|
+|**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
+|**Akuna**|[Minimum Chunks Required (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Feb 02, 2024|
+|**Akuna**|[Diffierence Calculator (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-difference-calculator)|[![Practice][p]](https://www.fastprep.io/problems/akuna-difference-calculator)|Feb 02, 2024|
+|**Snowflake**|[Get Max Upgraded Servers](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Feb 02, 2024|
+|**Snowflake**|[Efficient Cost](https://www.fastprep.io/problems/snowflake-efficient-cost)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-cost)|Feb 02, 2024|
+|**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
+|**TikTok**|[Minimum Cycles](https://www.fastprep.io/problems/tiktok-minimum-cycles)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Feb 02, 2024|
+|**TikTok**|[Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Feb 02, 2024|
+|**TikTok**|[Longest OR](https://www.fastprep.io/problems/tiktok-longest-or)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-longest-or)|Feb 02, 2024|
+|**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
+|**Meta**|[Valid Parentheses](https://www.fastprep.io/problems/meta-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-parentheses)|Jan 31, 2024|
+|**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
+|**Amazon**|[Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-unique-values)|Jan 27, 2024|
+|**Amazon**|[Execute Processes](https://www.fastprep.io/problems/amazon-execute-processes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-execute-processes)|Jan 27, 2024|
+|**Amazon**|[Number of Suitable Locations](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|[![Practice][p]](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|Jan 27, 2024|
 |**Clio**|[Append Deranged CSV Rows](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|[![Practice][p]](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Jan 24, 2024|
 |**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
 |**Navan**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|[![Practice][p]](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Jan 24, 2024|
