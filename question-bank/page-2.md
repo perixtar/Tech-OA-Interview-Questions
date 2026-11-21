@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Word Ladder](https://www.fastprep.io/problems/amazon-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-ladder)|Sep 21, 2026|
+|**Amazon**|[Trapping Rain Water](https://www.fastprep.io/problems/amazon-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-trapping-rain-water)|Sep 21, 2026|
 |**Amazon**|[Allocate Minimum Pages](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Sep 21, 2026|
 |**Amazon**|[Longest Subarray with K Distinct Values](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Sep 21, 2026|
 |**Tekion**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Sep 21, 2026|
@@ -1740,5 +1742,4 @@
 |**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|
 |**The Walt Disney Company**|[Meeting of Points Moving Toward Initial Successors](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-meeting-fixed-successor-points)|Dec 17, 2025|
 |**Notion**|[Build a Menu Component for Notion](https://www.fastprep.io/project-coding/notion-react-menu-component)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/notion-react-menu-component)|Dec 17, 2025|
-|**Zip**|[Maximum Nonadjacent Sum in a General Tree](https://www.fastprep.io/problems/zip-tree-independent-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-tree-independent-set)|Dec 16, 2025|
 <a id="bottom"></a>

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**731 questions**
+**732 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -18,6 +18,8 @@
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix / slice / Decagon**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Nov 19, 2026|
 |**Teradata**|[Design an Organization Knowledge Assistant with Tool Use](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|[![Practice][p]](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|🔥 Nov 19, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 19, 2026|
+|**DoorDash**|[Design a Three-Day Charity Donation Drive](https://www.fastprep.io/system-design/three-day-charity-event-system)|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|🔥 Nov 19, 2026|
+|**Pinterest / Instacart / Amazon / Coupa Software / Visa / Microsoft**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Nov 19, 2026|
 |**Charta Health**|[Design an AI Chart Review Pipeline for EMR Encounter Codes](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/ai-chart-review-encounter-code-pipeline)|🔥 Nov 18, 2026|
 |**Rippling**|[Design Read-Only User Impersonation](https://www.fastprep.io/system-design/read-only-user-impersonation)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-user-impersonation)|🔥 Nov 18, 2026|
 |**Postman / Uber Freight / LinkedIn / Safe Security**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🔥 Nov 18, 2026|
@@ -28,6 +30,7 @@
 |**Atlassian**|[Design a Model Deployment Platform](https://www.fastprep.io/system-design/multi-team-model-deployment-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multi-team-model-deployment-platform)|🔥 Nov 18, 2026|
 |**Google**|[Design a Read-Only Lookup Service for a Billion Records](https://www.fastprep.io/system-design/billion-id-read-only-lookup-service)|[![Practice][p]](https://www.fastprep.io/system-design/billion-id-read-only-lookup-service)|🔥 Nov 18, 2026|
 |**Bloomberg LP**|[Design an Integrity-First File Archive](https://www.fastprep.io/system-design/integrity-first-file-archive)|[![Practice][p]](https://www.fastprep.io/system-design/integrity-first-file-archive)|🔥 Nov 18, 2026|
+|**Amazon**|[Design a Refund Processing Workflow](https://www.fastprep.io/system-design/refund-processing-workflow)|[![Practice][p]](https://www.fastprep.io/system-design/refund-processing-workflow)|🔥 Nov 18, 2026|
 |**Pinterest / Amazon / Zoom / Goldman Sachs / Meta / Adobe / Rippling / Plaud / Nextdoor / Bloomberg LP**|[Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service)|[![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service)|🔥 Nov 17, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 17, 2026|
 |**Oracle / Crusoe**|[Design a Virtual Machine Provisioning Service](https://www.fastprep.io/system-design/vm-provisioning-service)|[![Practice][p]](https://www.fastprep.io/system-design/vm-provisioning-service)|🔥 Nov 17, 2026|
@@ -100,7 +103,6 @@
 |**Roblox / Coinbase / Faire**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|🆕 Nov 03, 2026|
 |**Valon**|[Design Loan Repayment and Investor Distribution](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|[![Practice][p]](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|🆕 Nov 03, 2026|
 |**Blinkit / Karat / Amazon**|[Design a Food Delivery Order Tracking System](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|🆕 Nov 03, 2026|
-|**DoorDash**|[Design a Three-Day Charity Donation Drive](https://www.fastprep.io/system-design/three-day-charity-event-system)|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|🆕 Nov 03, 2026|
 |**Atlassian**|[Design a Multi-Business Invoice System](https://www.fastprep.io/system-design/multi-business-invoice-system)|[![Practice][p]](https://www.fastprep.io/system-design/multi-business-invoice-system)|🆕 Nov 03, 2026|
 |**OpenAI**|[Design a Usage-Limit Notice for a Mobile AI Chat App](https://www.fastprep.io/system-design/mobile-chat-usage-limit-notice)|[![Practice][p]](https://www.fastprep.io/system-design/mobile-chat-usage-limit-notice)|🆕 Nov 03, 2026|
 |**Instacart**|[Design a Sponsored Product Ads Ranking Pipeline](https://www.fastprep.io/system-design/sponsored-product-ads-ranking-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/sponsored-product-ads-ranking-pipeline)|🆕 Nov 03, 2026|
@@ -223,7 +225,6 @@
 |**Qualified Health AI**|[Design a Session-Scoped Document Q&A Agent](https://www.fastprep.io/system-design/session-scoped-document-qa-agent)|[![Practice][p]](https://www.fastprep.io/system-design/session-scoped-document-qa-agent)|Oct 03, 2026|
 |**Salesforce / American Express / Booking.com / Capital One**|[Design a Goal-Driven Tool-Using Agent](https://www.fastprep.io/system-design/goal-driven-tool-using-agent)|[![Practice][p]](https://www.fastprep.io/system-design/goal-driven-tool-using-agent)|Oct 03, 2026|
 |**Moveworks / Coupang**|[Design Read-Only Review Keyword Search](https://www.fastprep.io/system-design/read-only-review-keyword-search-platform)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-review-keyword-search-platform)|Oct 02, 2026|
-|**Pinterest / Instacart / Amazon / Coupa Software / Visa / Microsoft**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|Oct 02, 2026|
 |**Roblox**|[Design a Notification Center](https://www.fastprep.io/system-design/notification-center-system)|[![Practice][p]](https://www.fastprep.io/system-design/notification-center-system)|Oct 02, 2026|
 |**Applied Intuition**|[Design a Real-Time 3D Log Playback System](https://www.fastprep.io/system-design/real-time-3d-log-playback-system)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-3d-log-playback-system)|Oct 02, 2026|
 |**Rippling**|[Design an Email Package Tracking Widget](https://www.fastprep.io/system-design/email-package-tracking-widget)|[![Practice][p]](https://www.fastprep.io/system-design/email-package-tracking-widget)|Oct 02, 2026|
