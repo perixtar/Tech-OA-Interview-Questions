@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,383)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (736)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,388)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (736)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -144,6 +144,11 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Databricks**|[Design an Ad Marketplace for Publisher Websites](https://www.fastprep.io/system-design/publisher-ad-marketplace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/publisher-ad-marketplace)|🔥 Nov 13, 2026|
 |**Bloomberg LP**|[Resolve Tickets in Multi-Tenant Matchmaking](https://www.fastprep.io/project-coding/bloomberg-matchmaking-engine-tickets)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-matchmaking-engine-tickets)|🔥 Nov 13, 2026|
 |**Bloomberg LP**|[Debug a Stock Exchange Order Book](https://www.fastprep.io/project-coding/bloomberg-debug-stock-exchange-order-book)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-stock-exchange-order-book)|🔥 Nov 13, 2026|
+|**Cisco**|[K-Step Bit Flip with Retention](https://www.fastprep.io/problems/cisco-k-step-bit-flip-with-retention)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-k-step-bit-flip-with-retention)|🔥 Nov 12, 2026|
+|**Siemens**|[Asteroid Collision](https://www.fastprep.io/problems/siemens-asteroid-collision)|Coding|[![Practice][p]](https://www.fastprep.io/problems/siemens-asteroid-collision)|🔥 Nov 12, 2026|
+|**Siemens**|[Longest Palindromic Substring](https://www.fastprep.io/problems/siemens-longest-palindromic-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/siemens-longest-palindromic-substring)|🔥 Nov 12, 2026|
+|**Jane Street**|[Tree Selection and Visibility](https://www.fastprep.io/problems/jane-street-tree-selection-visibility)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jane-street-tree-selection-visibility)|🔥 Nov 12, 2026|
+|**Jane Street**|[Maximum-Scoring Consecutive Tree Levels](https://www.fastprep.io/problems/jane-street-max-score-consecutive-tree-levels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jane-street-max-score-consecutive-tree-levels)|🔥 Nov 12, 2026|
 |**Nykaa / Navi / Atlys / Rippling / Swiggy**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Nov 12, 2026|
 |**Amazon / OpenAI / Anthropic / eBay / Gimlet Labs**|[Design a Large-Model Inference Serving Platform](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-model-inference-serving-platform)|🔥 Nov 12, 2026|
 |**JioStar / Tubi**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🔥 Nov 12, 2026|
@@ -1679,9 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Most Active Caller by Distinct Contacts](https://www.fastprep.io/problems/google-most-active-caller-by-distinct-contacts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-most-active-caller-by-distinct-contacts)|Sep 22, 2026|
 |**Google**|[Top K Users by Distinct Contacts](https://www.fastprep.io/problems/google-top-k-users-by-distinct-contacts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-users-by-distinct-contacts)|Sep 22, 2026|
 |**Harvey**|[Retrieve Vectors by Cosine Similarity](https://www.fastprep.io/problems/harvey-cosine-similarity-retrieval)|Coding|[![Practice][p]](https://www.fastprep.io/problems/harvey-cosine-similarity-retrieval)|Sep 22, 2026|
-|**Mercor**|[Process Refunds with Bounded Retries](https://www.fastprep.io/problems/mercor-refund-retry-state)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-refund-retry-state)|Sep 22, 2026|
-|**Netflix**|[Convert Sparse Records to a Filled Table](https://www.fastprep.io/problems/netflix-records-to-filled-table)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-records-to-filled-table)|Sep 22, 2026|
-|**Netflix**|[Sparse Matrix Multiplication](https://www.fastprep.io/problems/netflix-sparse-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-sparse-matrix-multiplication)|Sep 22, 2026|
-|**OpenAI**|[Iterate Canonical IPv6 Addresses](https://www.fastprep.io/problems/openai-ipv6-address-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ipv6-address-iterator)|Sep 22, 2026|
-|**Physical Intelligence**|[LRU Cache Operations](https://www.fastprep.io/problems/physical-intelligence-lru-cache-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/physical-intelligence-lru-cache-operations)|Sep 22, 2026|
 <a id="bottom"></a>

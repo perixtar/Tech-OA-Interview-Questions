@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,383 questions**
+**4,388 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -30,6 +30,11 @@
 |**Google**|[Dice-Walk Winning Probability](https://www.fastprep.io/problems/google-dice-walk-winning-probability)|[![Practice][p]](https://www.fastprep.io/problems/google-dice-walk-winning-probability)|🔥 Nov 17, 2026|
 |**Amazon**|[Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience)|🔥 Nov 17, 2026|
 |**Google**|[First and Last Target Position in a Mountain Array](https://www.fastprep.io/problems/google-mountain-array-target-range)|[![Practice][p]](https://www.fastprep.io/problems/google-mountain-array-target-range)|🔥 Nov 17, 2026|
+|**Cisco**|[K-Step Bit Flip with Retention](https://www.fastprep.io/problems/cisco-k-step-bit-flip-with-retention)|[![Practice][p]](https://www.fastprep.io/problems/cisco-k-step-bit-flip-with-retention)|🔥 Nov 12, 2026|
+|**Siemens**|[Asteroid Collision](https://www.fastprep.io/problems/siemens-asteroid-collision)|[![Practice][p]](https://www.fastprep.io/problems/siemens-asteroid-collision)|🔥 Nov 12, 2026|
+|**Siemens**|[Longest Palindromic Substring](https://www.fastprep.io/problems/siemens-longest-palindromic-substring)|[![Practice][p]](https://www.fastprep.io/problems/siemens-longest-palindromic-substring)|🔥 Nov 12, 2026|
+|**Jane Street**|[Tree Selection and Visibility](https://www.fastprep.io/problems/jane-street-tree-selection-visibility)|[![Practice][p]](https://www.fastprep.io/problems/jane-street-tree-selection-visibility)|🔥 Nov 12, 2026|
+|**Jane Street**|[Maximum-Scoring Consecutive Tree Levels](https://www.fastprep.io/problems/jane-street-max-score-consecutive-tree-levels)|[![Practice][p]](https://www.fastprep.io/problems/jane-street-max-score-consecutive-tree-levels)|🔥 Nov 12, 2026|
 |**Paytm**|[Jump Game](https://www.fastprep.io/problems/paytm-jump-game)|[![Practice][p]](https://www.fastprep.io/problems/paytm-jump-game)|🔥 Nov 11, 2026|
 |**Druva**|[Plus One](https://www.fastprep.io/problems/druva-plus-one)|[![Practice][p]](https://www.fastprep.io/problems/druva-plus-one)|🔥 Nov 11, 2026|
 |**Druva**|[Remove Nth Node From End of List](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|[![Practice][p]](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|🔥 Nov 11, 2026|
@@ -1820,9 +1825,4 @@
 |**Cresta**|[Particle Moves to Target](https://www.fastprep.io/problems/cresta-particle-moves-to-target)|[![Practice][p]](https://www.fastprep.io/problems/cresta-particle-moves-to-target)|Jul 28, 2026|
 |**Cresta**|[Top Three Companies by Profit](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|[![Practice][p]](https://www.fastprep.io/problems/cresta-top-three-companies-by-profit)|Jul 28, 2026|
 |**Cresta**|[Rightward Bacteria Consumption](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|[![Practice][p]](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Jul 28, 2026|
-|**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
-|**Rippling**|[LFU Cache with LRU Tie-Breaking](https://www.fastprep.io/problems/rippling-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/rippling-lfu-cache)|Jul 28, 2026|
-|**Spotnana**|[Optimal Card Game Score](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|[![Practice][p]](https://www.fastprep.io/problems/spotnana-optimal-card-game-score)|Jul 27, 2026|
-|**Zomato / Eternal**|[Maximum Production Within Power](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-maximum-production-within-power)|Jul 27, 2026|
-|**Zomato / Eternal**|[Rearrange Songs by Author](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|[![Practice][p]](https://www.fastprep.io/problems/zomato-eternal-rearrange-songs-by-author)|Jul 27, 2026|
 <a id="bottom"></a>

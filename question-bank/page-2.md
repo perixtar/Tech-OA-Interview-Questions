@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Mercor**|[Process Refunds with Bounded Retries](https://www.fastprep.io/problems/mercor-refund-retry-state)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-refund-retry-state)|Sep 22, 2026|
+|**Netflix**|[Convert Sparse Records to a Filled Table](https://www.fastprep.io/problems/netflix-records-to-filled-table)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-records-to-filled-table)|Sep 22, 2026|
+|**Netflix**|[Sparse Matrix Multiplication](https://www.fastprep.io/problems/netflix-sparse-matrix-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-sparse-matrix-multiplication)|Sep 22, 2026|
+|**OpenAI**|[Iterate Canonical IPv6 Addresses](https://www.fastprep.io/problems/openai-ipv6-address-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ipv6-address-iterator)|Sep 22, 2026|
+|**Physical Intelligence**|[LRU Cache Operations](https://www.fastprep.io/problems/physical-intelligence-lru-cache-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/physical-intelligence-lru-cache-operations)|Sep 22, 2026|
 |**Snowflake**|[Sliding-Window Rate Limiter](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|Sep 22, 2026|
 |**Stripe**|[Validate Six-Column Business CSV Rows](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|Sep 22, 2026|
 |**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Sep 22, 2026|
@@ -1736,9 +1741,4 @@
 |**Motive**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/motive-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-best-time-to-buy-and-sell-stock)|Dec 23, 2025|
 |**Motive**|[Integrate Geocoding and Route Services](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|Dec 23, 2025|
 |**Motive**|[Design a Freight Trip Capacity Matching Platform](https://www.fastprep.io/system-design/freight-trip-capacity-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/freight-trip-capacity-matching-platform)|Dec 23, 2025|
-|**Oracle**|[First Balanced Removal Index](https://www.fastprep.io/problems/oracle-first-balanced-removal-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-first-balanced-removal-index)|Dec 22, 2025|
-|**Navan**|[Design Booking Comments and Administrative Updates](https://www.fastprep.io/low-level-design/booking-comment-administration)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/booking-comment-administration)|Dec 22, 2025|
-|**Navan**|[Time Based Key-Value Store](https://www.fastprep.io/problems/navan-time-based-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-time-based-key-value-store)|Dec 22, 2025|
-|**Ramp**|[Bank Requests with Delayed Cashback](https://www.fastprep.io/problems/ramp-bank-requests-with-delayed-cashback)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-bank-requests-with-delayed-cashback)|Dec 21, 2025|
-|**Benchling**|[Design a Versioned Laboratory Notebook](https://www.fastprep.io/low-level-design/versioned-laboratory-notebook)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/versioned-laboratory-notebook)|Dec 21, 2025|
 <a id="bottom"></a>
