@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Google**|[Linked List Cycle Entry Node](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|[![Practice][p]](https://www.fastprep.io/problems/google-linked-list-cycle-entry)|Jul 29, 2026|
 |**Cognitiv**|[Word Search](https://www.fastprep.io/problems/cognitiv-word-search)|[![Practice][p]](https://www.fastprep.io/problems/cognitiv-word-search)|Jul 29, 2026|
 |**Reddit**|[Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window)|[![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window)|Jul 29, 2026|
 |**Amazon**|[Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components)|Jul 29, 2026|
@@ -1933,4 +1932,5 @@
 |**TikTok**|[Calculate Validity](https://www.fastprep.io/problems/tiktok-calculate-validity)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-validity)|Feb 14, 2024|
 |**IBM**|[Validate Requests](https://www.fastprep.io/problems/ibm-request-parser)|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-parser)|Feb 14, 2024|
 |**Oracle**|[Get Discounted Price](https://www.fastprep.io/problems/oracle-get-discounted-price)|[![Practice][p]](https://www.fastprep.io/problems/oracle-get-discounted-price)|Feb 14, 2024|
+|**Oracle**|[Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort)|[![Practice][p]](https://www.fastprep.io/problems/oracle-cardinality-sort)|Feb 14, 2024|
 <a id="bottom"></a>

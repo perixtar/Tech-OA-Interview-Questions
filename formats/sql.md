@@ -8,7 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Nykaa**|[Employees Who Earn More Than Their Managers](https://www.fastprep.io/problems/nykaa-employees-earning-more-than-their-managers)|[![Practice][p]](https://www.fastprep.io/problems/nykaa-employees-earning-more-than-their-managers)|🔥 Nov 07, 2026|
+|**Nykaa**|[Employees Who Earn More Than Their Managers](https://www.fastprep.io/problems/nykaa-employees-earning-more-than-their-managers)|[![Practice][p]](https://www.fastprep.io/problems/nykaa-employees-earning-more-than-their-managers)|🆕 Nov 07, 2026|
 |**Wells Fargo**|[Bond Interest Summary Above 3%](https://www.fastprep.io/problems/wellsfargo-bond-interest-summary)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-bond-interest-summary)|🆕 Oct 31, 2026|
 |**Microsoft**|[Daily USD Totals with Effective-Dated Exchange Rates](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-daily-usd-totals-effective-rates)|🆕 Oct 30, 2026|
 |**Intuit**|[Employee Promotion Opportunities](https://www.fastprep.io/problems/intuit-employee-promotion-opportunities)|[![Practice][p]](https://www.fastprep.io/problems/intuit-employee-promotion-opportunities)|🆕 Oct 28, 2026|
@@ -32,8 +32,8 @@
 |**Apple**|[Top Five Countries by Product Revenue](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|[![Practice][p]](https://www.fastprep.io/problems/apple-top-five-countries-by-product-revenue)|🆕 Oct 08, 2026|
 |**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🆕 Oct 08, 2026|
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🆕 Oct 08, 2026|
-|**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🆕 Oct 07, 2026|
-|**Infosys**|[Tenth-Highest Distinct Salary](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|[![Practice][p]](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|🆕 Oct 07, 2026|
+|**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|Oct 07, 2026|
+|**Infosys**|[Tenth-Highest Distinct Salary](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|[![Practice][p]](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|Oct 07, 2026|
 |**Mygate**|[Employees Earning More Than Their Manager](https://www.fastprep.io/problems/mygate-employees-over-manager)|[![Practice][p]](https://www.fastprep.io/problems/mygate-employees-over-manager)|Sep 26, 2026|
 |**Mygate**|[Users Active in Both January and February](https://www.fastprep.io/problems/mygate-users-active-january-february)|[![Practice][p]](https://www.fastprep.io/problems/mygate-users-active-january-february)|Sep 26, 2026|
 |**Intuit**|[Oldest and Youngest Employees](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|[![Practice][p]](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|Sep 22, 2026|
