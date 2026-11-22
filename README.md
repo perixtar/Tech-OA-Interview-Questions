@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,416)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (736)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,416)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (737)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -36,6 +36,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Nov 21, 2026|
 |**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Nov 21, 2026|
 |**Amazon / Tesla / Datadog / Oracle**|[Design a Video Storage and Streaming Platform](https://www.fastprep.io/system-design/video-storage-streaming-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-storage-streaming-platform)|🔥 Nov 21, 2026|
+|**Rippling**|[Design a Hotel Booking Platform with Multi-Source Ingestion](https://www.fastprep.io/system-design/multi-source-hotel-ingestion-and-booking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-source-hotel-ingestion-and-booking)|🔥 Nov 21, 2026|
 |**ByteDance**|[Log Analyzer: Busiest Service in a Rolling Window](https://www.fastprep.io/problems/bytedance-busiest-service-rolling-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-busiest-service-rolling-window)|🔥 Nov 20, 2026|
 |**Microsoft**|[Config Store with Priority Overrides](https://www.fastprep.io/problems/microsoft-config-store-priority-overrides)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-config-store-priority-overrides)|🔥 Nov 20, 2026|
 |**Millennium**|[Mutable Points in a Hash Set and a List](https://www.fastprep.io/problems/millennium-mutable-point-hash-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-mutable-point-hash-set)|🔥 Nov 20, 2026|
@@ -1684,5 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[Design a Desktop Application Notification System](https://www.fastprep.io/system-design/desktop-application-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/desktop-application-notification-system)|Sep 23, 2026|
 |**Google**|[Design a Smile-Detection Evaluation Platform](https://www.fastprep.io/system-design/smile-detection-evaluation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smile-detection-evaluation-platform)|Sep 23, 2026|
 |**Abnormal Security / Apple / Indeed**|[Evolve a Read-Write Record Service](https://www.fastprep.io/system-design/read-write-service-scaling-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/read-write-service-scaling-review)|Sep 23, 2026|
-|**Pinterest**|[Design a Feedback-Aware Cluster Workload Scheduler](https://www.fastprep.io/system-design/feedback-aware-kubernetes-workload-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/feedback-aware-kubernetes-workload-scheduler)|Sep 23, 2026|
 <a id="bottom"></a>
