@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
 |**Stripe**|[Validate Timestamped Message Records](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Jan 17, 2026|
 |**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
@@ -1847,5 +1848,4 @@
 |**ZipRecruiter**|[Count Circular Alternating Binary Windows](https://www.fastprep.io/problems/ziprecruiter-circular-alternating-windows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-circular-alternating-windows)|Sep 30, 2022|
 |**ZipRecruiter**|[Center of the Largest Diagonal X](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Sep 30, 2022|
 |**ZipRecruiter**|[Rightmost Longest Character Run](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Sep 30, 2022|
-|**Bloomberg LP**|[Merge Multiple Sorted Streams](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Sep 26, 2022|
 <a id="bottom"></a>

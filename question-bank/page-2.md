@@ -831,6 +831,7 @@
 |**Nuro**|[Reveal a Minesweeper Region](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region)|Aug 20, 2026|
 |**Meta**|[Design a Boolean Status Search Index](https://www.fastprep.io/system-design/boolean-status-search-index)|System design|[![Practice][p]](https://www.fastprep.io/system-design/boolean-status-search-index)|Aug 20, 2026|
 |**Amazon**|[Design and Implement Movie Theater Ticket Pricing](https://www.fastprep.io/low-level-design/movie-theater-ticket-pricing)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-theater-ticket-pricing)|Aug 20, 2026|
+|**The Walt Disney Company**|[Disney: Design a Ticket Booking System](https://www.fastprep.io/system-design/disney-ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/disney-ticket-booking-system)|Aug 20, 2026|
 |**Oracle**|[Design a Healthcare Data Ingestion Pipeline](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|Aug 19, 2026|
 |**eBay**|[Design a Top-Selling Items and Categories Dashboard](https://www.fastprep.io/system-design/top-selling-items-and-categories-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/top-selling-items-and-categories-dashboard)|Aug 19, 2026|
 |**eBay**|[Design a Workplace Lunch Ordering Platform](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|Aug 19, 2026|
@@ -1738,5 +1739,4 @@
 |**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Jan 21, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
-|**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 <a id="bottom"></a>

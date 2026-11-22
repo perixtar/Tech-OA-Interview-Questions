@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**737 questions**
+**738 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -427,6 +427,7 @@
 |**Cursor**|[Hash-Tree Client/Server Synchronization](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|[![Practice][p]](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|Aug 21, 2026|
 |**ByteDance**|[SQL Index Eligibility Analysis](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|[![Practice][p]](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|Aug 21, 2026|
 |**Meta**|[Design a Boolean Status Search Index](https://www.fastprep.io/system-design/boolean-status-search-index)|[![Practice][p]](https://www.fastprep.io/system-design/boolean-status-search-index)|Aug 20, 2026|
+|**The Walt Disney Company**|[Disney: Design a Ticket Booking System](https://www.fastprep.io/system-design/disney-ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/disney-ticket-booking-system)|Aug 20, 2026|
 |**Oracle**|[Design a Healthcare Data Ingestion Pipeline](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|Aug 19, 2026|
 |**eBay**|[Design a Top-Selling Items and Categories Dashboard](https://www.fastprep.io/system-design/top-selling-items-and-categories-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/top-selling-items-and-categories-dashboard)|Aug 19, 2026|
 |**eBay**|[Design a Workplace Lunch Ordering Platform](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|Aug 19, 2026|
