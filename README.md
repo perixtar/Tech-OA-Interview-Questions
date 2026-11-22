@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (738)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (740)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -396,6 +396,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Scale AI**|[Repair Contributor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|🆕 Nov 03, 2026|
 |**Scale AI**|[Merge and Verify a Chunked Upload](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-chunked-upload-merge-verify)|🆕 Nov 03, 2026|
 |**Scale AI**|[Plan Task Execution Order with Deadline Risks](https://www.fastprep.io/project-coding/scale-ai-task-execution-plan-deadline-risk)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-task-execution-plan-deadline-risk)|🆕 Nov 03, 2026|
+|**Amazon**|[Amazon: Design a Ticket Booking System](https://www.fastprep.io/system-design/amazon-ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/amazon-ticket-booking-system)|🆕 Nov 03, 2026|
 |**BNSF Railway**|[Two Sum](https://www.fastprep.io/problems/bnsf-railway-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnsf-railway-two-sum)|🆕 Nov 02, 2026|
 |**Fanatics**|[Shortest Word Chain Between Two Words](https://www.fastprep.io/problems/fanatics-shortest-word-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fanatics-shortest-word-chain)|🆕 Nov 02, 2026|
 |**Confluent**|[Implement tail -n](https://www.fastprep.io/problems/confluent-implement-tail-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/confluent-implement-tail-n)|🆕 Nov 02, 2026|
@@ -1202,6 +1203,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**CoinDCX**|[DFS Subsequences of a String (For MLE)](https://www.fastprep.io/problems/coindcx-generate-all-string-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coindcx-generate-all-string-subsequences)|Oct 05, 2026|
 |**Wonderful**|[Exponential Backoff Delays](https://www.fastprep.io/problems/wonderful-exponential-backoff-delays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wonderful-exponential-backoff-delays)|Oct 05, 2026|
 |**Infosys**|[Design a Million-Domain Blocking Service](https://www.fastprep.io/system-design/million-domain-blocking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/million-domain-blocking-service)|Oct 05, 2026|
+|**The Walt Disney Company / ByteDance**|[Design a Ticket Booking System for High-Demand Sales](https://www.fastprep.io/system-design/disney-ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/disney-ticket-booking-system)|Oct 05, 2026|
 |**Amazon**|[Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|Oct 04, 2026|
 |**Temporal / Amazon**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|Oct 04, 2026|
 |**Salesforce / Amazon**|[Design Movie Subscription Pricing](https://www.fastprep.io/low-level-design/movie-subscription-pricing-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-subscription-pricing-domain)|Oct 04, 2026|
@@ -1683,7 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**eBay**|[Maximum Size Subarray Sum Equals K](https://www.fastprep.io/problems/ebay-maximum-length-subarray-sum-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ebay-maximum-length-subarray-sum-k)|Sep 23, 2026|
 |**Netflix**|[Capacity-Limited Timed Cache](https://www.fastprep.io/problems/netflix-capacity-limited-timed-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-capacity-limited-timed-cache)|Sep 23, 2026|
 |**ByteDance / Groww**|[Design an Event Booking and Analytics Platform](https://www.fastprep.io/system-design/event-booking-and-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-booking-and-analytics-platform)|Sep 23, 2026|
-|**Coupa Software**|[Design and Implement an Immutable Customer Profile](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Sep 23, 2026|
-|**Visa**|[Total Server Downtime](https://www.fastprep.io/problems/visa-total-server-downtime)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-total-server-downtime)|Sep 23, 2026|
-|**Superhuman**|[Longest Distinct String](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Sep 23, 2026|
 <a id="bottom"></a>
