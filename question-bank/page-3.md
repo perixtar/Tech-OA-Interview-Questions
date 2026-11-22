@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
+|**Stripe**|[Validate Timestamped Message Records](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Jan 17, 2026|
+|**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
+|**Ramp**|[Progressive Banking System](https://www.fastprep.io/problems/ramp-progressive-banking-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-progressive-banking-system)|Jan 17, 2026|
+|**Stripe**|[Filter Contacts by Email Domain](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Jan 16, 2026|
+|**Citadel**|[Four-Exit Roundabout Simulator](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Jan 16, 2026|
+|**Motive**|[Group Anagrams](https://www.fastprep.io/problems/motive-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-group-anagrams)|Jan 15, 2026|
 |**Motive**|[Longest Equal-Zero-One Subarray](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Jan 15, 2026|
 |**Motive**|[Maximum Weighted Sum After Left Rotations](https://www.fastprep.io/problems/motive-maximum-weighted-left-rotation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-maximum-weighted-left-rotation)|Jan 15, 2026|
 |**Motive**|[Valid Parenthesis String](https://www.fastprep.io/problems/motive-valid-parenthesis-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-parenthesis-string)|Jan 15, 2026|
@@ -1841,10 +1848,4 @@
 |**ZipRecruiter**|[Center of the Largest Diagonal X](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-diagonal-x-center)|Sep 30, 2022|
 |**ZipRecruiter**|[Rightmost Longest Character Run](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rightmost-longest-character-run)|Sep 30, 2022|
 |**Bloomberg LP**|[Merge Multiple Sorted Streams](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-k-sorted-streams)|Sep 26, 2022|
-|**Bloomberg LP**|[Populate Next Right Pointers](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Sep 26, 2022|
-|**ZipRecruiter**|[Longest Common File-System Path Prefix](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Sep 26, 2022|
-|**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
-|**ZipRecruiter**|[Sum All Ordered Decimal Concatenations](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Sep 24, 2022|
-|**Airbnb**|[Count Palindromic Substrings](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Sep 23, 2022|
-|**Duolingo**|[Rank Common Translation Mistakes](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Sep 19, 2022|
 <a id="bottom"></a>
