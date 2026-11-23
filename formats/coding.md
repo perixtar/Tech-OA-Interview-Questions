@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,422 questions**
+**4,425 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Duolingo**|[Group Timestamps into Consecutive-Day Intervals](https://www.fastprep.io/problems/duolingo-consecutive-active-day-intervals)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-consecutive-active-day-intervals)|🔥 Nov 22, 2026|
+|**Amazon**|[Lexicographically Largest Identifier](https://www.fastprep.io/problems/amazon-lexicographically-largest-identifier)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-largest-identifier)|🔥 Nov 21, 2026|
+|**Nutanix**|[Print FooBar Alternately](https://www.fastprep.io/problems/nutanix-print-foobar-alternately)|[![Practice][p]](https://www.fastprep.io/problems/nutanix-print-foobar-alternately)|🔥 Nov 21, 2026|
 |**Airbnb**|[Shortest Uncommon Substring](https://www.fastprep.io/problems/airbnb-shortest-uncommon-substring)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-shortest-uncommon-substring)|🔥 Nov 21, 2026|
 |**Amazon**|[Serialize and Deserialize a Binary Tree](https://www.fastprep.io/problems/amazon-serialize-deserialize-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/amazon-serialize-deserialize-binary-tree)|🔥 Nov 21, 2026|
 |**Cerebras**|[Minimum Number of Frogs Croaking](https://www.fastprep.io/problems/cerebras-minimum-number-of-frogs-croaking)|[![Practice][p]](https://www.fastprep.io/problems/cerebras-minimum-number-of-frogs-croaking)|🔥 Nov 21, 2026|
@@ -1821,7 +1824,4 @@
 |**eBay**|[K Smallest Elements from Sorted Arrays](https://www.fastprep.io/problems/ebay-k-smallest-from-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/ebay-k-smallest-from-sorted-arrays)|Jul 30, 2026|
 |**eBay**|[Single-Pass Search in a Rotated Sorted Array](https://www.fastprep.io/problems/ebay-single-pass-rotated-array-search)|[![Practice][p]](https://www.fastprep.io/problems/ebay-single-pass-rotated-array-search)|Jul 30, 2026|
 |**Opendoor**|[Finite Same-Origin Web Crawler](https://www.fastprep.io/problems/opendoor-finite-web-crawler)|[![Practice][p]](https://www.fastprep.io/problems/opendoor-finite-web-crawler)|Jul 30, 2026|
-|**Oracle**|[Enumerate Right-and-Down Matrix Paths](https://www.fastprep.io/problems/oracle-enumerate-right-down-matrix-paths)|[![Practice][p]](https://www.fastprep.io/problems/oracle-enumerate-right-down-matrix-paths)|Jul 30, 2026|
-|**Oracle**|[Maximize Movie Ratings Without Consecutive Skips](https://www.fastprep.io/problems/oracle-maximize-movie-ratings)|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximize-movie-ratings)|Jul 30, 2026|
-|**Databricks**|[Key-Value Store with Hit Counter](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter)|[![Practice][p]](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter)|Jul 30, 2026|
 <a id="bottom"></a>

@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**NinjaTrader**|[Server Log Summary and Minute Anomalies](https://www.fastprep.io/problems/ninjatrader-server-log-analyzer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ninjatrader-server-log-analyzer)|Sep 23, 2026|
+|**eBay**|[Maximum Size Subarray Sum Equals K](https://www.fastprep.io/problems/ebay-maximum-length-subarray-sum-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ebay-maximum-length-subarray-sum-k)|Sep 23, 2026|
+|**Netflix**|[Capacity-Limited Timed Cache](https://www.fastprep.io/problems/netflix-capacity-limited-timed-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-capacity-limited-timed-cache)|Sep 23, 2026|
+|**ByteDance / Groww**|[Design an Event Booking and Analytics Platform](https://www.fastprep.io/system-design/event-booking-and-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-booking-and-analytics-platform)|Sep 23, 2026|
 |**Coupa Software**|[Design and Implement an Immutable Customer Profile](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Sep 23, 2026|
 |**Visa**|[Total Server Downtime](https://www.fastprep.io/problems/visa-total-server-downtime)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-total-server-downtime)|Sep 23, 2026|
 |**Superhuman**|[Longest Distinct String](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Sep 23, 2026|
@@ -391,7 +395,6 @@
 |**SquadStack.ai**|[Minimum-Cost Digit String Decoding](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Sep 12, 2026|
 |**SquadStack.ai**|[Minimum Seats for One-Way Car Pooling](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Sep 12, 2026|
 |**SquadStack.ai**|[Find the Dominant Seller](https://www.fastprep.io/problems/squadstack-dominant-seller)|SQL|[![Practice][p]](https://www.fastprep.io/problems/squadstack-dominant-seller)|Sep 12, 2026|
-|**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|Sep 12, 2026|
 |**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Sep 12, 2026|
 |**Google / Microsoft**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Sep 12, 2026|
 |**ByteDance / The Walt Disney Company**|[Design an Advertiser Campaign Configuration Platform](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|Sep 12, 2026|
@@ -1736,7 +1739,4 @@
 |**Citadel**|[Binary Search Tree Operations](https://www.fastprep.io/problems/citadel-binary-search-tree-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-binary-search-tree-operations)|Jan 22, 2026|
 |**Citadel**|[Stock Profit with a Transaction Limit](https://www.fastprep.io/problems/citadel-stock-profit-with-transaction-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-stock-profit-with-transaction-limit)|Jan 22, 2026|
 |**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
-|**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
-|**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
-|**Ramp**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Jan 21, 2026|
 <a id="bottom"></a>
