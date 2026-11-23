@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Coupa Software**|[Design and Implement an Immutable Customer Profile](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Sep 23, 2026|
 |**Visa**|[Total Server Downtime](https://www.fastprep.io/problems/visa-total-server-downtime)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-total-server-downtime)|Sep 23, 2026|
 |**Superhuman**|[Longest Distinct String](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Sep 23, 2026|
 |**Superhuman**|[Minimum Time on Two Processors](https://www.fastprep.io/problems/superhuman-minimum-two-processor-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-minimum-two-processor-time)|Sep 23, 2026|
@@ -1573,7 +1574,6 @@
 |**Headlands Technologies**|[Pearson Correlation Coefficient](https://www.fastprep.io/problems/headlands-pearson-correlation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-pearson-correlation)|Apr 09, 2026|
 |**Headlands Technologies**|[Top K Frequent Elements](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|Apr 09, 2026|
 |**Modular**|[Critical Path Through Dependent Tasks](https://www.fastprep.io/problems/modular-critical-path-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/modular-critical-path-schedule)|Apr 08, 2026|
-|**Notion / Juniper Square**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|Apr 08, 2026|
 |**Notion**|[DAG Downstream Nodes](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Apr 08, 2026|
 |**WhatNot**|[Palindrome with One Deletion](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|Apr 08, 2026|
 |**Notion**|[Mutable Table Aggregations](https://www.fastprep.io/problems/notion-mutable-table-aggregations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-mutable-table-aggregations)|Apr 07, 2026|
