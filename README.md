@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (740)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,425)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (740)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (242)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,8 +33,11 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Duolingo**|[Group Timestamps into Consecutive-Day Intervals](https://www.fastprep.io/problems/duolingo-consecutive-active-day-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-consecutive-active-day-intervals)|🔥 Nov 22, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Nov 22, 2026|
 |**Notion / Juniper Square / hims & hers**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|🔥 Nov 22, 2026|
+|**Amazon**|[Lexicographically Largest Identifier](https://www.fastprep.io/problems/amazon-lexicographically-largest-identifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-largest-identifier)|🔥 Nov 21, 2026|
+|**Nutanix**|[Print FooBar Alternately](https://www.fastprep.io/problems/nutanix-print-foobar-alternately)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nutanix-print-foobar-alternately)|🔥 Nov 21, 2026|
 |**Airbnb**|[Shortest Uncommon Substring](https://www.fastprep.io/problems/airbnb-shortest-uncommon-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-shortest-uncommon-substring)|🔥 Nov 21, 2026|
 |**Amazon**|[Serialize and Deserialize a Binary Tree](https://www.fastprep.io/problems/amazon-serialize-deserialize-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-serialize-deserialize-binary-tree)|🔥 Nov 21, 2026|
 |**Cerebras**|[Minimum Number of Frogs Croaking](https://www.fastprep.io/problems/cerebras-minimum-number-of-frogs-croaking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-minimum-number-of-frogs-croaking)|🔥 Nov 21, 2026|
@@ -51,6 +54,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Evaluate a Nested Math Expression](https://www.fastprep.io/problems/google-evaluate-nested-math-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-evaluate-nested-math-expression)|🔥 Nov 21, 2026|
 |**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🔥 Nov 21, 2026|
 |**OpenAI / Baseten / Amazon / JP Morgan Chase / Workday**|[Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|🔥 Nov 21, 2026|
+|**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|🔥 Nov 21, 2026|
 |**Figma**|[Recursive Display Sort](https://www.fastprep.io/problems/figma-display-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-display-sort)|🔥 Nov 20, 2026|
 |**Meta**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/meta-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-best-time-to-buy-and-sell-stock)|🔥 Nov 20, 2026|
 |**Meta**|[First Element Greater Than K](https://www.fastprep.io/problems/meta-first-element-greater-than-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-first-element-greater-than-k)|🔥 Nov 20, 2026|
@@ -1682,8 +1686,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Best Anagram Match](https://www.fastprep.io/problems/google-best-anagram-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-best-anagram-match)|Sep 23, 2026|
 |**ByteDance**|[Tic-Tac-Toe Game Over](https://www.fastprep.io/problems/bytedance-tic-tac-toe-game-over)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-tic-tac-toe-game-over)|Sep 23, 2026|
 |**Amazon**|[Environment Variable Store and Substitution](https://www.fastprep.io/problems/amazon-environment-variable-substitution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-environment-variable-substitution)|Sep 23, 2026|
-|**NinjaTrader**|[Server Log Summary and Minute Anomalies](https://www.fastprep.io/problems/ninjatrader-server-log-analyzer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ninjatrader-server-log-analyzer)|Sep 23, 2026|
-|**eBay**|[Maximum Size Subarray Sum Equals K](https://www.fastprep.io/problems/ebay-maximum-length-subarray-sum-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ebay-maximum-length-subarray-sum-k)|Sep 23, 2026|
-|**Netflix**|[Capacity-Limited Timed Cache](https://www.fastprep.io/problems/netflix-capacity-limited-timed-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-capacity-limited-timed-cache)|Sep 23, 2026|
-|**ByteDance / Groww**|[Design an Event Booking and Analytics Platform](https://www.fastprep.io/system-design/event-booking-and-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-booking-and-analytics-platform)|Sep 23, 2026|
 <a id="bottom"></a>
