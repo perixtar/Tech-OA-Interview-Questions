@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**745 questions**
+**746 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -660,6 +660,7 @@
 |**Confluent**|[Design a Leader-Based Distributed Key-Value Store](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|Nov 21, 2024|
 |**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
 |**WhatNot**|[Design the Home Feed for a Live Shopping App](https://www.fastprep.io/system-design/live-shopping-home-feed)|[![Practice][p]](https://www.fastprep.io/system-design/live-shopping-home-feed)|Nov 01, 2024|
+|**Bank of America**|[Design Crash Diagnosis and Fix Rollout for an Employee App](https://www.fastprep.io/system-design/employee-app-crash-diagnosis-and-fix-rollout)|[![Practice][p]](https://www.fastprep.io/system-design/employee-app-crash-diagnosis-and-fix-rollout)|Oct 11, 2024|
 |**NVIDIA**|[Design Few-Shot Vision-Language Model Adaptation](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|[![Practice][p]](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|Sep 13, 2024|
 |**NVIDIA**|[Design a Visual Conversation and Speech Assistant](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|Sep 13, 2024|
 |**NVIDIA**|[Design Continued Multimodal Model Pretraining](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|[![Practice][p]](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|Sep 13, 2024|
