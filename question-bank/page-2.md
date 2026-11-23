@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Coupa Software**|[Design and Implement an Immutable Customer Profile](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Sep 23, 2026|
 |**Visa**|[Total Server Downtime](https://www.fastprep.io/problems/visa-total-server-downtime)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-total-server-downtime)|Sep 23, 2026|
 |**Superhuman**|[Longest Distinct String](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Sep 23, 2026|
 |**Superhuman**|[Minimum Time on Two Processors](https://www.fastprep.io/problems/superhuman-minimum-two-processor-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-minimum-two-processor-time)|Sep 23, 2026|
@@ -1739,4 +1738,5 @@
 |**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
+|**Ramp**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Jan 21, 2026|
 <a id="bottom"></a>

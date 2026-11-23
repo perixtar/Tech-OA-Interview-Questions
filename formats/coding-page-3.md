@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Snowflake**|[Find Maximum Number Live Threads](https://www.fastprep.io/problems/snowflake-find-maximum-number-live-threads)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-find-maximum-number-live-threads)|Feb 14, 2024|
 |**TikTok**|[Maximum Value](https://www.fastprep.io/problems/tiktok-maximum-value)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-value)|Feb 14, 2024|
 |**TikTok**|[Count Purchases](https://www.fastprep.io/problems/tiktok-count-purchases)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-purchases)|Feb 14, 2024|
 |**TikTok**|[Calculate Validity](https://www.fastprep.io/problems/tiktok-calculate-validity)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-validity)|Feb 14, 2024|

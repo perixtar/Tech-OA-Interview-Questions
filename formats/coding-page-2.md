@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Databricks**|[Key-Value Store with Hit Counter](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter)|[![Practice][p]](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter)|Jul 30, 2026|
 |**Oracle**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock)|[![Practice][p]](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock)|Jul 30, 2026|
 |**IBM**|[String-Pair Frequency Similarity](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity)|[![Practice][p]](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity)|Jul 30, 2026|
 |**TrueFoundry**|[Verify Words Sorted by a Custom Alphabet](https://www.fastprep.io/problems/truefoundry-verify-custom-alphabet-order)|[![Practice][p]](https://www.fastprep.io/problems/truefoundry-verify-custom-alphabet-order)|Jul 29, 2026|
@@ -1932,4 +1931,5 @@
 |**Amazon**|[Find Requests In Queue](https://www.fastprep.io/problems/amazon-find-requests-in-queue)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-requests-in-queue)|Feb 14, 2024|
 |**Meta**|[Buses in a Bustling Town](https://www.fastprep.io/problems/mt-busting-town-buses)|[![Practice][p]](https://www.fastprep.io/problems/mt-busting-town-buses)|Feb 14, 2024|
 |**Snowflake**|[Get Num Ways](https://www.fastprep.io/problems/snowflake-get-num-ways)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-num-ways)|Feb 14, 2024|
+|**Snowflake**|[Find Maximum Number Live Threads](https://www.fastprep.io/problems/snowflake-find-maximum-number-live-threads)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-find-maximum-number-live-threads)|Feb 14, 2024|
 <a id="bottom"></a>

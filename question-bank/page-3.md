@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Ramp**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Jan 21, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
 |**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
@@ -1848,4 +1847,5 @@
 |**ZipRecruiter**|[Advance or Jump to the Next Special Line](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Oct 02, 2022|
 |**ZipRecruiter**|[Occupy and Clean Memory by Allocation ID](https://www.fastprep.io/problems/ziprecruiter-memory-allocation-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-memory-allocation-ids)|Oct 02, 2022|
 |**Figma**|[Breadth-First Values of a Binary Tree](https://www.fastprep.io/problems/figma-breadth-first-tree-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-breadth-first-tree-traversal)|Oct 01, 2022|
+|**ZipRecruiter**|[Count Circular Alternating Binary Windows](https://www.fastprep.io/problems/ziprecruiter-circular-alternating-windows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-circular-alternating-windows)|Sep 30, 2022|
 <a id="bottom"></a>
