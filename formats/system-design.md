@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**744 questions**
+**745 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -676,6 +676,7 @@
 |**Microsoft**|[Design Budgeted AutoML Model Selection](https://www.fastprep.io/system-design/budgeted-automl-model-selection)|[![Practice][p]](https://www.fastprep.io/system-design/budgeted-automl-model-selection)|Apr 05, 2024|
 |**Airbnb**|[Design a Rental Pricing Analytics Dashboard](https://www.fastprep.io/system-design/rental-pricing-analytics-dashboard)|[![Practice][p]](https://www.fastprep.io/system-design/rental-pricing-analytics-dashboard)|Mar 29, 2024|
 |**Google**|[Design Personalized Video-Rating Prediction](https://www.fastprep.io/system-design/personalized-video-rating-prediction)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-video-rating-prediction)|Feb 28, 2024|
+|**WhatNot**|[Design Go-Live Notifications for Followers](https://www.fastprep.io/system-design/go-live-follower-notifications)|[![Practice][p]](https://www.fastprep.io/system-design/go-live-follower-notifications)|Feb 22, 2024|
 |**SpaceX**|[Design High-Demand Commerce and Fulfillment](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|[![Practice][p]](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|Feb 13, 2024|
 |**Navan**|[Design a Credit-Card Spending Report Platform](https://www.fastprep.io/system-design/credit-card-spending-report-platform)|[![Practice][p]](https://www.fastprep.io/system-design/credit-card-spending-report-platform)|Jan 24, 2024|
 |**Optiver**|[Design a Cross-Site Stock Trading Application](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|[![Practice][p]](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|Jan 23, 2024|

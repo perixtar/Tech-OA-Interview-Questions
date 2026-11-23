@@ -1468,6 +1468,7 @@
 |**Intuit**|[Letter Candles](https://www.fastprep.io/problems/intuit-letter-candles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-letter-candles)|Feb 22, 2024|
 |**Intuit**|[Get Min Difference](https://www.fastprep.io/problems/intuit-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-get-minimum-difference)|Feb 22, 2024|
 |**Microsoft**|[Maximize Difference](https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves)|Feb 22, 2024|
+|**WhatNot**|[Design Go-Live Notifications for Followers](https://www.fastprep.io/system-design/go-live-follower-notifications)|System design|[![Practice][p]](https://www.fastprep.io/system-design/go-live-follower-notifications)|Feb 22, 2024|
 |**JP Morgan**|[Min Operations](https://www.fastprep.io/problems/jpmorgan-get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-minimum-operations)|Feb 21, 2024|
 |**JP Morgan**|[How Many Flips?](https://www.fastprep.io/problems/jpmorgan-minimum-flips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-flips)|Feb 21, 2024|
 |**Roblox**|[Largest Value of Usage in Minutes](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes)|Feb 21, 2024|
@@ -1847,5 +1848,4 @@
 |**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
 |**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
 |**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
-|**Duolingo**|[Visit Desired Attractions Without Reusing a Trail](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Oct 03, 2022|
 <a id="bottom"></a>
