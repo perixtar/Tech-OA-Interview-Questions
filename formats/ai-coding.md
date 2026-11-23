@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Repair Return and Risk Evaluation](https://www.fastprep.io/project-coding/amazon-repair-return-risk-evaluation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-return-risk-evaluation)|🔥 Nov 23, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Nov 22, 2026|
 |**Rippling**|[Schedule Future Employee Changes in an HR API](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|[![Practice][p]](https://www.fastprep.io/project-coding/rippling-scheduled-employee-changes)|🔥 Nov 21, 2026|
 |**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🔥 Nov 21, 2026|
@@ -75,7 +76,6 @@
 |**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🆕 Oct 27, 2026|
 |**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|🆕 Oct 26, 2026|
 |**Sierra**|[Debug a Subscription Retention Agent](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|[![Practice][p]](https://www.fastprep.io/project-coding/sierra-debug-subscription-retention-agent)|🆕 Oct 25, 2026|
-|**Amazon**|[Repair Return and Risk Evaluation](https://www.fastprep.io/project-coding/amazon-repair-return-risk-evaluation)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-return-risk-evaluation)|🆕 Oct 25, 2026|
 |**Atlassian**|[Apartment Attention and Booking Metrics](https://www.fastprep.io/project-coding/atlassian-apartment-attention-booking-metrics)|[![Practice][p]](https://www.fastprep.io/project-coding/atlassian-apartment-attention-booking-metrics)|🆕 Oct 23, 2026|
 |**Anthropic**|[Optimize a Simulated Accelerator Kernel](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-simulated-accelerator-kernel-optimization)|🆕 Oct 22, 2026|
 |**Keka HR**|[Build an Alert Ingestion Service](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|[![Practice][p]](https://www.fastprep.io/project-coding/keka-mini-alerting-service)|🆕 Oct 22, 2026|

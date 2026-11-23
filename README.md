@@ -33,6 +33,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Repair Return and Risk Evaluation](https://www.fastprep.io/project-coding/amazon-repair-return-risk-evaluation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-return-risk-evaluation)|🔥 Nov 23, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Nov 22, 2026|
 |**Notion / Juniper Square / hims & hers**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|🔥 Nov 22, 2026|
 |**Airbnb**|[Shortest Uncommon Substring](https://www.fastprep.io/problems/airbnb-shortest-uncommon-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-shortest-uncommon-substring)|🔥 Nov 21, 2026|
@@ -640,7 +641,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**NVIDIA**|[Minimize Task Resource Consumption](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimize-task-resource-consumption)|🆕 Oct 25, 2026|
 |**NVIDIA**|[Minimum Project Bid Cost](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-minimum-project-bid-cost)|🆕 Oct 25, 2026|
 |**Replit**|[Compress Editor Actions into Operational Transform Operations](https://www.fastprep.io/problems/replit-compress-editor-actions-to-ot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/replit-compress-editor-actions-to-ot)|🆕 Oct 25, 2026|
-|**Amazon**|[Repair Return and Risk Evaluation](https://www.fastprep.io/project-coding/amazon-repair-return-risk-evaluation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-return-risk-evaluation)|🆕 Oct 25, 2026|
 |**Amazon**|[Design a Smart Meter Electricity Monitoring System](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smart-meter-electricity-monitoring)|🆕 Oct 24, 2026|
 |**Amazon**|[Design an Agentic Chatbot Domain](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/agentic-chatbot-domain)|🆕 Oct 24, 2026|
 |**Amazon / Nike, Inc.**|[Design a Scheduled Examination Platform](https://www.fastprep.io/system-design/scheduled-examination-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-examination-platform)|🆕 Oct 24, 2026|
