@@ -470,6 +470,7 @@
 |**OpenAI**|[Animate Streaming Chat Text](https://www.fastprep.io/project-coding/openai-streaming-text-animation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/openai-streaming-text-animation)|Apr 24, 2025|
 |**Datadog**|[Count Repeated Word Occurrences](https://www.fastprep.io/problems/datadog-count-word-repetitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-word-repetitions)|Apr 23, 2025|
 |**Datadog**|[File Sizes Under Directory Paths](https://www.fastprep.io/problems/datadog-directory-file-sizes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-directory-file-sizes)|Apr 23, 2025|
+|**WhatNot**|[Design a Music Upload Service](https://www.fastprep.io/system-design/music-upload-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/music-upload-service)|Apr 23, 2025|
 |**Zip**|[Design Personalized Customer Document Search](https://www.fastprep.io/system-design/personalized-customer-document-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-customer-document-search)|Apr 21, 2025|
 |**Ramp**|[Convert Snake Case Variables to Camel Case](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|Apr 20, 2025|
 |**Checkr**|[Design a Background-Check Processing Platform](https://www.fastprep.io/system-design/background-check-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/background-check-processing-platform)|Apr 19, 2025|
@@ -737,6 +738,7 @@
 |**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 |**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
 |**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
+|**WhatNot**|[Design the Home Feed for a Live Shopping App](https://www.fastprep.io/system-design/live-shopping-home-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-shopping-home-feed)|Nov 01, 2024|
 |**Clipboard Health**|[Design a Dimmer and Connected Bulbs System](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Oct 31, 2024|
 |**Navan**|[Roman to Integer](https://www.fastprep.io/problems/navan-roman-to-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-roman-to-integer)|Oct 31, 2024|
 |**Navan**|[Sort Colors](https://www.fastprep.io/problems/navan-sort-colors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-sort-colors)|Oct 31, 2024|
@@ -1846,6 +1848,4 @@
 |**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
 |**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
 |**Duolingo**|[Visit Desired Attractions Without Reusing a Trail](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Oct 03, 2022|
-|**ZipRecruiter**|[Advance or Jump to the Next Special Line](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Oct 02, 2022|
-|**ZipRecruiter**|[Occupy and Clean Memory by Allocation ID](https://www.fastprep.io/problems/ziprecruiter-memory-allocation-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-memory-allocation-ids)|Oct 02, 2022|
 <a id="bottom"></a>
