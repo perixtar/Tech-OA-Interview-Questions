@@ -92,7 +92,7 @@
 |**Paytm**|[Jump Game](https://www.fastprep.io/problems/paytm-jump-game)|[![Practice][p]](https://www.fastprep.io/problems/paytm-jump-game)|🔥 Nov 11, 2026|
 |**Druva**|[Plus One](https://www.fastprep.io/problems/druva-plus-one)|[![Practice][p]](https://www.fastprep.io/problems/druva-plus-one)|🔥 Nov 11, 2026|
 |**Druva**|[Remove Nth Node From End of List](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|[![Practice][p]](https://www.fastprep.io/problems/druva-remove-nth-node-from-end-of-list)|🔥 Nov 11, 2026|
-|**The D.E. Shaw Group**|[Koko Eating Bananas](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|🔥 Nov 10, 2026|
+|**The D.E. Shaw Group**|[Koko Eating Bananas](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|[![Practice][p]](https://www.fastprep.io/problems/de-shaw-koko-eating-bananas)|🆕 Nov 10, 2026|
 |**Amazon**|[Maximum Root-to-Leaf and Leaf-to-Leaf Path Sums](https://www.fastprep.io/problems/amazon-max-root-to-leaf-and-leaf-to-leaf-path-sums)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-root-to-leaf-and-leaf-to-leaf-path-sums)|🆕 Nov 09, 2026|
 |**Veeam**|[Integer to English Words in USD and INR Styles](https://www.fastprep.io/problems/veeam-integer-to-english-words-by-currency)|[![Practice][p]](https://www.fastprep.io/problems/veeam-integer-to-english-words-by-currency)|🆕 Nov 09, 2026|
 |**UiPath**|[Bus Routes](https://www.fastprep.io/problems/uipath-bus-routes)|[![Practice][p]](https://www.fastprep.io/problems/uipath-bus-routes)|🆕 Nov 09, 2026|
@@ -623,15 +623,15 @@
 |**Belvedere Trading**|[Distances to Cycles](https://www.fastprep.io/problems/belvedere-trading-distances-to-cycles)|[![Practice][p]](https://www.fastprep.io/problems/belvedere-trading-distances-to-cycles)|🆕 Oct 11, 2026|
 |**IBM**|[Maximum Compatible Time Windows](https://www.fastprep.io/problems/ibm-maximum-compatible-time-windows)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-compatible-time-windows)|🆕 Oct 11, 2026|
 |**Amazon**|[Group Anagrams](https://www.fastprep.io/problems/amazon-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-anagrams)|🆕 Oct 11, 2026|
-|**IBM**|[Maximum Easy Tasks After Rearranging](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|🆕 Oct 10, 2026|
-|**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|🆕 Oct 10, 2026|
-|**Google**|[Validate Server Log Summary Counts](https://www.fastprep.io/problems/google-validate-server-log-summary)|[![Practice][p]](https://www.fastprep.io/problems/google-validate-server-log-summary)|🆕 Oct 10, 2026|
-|**Google**|[Generate an Unbiased Bit from a Biased Coin](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|[![Practice][p]](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|🆕 Oct 10, 2026|
-|**Airbnb**|[Decode and Store Strings](https://www.fastprep.io/problems/airbnb-decode-and-store-strings)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-decode-and-store-strings)|🆕 Oct 10, 2026|
-|**Persona**|[Rank Football Teams](https://www.fastprep.io/problems/persona-rank-football-teams)|[![Practice][p]](https://www.fastprep.io/problems/persona-rank-football-teams)|🆕 Oct 10, 2026|
-|**OpenAI**|[Durable Work Queue with Dependencies](https://www.fastprep.io/problems/openai-durable-work-queue-with-dependencies)|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-work-queue-with-dependencies)|🆕 Oct 10, 2026|
-|**Valon**|[Out-of-Order Loan Ledger](https://www.fastprep.io/problems/valon-out-of-order-loan-ledger)|[![Practice][p]](https://www.fastprep.io/problems/valon-out-of-order-loan-ledger)|🆕 Oct 10, 2026|
-|**Sierra**|[Maximum Array Value](https://www.fastprep.io/problems/sierra-maximum-array-value)|[![Practice][p]](https://www.fastprep.io/problems/sierra-maximum-array-value)|🆕 Oct 10, 2026|
+|**IBM**|[Maximum Easy Tasks After Rearranging](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|Oct 10, 2026|
+|**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|Oct 10, 2026|
+|**Google**|[Validate Server Log Summary Counts](https://www.fastprep.io/problems/google-validate-server-log-summary)|[![Practice][p]](https://www.fastprep.io/problems/google-validate-server-log-summary)|Oct 10, 2026|
+|**Google**|[Generate an Unbiased Bit from a Biased Coin](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|[![Practice][p]](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|Oct 10, 2026|
+|**Airbnb**|[Decode and Store Strings](https://www.fastprep.io/problems/airbnb-decode-and-store-strings)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-decode-and-store-strings)|Oct 10, 2026|
+|**Persona**|[Rank Football Teams](https://www.fastprep.io/problems/persona-rank-football-teams)|[![Practice][p]](https://www.fastprep.io/problems/persona-rank-football-teams)|Oct 10, 2026|
+|**OpenAI**|[Durable Work Queue with Dependencies](https://www.fastprep.io/problems/openai-durable-work-queue-with-dependencies)|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-work-queue-with-dependencies)|Oct 10, 2026|
+|**Valon**|[Out-of-Order Loan Ledger](https://www.fastprep.io/problems/valon-out-of-order-loan-ledger)|[![Practice][p]](https://www.fastprep.io/problems/valon-out-of-order-loan-ledger)|Oct 10, 2026|
+|**Sierra**|[Maximum Array Value](https://www.fastprep.io/problems/sierra-maximum-array-value)|[![Practice][p]](https://www.fastprep.io/problems/sierra-maximum-array-value)|Oct 10, 2026|
 |**AMD**|[Insert After a Linked-List Node](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|[![Practice][p]](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|Oct 09, 2026|
 |**AMD**|[LRU Cache](https://www.fastprep.io/problems/amd-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/amd-lru-cache)|Oct 09, 2026|
 |**OpenAI**|[Budgeted API Inference with Out-of-Order Feedback](https://www.fastprep.io/problems/openai-budgeted-api-inference)|[![Practice][p]](https://www.fastprep.io/problems/openai-budgeted-api-inference)|Oct 09, 2026|
