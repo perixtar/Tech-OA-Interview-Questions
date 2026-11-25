@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Apple**|[Unit Conversion Across Independent Families](https://www.fastprep.io/problems/apple-unit-conversion-across-families)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-unit-conversion-across-families)|Sep 23, 2026|
 |**Google**|[Best Anagram Match](https://www.fastprep.io/problems/google-best-anagram-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-best-anagram-match)|Sep 23, 2026|
 |**ByteDance**|[Tic-Tac-Toe Game Over](https://www.fastprep.io/problems/bytedance-tic-tac-toe-game-over)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-tic-tac-toe-game-over)|Sep 23, 2026|
 |**Amazon**|[Environment Variable Store and Substitution](https://www.fastprep.io/problems/amazon-environment-variable-substitution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-environment-variable-substitution)|Sep 23, 2026|
@@ -1738,5 +1739,4 @@
 |**Citadel**|[2048 Simulation and Board Codec](https://www.fastprep.io/problems/citadel-2048-simulation-and-board-codec)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-2048-simulation-and-board-codec)|Jan 27, 2026|
 |**Citadel**|[Cancellable Priority Task Queue](https://www.fastprep.io/problems/citadel-cancellable-priority-task-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-cancellable-priority-task-queue)|Jan 27, 2026|
 |**Citadel**|[Dynamic Weighted Sampling](https://www.fastprep.io/problems/citadel-dynamic-weighted-sampling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-dynamic-weighted-sampling)|Jan 27, 2026|
-|**Citadel**|[Exchange Connection Alerts](https://www.fastprep.io/problems/citadel-exchange-connection-alerts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-connection-alerts)|Jan 27, 2026|
 <a id="bottom"></a>

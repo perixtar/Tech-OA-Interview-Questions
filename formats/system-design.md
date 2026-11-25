@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**751 questions**
+**752 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -15,6 +15,7 @@
 |**Harvey / Nike, Inc. / GEP / Microsoft / Hallmark Global Technologies**|[Grounded Document-Vault Question Answering](https://www.fastprep.io/system-design/grounded-document-vault-question-answering)|[![Practice][p]](https://www.fastprep.io/system-design/grounded-document-vault-question-answering)|🔥 Nov 23, 2026|
 |**Hallmark Global Technologies**|[Design a Multi-Agent Healthcare Operations System](https://www.fastprep.io/system-design/healthcare-operations-multi-agent-system)|[![Practice][p]](https://www.fastprep.io/system-design/healthcare-operations-multi-agent-system)|🔥 Nov 23, 2026|
 |**Anthropic**|[Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system)|[![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system)|🔥 Nov 23, 2026|
+|**Roblox**|[Design Protection for a Public Website](https://www.fastprep.io/system-design/website-protection-platform)|[![Practice][p]](https://www.fastprep.io/system-design/website-protection-platform)|🔥 Nov 23, 2026|
 |**Notion / Juniper Square / hims & hers**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|🔥 Nov 22, 2026|
 |**Amazon / Tesla / Datadog / Oracle**|[Design a Video Storage and Streaming Platform](https://www.fastprep.io/system-design/video-storage-streaming-platform)|[![Practice][p]](https://www.fastprep.io/system-design/video-storage-streaming-platform)|🔥 Nov 21, 2026|
 |**Rippling**|[Design a Hotel Booking Platform with Multi-Source Ingestion](https://www.fastprep.io/system-design/multi-source-hotel-ingestion-and-booking)|[![Practice][p]](https://www.fastprep.io/system-design/multi-source-hotel-ingestion-and-booking)|🔥 Nov 21, 2026|

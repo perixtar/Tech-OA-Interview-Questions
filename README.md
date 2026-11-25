@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (751)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (243)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (752)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (243)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -41,6 +41,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Harvey / Nike, Inc. / GEP / Microsoft / Hallmark Global Technologies**|[Grounded Document-Vault Question Answering](https://www.fastprep.io/system-design/grounded-document-vault-question-answering)|System design|[![Practice][p]](https://www.fastprep.io/system-design/grounded-document-vault-question-answering)|🔥 Nov 23, 2026|
 |**Hallmark Global Technologies**|[Design a Multi-Agent Healthcare Operations System](https://www.fastprep.io/system-design/healthcare-operations-multi-agent-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/healthcare-operations-multi-agent-system)|🔥 Nov 23, 2026|
 |**Anthropic**|[Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system)|🔥 Nov 23, 2026|
+|**Roblox**|[Design Protection for a Public Website](https://www.fastprep.io/system-design/website-protection-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/website-protection-platform)|🔥 Nov 23, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Nov 22, 2026|
 |**Notion / Juniper Square / hims & hers**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|🔥 Nov 22, 2026|
 |**Airbnb**|[Shortest Uncommon Substring](https://www.fastprep.io/problems/airbnb-shortest-uncommon-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-shortest-uncommon-substring)|🔥 Nov 21, 2026|
@@ -1684,5 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Remitly**|[Rebalance Bank Accounts to a Minimum Balance](https://www.fastprep.io/problems/remitly-minimum-balance-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/remitly-minimum-balance-transfers)|Sep 23, 2026|
 |**Circle**|[Banking System with Pending Transfer Acceptance](https://www.fastprep.io/problems/circle-banking-pending-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/circle-banking-pending-transfers)|Sep 23, 2026|
 |**Apple**|[Design Authentication Manager](https://www.fastprep.io/problems/apple-authentication-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-authentication-manager)|Sep 23, 2026|
-|**Apple**|[Unit Conversion Across Independent Families](https://www.fastprep.io/problems/apple-unit-conversion-across-families)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-unit-conversion-across-families)|Sep 23, 2026|
 <a id="bottom"></a>
