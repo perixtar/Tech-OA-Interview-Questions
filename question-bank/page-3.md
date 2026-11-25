@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Stripe**|[Transaction Fee Calculator — Channel Volume Tiers](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Jan 26, 2026|
 |**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
 |**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
 |**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
@@ -1847,5 +1848,4 @@
 |**Intuit**|[Nearest Different Maze Exit for a Snake](https://www.fastprep.io/problems/intuit-nearest-snake-exit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-nearest-snake-exit)|Oct 07, 2022|
 |**Bloomberg LP**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Oct 06, 2022|
 |**Bloomberg LP**|[Kill Process](https://www.fastprep.io/problems/bloomberg-kill-process)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-kill-process)|Oct 06, 2022|
-|**Bloomberg LP**|[Min Stack](https://www.fastprep.io/problems/bloomberg-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-min-stack)|Oct 06, 2022|
 <a id="bottom"></a>

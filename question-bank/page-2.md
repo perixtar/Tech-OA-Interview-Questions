@@ -1648,6 +1648,7 @@
 |**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Mar 12, 2026|
 |**Maven Clinic**|[Shortest Currency Conversion with Three-Decimal Rate](https://www.fastprep.io/problems/maven-clinic-shortest-currency-conversion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-shortest-currency-conversion)|Mar 11, 2026|
 |**Datadog**|[Filter Words by Stored Prefixes](https://www.fastprep.io/problems/datadog-prefix-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-prefix-filter)|Mar 10, 2026|
+|**Hudson River Trading**|[Add Order Modify to a Trading Client and Server](https://www.fastprep.io/project-coding/hrt-trading-client-order-modify)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-trading-client-order-modify)|Mar 10, 2026|
 |**OpenAI**|[Cogwheel Rotation Directions](https://www.fastprep.io/problems/openai-cogwheel-rotation-directions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-cogwheel-rotation-directions)|Mar 09, 2026|
 |**OpenAI**|[Minimum Dining Table Rotations](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|Mar 09, 2026|
 |**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
@@ -1738,5 +1739,4 @@
 |**Citadel**|[Cancellable Priority Task Queue](https://www.fastprep.io/problems/citadel-cancellable-priority-task-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-cancellable-priority-task-queue)|Jan 27, 2026|
 |**Citadel**|[Dynamic Weighted Sampling](https://www.fastprep.io/problems/citadel-dynamic-weighted-sampling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-dynamic-weighted-sampling)|Jan 27, 2026|
 |**Citadel**|[Exchange Connection Alerts](https://www.fastprep.io/problems/citadel-exchange-connection-alerts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-connection-alerts)|Jan 27, 2026|
-|**Stripe**|[Transaction Fee Calculator — Channel Volume Tiers](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Jan 26, 2026|
 <a id="bottom"></a>

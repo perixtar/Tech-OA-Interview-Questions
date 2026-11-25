@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**242 questions**
+**243 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -177,6 +177,7 @@
 |**Scale AI**|[Debug Missing Model Output](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|Apr 13, 2026|
 |**Klaviyo**|[Repair a Stripe Webhook Handler](https://www.fastprep.io/project-coding/klaviyo-stripe-webhook-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/klaviyo-stripe-webhook-debugging)|Mar 27, 2026|
 |**Klaviyo**|[Build a Weather App Using an API](https://www.fastprep.io/project-coding/klaviyo-weather-api-application)|[![Practice][p]](https://www.fastprep.io/project-coding/klaviyo-weather-api-application)|Mar 17, 2026|
+|**Hudson River Trading**|[Add Order Modify to a Trading Client and Server](https://www.fastprep.io/project-coding/hrt-trading-client-order-modify)|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-trading-client-order-modify)|Mar 10, 2026|
 |**Stripe**|[Repair Template Lookup, Arguments and Includes](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
 |**Apple**|[Debug a UNet Segmentation Model](https://www.fastprep.io/project-coding/apple-unet-segmentation-debug)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-unet-segmentation-debug)|Feb 25, 2026|
 |**AMD**|[Repair a Command-Submission Fence Race](https://www.fastprep.io/project-coding/amd-repair-command-fence-race)|[![Practice][p]](https://www.fastprep.io/project-coding/amd-repair-command-fence-race)|Feb 12, 2026|
