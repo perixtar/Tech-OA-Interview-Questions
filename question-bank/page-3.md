@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
+|**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
+|**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
+|**Citadel**|[Binary Search Tree Operations](https://www.fastprep.io/problems/citadel-binary-search-tree-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-binary-search-tree-operations)|Jan 22, 2026|
+|**Citadel**|[Stock Profit with a Transaction Limit](https://www.fastprep.io/problems/citadel-stock-profit-with-transaction-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-stock-profit-with-transaction-limit)|Jan 22, 2026|
+|**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
+|**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Jan 21, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
@@ -1841,11 +1848,4 @@
 |**Bloomberg LP**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Oct 06, 2022|
 |**Bloomberg LP**|[Kill Process](https://www.fastprep.io/problems/bloomberg-kill-process)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-kill-process)|Oct 06, 2022|
 |**Bloomberg LP**|[Min Stack](https://www.fastprep.io/problems/bloomberg-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-min-stack)|Oct 06, 2022|
-|**Intuit**|[Count Courses Without Taking One Course](https://www.fastprep.io/problems/intuit-courses-without-avoided-course)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-courses-without-avoided-course)|Oct 06, 2022|
-|**Intuit**|[Count Connected Equal Tiles](https://www.fastprep.io/problems/intuit-connected-equal-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-connected-equal-tiles)|Oct 05, 2022|
-|**Intuit**|[Cookie Monster Minimum Arrival Time](https://www.fastprep.io/problems/intuit-cookie-monster-escape)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-cookie-monster-escape)|Oct 05, 2022|
-|**ZipRecruiter**|[Pop Matching Balloon Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Oct 04, 2022|
-|**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
-|**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
-|**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
 <a id="bottom"></a>

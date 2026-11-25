@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Intuit**|[Count Courses Without Taking One Course](https://www.fastprep.io/problems/intuit-courses-without-avoided-course)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-courses-without-avoided-course)|Oct 06, 2022|
+|**Intuit**|[Count Connected Equal Tiles](https://www.fastprep.io/problems/intuit-connected-equal-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-connected-equal-tiles)|Oct 05, 2022|
+|**Intuit**|[Cookie Monster Minimum Arrival Time](https://www.fastprep.io/problems/intuit-cookie-monster-escape)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-cookie-monster-escape)|Oct 05, 2022|
+|**ZipRecruiter**|[Pop Matching Balloon Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Oct 04, 2022|
+|**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
+|**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
+|**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
 |**Duolingo**|[Visit Desired Attractions Without Reusing a Trail](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Oct 03, 2022|
 |**ZipRecruiter**|[Advance or Jump to the Next Special Line](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Oct 02, 2022|
 |**ZipRecruiter**|[Occupy and Clean Memory by Allocation ID](https://www.fastprep.io/problems/ziprecruiter-memory-allocation-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-memory-allocation-ids)|Oct 02, 2022|

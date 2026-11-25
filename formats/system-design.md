@@ -2,12 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**746 questions**
+**751 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Xneeti**|[Design a Backward-Compatible Upgrade for a Bus Status API](https://www.fastprep.io/system-design/backward-compatible-bus-status-api)|[![Practice][p]](https://www.fastprep.io/system-design/backward-compatible-bus-status-api)|🔥 Nov 24, 2026|
+|**Xneeti**|[Design a Resilient Ingestion Worker for Unreliable Producers](https://www.fastprep.io/system-design/resilient-producer-ingestion-worker)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-producer-ingestion-worker)|🔥 Nov 24, 2026|
+|**Xneeti**|[Speed Up Daily Trending Videos on a Viewing Log](https://www.fastprep.io/system-design/daily-trending-videos-from-viewing-log)|[![Practice][p]](https://www.fastprep.io/system-design/daily-trending-videos-from-viewing-log)|🔥 Nov 24, 2026|
+|**Xneeti**|[Split a Traffic Signal System into Three Services](https://www.fastprep.io/system-design/traffic-signal-control-service-split)|[![Practice][p]](https://www.fastprep.io/system-design/traffic-signal-control-service-split)|🔥 Nov 24, 2026|
+|**Harvey / Nike, Inc. / GEP / Microsoft / Hallmark Global Technologies**|[Grounded Document-Vault Question Answering](https://www.fastprep.io/system-design/grounded-document-vault-question-answering)|[![Practice][p]](https://www.fastprep.io/system-design/grounded-document-vault-question-answering)|🔥 Nov 23, 2026|
+|**Hallmark Global Technologies**|[Design a Multi-Agent Healthcare Operations System](https://www.fastprep.io/system-design/healthcare-operations-multi-agent-system)|[![Practice][p]](https://www.fastprep.io/system-design/healthcare-operations-multi-agent-system)|🔥 Nov 23, 2026|
 |**Notion / Juniper Square / hims & hers**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|🔥 Nov 22, 2026|
 |**Amazon / Tesla / Datadog / Oracle**|[Design a Video Storage and Streaming Platform](https://www.fastprep.io/system-design/video-storage-streaming-platform)|[![Practice][p]](https://www.fastprep.io/system-design/video-storage-streaming-platform)|🔥 Nov 21, 2026|
 |**Rippling**|[Design a Hotel Booking Platform with Multi-Source Ingestion](https://www.fastprep.io/system-design/multi-source-hotel-ingestion-and-booking)|[![Practice][p]](https://www.fastprep.io/system-design/multi-source-hotel-ingestion-and-booking)|🔥 Nov 21, 2026|
@@ -46,7 +52,6 @@
 |**OnePay / Razorpay / Infosys / BNSF Railway / Agoda / Paytm**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Nov 16, 2026|
 |**Lambda / Faire / Crusoe**|[Cloud AI Inference Platform](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|🔥 Nov 16, 2026|
 |**OpenAI / The D.E. Shaw Group / Zoox / Salesforce / Kotak Mahindra Bank / Mercor / Paytm**|[Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system)|[![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system)|🔥 Nov 16, 2026|
-|**Harvey / Nike, Inc. / GEP / Microsoft**|[Grounded Document-Vault Question Answering](https://www.fastprep.io/system-design/grounded-document-vault-question-answering)|[![Practice][p]](https://www.fastprep.io/system-design/grounded-document-vault-question-answering)|🔥 Nov 16, 2026|
 |**Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon / Blinkit / Reddit / Qualified Health AI / Suno / WhatNot / Apple**|[Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system)|[![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system)|🔥 Nov 16, 2026|
 |**Harvey**|[Design Human-Governed File Review Agents](https://www.fastprep.io/system-design/human-governed-file-review-agents)|[![Practice][p]](https://www.fastprep.io/system-design/human-governed-file-review-agents)|🔥 Nov 16, 2026|
 |**Amazon / Postman / The Walt Disney Company / Okta / Nutanix / DoorDash**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Nov 16, 2026|

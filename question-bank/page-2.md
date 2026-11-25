@@ -9,6 +9,13 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Best Anagram Match](https://www.fastprep.io/problems/google-best-anagram-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-best-anagram-match)|Sep 23, 2026|
+|**ByteDance**|[Tic-Tac-Toe Game Over](https://www.fastprep.io/problems/bytedance-tic-tac-toe-game-over)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-tic-tac-toe-game-over)|Sep 23, 2026|
+|**Amazon**|[Environment Variable Store and Substitution](https://www.fastprep.io/problems/amazon-environment-variable-substitution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-environment-variable-substitution)|Sep 23, 2026|
+|**NinjaTrader**|[Server Log Summary and Minute Anomalies](https://www.fastprep.io/problems/ninjatrader-server-log-analyzer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ninjatrader-server-log-analyzer)|Sep 23, 2026|
+|**eBay**|[Maximum Size Subarray Sum Equals K](https://www.fastprep.io/problems/ebay-maximum-length-subarray-sum-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ebay-maximum-length-subarray-sum-k)|Sep 23, 2026|
+|**Netflix**|[Capacity-Limited Timed Cache](https://www.fastprep.io/problems/netflix-capacity-limited-timed-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-capacity-limited-timed-cache)|Sep 23, 2026|
+|**ByteDance / Groww**|[Design an Event Booking and Analytics Platform](https://www.fastprep.io/system-design/event-booking-and-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-booking-and-analytics-platform)|Sep 23, 2026|
 |**Coupa Software**|[Design and Implement an Immutable Customer Profile](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/immutable-customer-profile-value-object)|Sep 23, 2026|
 |**Visa**|[Total Server Downtime](https://www.fastprep.io/problems/visa-total-server-downtime)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-total-server-downtime)|Sep 23, 2026|
 |**Superhuman**|[Longest Distinct String](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-longest-distinct-string)|Sep 23, 2026|
@@ -1732,11 +1739,4 @@
 |**Citadel**|[Dynamic Weighted Sampling](https://www.fastprep.io/problems/citadel-dynamic-weighted-sampling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-dynamic-weighted-sampling)|Jan 27, 2026|
 |**Citadel**|[Exchange Connection Alerts](https://www.fastprep.io/problems/citadel-exchange-connection-alerts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-connection-alerts)|Jan 27, 2026|
 |**Stripe**|[Transaction Fee Calculator — Channel Volume Tiers](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Jan 26, 2026|
-|**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
-|**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
-|**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
-|**Citadel**|[Binary Search Tree Operations](https://www.fastprep.io/problems/citadel-binary-search-tree-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-binary-search-tree-operations)|Jan 22, 2026|
-|**Citadel**|[Stock Profit with a Transaction Limit](https://www.fastprep.io/problems/citadel-stock-profit-with-transaction-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-stock-profit-with-transaction-limit)|Jan 22, 2026|
-|**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
-|**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
 <a id="bottom"></a>
