@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Vercel**|[Order DAG Nodes from Leaves to Roots](https://www.fastprep.io/problems/vercel-leaves-to-root-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vercel-leaves-to-root-order)|Sep 23, 2026|
+|**Amazon**|[Minimum Edge Moves to Connect a Network](https://www.fastprep.io/problems/amazon-minimum-edge-moves-to-connect-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-edge-moves-to-connect-graph)|Sep 23, 2026|
+|**Amazon**|[Simplify a Binary Expression Tree](https://www.fastprep.io/problems/amazon-simplify-expression-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-simplify-expression-tree)|Sep 23, 2026|
+|**Mercor**|[Currency Conversion Rate](https://www.fastprep.io/problems/mercor-currency-conversion-rate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-currency-conversion-rate)|Sep 23, 2026|
+|**Google**|[Universal Exit Command Sequence](https://www.fastprep.io/problems/google-universal-exit-command-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-universal-exit-command-sequence)|Sep 23, 2026|
+|**LinkedIn**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/linkedin-linked-list-intersection-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-linked-list-intersection-node)|Sep 23, 2026|
+|**LinkedIn**|[Permutations II](https://www.fastprep.io/problems/linkedin-unique-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-unique-permutations)|Sep 23, 2026|
+|**Remitly**|[Rebalance Bank Accounts to a Minimum Balance](https://www.fastprep.io/problems/remitly-minimum-balance-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/remitly-minimum-balance-transfers)|Sep 23, 2026|
 |**Circle**|[Banking System with Pending Transfer Acceptance](https://www.fastprep.io/problems/circle-banking-pending-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/circle-banking-pending-transfers)|Sep 23, 2026|
 |**Apple**|[Design Authentication Manager](https://www.fastprep.io/problems/apple-authentication-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-authentication-manager)|Sep 23, 2026|
 |**Apple**|[Unit Conversion Across Independent Families](https://www.fastprep.io/problems/apple-unit-conversion-across-families)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-unit-conversion-across-families)|Sep 23, 2026|
@@ -965,7 +973,6 @@
 |**HSBC**|[Minimum Satellite Data Transfer Iterations](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations)|Aug 03, 2026|
 |**HSBC**|[Organization Reputation After Employee Departures](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures)|Aug 03, 2026|
 |**DoorDash**|[Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system)|Aug 03, 2026|
-|**Gusto**|[Design a Restaurant Staff Scheduling System](https://www.fastprep.io/system-design/restaurant-scheduling-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-scheduling-system)|Aug 03, 2026|
 |**HSBC**|[Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels)|Aug 03, 2026|
 |**Infosys**|[Count Valid A-B-C Sequences Under a Modulo-Four Rule](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Aug 02, 2026|
 |**Infosys**|[Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Aug 02, 2026|
@@ -1065,7 +1072,6 @@
 |**Cresta**|[Rightward Bacteria Consumption](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Jul 28, 2026|
 |**Google**|[Distributed Quoted-Log Tokenization](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization)|Jul 28, 2026|
 |**Uber**|[Rolling Stock Price Alert System](https://www.fastprep.io/system-design/rolling-stock-price-alert-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-stock-price-alert-system)|Jul 28, 2026|
-|**Bloomberg LP / Adobe**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
 |**Wells Fargo**|[Overloaded Game Account Inventories](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|SQL|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|Jul 28, 2026|
 |**Rippling**|[LFU Cache with LRU Tie-Breaking](https://www.fastprep.io/problems/rippling-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-lfu-cache)|Jul 28, 2026|
@@ -1552,6 +1558,7 @@
 |**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
 |**Amazon**|[Stable Robot Configurations](https://www.fastprep.io/problems/amazon-stable-robot-configurations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-stable-robot-configurations)|Apr 20, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
+|**Citadel**|[Design a Latency Diagnosis System for a Trading Path](https://www.fastprep.io/system-design/trading-path-latency-diagnosis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/trading-path-latency-diagnosis)|Apr 19, 2026|
 |**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
 |**Mistral AI**|[GPU Capacity With Limited Cluster Switching](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|Apr 16, 2026|
 |**Amazon**|[Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-errors)|Apr 16, 2026|
@@ -1733,10 +1740,4 @@
 |**Apple**|[Subarray Sum Equals K](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Jan 29, 2026|
 |**Microsoft / Bloomberg LP**|[Design a Tic-Tac-Toe Game](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Jan 29, 2026|
 |**Rippling**|[Limit an Organization Tree's Height](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Jan 28, 2026|
-|**Bloomberg LP**|[Design Underground System](https://www.fastprep.io/problems/bloomberg-design-underground-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-underground-system)|Jan 28, 2026|
-|**ZipRecruiter**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ziprecruiter-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-in-memory-database-historical-lookup)|Jan 28, 2026|
-|**Datadog**|[Build a Trace Forest](https://www.fastprep.io/problems/datadog-build-trace-forest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-build-trace-forest)|Jan 28, 2026|
-|**Google**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Jan 27, 2026|
-|**Citadel**|[2048 Simulation and Board Codec](https://www.fastprep.io/problems/citadel-2048-simulation-and-board-codec)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-2048-simulation-and-board-codec)|Jan 27, 2026|
-|**Citadel**|[Cancellable Priority Task Queue](https://www.fastprep.io/problems/citadel-cancellable-priority-task-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-cancellable-priority-task-queue)|Jan 27, 2026|
 <a id="bottom"></a>

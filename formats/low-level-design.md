@@ -8,6 +8,8 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon / Amazon Web Services**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Nov 24, 2026|
+|**Bloomberg LP / Adobe / Citadel / Amazon Web Services**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|🔥 Nov 24, 2026|
 |**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Nov 21, 2026|
 |**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|🔥 Nov 20, 2026|
 |**Capital One**|[Design and Implement a Simple Web Chat](https://www.fastprep.io/low-level-design/simple-web-chat-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/simple-web-chat-object-model)|🔥 Nov 20, 2026|
@@ -23,7 +25,6 @@
 |**Angel One**|[Design a Stock Portfolio Profit Tracker](https://www.fastprep.io/low-level-design/stock-portfolio-profit-tracker)|[![Practice][p]](https://www.fastprep.io/low-level-design/stock-portfolio-profit-tracker)|🔥 Nov 14, 2026|
 |**The D.E. Shaw Group**|[Design an Online Bookstore with Its SQL Queries](https://www.fastprep.io/low-level-design/online-bookstore-classes-and-queries)|[![Practice][p]](https://www.fastprep.io/low-level-design/online-bookstore-classes-and-queries)|🔥 Nov 14, 2026|
 |**Addepar**|[Design and Implement Payment Authorization Holds](https://www.fastprep.io/low-level-design/payment-authorization-holds)|[![Practice][p]](https://www.fastprep.io/low-level-design/payment-authorization-holds)|🔥 Nov 14, 2026|
-|**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Nov 13, 2026|
 |**Amazon**|[Design and Implement Hotel Room Pricing](https://www.fastprep.io/low-level-design/hotel-room-pricing)|[![Practice][p]](https://www.fastprep.io/low-level-design/hotel-room-pricing)|🔥 Nov 13, 2026|
 |**Nykaa / Navi / Atlys / Rippling / Swiggy**|[Design a Shared Expense Splitting Service](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-expense-splitting-domain)|🔥 Nov 12, 2026|
 |**Anduril / Siemens**|[Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|[![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|🔥 Nov 12, 2026|
@@ -146,7 +147,6 @@
 |**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
 |**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|Jul 30, 2026|
 |**Databricks / ZipRecruiter**|[Design a Locking Key-Value Store with Batch Writes](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|[![Practice][p]](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes)|Jul 29, 2026|
-|**Bloomberg LP / Adobe**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
 |**Headlands Technologies / Apple**|[Shared-Memory Single-Writer Single-Reader Channel](https://www.fastprep.io/low-level-design/shared-memory-spsc-channel)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-memory-spsc-channel)|Jul 27, 2026|
 |**Meta**|[Design and Implement an In-Memory Tally Service](https://www.fastprep.io/low-level-design/meta-tally-service)|[![Practice][p]](https://www.fastprep.io/low-level-design/meta-tally-service)|Jul 20, 2026|
 |**Cursor**|[Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Jul 18, 2026|
