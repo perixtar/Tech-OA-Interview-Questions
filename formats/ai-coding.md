@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**243 questions**
+**244 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -172,6 +172,7 @@
 |**Amazon**|[Repair Banking App Role-Based Access Control](https://www.fastprep.io/project-coding/repair-banking-access-control)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-banking-access-control)|Jun 27, 2026|
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
 |**ByteDance**|[Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|[![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|Jun 25, 2026|
+|**Citadel**|[Build a Call Counter: Per Key, Thread-Safe, Then Shared Across Processes](https://www.fastprep.io/project-coding/citadel-key-call-counter)|[![Practice][p]](https://www.fastprep.io/project-coding/citadel-key-call-counter)|May 21, 2026|
 |**Google**|[Google Docs Mobile Feature Rollout](https://www.fastprep.io/project-coding/google-docs-mobile-feature-rollout)|[![Practice][p]](https://www.fastprep.io/project-coding/google-docs-mobile-feature-rollout)|May 17, 2026|
 |**Stripe**|[Build an Image Prediction Pipeline](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-image-prediction-pipeline)|May 06, 2026|
 |**Scale AI**|[Debug Missing Model Output](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-prompt-hash-output-debugger)|Apr 13, 2026|
