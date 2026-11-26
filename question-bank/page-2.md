@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**StackAdapt**|[Maximum Bananas Delivered by a Camel](https://www.fastprep.io/problems/stackadapt-camel-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-camel-bananas)|Sep 23, 2026|
 |**StackAdapt**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/stackadapt-reservoir-sampling-with-recorded-draws)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-reservoir-sampling-with-recorded-draws)|Sep 23, 2026|
 |**Vercel**|[Order DAG Nodes from Leaves to Roots](https://www.fastprep.io/problems/vercel-leaves-to-root-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vercel-leaves-to-root-order)|Sep 23, 2026|
 |**Amazon**|[Minimum Edge Moves to Connect a Network](https://www.fastprep.io/problems/amazon-minimum-edge-moves-to-connect-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-edge-moves-to-connect-graph)|Sep 23, 2026|
@@ -1739,5 +1740,4 @@
 |**Intuit**|[Convert M/B Amount Strings to Numbers](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|SQL|[![Practice][p]](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|Jan 30, 2026|
 |**Apple**|[Lazy Binary Tree Inorder Iterator](https://www.fastprep.io/problems/apple-lazy-binary-tree-inorder-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-lazy-binary-tree-inorder-iterator)|Jan 29, 2026|
 |**Apple**|[Subarray Sum Equals K](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Jan 29, 2026|
-|**Microsoft / Bloomberg LP**|[Design a Tic-Tac-Toe Game](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Jan 29, 2026|
 <a id="bottom"></a>

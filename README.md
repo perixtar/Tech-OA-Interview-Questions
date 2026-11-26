@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (759)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (244)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (760)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (244)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -39,6 +39,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Roblox**|[Design a Resource Loader for a Desktop Client](https://www.fastprep.io/system-design/desktop-client-resource-loader)|System design|[![Practice][p]](https://www.fastprep.io/system-design/desktop-client-resource-loader)|🔥 Nov 25, 2026|
 |**Amazon**|[Repair MovieDB Reviews and Ratings](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|🔥 Nov 25, 2026|
 |**StackAdapt**|[Design a Community Discussion Forum](https://www.fastprep.io/system-design/community-discussion-forum)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-discussion-forum)|🔥 Nov 25, 2026|
+|**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 25, 2026|
+|**Amazon**|[Design an Online Multiplayer Battleship Game](https://www.fastprep.io/system-design/online-multiplayer-battleship)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-multiplayer-battleship)|🔥 Nov 25, 2026|
 |**Xneeti**|[Design a Backward-Compatible Upgrade for a Bus Status API](https://www.fastprep.io/system-design/backward-compatible-bus-status-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backward-compatible-bus-status-api)|🔥 Nov 24, 2026|
 |**Xneeti**|[Design a Resilient Ingestion Worker for Unreliable Producers](https://www.fastprep.io/system-design/resilient-producer-ingestion-worker)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-producer-ingestion-worker)|🔥 Nov 24, 2026|
 |**Xneeti**|[Speed Up Daily Trending Videos on a Viewing Log](https://www.fastprep.io/system-design/daily-trending-videos-from-viewing-log)|System design|[![Practice][p]](https://www.fastprep.io/system-design/daily-trending-videos-from-viewing-log)|🔥 Nov 24, 2026|
@@ -126,7 +128,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix / slice / Decagon**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Nov 19, 2026|
 |**Teradata**|[Design an Organization Knowledge Assistant with Tool Use](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|System design|[![Practice][p]](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|🔥 Nov 19, 2026|
 |**Amazon**|[Design a TTL-Aware LRU Cache](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ttl-aware-lru-cache-library)|🔥 Nov 19, 2026|
-|**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 19, 2026|
 |**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|🔥 Nov 19, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|🔥 Nov 19, 2026|
 |**DoorDash**|[Design a Three-Day Charity Donation Drive](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|🔥 Nov 19, 2026|
@@ -1683,5 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[Copy File Bytes with Partial Writes](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Sep 23, 2026|
 |**Microsoft**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Sep 23, 2026|
 |**StackAdapt**|[Build a Tree from Preorder and Inorder Traversals](https://www.fastprep.io/problems/stackadapt-build-tree-from-preorder-inorder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-build-tree-from-preorder-inorder)|Sep 23, 2026|
-|**StackAdapt**|[Maximum Bananas Delivered by a Camel](https://www.fastprep.io/problems/stackadapt-camel-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-camel-bananas)|Sep 23, 2026|
 <a id="bottom"></a>
