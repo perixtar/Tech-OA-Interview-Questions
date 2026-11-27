@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (760)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (244)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (760)](formats/system-design.md) · [Low-level design (235)](formats/low-level-design.md) · [AI coding (244)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -43,6 +43,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**StackAdapt**|[Design a Community Discussion Forum](https://www.fastprep.io/system-design/community-discussion-forum)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-discussion-forum)|🔥 Nov 25, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn / Microsoft / Snap Inc. / Shopify / The Walt Disney Company / Palantir / Roblox / Yahoo**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Nov 25, 2026|
 |**Amazon**|[Design an Online Multiplayer Battleship Game](https://www.fastprep.io/system-design/online-multiplayer-battleship)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-multiplayer-battleship)|🔥 Nov 25, 2026|
+|**Amazon**|[Design an Extensible Return Resolution System](https://www.fastprep.io/low-level-design/extensible-return-resolution-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-return-resolution-system)|🔥 Nov 25, 2026|
 |**Xneeti**|[Design a Backward-Compatible Upgrade for a Bus Status API](https://www.fastprep.io/system-design/backward-compatible-bus-status-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backward-compatible-bus-status-api)|🔥 Nov 24, 2026|
 |**Xneeti**|[Design a Resilient Ingestion Worker for Unreliable Producers](https://www.fastprep.io/system-design/resilient-producer-ingestion-worker)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-producer-ingestion-worker)|🔥 Nov 24, 2026|
 |**Xneeti**|[Speed Up Daily Trending Videos on a Viewing Log](https://www.fastprep.io/system-design/daily-trending-videos-from-viewing-log)|System design|[![Practice][p]](https://www.fastprep.io/system-design/daily-trending-videos-from-viewing-log)|🔥 Nov 24, 2026|
@@ -1683,5 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Groww**|[Build an Idempotent In-Memory Wallet Ledger](https://www.fastprep.io/project-coding/idempotent-wallet-ledger)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/idempotent-wallet-ledger)|Sep 24, 2026|
 |**Salesforce**|[Minimum Unique-Character Segments After Deletion](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|Sep 23, 2026|
 |**Microsoft**|[Copy File Bytes with Partial Writes](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Sep 23, 2026|
-|**Microsoft**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Sep 23, 2026|
 <a id="bottom"></a>

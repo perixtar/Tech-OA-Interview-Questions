@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**234 questions**
+**235 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Design an Extensible Return Resolution System](https://www.fastprep.io/low-level-design/extensible-return-resolution-system)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-return-resolution-system)|🔥 Nov 25, 2026|
 |**Amazon / Amazon Web Services**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Nov 24, 2026|
 |**Bloomberg LP / Adobe / Citadel / Amazon Web Services**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|🔥 Nov 24, 2026|
 |**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🔥 Nov 21, 2026|
