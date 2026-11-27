@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**StackAdapt**|[Build a Tree from Preorder and Inorder Traversals](https://www.fastprep.io/problems/stackadapt-build-tree-from-preorder-inorder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-build-tree-from-preorder-inorder)|Sep 23, 2026|
+|**StackAdapt**|[Maximum Bananas Delivered by a Camel](https://www.fastprep.io/problems/stackadapt-camel-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-camel-bananas)|Sep 23, 2026|
 |**StackAdapt**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/stackadapt-reservoir-sampling-with-recorded-draws)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-reservoir-sampling-with-recorded-draws)|Sep 23, 2026|
 |**Vercel**|[Order DAG Nodes from Leaves to Roots](https://www.fastprep.io/problems/vercel-leaves-to-root-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vercel-leaves-to-root-order)|Sep 23, 2026|
 |**Amazon**|[Minimum Edge Moves to Connect a Network](https://www.fastprep.io/problems/amazon-minimum-edge-moves-to-connect-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-edge-moves-to-connect-graph)|Sep 23, 2026|
@@ -51,7 +53,6 @@
 |**Google**|[Shortest Subarray With a Target Remainder](https://www.fastprep.io/problems/google-shortest-subarray-target-remainder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-subarray-target-remainder)|Sep 23, 2026|
 |**Google**|[Three Sum: Unique Zero-Sum Triplets](https://www.fastprep.io/problems/google-three-sum-zero-unique-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-three-sum-zero-unique-triplets)|Sep 22, 2026|
 |**Google**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/google-binary-tree-level-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-binary-tree-level-order-traversal)|Sep 22, 2026|
-|**PayPay**|[Design a Coupon Generation and Redemption Service](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|Sep 22, 2026|
 |**Postman**|[Design an API Request Workspace](https://www.fastprep.io/system-design/api-request-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/api-request-workspace)|Sep 22, 2026|
 |**Mercor**|[Design Context Window Management for an AI Assistant](https://www.fastprep.io/system-design/llm-context-window-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-context-window-management)|Sep 22, 2026|
 |**Mercor**|[Design Prompt Injection Defenses for an AI Agent](https://www.fastprep.io/system-design/ai-agent-prompt-injection-defense)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-agent-prompt-injection-defense)|Sep 22, 2026|
@@ -1739,5 +1740,4 @@
 |**Intuit**|[Convert M/B Amount Strings to Numbers](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|SQL|[![Practice][p]](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|Jan 30, 2026|
 |**Apple**|[Lazy Binary Tree Inorder Iterator](https://www.fastprep.io/problems/apple-lazy-binary-tree-inorder-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-lazy-binary-tree-inorder-iterator)|Jan 29, 2026|
 |**Apple**|[Subarray Sum Equals K](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Jan 29, 2026|
-|**Microsoft / Bloomberg LP**|[Design a Tic-Tac-Toe Game](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Jan 29, 2026|
 <a id="bottom"></a>
