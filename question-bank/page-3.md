@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Apple**|[Subarray Sum Equals K](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Jan 29, 2026|
 |**Microsoft / Bloomberg LP**|[Design a Tic-Tac-Toe Game](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Jan 29, 2026|
 |**Rippling**|[Limit an Organization Tree's Height](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Jan 28, 2026|
 |**Bloomberg LP**|[Design Underground System](https://www.fastprep.io/problems/bloomberg-design-underground-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-underground-system)|Jan 28, 2026|
@@ -1848,4 +1847,5 @@
 |**Intuit**|[Longest Anchored Song Chain](https://www.fastprep.io/problems/intuit-longest-song-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-song-chain)|Oct 16, 2022|
 |**Intuit**|[Race a Friend to a Shared Home](https://www.fastprep.io/problems/intuit-race-friend-home)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-race-friend-home)|Oct 15, 2022|
 |**Intuit**|[Can You Finish All Courses?](https://www.fastprep.io/problems/intuit-course-schedule-feasibility)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-course-schedule-feasibility)|Oct 14, 2022|
+|**Bloomberg LP**|[Maximize Circular Rover Travel](https://www.fastprep.io/problems/bloomberg-maximize-circular-rover-travel)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximize-circular-rover-travel)|Oct 11, 2022|
 <a id="bottom"></a>
