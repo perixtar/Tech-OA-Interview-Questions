@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Apple**|[Lazy Binary Tree Inorder Iterator](https://www.fastprep.io/problems/apple-lazy-binary-tree-inorder-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-lazy-binary-tree-inorder-iterator)|Jan 29, 2026|
 |**Apple**|[Subarray Sum Equals K](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-subarray-sum-equals-k)|Jan 29, 2026|
 |**Microsoft / Bloomberg LP**|[Design a Tic-Tac-Toe Game](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/tic-tac-toe-game)|Jan 29, 2026|
 |**Rippling**|[Limit an Organization Tree's Height](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Jan 28, 2026|

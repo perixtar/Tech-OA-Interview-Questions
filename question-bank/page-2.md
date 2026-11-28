@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Copy File Bytes with Partial Writes](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Sep 23, 2026|
 |**Microsoft**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Sep 23, 2026|
 |**StackAdapt**|[Build a Tree from Preorder and Inorder Traversals](https://www.fastprep.io/problems/stackadapt-build-tree-from-preorder-inorder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-build-tree-from-preorder-inorder)|Sep 23, 2026|
 |**StackAdapt**|[Maximum Bananas Delivered by a Camel](https://www.fastprep.io/problems/stackadapt-camel-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stackadapt-camel-bananas)|Sep 23, 2026|
@@ -1739,5 +1740,4 @@
 |**Rippling**|[House Bounds in a Ragged Grid](https://www.fastprep.io/problems/rippling-ragged-grid-house-bounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-ragged-grid-house-bounds)|Jan 31, 2026|
 |**Amazon**|[Minimum Operations to Sort a Permutation](https://www.fastprep.io/problems/amazon-minimum-operations-to-sort-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-operations-to-sort-permutation)|Jan 30, 2026|
 |**Intuit**|[Convert M/B Amount Strings to Numbers](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|SQL|[![Practice][p]](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|Jan 30, 2026|
-|**Apple**|[Lazy Binary Tree Inorder Iterator](https://www.fastprep.io/problems/apple-lazy-binary-tree-inorder-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-lazy-binary-tree-inorder-iterator)|Jan 29, 2026|
 <a id="bottom"></a>
