@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (760)](formats/system-design.md) · [Low-level design (235)](formats/low-level-design.md) · [AI coding (244)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,422)](formats/coding.md) · [SQL (91)](formats/sql.md) · [System design (761)](formats/system-design.md) · [Low-level design (235)](formats/low-level-design.md) · [AI coding (244)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter / DoorDash / Expedia / Bloomberg LP / CHECK24 / eBay**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Nov 27, 2026|
+|**Rivian**|[Design a Multi-Tenant Vehicle-to-Cloud Platform](https://www.fastprep.io/system-design/vehicle-to-cloud-platform-multi-tenant-scaling)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-to-cloud-platform-multi-tenant-scaling)|🔥 Nov 27, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Nov 26, 2026|
 |**PayPay / Stripe**|[Design a Coupon Generation and Redemption Service](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|🔥 Nov 26, 2026|
 |**Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon / Blinkit / Reddit / Qualified Health AI / Suno / WhatNot / Apple**|[Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system)|🔥 Nov 25, 2026|
@@ -1684,5 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Groww**|[Build an Idempotent In-Memory Wallet Ledger](https://www.fastprep.io/project-coding/idempotent-wallet-ledger)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/idempotent-wallet-ledger)|Sep 24, 2026|
 |**Salesforce**|[Minimum Unique-Character Segments After Deletion](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|Sep 23, 2026|
 |**Microsoft**|[Copy File Bytes with Partial Writes](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Sep 23, 2026|
-|**Microsoft**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Sep 23, 2026|
 <a id="bottom"></a>

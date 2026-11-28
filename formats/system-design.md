@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**760 questions**
+**761 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter / DoorDash / Expedia / Bloomberg LP / CHECK24 / eBay**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Nov 27, 2026|
+|**Rivian**|[Design a Multi-Tenant Vehicle-to-Cloud Platform](https://www.fastprep.io/system-design/vehicle-to-cloud-platform-multi-tenant-scaling)|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-to-cloud-platform-multi-tenant-scaling)|🔥 Nov 27, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Nov 26, 2026|
 |**PayPay / Stripe**|[Design a Coupon Generation and Redemption Service](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|[![Practice][p]](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|🔥 Nov 26, 2026|
 |**Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon / Blinkit / Reddit / Qualified Health AI / Suno / WhatNot / Apple**|[Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system)|[![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system)|🔥 Nov 25, 2026|
